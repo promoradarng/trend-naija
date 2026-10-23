@@ -29,7 +29,8 @@
    "img": "img/durban.jpg",
    "alt": "Aerial view of a crowd and a police van on a street in Durban during an attack",
    "credit": "Photo: Social media",
-   "added": "2026-10-23"
+   "added": "2026-10-23",
+   "owner": true
   },
   {
    "id": "eastleigh",
@@ -63,7 +64,8 @@
    "img": "img/biya.jpg",
    "alt": "President Paul Biya casts his ballot as First Lady Chantal Biya looks on",
    "credit": "Photo: Social media",
-   "added": "2026-10-23"
+   "added": "2026-10-23",
+   "owner": true
   },
   {
    "id": "peller-jarvis-block",
