@@ -1,6 +1,6 @@
 {
- "updated": "Updated 23:35 BST",
- "date": "Friday, 23 October 2026",
+ "updated": "Updated 00:33 BST",
+ "date": "Saturday, 24 October 2026",
  "categories": {
   "all": "All gist",
   "elections": "2027 elections",
@@ -14,6 +14,66 @@
   "sport": "Sport"
  },
  "stories": [
+  {
+   "id": "peller-grow",
+   "c": "creators",
+   "h": "Peller says he needs to grow into a man after clash with Jarvis",
+   "p": "Streamer Peller has reportedly spoken out following a heated exchange with his pregnant wife Jarvis, which was said to involve a disagreement over her younger sister and family boundaries. He admitted he has some growing up to do. The couple's fallout has drawn heavy reaction online.",
+   "n": 2,
+   "more": [
+    "Earlier in the week the pair were said to have blocked each other after a live-stream row.",
+    "Fans are split between backing Peller and defending Jarvis."
+   ],
+   "added": "2026-10-23"
+  },
+  {
+   "id": "kwankwaso-second-term",
+   "c": "elections",
+   "h": "Kwankwaso reportedly says Tinubu does not deserve a second term",
+   "p": "Former Kano governor Rabiu Kwankwaso has reportedly said President Tinubu does not deserve a second term in office. The remark comes as the 2027 campaign season gathers pace, with the ruling party's camp yet to respond.",
+   "n": 1,
+   "more": [
+    "Kwankwaso is on the NDC ticket with Peter Obi.",
+    "Tinubu's camp opened its campaign with a flag-off in Kaduna."
+   ],
+   "added": "2026-10-23"
+  },
+  {
+   "id": "adekunle-gold-sickle",
+   "c": "music",
+   "h": "Adekunle Gold announces $20,000 initiative for sickle cell patients",
+   "p": "Singer Adekunle Gold has announced a $20,000 initiative to support people living with sickle cell across four countries. He reportedly shared details of the programme on social media, and fans have praised the move.",
+   "n": 1,
+   "more": [
+    "The programme is said to cover patients in four countries.",
+    "Details on how to apply have yet to be widely shared."
+   ],
+   "added": "2026-10-23"
+  },
+  {
+   "id": "ikorodu-police",
+   "c": "naija",
+   "h": "Lagos police commissioner orders detention of officers seen harassing a young man in Ikorodu",
+   "p": "The Lagos police commissioner has reportedly ordered the detention of officers captured on video harassing a young man in Ikorodu. The footage spread online and drew public anger, and an internal investigation is said to be under way.",
+   "n": 1,
+   "more": [
+    "The video went viral on social media this week.",
+    "Rights groups have called for the officers to face disciplinary action."
+   ],
+   "added": "2026-10-23"
+  },
+  {
+   "id": "ronaldo-982",
+   "c": "sport",
+   "h": "Ronaldo scores his 982nd career goal",
+   "p": "Cristiano Ronaldo has reportedly added to his record tally with his 982nd career goal. The Portuguese forward continues to extend his lead as the most prolific scorer in the history of the game.",
+   "n": 1,
+   "more": [
+    "He is closing in on a historic 1,000 career goals.",
+    "Fans online celebrated the milestone."
+   ],
+   "added": "2026-10-23"
+  },
   {
    "id": "nlc",
    "c": "naija",
@@ -529,8 +589,8 @@
    "id": "statepolice",
    "c": "naija",
    "h": "State police clears the 24-state hurdle",
-   "p": "Twenty-four state Houses of Assembly have now voted for the constitutional amendment creating state police, reaching the two-thirds of states the constitution requires. Lagos, Ondo, Ebonyi and several northern states are yet to vote. The resolutions now head back to the National Assembly and then to the President for assent.",
-   "n": 4,
+   "p": "Twenty-four state Houses of Assembly have now voted for the constitutional amendment creating state police, reaching the two-thirds of states the constitution requires. Lagos, Ondo, Ebonyi and several northern states are yet to vote. The resolutions now head back to the National Assembly and then to the President for assent. Gombe's Assembly is the latest reported to have approved the bill.",
+   "n": 5,
    "hot": 6,
    "added": "2026-10-23"
   },
@@ -730,64 +790,6 @@
    "img": "img/atikuinec.jpg",
    "alt": "Portrait of Atiku Abubakar in a pinstripe suit",
    "credit": "Photo: Etauso / Wikimedia Commons, CC0",
-   "added": "2026-10-23"
-  },
-  {
-   "id": "rally",
-   "img": "img/rally.jpg",
-   "alt": "President Bola Tinubu",
-   "credit": "Photo: Nosa Asemota / Wikimedia Commons, CC BY-SA 4.0",
-   "c": "elections",
-   "h": "Tinubu kicks off 2027 campaign in Kaduna on Saturday",
-   "p": "The APC has lined up rallies for President Tinubu in 12 states, starting in Kaduna on 24 October and ending in Lagos on 9 January 2027. Port Harcourt, Jos, Ibadan, Maiduguri, Enugu, Bauchi, Sokoto, Asaba, Kano and Yola are also on the list. Kaduna's deputy governor says the state is ready to host the flag-off, and security operatives have been posted to guard campaign posters and billboards.",
-   "n": 5,
-   "hot": 7,
-   "added": "2026-10-23"
-  },
-  {
-   "id": "uyo",
-   "img": "img/uyo.jpg",
-   "alt": "Rabiu Kwankwaso",
-   "credit": "Photo: VOA / Wikimedia Commons, Public domain",
-   "c": "elections",
-   "h": "Obi and Kwankwaso to lead \"2 million-man march\" in Uyo",
-   "p": "NDC candidate Peter Obi and his running mate Rabiu Kwankwaso are set to lead a solidarity march in Uyo, Akwa Ibom, on Saturday 24 October from 9am at the Water Fountain on Nwaniba Road. Organisers say it was moved from 1 October over security and logistics.",
-   "n": 1,
-   "hot": 8,
-   "added": "2026-10-23"
-  },
-  {
-   "id": "streamer",
-   "img": "img/streamer.jpg",
-   "alt": "Peller",
-   "credit": "Photo: Haxorpy / Wikimedia Commons, CC BY 4.0",
-   "c": "creators",
-   "h": "Peller and Carter Efe nominated for Best International Streamer",
-   "p": "The two Nigerian streamers are up against Ashswag, Young Multi and Staryuuki at the 2026 Streamer Awards in Los Angeles on 12 November. Voting closes 31 October, and the public vote counts for 70% of the result.",
-   "n": 2,
-   "hot": 9,
-   "added": "2026-10-23"
-  },
-  {
-   "id": "pellertiktok",
-   "img": "img/pellertiktok.jpg",
-   "alt": "Peller",
-   "credit": "Photo: Haxorpy / Wikimedia Commons, CC BY 4.0",
-   "c": "creators",
-   "h": "Peller says TikTok has invited him to its UK office",
-   "p": "During a livestream, Peller said TikTok invited him to its UK office and that he plans to tell them \"everything about Africa\". TikTok has not confirmed the invitation.",
-   "n": 1,
-   "added": "2026-10-23"
-  },
-  {
-   "id": "pellerjarvis",
-   "img": "img/pellerjarvis.jpg",
-   "alt": "Peller",
-   "credit": "Photo: Haxorpy / Wikimedia Commons, CC BY 4.0",
-   "c": "creators",
-   "h": "Peller and Jarvis share maternity photos",
-   "p": "The couple, who married in August, released maternity photos showing Jarvis's baby bump. It ends months of mixed messages about whether she was pregnant, after they first confirmed it on a September livestream.",
-   "n": 1,
    "added": "2026-10-23"
   }
  ]
