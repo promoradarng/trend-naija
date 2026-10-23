@@ -65,7 +65,7 @@ const footer = `<footer>
 `;
 
 function card(s) {
-  const n = s.n || 1;
+  const n = s.confirmed ? 2 : (s.n || 1);
   return `<article class="card" data-c="${esc(s.c)}" id="${esc(s.id)}"><div class="meta"><span class="cat">${esc(CATS[s.c] || s.c)}</span><span class="status ${n > 1 ? "multi" : ""}">${n > 1 ? "Confirmed" : "Reported"}</span></div>
 ${fig(s)}<h4>${esc(s.h)}</h4><p>${esc(s.p)}</p>${s.pg ? `<div class="pidgin">${esc(s.pg)}</div>` : ""}</article>`;
 }
