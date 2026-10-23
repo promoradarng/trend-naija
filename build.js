@@ -38,7 +38,7 @@ function head(title, desc, canonical) {
 <body>`;
 }
 
-const nav = `<nav class="topnav" aria-label="Site"><div class="wrap"><a href="/">Home</a><a href="/about.html">About</a><a href="/contact.html">Contact</a></div></nav>`;
+const nav = `<nav class="topnav" aria-label="Site"><div class="wrap"><a href="/">Home</a><a href="/about">About</a><a href="/contact">Contact</a></div></nav>`;
 
 function masthead() {
   return `${nav}
@@ -56,8 +56,8 @@ const footer = `<footer>
   <div class="wrap">
     <div><h5>How we cover am</h5>Every story is checked and written in our own words. "✓ Confirmed" means more than one outlet has carried it. "Reported" means it is still coming from one place, so treat it as gist until it is confirmed.</div>
     <div><h5>What we cover</h5>2027 elections, Nollywood, music, creators and podcasts, Naija news, politics, viral gist, world news and sport.</div>
-    <div><h5>Got gist?</h5>Send us your story tips at <a href="/contact.html">our contact page</a>. We check every tip before it goes up.</div>
-    <div class="footlinks"><a href="/about.html">About us</a><a href="/contact.html">Contact</a><a href="/privacy.html">Privacy policy</a><a href="/terms.html">Terms of use</a><span>© ${new Date().getFullYear()} Trend Naija</span></div>
+    <div><h5>Got gist?</h5>Send us your story tips at <a href="/contact">our contact page</a>. We check every tip before it goes up.</div>
+    <div class="footlinks"><a href="/about">About us</a><a href="/contact">Contact</a><a href="/privacy">Privacy policy</a><a href="/terms">Terms of use</a><span>© ${new Date().getFullYear()} Trend Naija</span></div>
   </div>
 </footer>
 </body>
@@ -109,7 +109,7 @@ ${river}
 }
 
 function page(file, title, desc, body) {
-  fs.writeFileSync(path.join(ROOT, file), head(`${title} | Trend Naija`, desc, "/" + file) + masthead() + `\n<main class="wrap page">\n${body}\n</main>\n` + footer);
+  fs.writeFileSync(path.join(ROOT, file), head(`${title} | Trend Naija`, desc, "/" + file.replace(/\.html$/, "")) + masthead() + `\n<main class="wrap page">\n${body}\n</main>\n` + footer);
 }
 
 const CONTACT = "hello@trendnaija.com";
@@ -126,7 +126,7 @@ function buildPages() {
 <ul>
 <li>We do not publish unproven criminal or sexual allegations against named people.</li>
 <li>We cover all political parties and candidates fairly and do not take sides.</li>
-<li>We correct mistakes quickly. If you see something wrong, <a href="/contact.html">tell us</a>.</li>
+<li>We correct mistakes quickly. If you see something wrong, <a href="/contact">tell us</a>.</li>
 <li>Photos come from freely licensed sources such as Wikimedia Commons and carry a credit line.</li>
 </ul>`);
 
@@ -186,7 +186,7 @@ function buildPages() {
 
 function buildMeta() {
   const today = new Date().toISOString().slice(0, 10);
-  const urls = ["/", "/about.html", "/contact.html", "/privacy.html", "/terms.html"];
+  const urls = ["/", "/about", "/contact", "/privacy", "/terms"];
   fs.writeFileSync(path.join(ROOT, "sitemap.xml"), `<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 ${urls.map(u => `  <url><loc>${SITE}${u}</loc><lastmod>${today}</lastmod>${u === "/" ? "<changefreq>hourly</changefreq>" : ""}</url>`).join("\n")}
