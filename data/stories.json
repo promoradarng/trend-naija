@@ -1,5 +1,5 @@
 {
- "updated": "Updated 22:35 BST",
+ "updated": "Updated 23:35 BST",
  "date": "Friday, 23 October 2026",
  "categories": {
   "all": "All gist",
@@ -14,6 +14,150 @@
   "sport": "Sport"
  },
  "stories": [
+  {
+   "id": "nlc",
+   "c": "naija",
+   "h": "NLC gives government until 27 October on fuel price and minimum wage",
+   "p": "The Nigeria Labour Congress has reportedly handed the federal government a four-day deadline to cut fuel prices and review the minimum wage. The union is said to be warning of possible action if nothing is done by 27 October.",
+   "n": 1,
+   "more": [
+    "Depots have lately lowered petrol and diesel rates.",
+    "Government has not yet replied to the ultimatum."
+   ],
+   "added": "2026-10-23"
+  },
+  {
+   "id": "atiku-security",
+   "c": "elections",
+   "h": "Atiku criticises reports of security agents guarding Tinubu's campaign banners in Kaduna",
+   "p": "Atiku Abubakar has reportedly taken aim at President Tinubu over claims that security personnel were deployed to protect campaign materials in Kaduna ahead of the APC flag-off. The APC has pledged a strong turnout for Saturday's launch.",
+   "n": 1,
+   "more": [
+    "Atiku's camp has also called the 90-day cost-of-living plan 'election bait'.",
+    "The Tinubu camp has not commented on the banner claim."
+   ],
+   "added": "2026-10-23"
+  },
+  {
+   "id": "umahi-highway",
+   "c": "elections",
+   "h": "Umahi says the Lagos-Calabar highway could stall if Tinubu loses in 2027",
+   "p": "Works Minister David Umahi has reportedly urged voters to back Tinubu, saying the Lagos-Calabar Coastal Highway may stay unfinished otherwise. He also said Peter Obi is no threat to the president.",
+   "n": 1,
+   "more": [
+    "The remarks drew mixed reactions online.",
+    "Opposition parties are yet to respond."
+   ],
+   "added": "2026-10-23"
+  },
+  {
+   "id": "kwankwaso-convoy",
+   "c": "elections",
+   "h": "One reportedly killed as thugs attack a candidate's convoy linked to Kwankwaso's party",
+   "p": "Reports say hoodlums attacked the convoy of a candidate from the party of Rabiu Kwankwaso, leaving one person dead. Details of the location and any arrests have not been confirmed.",
+   "n": 1,
+   "more": [
+    "Parties have been urged to keep campaigns peaceful.",
+    "Police are yet to issue a statement."
+   ],
+   "added": "2026-10-23"
+  },
+  {
+   "id": "obasanjo-son",
+   "c": "elections",
+   "h": "Obasanjo's son names his preferred 2027 presidential candidate",
+   "p": "Olujuwon Obasanjo, son of former President Olusegun Obasanjo, has declared whom he prefers among Tinubu, Obi and Makinde for 2027. The comment adds to the debate over a southern candidate.",
+   "n": 1,
+   "more": [
+    "His father has been openly critical of the Tinubu government.",
+    "Supporters of each camp have reacted online."
+   ],
+   "added": "2026-10-23"
+  },
+  {
+   "id": "zlatan",
+   "c": "music",
+   "h": "Zlatan reportedly buys Hermes bag for his bride ahead of weekend wedding",
+   "p": "Singer Zlatan is said to have bought an expensive Hermes handbag for his fiancée before their wedding this Saturday. He also joked with fans on the street about contributing to the wedding costs.",
+   "n": 1,
+   "more": [
+    "Israel DMW earlier revealed what the aso ebi cost.",
+    "Guests are expected from across the entertainment scene."
+   ],
+   "added": "2026-10-23"
+  },
+  {
+   "id": "vdm-davido",
+   "c": "music",
+   "h": "Old prayer by VeryDarkMan's mother for Davido resurfaces amid their feud",
+   "p": "An older prayer said by VeryDarkMan's mother for Davido has resurfaced online as the two continue to trade words. Cubana Chiefpriest also made a subtle remark about Davido.",
+   "n": 1,
+   "more": [
+    "Fans of both sides have been commenting heavily.",
+    "Neither camp has ended the back-and-forth."
+   ],
+   "added": "2026-10-23"
+  },
+  {
+   "id": "echendu",
+   "c": "celebs",
+   "h": "Nollywood actor Steven Echendu reportedly dies hours after Francis Duru",
+   "p": "Fans are mourning actor Steven Echendu, who is said to have died hours after the death of Francis Duru. Tinubu and colleagues such as Mercy Johnson have also paid tribute to the late actors.",
+   "n": 1,
+   "more": [
+    "Details of the cause have not been widely confirmed.",
+    "Industry groups are expected to speak."
+   ],
+   "added": "2026-10-23"
+  },
+  {
+   "id": "okoya",
+   "c": "celebs",
+   "h": "Razaq Okoya's family responds to his son over dispute involving Shade Okoya",
+   "p": "The family of the late billionaire Razaq Okoya has reportedly replied to his son and given their own account of the dispute involving Shade Okoya.",
+   "n": 1,
+   "more": [
+    "The exchange has drawn heavy online comment.",
+    "No legal step has been announced."
+   ],
+   "added": "2026-10-23"
+  },
+  {
+   "id": "rema",
+   "c": "music",
+   "h": "Rema says showing off his wealth would pressure young people",
+   "p": "Afrobeats star Rema has explained that he avoids flaunting his success online because it could put pressure on young fans.",
+   "n": 1,
+   "more": [
+    "The comment was widely shared by fans.",
+    "He is among Nigeria's biggest global acts."
+   ],
+   "added": "2026-10-23"
+  },
+  {
+   "id": "cbn-money",
+   "c": "naija",
+   "h": "CBN warns that keeping money paid by mistake can mean 5 to 10 years in prison",
+   "p": "The Central Bank of Nigeria has cautioned that anyone who refuses to return funds wrongly paid into their account risks a prison term of five to ten years.",
+   "n": 1,
+   "more": [
+    "Banks are urged to help trace wrong transfers.",
+    "The warning follows several viral cases."
+   ],
+   "added": "2026-10-23"
+  },
+  {
+   "id": "carrick",
+   "c": "sport",
+   "h": "Carrick reportedly weighs action against Bruno Fernandes over his comments",
+   "p": "Manchester United boss Michael Carrick is said to be considering punishment for captain Bruno Fernandes after remarks he made following the loss to Como. Onana is also reported to be recovering after a car accident in Turkey.",
+   "n": 1,
+   "more": [
+    "Fernandes' home was burgled during the match.",
+    "United face Bournemouth next."
+   ],
+   "added": "2026-10-23"
+  },
   {
    "id": "macron",
    "c": "world",
@@ -643,110 +787,6 @@
    "c": "creators",
    "h": "Peller and Jarvis share maternity photos",
    "p": "The couple, who married in August, released maternity photos showing Jarvis's baby bump. It ends months of mixed messages about whether she was pregnant, after they first confirmed it on a September livestream.",
-   "n": 1,
-   "added": "2026-10-23"
-  },
-  {
-   "id": "dangote",
-   "img": "img/dangote.jpg",
-   "alt": "Aliko Dangote",
-   "credit": "Photo: World Economic Forum / Wikimedia Commons, CC BY-SA 2.0",
-   "c": "creators",
-   "h": "Dangote agrees to sit for Isbae U's \"Curiosity Made Me Ask\"",
-   "p": "Aliko Dangote said yes to the street-interview show after creator Isbae U visited the Dangote Refinery. Dangote said young people are central to Nigeria's future and that his generation has not done enough.",
-   "n": 2,
-   "hot": 10,
-   "added": "2026-10-23"
-  },
-  {
-   "id": "davido",
-   "c": "music",
-   "h": "Davido's mountain of food in Kogi gets everyone talking",
-   "p": "A video reportedly shows Davido served a huge platter of grilled fish, prawns and assorted meat at the Kogi home of former deputy governor Edward Onoja, and fans can't stop joking about it.",
-   "n": 1,
-   "added": "2026-10-23"
-  },
-  {
-   "id": "salawa",
-   "c": "music",
-   "h": "Salawa Abeni: Tinubu helped save my life",
-   "p": "The Waka queen reportedly opened up about a period when she could barely walk and credited President Tinubu with helping her get the care she needed.",
-   "n": 1,
-   "added": "2026-10-23"
-  },
-  {
-   "id": "chichi",
-   "c": "music",
-   "h": "Singer Chichi reportedly survives serious car crash in the US",
-   "p": "The singer is said to have walked away from a bad accident in the United States. Actress Uche Elendu was among those who reacted.",
-   "n": 1,
-   "added": "2026-10-23"
-  },
-  {
-   "id": "tolu",
-   "c": "music",
-   "h": "Toluwanisings' death: VDM and Woli Agba blame Nigeria's health system",
-   "p": "Reactions continue to the gospel singer's death. VeryDarkMan blamed the government, saying the singer reportedly went to seven hospitals during a doctors' strike. Woli Agba said the singer feared Nigerian hospitals would fail him.",
-   "n": 1,
-   "added": "2026-10-23"
-  },
-  {
-   "id": "diamond",
-   "img": "img/diamond.jpg",
-   "alt": "Diamond Platnumz",
-   "credit": "Photo: Peter Bennett / ZIFF / Wikimedia Commons, CC BY 2.0",
-   "c": "music",
-   "h": "Diamond Platnumz's cryptic post sparks Zuchu breakup talk",
-   "p": "A cryptic post and an Instagram unfollow have revived rumours that the Tanzanian star and his wife Zuchu have split.",
-   "n": 1,
-   "added": "2026-10-23"
-  },
-  {
-   "id": "chita",
-   "c": "celebs",
-   "h": "Chita Agwu announces end of her 11-year marriage",
-   "p": "The actress said in an emotional post that her marriage to Johnson Maduabuchi is over.",
-   "n": 1,
-   "added": "2026-10-23"
-  },
-  {
-   "id": "yul",
-   "img": "img/yul.jpg",
-   "alt": "Yul Edochie",
-   "credit": "Photo: DoctorNigeria / Wikimedia Commons, CC BY-SA 4.0",
-   "c": "celebs",
-   "h": "Yul Edochie and Lizzy Gold dance at her birthday boat cruise",
-   "p": "The actor was at Lizzy Gold's all-white birthday cruise, and their dance has revived dating rumours.",
-   "n": 1,
-   "added": "2026-10-23"
-  },
-  {
-   "id": "wumi",
-   "c": "celebs",
-   "h": "Wumi Toriola's son's party: fresh dig at Desola Afod, Mo Bimpe's naira spray",
-   "p": "A video from Wumi Toriola's son's 7th birthday has fans saying she took another swipe at Desola Afod. Mo Bimpe was also questioned over the notes she sprayed, which she later called a promotional stunt.",
-   "n": 1,
-   "added": "2026-10-23"
-  },
-  {
-   "id": "rachael",
-   "img": "img/rachael.jpg",
-   "alt": "Rachael Okonkwo",
-   "credit": "Photo: DoctorNigeria / Wikimedia Commons, CC BY-SA 4.0",
-   "c": "celebs",
-   "h": "Rachael Okonkwo seen with mystery man amid billionaire marriage rumours",
-   "p": "The actress was spotted with an unidentified man as talk continues that she has married a billionaire.",
-   "n": 1,
-   "added": "2026-10-23"
-  },
-  {
-   "id": "ned",
-   "img": "img/ned.jpg",
-   "alt": "Ned Nwoko",
-   "credit": "Photo: Tellafricarecords / Wikimedia Commons, CC0",
-   "c": "celebs",
-   "h": "Viral video: Laila Charani's photos replace Regina Daniels' in Ned Nwoko's home",
-   "p": "A video showing the senator's living room, now with Laila Charani's pictures where Regina Daniels' used to be, has fans saying he has moved on.",
    "n": 1,
    "added": "2026-10-23"
   }
