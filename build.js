@@ -80,14 +80,14 @@ function buildIndex() {
   const html = head("Trend Naija – The Gist Desk | Naija news, gist & trends", desc, "/") + masthead() + `
 <div class="ticker" aria-label="In brief"><div class="wrap"><b>In brief</b><div class="track"><div class="track-inner">${tick}${tick}</div></div></div></div>
 <main>
-  <section class="wrap top">
-    <article class="lead" id="lead"><div class="kicker">Top gist · ${esc(CATS[lead.c])}</div>${fig(lead, true)}<h2>${esc(lead.h)}</h2><p>${esc(lead.p)}</p>${(lead.more || []).length ? `<div class="more">${lead.more.map(t => `<span>${esc(t)}</span>`).join("")}</div>` : ""}</article>
-    <aside class="side"><h3>Most talked about</h3><ol class="hot-list">${hot.map(s => `<li><div><a class="hl" href="#${esc(s.id)}">${esc(s.h)}</a><small>${esc(CATS[s.c])}</small></div></li>`).join("")}</ol></aside>
-  </section>
   <div class="controls"><div class="wrap">
     <div class="tabs" id="tabs" role="group" aria-label="Category">${tabs}</div>
     <div class="search"><label for="q" style="position:absolute;left:-9999px">Search stories</label><input id="q" type="search" placeholder="Search gist…"></div>
   </div></div>
+  <section class="wrap top">
+    <article class="lead" id="lead"><div class="kicker">Top gist · ${esc(CATS[lead.c])}</div>${fig(lead, true)}<h2>${esc(lead.h)}</h2><p>${esc(lead.p)}</p>${(lead.more || []).length ? `<div class="more">${lead.more.map(t => `<span>${esc(t)}</span>`).join("")}</div>` : ""}</article>
+    <aside class="side"><h3>Most talked about</h3><ol class="hot-list">${hot.map(s => `<li><div><a class="hl" href="#${esc(s.id)}">${esc(s.h)}</a><small>${esc(CATS[s.c])}</small></div></li>`).join("")}</ol></aside>
+  </section>
   <section class="wrap river" id="river" aria-live="polite">
 ${river}
 <div class="empty" id="empty" hidden>No gist matches that yet. Try another category or clear the search.</div>

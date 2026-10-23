@@ -68,7 +68,7 @@ a:focus-visible,button:focus-visible,input:focus-visible{outline:2px solid var(-
 .hot-list small{display:block;font-family:var(--label);font-size:10.5px;color:var(--muted);margin-top:4px;text-transform:uppercase;letter-spacing:.08em}
 
 /* section bar */
-.controls{position:sticky;top:env(safe-area-inset-top,0px);z-index:5;background:var(--nav);margin-top:22px;border-bottom:4px solid var(--brand)}
+.controls{position:sticky;top:env(safe-area-inset-top,0px);z-index:5;background:var(--nav);margin-top:0;border-bottom:4px solid var(--brand)}
 .controls .wrap{display:flex;flex-wrap:wrap;gap:8px 16px;align-items:center;padding-block:8px}
 .tabs{display:flex;gap:0 2px;flex-wrap:nowrap;flex:1 1 100%;min-width:0;overflow-x:auto;-webkit-overflow-scrolling:touch;scrollbar-width:none;mask-image:linear-gradient(90deg,#000 92%,transparent)}
 .tabs::-webkit-scrollbar{display:none}
