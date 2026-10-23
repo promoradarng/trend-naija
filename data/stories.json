@@ -1,5 +1,5 @@
 {
- "updated": "Updated 17:20 BST",
+ "updated": "Updated 19:45 BST",
  "date": "Friday, 23 October 2026",
  "categories": {
   "all": "All gist",
@@ -15,13 +15,30 @@
  },
  "stories": [
   {
+   "id": "eastleigh",
+   "c": "world",
+   "h": "Moment multi-storey building under construction collapses in Nairobi's Eastleigh",
+   "p": "A multi-storey building still under construction came crashing down in the Eastleigh area of Nairobi, Kenya, early on Friday afternoon, sparking a frantic rescue operation amid fears that several people were trapped under the rubble. The structure stood along Yusuf Haji Avenue, next to Day to Day Supermarket on 9th Street, in one of the city's busiest commercial hubs. Reports of its height vary, with some outlets putting it at 18 floors and Nairobi police commander Issa Mohamed saying it was about 10. Videos from the scene show slabs of concrete falling and a thick cloud of dust rolling down the street as people ran for safety. Kenya Red Cross teams, Nairobi County emergency crews and police joined the search, and the county said excavators had been brought in to clear debris and reach anyone trapped. Police fired tear gas to push back crowds of onlookers and stop the looting of nearby shops. Inspector General of Police Douglas Kanja reportedly confirmed that one person had been pulled out alive, and the search continued into the night. The cause of the collapse is not yet known. It comes less than a week after another building collapse on Moi Avenue in Nairobi's central business district.",
+   "n": 3,
+   "hot": 1,
+   "lead": true,
+   "more": [
+    "Several people feared trapped as search goes on into the night",
+    "Police fire tear gas to clear onlookers and stop looting",
+    "Second Nairobi building collapse in under a week"
+   ],
+   "img": "img/eastleigh.jpg",
+   "alt": "Dust clouds billow as a building under construction collapses in Eastleigh, Nairobi",
+   "credit": "Photo: Social media",
+   "added": "2026-10-23"
+  },
+  {
    "id": "peller-jarvis-block",
    "c": "creators",
    "h": "Peller and Jarvis block each other after live-stream fight, two months into marriage",
    "p": "Streamer Peller and his wife Jarvis have blocked each other on social media after a heated argument on a live stream in the early hours of Friday. The row began when Peller said the couple were like a father and mother to Jarvis's younger sister, and should be the ones to guide her and choose who she marries. Jarvis disagreed, telling him that if her family had chosen a husband for her, they would not have picked him, and that he should leave her family alone and focus on his own. An angry Peller removed her from the live and blocked her entire family, repeatedly asking his fans whether it was all because his body is small. Jarvis then blocked him too. Peller later went on his WhatsApp channel, called her a fool for blocking him, and blocked her back. The couple married in August, and Jarvis is seven months pregnant.",
    "n": 1,
-   "hot": 1,
-   "lead": true,
+   "hot": 2,
    "more": [
     "The row started over who should choose a husband for Jarvis's younger sister",
     "Peller blocked Jarvis's whole family; she blocked him back",
@@ -43,7 +60,7 @@
    "h": "Nollywood mourns Francis Duru, dead at 57",
    "p": "Veteran actor Francis Duru has died at 57 after a brief illness, two years after he lost his teenage son. Old posts about his son, his wife Adokiye and an earlier video where he answered health rumours are now circulating as tributes pour in.",
    "n": 2,
-   "hot": 2,
+   "hot": 3,
    "more": [
     "His words to his late son resurface",
     "His final touching words to his wife",
@@ -215,7 +232,7 @@
    "h": "State police clears the 24-state hurdle",
    "p": "Twenty-four state Houses of Assembly have now voted for the constitutional amendment creating state police, reaching the two-thirds of states the constitution requires. Lagos, Ondo, Ebonyi and several northern states are yet to vote. The resolutions now head back to the National Assembly and then to the President for assent.",
    "n": 4,
-   "hot": 3,
+   "hot": 4,
    "added": "2026-10-23"
   },
   {
@@ -232,7 +249,7 @@
    "h": "Ebola: Swiss say Abuja patient likely caught virus in Uganda",
    "p": "Switzerland says Nigeria's first Ebola patient in over a decade, the Ugandan-born wife of a Swiss diplomat in Abuja, most likely picked up the virus on a trip to Uganda about two weeks earlier. The exact source is still unknown and 44 possible contacts are being traced.",
    "n": 1,
-   "hot": 8,
+   "hot": 9,
    "added": "2026-10-23"
   },
   {
@@ -401,7 +418,7 @@
    "h": "Makinde defends 2027 run against a sitting South-West president",
    "p": "Oyo governor Seyi Makinde, the APM's presidential candidate, reportedly told a party town hall in Akure that the sky did not fall when two South-West candidates ran in 1999, and challenged rivals to match his stamina on the campaign trail. He also took a veiled swipe at President Tinubu.",
    "n": 1,
-   "hot": 9,
+   "hot": 10,
    "added": "2026-10-23"
   },
   {
@@ -410,7 +427,7 @@
    "h": "Atiku presses INEC to publish the 103 million-name voters' register",
    "p": "ADC candidate Atiku Abubakar says people who checked INEC's portal during the 9–15 October display window reportedly met an empty page. He wants the preliminary register released now and says his party will challenge any refusal.",
    "n": 1,
-   "hot": 9,
+   "hot": 10,
    "img": "img/atikuinec.jpg",
    "alt": "Portrait of Atiku Abubakar in a pinstripe suit",
    "credit": "Photo: Etauso / Wikimedia Commons, CC0",
@@ -425,7 +442,7 @@
    "h": "Tinubu kicks off 2027 campaign in Kaduna on Saturday",
    "p": "The APC has lined up rallies for President Tinubu in 12 states, starting in Kaduna on 24 October and ending in Lagos on 9 January 2027. Port Harcourt, Jos, Ibadan, Maiduguri, Enugu, Bauchi, Sokoto, Asaba, Kano and Yola are also on the list. Kaduna's deputy governor says the state is ready to host the flag-off, and security operatives have been posted to guard campaign posters and billboards.",
    "n": 5,
-   "hot": 4,
+   "hot": 5,
    "added": "2026-10-23"
   },
   {
@@ -437,7 +454,7 @@
    "h": "Obi and Kwankwaso to lead \"2 million-man march\" in Uyo",
    "p": "NDC candidate Peter Obi and his running mate Rabiu Kwankwaso are set to lead a solidarity march in Uyo, Akwa Ibom, on Saturday 24 October from 9am at the Water Fountain on Nwaniba Road. Organisers say it was moved from 1 October over security and logistics.",
    "n": 1,
-   "hot": 5,
+   "hot": 6,
    "added": "2026-10-23"
   },
   {
@@ -449,7 +466,7 @@
    "h": "Peller and Carter Efe nominated for Best International Streamer",
    "p": "The two Nigerian streamers are up against Ashswag, Young Multi and Staryuuki at the 2026 Streamer Awards in Los Angeles on 12 November. Voting closes 31 October, and the public vote counts for 70% of the result.",
    "n": 2,
-   "hot": 6,
+   "hot": 7,
    "added": "2026-10-23"
   },
   {
@@ -483,7 +500,7 @@
    "h": "Dangote agrees to sit for Isbae U's \"Curiosity Made Me Ask\"",
    "p": "Aliko Dangote said yes to the street-interview show after creator Isbae U visited the Dangote Refinery. Dangote said young people are central to Nigeria's future and that his generation has not done enough.",
    "n": 2,
-   "hot": 7,
+   "hot": 8,
    "added": "2026-10-23"
   },
   {
