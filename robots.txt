@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /data/
+Disallow: /src/
+
+Sitemap: https://trendnaija.com/sitemap.xml

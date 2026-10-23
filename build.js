@@ -1,0 +1,209 @@
+// Builds the static Trend Naija site from data/stories.json.
+// Usage: node build.js   (writes index.html, static pages, sitemap.xml, robots.txt into the repo root)
+const fs = require("fs");
+const path = require("path");
+const ROOT = __dirname;
+const SITE = "https://trendnaija.com";
+const data = JSON.parse(fs.readFileSync(path.join(ROOT, "data/stories.json"), "utf8"));
+const CATS = data.categories;
+const stories = data.stories;
+
+const esc = t => String(t ?? "").replace(/[&<>"]/g, m => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[m]));
+const fig = (s, eager) => s.img
+  ? `<figure class="ph"><img src="/${esc(s.img)}" alt="${esc(s.alt || s.h)}"${eager ? "" : ' loading="lazy"'} width="640" height="427"><figcaption>${esc(s.credit || "")}</figcaption></figure>`
+  : "";
+
+function head(title, desc, canonical) {
+  return `<!doctype html>
+<html lang="en-GB">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>${esc(title)}</title>
+<meta name="description" content="${esc(desc)}">
+<link rel="canonical" href="${SITE}${canonical}">
+<meta property="og:site_name" content="Trend Naija">
+<meta property="og:title" content="${esc(title)}">
+<meta property="og:description" content="${esc(desc)}">
+<meta property="og:url" content="${SITE}${canonical}">
+<meta property="og:type" content="website">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="theme-color" content="#008751">
+<link rel="icon" href="/favicon.svg" type="image/svg+xml">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Libre+Caslon+Text:ital,wght@0,400;0,700;1,400&family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,500;1,6..72,400&family=Libre+Franklin:wght@500;600;700&display=swap">
+<link rel="stylesheet" href="/style.css">
+</head>
+<body>`;
+}
+
+const nav = `<nav class="topnav" aria-label="Site"><div class="wrap"><a href="/">Home</a><a href="/about.html">About</a><a href="/contact.html">Contact</a></div></nav>`;
+
+function masthead() {
+  return `${nav}
+<header class="mast">
+  <div class="wrap">
+    <div class="ears"><span>Naija &amp; Western gist</span><span>News · Celebs · Trends</span></div>
+    <h1 class="logo"><a href="/">Trend Naija</a></h1>
+    <div class="sublogo">The Gist Desk</div>
+    <div class="dateline"><span>${esc(data.date)}</span><span>Lagos · London</span><span id="updated">${esc(data.updated)}</span></div>
+  </div>
+</header>`;
+}
+
+const footer = `<footer>
+  <div class="wrap">
+    <div><h5>How we cover am</h5>Every story is checked and written in our own words. "✓ Confirmed" means more than one outlet has carried it. "Reported" means it is still coming from one place, so treat it as gist until it is confirmed.</div>
+    <div><h5>What we cover</h5>2027 elections, Nollywood, music, creators and podcasts, Naija news, politics, viral gist, world news and sport.</div>
+    <div><h5>Got gist?</h5>Send us your story tips at <a href="/contact.html">our contact page</a>. We check every tip before it goes up.</div>
+    <div class="footlinks"><a href="/about.html">About us</a><a href="/contact.html">Contact</a><a href="/privacy.html">Privacy policy</a><a href="/terms.html">Terms of use</a><span>© ${new Date().getFullYear()} Trend Naija</span></div>
+  </div>
+</footer>
+</body>
+</html>
+`;
+
+function card(s) {
+  const n = s.n || 1;
+  return `<article class="card" data-c="${esc(s.c)}" id="${esc(s.id)}"><div class="meta"><span class="cat">${esc(CATS[s.c] || s.c)}</span><span class="status ${n > 1 ? "multi" : ""}">${n > 1 ? "Confirmed" : "Reported"}</span></div>
+${fig(s)}<h4>${esc(s.h)}</h4><p>${esc(s.p)}</p>${s.pg ? `<div class="pidgin">${esc(s.pg)}</div>` : ""}</article>`;
+}
+
+function buildIndex() {
+  const lead = stories.find(s => s.lead) || stories[0];
+  const hot = stories.filter(s => s.hot && s !== lead).sort((a, b) => a.hot - b.hot).slice(0, 6);
+  const tick = stories.filter(s => s.hot).sort((a, b) => a.hot - b.hot).map(s => `<span>${esc(s.h)}</span>`).join("");
+  const tabs = Object.entries(CATS).map(([k, v]) => `<button type="button" id="tab-${k}" data-k="${k}" aria-pressed="${k === "all"}">${esc(v)}</button>`).join("");
+  const river = stories.filter(s => s !== lead).map(card).join("\n");
+  const desc = "Trend Naija – The Gist Desk: trending Nigerian and Western news, Nollywood and celebrity gist, music, creators, 2027 election updates, viral stories and sport, updated through the day.";
+  const html = head("Trend Naija – The Gist Desk | Naija news, gist & trends", desc, "/") + masthead() + `
+<div class="ticker" aria-label="In brief"><div class="wrap"><b>In brief</b><div class="track"><div class="track-inner">${tick}${tick}</div></div></div></div>
+<main>
+  <section class="wrap top">
+    <article class="lead" id="lead"><div class="kicker">Top gist · ${esc(CATS[lead.c])}</div>${fig(lead, true)}<h2>${esc(lead.h)}</h2><p>${esc(lead.p)}</p>${lead.pg ? `<div class="pidgin">${esc(lead.pg)}</div>` : ""}${(lead.more || []).length ? `<div class="more">${lead.more.map(t => `<span>${esc(t)}</span>`).join("")}</div>` : ""}</article>
+    <aside class="side"><h3>Most talked about</h3><ol class="hot-list">${hot.map(s => `<li><div><a class="hl" href="#${esc(s.id)}">${esc(s.h)}</a><small>${esc(CATS[s.c])}</small></div></li>`).join("")}</ol></aside>
+  </section>
+  <div class="controls"><div class="wrap">
+    <div class="tabs" id="tabs" role="group" aria-label="Category">${tabs}</div>
+    <div class="search"><label for="q" style="position:absolute;left:-9999px">Search stories</label><input id="q" type="search" placeholder="Search gist…"></div>
+  </div></div>
+  <section class="wrap river" id="river" aria-live="polite">
+${river}
+<div class="empty" id="empty" hidden>No gist matches that yet. Try another category or clear the search.</div>
+  </section>
+</main>
+<script>
+(function(){
+  var cat="all",q="";
+  try{var h=location.hash.slice(1);if(document.getElementById("tab-"+h)){cat=h;}}catch(e){}
+  var tabs=document.querySelectorAll("#tabs button"),cards=document.querySelectorAll("#river .card"),empty=document.getElementById("empty");
+  function apply(){var shown=0;cards.forEach(function(c){var ok=(cat==="all"||c.dataset.c===cat)&&(!q||c.textContent.toLowerCase().indexOf(q)>-1);c.hidden=!ok;if(ok)shown++;});empty.hidden=shown>0;tabs.forEach(function(b){b.setAttribute("aria-pressed",b.dataset.k===cat)});}
+  document.getElementById("tabs").addEventListener("click",function(e){var b=e.target.closest("button");if(!b)return;cat=b.dataset.k;try{history.replaceState(null,"",cat==="all"?location.pathname:"#"+cat)}catch(e){}apply();});
+  document.getElementById("q").addEventListener("input",function(e){q=e.target.value.trim().toLowerCase();apply();});
+  if(cat!=="all")apply();
+})();
+</script>
+` + footer;
+  fs.writeFileSync(path.join(ROOT, "index.html"), html);
+}
+
+function page(file, title, desc, body) {
+  fs.writeFileSync(path.join(ROOT, file), head(`${title} | Trend Naija`, desc, "/" + file) + masthead() + `\n<main class="wrap page">\n${body}\n</main>\n` + footer);
+}
+
+const CONTACT = "hello@trendnaija.com";
+const UPDATED_LEGAL = "23 October 2026";
+
+function buildPages() {
+  page("about.html", "About us", "About Trend Naija – The Gist Desk, a Nigerian and Western news, gist and trends digest.", `
+<h2>About Trend Naija</h2>
+<p>Trend Naija – The Gist Desk brings you the stories everybody is talking about, in one place: Nigerian news and politics, the 2027 elections, Nollywood and celebrity gist, music, creators and podcasts, viral moments, world news and sport.</p>
+<p>We follow Nigerian and international news outlets, blogs and social media through the day, check what is being reported, and write short, clear summaries in our own words. We update the site many times a day.</p>
+<h3>How we label stories</h3>
+<p><strong>✓ Confirmed</strong> means more than one independent outlet has carried the story. <strong>Reported</strong> means it is so far coming from one place, so treat it as gist until it is confirmed. We use careful language such as "reportedly" for anything not yet confirmed.</p>
+<h3>Our standards</h3>
+<ul>
+<li>We do not publish unproven criminal or sexual allegations against named people.</li>
+<li>We cover all political parties and candidates fairly and do not take sides.</li>
+<li>We correct mistakes quickly. If you see something wrong, <a href="/contact.html">tell us</a>.</li>
+<li>Photos come from freely licensed sources such as Wikimedia Commons and carry a credit line.</li>
+</ul>`);
+
+  page("contact.html", "Contact", "Contact Trend Naija for story tips, corrections, advertising and copyright requests.", `
+<h2>Contact us</h2>
+<p>Email: <strong>${CONTACT}</strong></p>
+<h3>Story tips</h3>
+<p>Got gist? Send us what you know, with any links, screenshots or videos. We check every tip before anything goes up, and we never reveal who sent it unless you ask us to.</p>
+<h3>Corrections</h3>
+<p>If we got something wrong, email us with the headline and what needs fixing. We review every correction request and update stories quickly.</p>
+<h3>Copyright and removal requests</h3>
+<p>If you believe something on this site uses your work without permission, email us with the details and a link to your original. We will review it and remove it where appropriate.</p>
+<h3>Advertising and partnerships</h3>
+<p>For advertising, sponsored content or partnerships, email us with "Advertising" in the subject line.</p>`);
+
+  page("privacy.html", "Privacy policy", "How Trend Naija collects, uses and protects information, including cookies and advertising.", `
+<h2>Privacy policy</h2>
+<p class="muted">Last updated: ${UPDATED_LEGAL}</p>
+<p>This policy explains what information Trend Naija ("we", "us") collects when you visit trendnaija.com, and how it is used.</p>
+<h3>Information we collect</h3>
+<p>We do not ask you to create an account. If you email us, we receive your email address and whatever you include in your message, and we use it only to reply and to act on your request.</p>
+<p>Like most websites, our hosting provider automatically records basic technical information such as your IP address, browser type, the pages you visit and the time of your visit. This is used to keep the site secure and working.</p>
+<h3>Cookies and advertising</h3>
+<p>We may show advertising provided by Google and its partners. Third-party vendors, including Google, use cookies to serve ads based on your previous visits to this and other websites. Google's use of advertising cookies enables it and its partners to serve ads to you based on your visits to this site and/or other sites on the internet.</p>
+<p>You can opt out of personalised advertising by visiting <a href="https://www.google.com/settings/ads" rel="noopener">Google Ads Settings</a>, or opt out of some third-party vendors' use of cookies for personalised advertising at <a href="https://www.aboutads.info/choices/" rel="noopener">www.aboutads.info</a>. Where the law requires it (for example in the UK and EU), we will ask for your consent before personalised advertising cookies are used.</p>
+<p>We may also use privacy-friendly analytics to understand which stories are popular. This information is collected in aggregate.</p>
+<h3>Your rights</h3>
+<p>Depending on where you live, you may have the right to access, correct or delete personal information we hold about you, and to object to how it is used. To make a request, email ${CONTACT}.</p>
+<h3>Children</h3>
+<p>This site is not directed at children under 13, and we do not knowingly collect information from them.</p>
+<h3>Changes</h3>
+<p>We may update this policy from time to time. The date at the top shows when it last changed.</p>
+<h3>Contact</h3>
+<p>Questions about this policy: ${CONTACT}</p>`);
+
+  page("terms.html", "Terms of use", "The terms that apply when you use Trend Naija.", `
+<h2>Terms of use</h2>
+<p class="muted">Last updated: ${UPDATED_LEGAL}</p>
+<p>By using trendnaija.com you agree to these terms.</p>
+<h3>Our content</h3>
+<p>Our headlines and summaries are written by Trend Naija. You may share links to our pages, but please do not copy our content in full without permission.</p>
+<h3>Accuracy</h3>
+<p>We work to make our stories accurate and we label unconfirmed stories as "Reported". News changes quickly, so stories may be incomplete or later turn out to be wrong. Nothing on this site is legal, financial, medical or immigration advice.</p>
+<h3>Photos and third-party material</h3>
+<p>Photos are used under their stated licences and credited on the page. Trademarks and names belong to their owners. If you believe we have used your work wrongly, contact us at ${CONTACT} and we will review it promptly.</p>
+<h3>Links</h3>
+<p>We are not responsible for the content of other websites we link to.</p>
+<h3>Changes</h3>
+<p>We may update these terms at any time. Continued use of the site means you accept the updated terms.</p>
+<h3>Contact</h3>
+<p>${CONTACT}</p>`);
+
+  page("404.html", "Page not found", "This page could not be found.", `
+<h2>Page not found</h2>
+<p>That page has moved or never existed. <a href="/">Go to today's gist</a>.</p>`);
+}
+
+function buildMeta() {
+  const today = new Date().toISOString().slice(0, 10);
+  const urls = ["/", "/about.html", "/contact.html", "/privacy.html", "/terms.html"];
+  fs.writeFileSync(path.join(ROOT, "sitemap.xml"), `<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+${urls.map(u => `  <url><loc>${SITE}${u}</loc><lastmod>${today}</lastmod>${u === "/" ? "<changefreq>hourly</changefreq>" : ""}</url>`).join("\n")}
+</urlset>
+`);
+  fs.writeFileSync(path.join(ROOT, "robots.txt"), `User-agent: *\nAllow: /\nDisallow: /data/\nDisallow: /src/\n\nSitemap: ${SITE}/sitemap.xml\n`);
+  fs.copyFileSync(path.join(ROOT, "src/style.css"), path.join(ROOT, "style.css"));
+}
+
+// remove images no story uses any more
+function pruneImages() {
+  const used = new Set(stories.filter(s => s.img).map(s => path.basename(s.img)));
+  for (const f of fs.readdirSync(path.join(ROOT, "img"))) if (!used.has(f)) fs.unlinkSync(path.join(ROOT, "img", f));
+}
+
+pruneImages();
+buildIndex();
+buildPages();
+buildMeta();
+console.log(`Built ${stories.length} stories, ${stories.filter(s => s.img).length} with photos.`);
