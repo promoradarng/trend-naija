@@ -15,24 +15,6 @@
  },
  "stories": [
   {
-   "id": "eastleigh",
-   "c": "world",
-   "h": "Moment multi-storey building under construction collapses in Nairobi's Eastleigh",
-   "p": "A multi-storey building still under construction came crashing down in the Eastleigh area of Nairobi, Kenya, early on Friday afternoon, sparking a frantic rescue operation amid fears that several people were trapped under the rubble. The structure stood along Yusuf Haji Avenue, next to Day to Day Supermarket on 9th Street, in one of the city's busiest commercial hubs. Reports of its height vary, with some outlets putting it at 18 floors and Nairobi police commander Issa Mohamed saying it was about 10. Videos from the scene show slabs of concrete falling and a thick cloud of dust rolling down the street as people ran for safety. Kenya Red Cross teams, Nairobi County emergency crews and police joined the search, and the county said excavators had been brought in to clear debris and reach anyone trapped. Police fired tear gas to push back crowds of onlookers and stop the looting of nearby shops. Inspector General of Police Douglas Kanja reportedly confirmed that one person had been pulled out alive, and the search continued into the night. The cause of the collapse is not yet known. It comes less than a week after another building collapse on Moi Avenue in Nairobi's central business district.",
-   "n": 3,
-   "hot": 1,
-   "lead": true,
-   "more": [
-    "Several people feared trapped as search goes on into the night",
-    "Police fire tear gas to clear onlookers and stop looting",
-    "Second Nairobi building collapse in under a week"
-   ],
-   "img": "img/eastleigh.jpg",
-   "alt": "Dust clouds billow as a building under construction collapses in Eastleigh, Nairobi",
-   "credit": "Photo: Social media",
-   "added": "2026-10-23"
-  },
-  {
    "id": "durban-xenophobia",
    "c": "naija",
    "h": "Nigerian man reportedly hacked to death in South Africa as xenophobic attacks continue",
@@ -46,6 +28,23 @@
    ],
    "img": "img/durban.jpg",
    "alt": "Aerial view of a crowd and a police van on a street in Durban during an attack",
+   "credit": "Photo: Social media",
+   "added": "2026-10-23"
+  },
+  {
+   "id": "eastleigh",
+   "c": "world",
+   "h": "Moment multi-storey building under construction collapses in Nairobi's Eastleigh",
+   "p": "A multi-storey building still under construction came crashing down in the Eastleigh area of Nairobi, Kenya, early on Friday afternoon, sparking a frantic rescue operation amid fears that several people were trapped under the rubble. The structure stood along Yusuf Haji Avenue, next to Day to Day Supermarket on 9th Street, in one of the city's busiest commercial hubs. Reports of its height vary, with some outlets putting it at 18 floors and Nairobi police commander Issa Mohamed saying it was about 10. Videos from the scene show slabs of concrete falling and a thick cloud of dust rolling down the street as people ran for safety. Kenya Red Cross teams, Nairobi County emergency crews and police joined the search, and the county said excavators had been brought in to clear debris and reach anyone trapped. Police fired tear gas to push back crowds of onlookers and stop the looting of nearby shops. Inspector General of Police Douglas Kanja reportedly confirmed that one person had been pulled out alive, and the search continued into the night. The cause of the collapse is not yet known. It comes less than a week after another building collapse on Moi Avenue in Nairobi's central business district.",
+   "n": 3,
+   "hot": 1,
+   "more": [
+    "Several people feared trapped as search goes on into the night",
+    "Police fire tear gas to clear onlookers and stop looting",
+    "Second Nairobi building collapse in under a week"
+   ],
+   "img": "img/eastleigh.jpg",
+   "alt": "Dust clouds billow as a building under construction collapses in Eastleigh, Nairobi",
    "credit": "Photo: Social media",
    "added": "2026-10-23"
   },

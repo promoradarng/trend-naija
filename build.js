@@ -71,7 +71,7 @@ ${fig(s)}<h4>${esc(s.h)}</h4><p>${esc(s.p)}</p></article>`;
 }
 
 function buildIndex() {
-  const lead = stories.find(s => s.lead) || stories[0];
+  const lead = stories[0]; // newest story (first in data/stories.json) is always Top gist
   const hot = stories.filter(s => s.hot && s !== lead).sort((a, b) => a.hot - b.hot).slice(0, 6);
   const tick = stories.filter(s => s.hot).sort((a, b) => a.hot - b.hot).map(s => `<span>${esc(s.h)}</span>`).join("");
   const tabs = Object.entries(CATS).map(([k, v]) => `<button type="button" id="tab-${k}" data-k="${k}" aria-pressed="${k === "all"}">${esc(v)}</button>`).join("");
