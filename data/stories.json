@@ -1,5 +1,5 @@
 {
- "updated": "Updated 19:45 BST",
+ "updated": "Updated 20:00 BST",
  "date": "Friday, 23 October 2026",
  "categories": {
   "all": "All gist",
@@ -33,12 +33,29 @@
    "added": "2026-10-23"
   },
   {
+   "id": "biya",
+   "c": "world",
+   "h": "Biya is back in Cameroon, but can the 93-year-old still rule?",
+   "p": "Two months after Paul Biya flew home from Switzerland, Cameroonians are still asking the same question: who is really running the country? The 93-year-old, the world's oldest serving head of state, landed in Yaoundé on 20 August after 73 days abroad, most of it reportedly spent at the InterContinental Hotel in Geneva. It was the longest absence of a presidency that began in November 1982, far beyond his previous record of 42 days away in 2024, and it set off fresh speculation about his health. Since his return, very little has happened. Biya won an eighth term in the disputed October 2025 election, with the Constitutional Council declaring him winner on 53.66 per cent, a result runner-up Issa Tchiroma Bakary still rejects from exile. A year on, he has not named a new government, and a long-promised cabinet reshuffle has yet to come. The bigger worry is succession. In April, parliament restored the post of vice president, whose holder would automatically take over if the president died, resigned or could no longer serve. Only Biya can fill it, and he has not. In June, a sealed envelope containing a supposed presidential decree naming a vice president was delivered to state broadcaster CRTV, a document the government later disputed. Without a vice president, Senate President Aboubakary Abdoulaye would lead until fresh elections. Many analysts see Ferdinand Ngoh Ngoh, Secretary-General of the Presidency, as the country's de facto ruler and a possible vice president-in-waiting. Government spokesman René Emmanuel Sadi insists the timing of any appointments is the president's call alone. Critics say Cameroon is being run on autopilot while it battles a separatist conflict in its English-speaking regions and attacks by Islamic State-linked fighters in the north.",
+   "n": 3,
+   "hot": 2,
+   "more": [
+    "Biya spent a record 73 days abroad, mostly in Geneva",
+    "Still no new government a year after his disputed re-election",
+    "Vice president post restored in April but remains empty"
+   ],
+   "img": "img/biya.jpg",
+   "alt": "President Paul Biya casts his ballot as First Lady Chantal Biya looks on",
+   "credit": "Photo: Social media",
+   "added": "2026-10-23"
+  },
+  {
    "id": "peller-jarvis-block",
    "c": "creators",
    "h": "Peller and Jarvis block each other after live-stream fight, two months into marriage",
    "p": "Streamer Peller and his wife Jarvis have blocked each other on social media after a heated argument on a live stream in the early hours of Friday. The row began when Peller said the couple were like a father and mother to Jarvis's younger sister, and should be the ones to guide her and choose who she marries. Jarvis disagreed, telling him that if her family had chosen a husband for her, they would not have picked him, and that he should leave her family alone and focus on his own. An angry Peller removed her from the live and blocked her entire family, repeatedly asking his fans whether it was all because his body is small. Jarvis then blocked him too. Peller later went on his WhatsApp channel, called her a fool for blocking him, and blocked her back. The couple married in August, and Jarvis is seven months pregnant.",
    "n": 1,
-   "hot": 2,
+   "hot": 3,
    "more": [
     "The row started over who should choose a husband for Jarvis's younger sister",
     "Peller blocked Jarvis's whole family; she blocked him back",
@@ -60,7 +77,7 @@
    "h": "Nollywood mourns Francis Duru, dead at 57",
    "p": "Veteran actor Francis Duru has died at 57 after a brief illness, two years after he lost his teenage son. Old posts about his son, his wife Adokiye and an earlier video where he answered health rumours are now circulating as tributes pour in.",
    "n": 2,
-   "hot": 3,
+   "hot": 4,
    "more": [
     "His words to his late son resurface",
     "His final touching words to his wife",
@@ -232,7 +249,7 @@
    "h": "State police clears the 24-state hurdle",
    "p": "Twenty-four state Houses of Assembly have now voted for the constitutional amendment creating state police, reaching the two-thirds of states the constitution requires. Lagos, Ondo, Ebonyi and several northern states are yet to vote. The resolutions now head back to the National Assembly and then to the President for assent.",
    "n": 4,
-   "hot": 4,
+   "hot": 5,
    "added": "2026-10-23"
   },
   {
@@ -249,7 +266,7 @@
    "h": "Ebola: Swiss say Abuja patient likely caught virus in Uganda",
    "p": "Switzerland says Nigeria's first Ebola patient in over a decade, the Ugandan-born wife of a Swiss diplomat in Abuja, most likely picked up the virus on a trip to Uganda about two weeks earlier. The exact source is still unknown and 44 possible contacts are being traced.",
    "n": 1,
-   "hot": 9,
+   "hot": 10,
    "added": "2026-10-23"
   },
   {
@@ -418,7 +435,7 @@
    "h": "Makinde defends 2027 run against a sitting South-West president",
    "p": "Oyo governor Seyi Makinde, the APM's presidential candidate, reportedly told a party town hall in Akure that the sky did not fall when two South-West candidates ran in 1999, and challenged rivals to match his stamina on the campaign trail. He also took a veiled swipe at President Tinubu.",
    "n": 1,
-   "hot": 10,
+   "hot": 11,
    "added": "2026-10-23"
   },
   {
@@ -427,7 +444,7 @@
    "h": "Atiku presses INEC to publish the 103 million-name voters' register",
    "p": "ADC candidate Atiku Abubakar says people who checked INEC's portal during the 9–15 October display window reportedly met an empty page. He wants the preliminary register released now and says his party will challenge any refusal.",
    "n": 1,
-   "hot": 10,
+   "hot": 11,
    "img": "img/atikuinec.jpg",
    "alt": "Portrait of Atiku Abubakar in a pinstripe suit",
    "credit": "Photo: Etauso / Wikimedia Commons, CC0",
@@ -442,7 +459,7 @@
    "h": "Tinubu kicks off 2027 campaign in Kaduna on Saturday",
    "p": "The APC has lined up rallies for President Tinubu in 12 states, starting in Kaduna on 24 October and ending in Lagos on 9 January 2027. Port Harcourt, Jos, Ibadan, Maiduguri, Enugu, Bauchi, Sokoto, Asaba, Kano and Yola are also on the list. Kaduna's deputy governor says the state is ready to host the flag-off, and security operatives have been posted to guard campaign posters and billboards.",
    "n": 5,
-   "hot": 5,
+   "hot": 6,
    "added": "2026-10-23"
   },
   {
@@ -454,7 +471,7 @@
    "h": "Obi and Kwankwaso to lead \"2 million-man march\" in Uyo",
    "p": "NDC candidate Peter Obi and his running mate Rabiu Kwankwaso are set to lead a solidarity march in Uyo, Akwa Ibom, on Saturday 24 October from 9am at the Water Fountain on Nwaniba Road. Organisers say it was moved from 1 October over security and logistics.",
    "n": 1,
-   "hot": 6,
+   "hot": 7,
    "added": "2026-10-23"
   },
   {
@@ -466,7 +483,7 @@
    "h": "Peller and Carter Efe nominated for Best International Streamer",
    "p": "The two Nigerian streamers are up against Ashswag, Young Multi and Staryuuki at the 2026 Streamer Awards in Los Angeles on 12 November. Voting closes 31 October, and the public vote counts for 70% of the result.",
    "n": 2,
-   "hot": 7,
+   "hot": 8,
    "added": "2026-10-23"
   },
   {
@@ -500,7 +517,7 @@
    "h": "Dangote agrees to sit for Isbae U's \"Curiosity Made Me Ask\"",
    "p": "Aliko Dangote said yes to the street-interview show after creator Isbae U visited the Dangote Refinery. Dangote said young people are central to Nigeria's future and that his generation has not done enough.",
    "n": 2,
-   "hot": 8,
+   "hot": 9,
    "added": "2026-10-23"
   },
   {
