@@ -54,7 +54,7 @@ function masthead() {
 
 const footer = `<footer>
   <div class="wrap">
-    <div><h5>How we cover am</h5>Every story is checked and written in our own words. "✓ Confirmed" means more than one outlet has carried it. "Reported" means it is still coming from one place, so treat it as gist until it is confirmed.</div>
+    <div><h5>How we cover stories</h5>Every story is checked and written in our own words. "✓ Confirmed" means more than one outlet has carried it. "Reported" means it is still coming from one place, so treat it as gist until it is confirmed.</div>
     <div><h5>What we cover</h5>2027 elections, Nollywood, music, creators and podcasts, Naija news, politics, viral gist, world news and sport.</div>
     <div><h5>Got gist?</h5>Send us your story tips at <a href="/contact">our contact page</a>. We check every tip before it goes up.</div>
     <div class="footlinks"><a href="/about">About us</a><a href="/contact">Contact</a><a href="/privacy">Privacy policy</a><a href="/terms">Terms of use</a><span>© ${new Date().getFullYear()} Trend Naija</span></div>
@@ -67,7 +67,7 @@ const footer = `<footer>
 function card(s) {
   const n = s.confirmed ? 2 : (s.n || 1);
   return `<article class="card" data-c="${esc(s.c)}" id="${esc(s.id)}"><div class="meta"><span class="cat">${esc(CATS[s.c] || s.c)}</span><span class="status ${n > 1 ? "multi" : ""}">${n > 1 ? "Confirmed" : "Reported"}</span></div>
-${fig(s)}<h4>${esc(s.h)}</h4><p>${esc(s.p)}</p>${s.pg ? `<div class="pidgin">${esc(s.pg)}</div>` : ""}</article>`;
+${fig(s)}<h4>${esc(s.h)}</h4><p>${esc(s.p)}</p></article>`;
 }
 
 function buildIndex() {
@@ -81,7 +81,7 @@ function buildIndex() {
 <div class="ticker" aria-label="In brief"><div class="wrap"><b>In brief</b><div class="track"><div class="track-inner">${tick}${tick}</div></div></div></div>
 <main>
   <section class="wrap top">
-    <article class="lead" id="lead"><div class="kicker">Top gist · ${esc(CATS[lead.c])}</div>${fig(lead, true)}<h2>${esc(lead.h)}</h2><p>${esc(lead.p)}</p>${lead.pg ? `<div class="pidgin">${esc(lead.pg)}</div>` : ""}${(lead.more || []).length ? `<div class="more">${lead.more.map(t => `<span>${esc(t)}</span>`).join("")}</div>` : ""}</article>
+    <article class="lead" id="lead"><div class="kicker">Top gist · ${esc(CATS[lead.c])}</div>${fig(lead, true)}<h2>${esc(lead.h)}</h2><p>${esc(lead.p)}</p>${(lead.more || []).length ? `<div class="more">${lead.more.map(t => `<span>${esc(t)}</span>`).join("")}</div>` : ""}</article>
     <aside class="side"><h3>Most talked about</h3><ol class="hot-list">${hot.map(s => `<li><div><a class="hl" href="#${esc(s.id)}">${esc(s.h)}</a><small>${esc(CATS[s.c])}</small></div></li>`).join("")}</ol></aside>
   </section>
   <div class="controls"><div class="wrap">
