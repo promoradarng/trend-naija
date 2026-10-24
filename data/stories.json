@@ -1,5 +1,5 @@
 {
- "updated": "Updated 09:15 BST",
+ "updated": "Updated 09:45 BST",
  "date": "Saturday, 24 October 2026",
  "categories": {
   "all": "All gist",
@@ -14,6 +14,78 @@
   "sport": "Sport"
  },
  "stories": [
+  {
+   "id": "gombe-truck",
+   "c": "naija",
+   "h": "Runaway truck reportedly kills 11 after ramming vehicles in Gombe",
+   "p": "A runaway truck reportedly crashed into several vehicles in Gombe, leaving 11 people dead. Details on the number of injured and the cause of the brake failure were still emerging.",
+   "n": 1,
+   "more": [
+    "Emergency workers are said to have been at the scene.",
+    "Authorities have yet to give a full account of the crash."
+   ],
+   "added": "2026-10-24"
+  },
+  {
+   "id": "lagos-collapse",
+   "c": "naija",
+   "h": "Another building collapse in Lagos leaves people dead and injured, reports say",
+   "p": "A building has reportedly collapsed in Lagos, with deaths and injuries reported. Rescue teams were said to be at the site, and the cause is yet to be established.",
+   "n": 1,
+   "more": [
+    "It is the latest in a string of collapses reported in recent days.",
+    "Officials are expected to investigate the structure."
+   ],
+   "added": "2026-10-24"
+  },
+  {
+   "id": "jpmorgan-cbn",
+   "c": "naija",
+   "h": "CBN reportedly grants JPMorgan approval to open a banking service in Nigeria",
+   "p": "The Central Bank of Nigeria has reportedly approved US firm JPMorgan to set up a merchant banking operation in the country, in what would be a notable boost for foreign participation in the sector.",
+   "n": 1,
+   "more": [
+    "The approval was reported by several Nigerian outlets.",
+    "Further details on the licence are awaited."
+   ],
+   "added": "2026-10-24"
+  },
+  {
+   "id": "messi-asturias",
+   "c": "sport",
+   "h": "Messi wins Princess of Asturias Award days before the Ballon d'Or ceremony",
+   "p": "Lionel Messi has reportedly won the Princess of Asturias Award, and Barcelona has congratulated him. The honour comes just days before the Ballon d'Or ceremony in London.",
+   "n": 1,
+   "more": [
+    "Barcelona publicly reacted to the news.",
+    "The Ballon d'Or ceremony takes place in London this week."
+   ],
+   "added": "2026-10-24"
+  },
+  {
+   "id": "onana-crash",
+   "c": "sport",
+   "h": "Trabzonspor gives update on Andre Onana after car accident in Turkey",
+   "p": "Trabzonspor has reportedly issued an update on goalkeeper Andre Onana, who is on loan from Manchester United, after he was involved in a car accident in Turkey.",
+   "n": 1,
+   "more": [
+    "The club said to be monitoring his condition.",
+    "No further details were immediately released."
+   ],
+   "added": "2026-10-24"
+  },
+  {
+   "id": "fernandes-burgled",
+   "c": "sport",
+   "h": "Bruno Fernandes' home reportedly burgled during Manchester United's Champions League defeat",
+   "p": "Burglars reportedly broke into the home of Manchester United captain Bruno Fernandes while the team was losing to Como in the Champions League.",
+   "n": 1,
+   "more": [
+    "The break-in was reported by several football outlets.",
+    "Police inquiries are said to be under way."
+   ],
+   "added": "2026-10-24"
+  },
   {
    "id": "tinubu-campaign-cars",
    "c": "elections",
@@ -780,66 +852,6 @@
    "added": "2026-10-23"
   },
   {
-   "id": "sultan",
-   "c": "politics",
-   "h": "Sultan calls for peaceful campaigns after Tinubu meeting",
-   "p": "The Sultan of Sokoto, Sa'ad Abubakar III, held a closed-door meeting with President Tinubu at the Villa. No details were released, but afterwards he reportedly urged politicians to keep the 2027 campaigns peaceful.",
-   "n": 1,
-   "added": "2026-10-23"
-  },
-  {
-   "id": "dele",
-   "c": "politics",
-   "h": "Dele Momodu: Tinubu's fiercest critics are Yoruba",
-   "p": "The publisher shared a video of a woman from the South-West speaking against President Tinubu's re-election and said the strongest criticism is coming from Yoruba people.",
-   "n": 1,
-   "added": "2026-10-23"
-  },
-  {
-   "id": "ebola1",
-   "img": "img/ebola1.jpg",
-   "alt": "Atiku Abubakar",
-   "credit": "Photo: Etauso / Wikimedia Commons, CC0",
-   "c": "politics",
-   "h": "Tinubu's camp hits back at Atiku over ₦10bn Ebola fund",
-   "p": "The President's camp responded to Atiku Abubakar's comments about the ₦10bn Ebola emergency fund.",
-   "n": 1,
-   "added": "2026-10-23"
-  },
-  {
-   "id": "elrufai",
-   "img": "img/elrufai.jpg",
-   "alt": "Nasir El-Rufai",
-   "credit": "Photo: VOA / Wikimedia Commons, Public domain",
-   "c": "politics",
-   "h": "Court gives fresh go-ahead in El-Rufai vs ICPC",
-   "p": "A court has issued a new ruling allowing the case between former Kaduna governor Nasir El-Rufai and the ICPC to proceed.",
-   "n": 1,
-   "added": "2026-10-23"
-  },
-  {
-   "id": "obi",
-   "img": "img/obi.jpg",
-   "alt": "Peter Obi",
-   "credit": "Photo: VOA / Wikimedia Commons, Public domain",
-   "c": "politics",
-   "h": "Peter Obi pledges support as NDC supporter is buried in Enugu",
-   "p": "Obi attended as the family laid to rest an NDC supporter who was killed in Enugu, and promised to support them.",
-   "n": 1,
-   "added": "2026-10-23"
-  },
-  {
-   "id": "dss",
-   "img": "img/dss.jpg",
-   "alt": "President Bola Tinubu",
-   "credit": "Photo: Nosa Asemota / Wikimedia Commons, CC BY-SA 4.0",
-   "c": "politics",
-   "h": "Tinubu names ex-DSS boss to chair security institute board",
-   "p": "A former Director-General of the State Security Service has been appointed chairman of the governing board of the National Institute for Security Studies.",
-   "n": 2,
-   "added": "2026-10-23"
-  },
-  {
    "id": "statepolice",
    "c": "naija",
    "h": "State police clears the 24-state hurdle",
@@ -849,58 +861,12 @@
    "added": "2026-10-23"
   },
   {
-   "id": "ebolavax",
-   "c": "naija",
-   "h": "Ebola: no approved vaccine yet for the strain in Nigeria",
-   "p": "Health officials say there is no specific vaccine or treatment for the Bundibugyo strain behind Nigeria's case. Africa CDC chief Jean Kaseya said vaccines would already exist if the outbreak were in Western countries, adding that trials of new candidates have begun.",
-   "n": 2,
-   "added": "2026-10-23"
-  },
-  {
    "id": "ebolaug",
    "c": "naija",
    "h": "Ebola: Swiss say Abuja patient likely caught virus in Uganda",
    "p": "Switzerland says Nigeria's first Ebola patient in over a decade, the Ugandan-born wife of a Swiss diplomat in Abuja, most likely picked up the virus on a trip to Uganda about two weeks earlier. The exact source is still unknown and 44 possible contacts are being traced.",
    "n": 1,
    "hot": 12,
-   "added": "2026-10-23"
-  },
-  {
-   "id": "ebola2",
-   "c": "naija",
-   "h": "Ebola: FG says no ban on large gatherings for now",
-   "p": "The Federal Government says it is not restricting large gatherings at this stage of the Ebola response.",
-   "n": 1,
-   "added": "2026-10-23"
-  },
-  {
-   "id": "nec",
-   "img": "img/nec.jpg",
-   "alt": "Aso Rock, Abuja",
-   "credit": "Photo: Akum20 / Wikimedia Commons, CC BY-SA 4.0",
-   "c": "naija",
-   "h": "NEC backs 90-day plan to ease cost of living, but no details yet",
-   "p": "The National Economic Council endorsed a 90-day plan to bring down living costs. What it involves has not been made public.",
-   "n": 1,
-   "added": "2026-10-23"
-  },
-  {
-   "id": "blue",
-   "img": "img/blue.jpg",
-   "alt": "A Lagos Blue Line rail station",
-   "credit": "Photo: FrankvEck / Wikimedia Commons, CC BY-SA 4.0",
-   "c": "naija",
-   "h": "Lagos Blue Line adds three new stations",
-   "p": "Three more stations are being added to the Lagos Blue Line rail route.",
-   "n": 1,
-   "added": "2026-10-23"
-  },
-  {
-   "id": "edo",
-   "c": "naija",
-   "h": "Edo govt pulls down building linked to suspected ritualist",
-   "p": "State authorities demolished a property allegedly used by a suspected cultist for organ harvesting and ritual activities.",
-   "n": 1,
    "added": "2026-10-23"
   }
  ]
