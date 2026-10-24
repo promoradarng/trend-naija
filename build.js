@@ -8,6 +8,15 @@ const data = JSON.parse(fs.readFileSync(path.join(ROOT, "data/stories.json"), "u
 const CATS = data.categories;
 const stories = data.stories;
 
+// every story carries "at" (UTC time it went up); stamp new ones now and save them back
+const nowAt = new Date().toISOString().slice(0, 16) + "Z";
+if (stories.some(s => !s.at)) {
+  stories.forEach(s => { if (!s.at) s.at = nowAt; });
+  fs.writeFileSync(path.join(ROOT, "data/stories.json"), JSON.stringify(data, null, 1));
+}
+const WHEN = new Intl.DateTimeFormat("en-GB", { timeZone: "Europe/London", day: "numeric", month: "short", year: "numeric", hour: "2-digit", minute: "2-digit", hour12: false, timeZoneName: "short" });
+const when = s => `<time class="when" datetime="${esc(s.at)}">${esc(WHEN.format(new Date(s.at)))}</time>`;
+
 const esc = t => String(t ?? "").replace(/[&<>"]/g, m => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[m]));
 const fig = (s, eager) => (s.imgs && s.imgs.length)
   ? `<figure class="ph ph-multi">${s.imgs.map((src, i) => `<img src="/${esc(src)}" alt="${esc((s.alts || [])[i] || s.alt || s.h)}"${eager ? "" : ' loading="lazy"'} width="640" height="640">`).join("")}<figcaption>${esc(s.credit || "")}</figcaption></figure>`
@@ -69,7 +78,7 @@ const footer = `<footer>
 function card(s) {
   const n = s.confirmed ? 2 : (s.n || 1);
   return `<article class="card" data-c="${esc(s.c)}" id="${esc(s.id)}"><div class="meta"><span class="cat">${esc(CATS[s.c] || s.c)}</span>${n > 1 ? "" : '<span class="status">Reported</span>'}</div>
-${fig(s)}<h4>${esc(s.h)}</h4><p>${esc(s.p)}</p></article>`;
+${fig(s)}<h4>${esc(s.h)}</h4>${when(s)}<p>${esc(s.p)}</p></article>`;
 }
 
 function buildIndex() {
@@ -87,7 +96,7 @@ function buildIndex() {
     <div class="search"><label for="q" style="position:absolute;left:-9999px">Search stories</label><input id="q" type="search" placeholder="Search gist…"></div>
   </div></div>
   <section class="wrap top">
-    <article class="lead" id="lead"><div class="kicker">Top gist · ${esc(CATS[lead.c])}</div>${fig(lead, true)}<h2>${esc(lead.h)}</h2><p>${esc(lead.p)}</p>${(lead.more || []).length ? `<div class="more">${lead.more.map(t => `<span>${esc(t)}</span>`).join("")}</div>` : ""}</article>
+    <article class="lead" id="lead"><div class="kicker">Top gist · ${esc(CATS[lead.c])}</div>${fig(lead, true)}<h2>${esc(lead.h)}</h2>${when(lead)}<p>${esc(lead.p)}</p>${(lead.more || []).length ? `<div class="more">${lead.more.map(t => `<span>${esc(t)}</span>`).join("")}</div>` : ""}</article>
     <aside class="side"><h3>Most talked about</h3><ol class="hot-list">${hot.map(s => `<li><div><a class="hl" href="#${esc(s.id)}">${esc(s.h)}</a><small>${esc(CATS[s.c])}</small></div></li>`).join("")}</ol></aside>
   </section>
   <section class="wrap river" id="river" aria-live="polite">

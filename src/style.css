@@ -91,6 +91,8 @@ a:focus-visible,button:focus-visible,input:focus-visible{outline:2px solid var(-
 .card[data-c="celebs"]{--cc:var(--c-celebs)}.card[data-c="naija"]{--cc:var(--c-naija)}.card[data-c="politics"]{--cc:var(--c-politics)}.card[data-c="viral"]{--cc:var(--c-viral)}.card[data-c="world"]{--cc:var(--c-world)}.card[data-c="sport"]{--cc:var(--c-sport)}.card[data-c="music"]{--cc:var(--c-music)}.card[data-c="creators"]{--cc:var(--c-creators)}.card[data-c="elections"]{--cc:var(--c-elections)}
 .status{font-family:var(--label);font-size:10.5px;color:var(--muted);text-transform:uppercase;letter-spacing:.08em}
 .status.multi{color:var(--ink)}
+.when{display:block;font-family:var(--label);font-size:11px;color:var(--muted);text-transform:uppercase;letter-spacing:.08em}
+.lead .when{margin:6px 0 8px}
 .status.multi::before{content:"✓ "}
 .card h4{font-family:var(--display);font-weight:700;font-size:22px;line-height:1.15;margin:2px 0 0;text-wrap:balance}
 .card p{margin:0;font-size:16px}
