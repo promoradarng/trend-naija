@@ -1,5 +1,5 @@
 {
- "updated": "Updated 06:33 BST",
+ "updated": "Updated 07:45 BST",
  "date": "Saturday, 24 October 2026",
  "categories": {
   "all": "All gist",
@@ -14,6 +14,30 @@
   "sport": "Sport"
  },
  "stories": [
+  {
+   "id": "omokri-mexico",
+   "c": "politics",
+   "h": "Mexico reportedly clears Reno Omokri as Nigeria's envoy to four countries",
+   "p": "Mexico has reportedly approved Reno Omokri to serve as Nigeria's ambassador covering four countries in Latin America. The clearance is said to remove the last hurdle before he takes up the post.",
+   "n": 1,
+   "more": [
+    "The approval was reported by a Nigerian news site.",
+    "No date has been given for his formal posting."
+   ],
+   "added": "2026-10-24"
+  },
+  {
+   "id": "officer-woos",
+   "c": "creators",
+   "h": "Officer Woos hits back at critic over silence while Broda Shaggi was away",
+   "p": "Skit maker Officer Woos, an associate of comedian Broda Shaggi, has reportedly replied to a critic who questioned why he stayed quiet while his colleague was away. He is said to have defended his conduct in a public response.",
+   "n": 1,
+   "more": [
+    "The exchange has drawn mixed reactions online.",
+    "Neither side has said more."
+   ],
+   "added": "2026-10-24"
+  },
   {
    "id": "bauchi-ndc",
    "c": "elections",
@@ -772,7 +796,7 @@
    "c": "naija",
    "h": "State police clears the 24-state hurdle",
    "p": "Twenty-four state Houses of Assembly have now voted for the constitutional amendment creating state police, reaching the two-thirds of states the constitution requires. Lagos, Ondo, Ebonyi and several northern states are yet to vote. The resolutions now head back to the National Assembly and then to the President for assent. Gombe's Assembly is the latest reported to have approved the bill.",
-   "n": 6,
+   "n": 7,
    "hot": 6,
    "added": "2026-10-23"
   },
