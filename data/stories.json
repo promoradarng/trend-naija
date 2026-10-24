@@ -1,5 +1,5 @@
 {
- "updated": "Updated 12:35 BST",
+ "updated": "Updated 13:40 BST",
  "date": "Saturday, 24 October 2026",
  "categories": {
   "all": "All gist",
@@ -14,6 +14,41 @@
   "sport": "Sport"
  },
  "stories": [
+  {
+   "id": "dangote-diesel-gantry",
+   "c": "naija",
+   "h": "Fuel marketers reportedly release new diesel prices as Dangote Refinery halts gantry sales",
+   "p": "Marketers have reportedly published new diesel prices after Dangote Refinery stopped selling diesel at its gantry. The move is said to be tightening supply at depots. Separately, the Edo refinery is reportedly producing above its rated capacity, with daily diesel supply put at about 620,000 litres.",
+   "n": 1,
+   "more": [
+    "Marketers are said to be adjusting pump prices in response.",
+    "The Edo refinery figure of 620,000 litres a day has been reported but not independently verified."
+   ],
+   "added": "2026-10-24"
+  },
+  {
+   "id": "qatar-newborn-visa",
+   "c": "world",
+   "h": "Qatar sets conditions for foreign newborns to get a free visa on arrival",
+   "p": "Qatar has announced the conditions under which foreign newborn babies can receive a free visa on arrival at its airports. The announcement is part of wider reporting on the visas available to foreigners landing in the country, including free transit visas for two groups of travellers.",
+   "n": 3,
+   "more": [
+    "Reports differ on whether there are four or five conditions.",
+    "Qatar also lists nine visa types available on arrival."
+   ],
+   "added": "2026-10-24"
+  },
+  {
+   "id": "khloe-single",
+   "c": "world",
+   "h": "Khloe Kardashian says past relationships make her doubt her judgment on men",
+   "p": "Reality TV star Khloe Kardashian says she has been single for four years. She says her track record in relationships means she does not fully trust herself when it comes to men.",
+   "n": 1,
+   "more": [
+    "She reportedly made the remarks while discussing her love life."
+   ],
+   "added": "2026-10-24"
+  },
   {
    "id": "blessing-ceo-released",
    "c": "celebs",
@@ -167,8 +202,8 @@
    "id": "apc-fake-news-kaduna",
    "c": "elections",
    "h": "APC accuses Atiku and ADC of a fake news plot against Tinubu's Kaduna rally",
-   "p": "The ruling party has reportedly accused Atiku Abubakar and the ADC of spreading false reports to sabotage its campaign flag-off in Kaduna. There was no immediate response from the ADC camp in the reports seen.",
-   "n": 1,
+   "p": "The ruling party has reportedly accused Atiku Abubakar and the ADC of spreading false reports to sabotage its campaign flag-off in Kaduna. There was no immediate response from the ADC camp in the reports seen. The ADC has reportedly fired back, rejecting the deepfake claims and challenging the APC to provide evidence.",
+   "n": 2,
    "more": [
     "The rally is the first big stop of the APC re-election campaign.",
     "The ADC has been busy with its own campaign council inauguration in Abuja this weekend."
@@ -971,143 +1006,6 @@
    "img": "img/cbn-money.jpg",
    "alt": "A Nigerian 500 naira note",
    "credit": "Photo: CBN / Wikimedia Commons (Public domain)"
-  },
-  {
-   "id": "carrick",
-   "c": "sport",
-   "h": "Carrick reportedly weighs action against Bruno Fernandes over his comments",
-   "p": "Manchester United boss Michael Carrick is said to be considering punishment for captain Bruno Fernandes after remarks he made following the loss to Como. Onana is also reported to be recovering after a car accident in Turkey.",
-   "n": 1,
-   "more": [
-    "Fernandes' home was burgled during the match.",
-    "United face Bournemouth next."
-   ],
-   "added": "2026-10-23",
-   "img": "img/carrick.jpg",
-   "alt": "Michael Carrick",
-   "credit": "Photo: Timmy96 / Wikimedia Commons (CC0)"
-  },
-  {
-   "id": "macron",
-   "c": "world",
-   "h": "France's Macron reportedly postpones state visit to Nigeria",
-   "p": "French President Emmanuel Macron has reportedly delayed the state visit to Nigeria planned for 28 October. The delay is said to be linked to protests and unrest back home in France. No new date has been announced.",
-   "n": 1,
-   "more": [
-    "The trip had been billed as a chance to review progress between Abuja and Paris.",
-    "A fresh date is yet to be confirmed by either government."
-   ],
-   "added": "2026-10-23",
-   "img": "img/macron.jpg",
-   "alt": "French President Emmanuel Macron",
-   "credit": "Photo: Nebojša Tejić / Wikimedia Commons (Public domain)"
-  },
-  {
-   "id": "durban-xenophobia",
-   "c": "naija",
-   "h": "Nigerian man reportedly hacked to death in South Africa as xenophobic attacks continue",
-   "p": "A man believed to be a Nigerian has reportedly been killed by a mob in Durban, South Africa, as attacks on foreigners in the country go on. Police in KwaZulu-Natal say a group of about 50 people was marching along Dr Pixley kaSeme Street in the city centre on Thursday, 22 October, when two men broke away, approached a man standing by the roadside and attacked him. He was declared dead at the scene. Police have not named the victim, describing him only as a foreign national in his late 30s or early 40s. A source told SaharaReporters that he was Nigerian and that he was hacked to death, but this has not been independently confirmed. Videos circulating online show a crowd armed with sticks and other weapons chasing a man in a red top and blue jeans through an open street in Durban, knocking him down and beating him repeatedly. Two security officers appear to try to step in but pull back as the crowd grows. It is not yet clear whether the videos show the same attack police are investigating. Police have opened a murder case and say they are following several leads to identify and arrest the suspects. No arrests have been announced. The killing comes amid a wave of anti-immigrant protests and violence that spread across South Africa this year, with groups demanding that foreigners leave the country. Nigeria's ambassador-designate, Femi Fani-Kayode, said in September that at least 12 Nigerians had been killed in South Africa in 2026, and 112 since 2022, with no convictions. Nigeria's Foreign Affairs Ministry says more than 2,000 Nigerians have returned home on evacuation flights since June, and has urged those still in South Africa to stay vigilant, avoid affected areas and keep in touch with the High Commission and consulate.",
-   "n": 1,
-   "hot": 7,
-   "more": [
-    "Police say two men broke away from a march of about 50 people and attacked the victim",
-    "Victim not yet named; Nigerian nationality not officially confirmed",
-    "At least 12 Nigerians killed in South Africa this year, says envoy"
-   ],
-   "img": "img/durban.jpg",
-   "alt": "Aerial view of a crowd and a police van on a street in Durban during an attack",
-   "credit": "Photo: Social media",
-   "added": "2026-10-23",
-   "owner": true
-  },
-  {
-   "id": "eastleigh",
-   "c": "world",
-   "h": "Moment multi-storey building under construction collapses in Nairobi's Eastleigh",
-   "p": "A multi-storey building still under construction came crashing down in the Eastleigh area of Nairobi, Kenya, early on Friday afternoon, sparking a frantic rescue operation amid fears that several people were trapped under the rubble. The structure stood along Yusuf Haji Avenue, next to Day to Day Supermarket on 9th Street, in one of the city's busiest commercial hubs. Reports of its height vary, with some outlets putting it at 18 floors and Nairobi police commander Issa Mohamed saying it was about 10. Videos from the scene show slabs of concrete falling and a thick cloud of dust rolling down the street as people ran for safety. Kenya Red Cross teams, Nairobi County emergency crews and police joined the search, and the county said excavators had been brought in to clear debris and reach anyone trapped. Police fired tear gas to push back crowds of onlookers and stop the looting of nearby shops. Inspector General of Police Douglas Kanja reportedly confirmed that one person had been pulled out alive, and the search continued into the night. The cause of the collapse is not yet known. It comes less than a week after another building collapse on Moi Avenue in Nairobi's central business district.",
-   "n": 3,
-   "hot": 6,
-   "more": [
-    "Several people feared trapped as search goes on into the night",
-    "Police fire tear gas to clear onlookers and stop looting",
-    "Second Nairobi building collapse in under a week"
-   ],
-   "img": "img/eastleigh.jpg",
-   "alt": "Dust clouds billow as a building under construction collapses in Eastleigh, Nairobi",
-   "credit": "Photo: Social media",
-   "added": "2026-10-23"
-  },
-  {
-   "id": "biya",
-   "c": "world",
-   "h": "Biya is back in Cameroon, but can the 93-year-old still rule?",
-   "p": "Two months after Paul Biya flew home from Switzerland, Cameroonians are still asking the same question: who is really running the country? The 93-year-old, the world's oldest serving head of state, landed in Yaoundé on 20 August after 73 days abroad, most of it reportedly spent at the InterContinental Hotel in Geneva. It was the longest absence of a presidency that began in November 1982, far beyond his previous record of 42 days away in 2024, and it set off fresh speculation about his health. Since his return, very little has happened. Biya won an eighth term in the disputed October 2025 election, with the Constitutional Council declaring him winner on 53.66 per cent, a result runner-up Issa Tchiroma Bakary still rejects from exile. A year on, he has not named a new government, and a long-promised cabinet reshuffle has yet to come. The bigger worry is succession. In April, parliament restored the post of vice president, whose holder would automatically take over if the president died, resigned or could no longer serve. Only Biya can fill it, and he has not. In June, a sealed envelope containing a supposed presidential decree naming a vice president was delivered to state broadcaster CRTV, a document the government later disputed. Without a vice president, Senate President Aboubakary Abdoulaye would lead until fresh elections. Many analysts see Ferdinand Ngoh Ngoh, Secretary-General of the Presidency, as the country's de facto ruler and a possible vice president-in-waiting. Government spokesman René Emmanuel Sadi insists the timing of any appointments is the president's call alone. Critics say Cameroon is being run on autopilot while it battles a separatist conflict in its English-speaking regions and attacks by Islamic State-linked fighters in the north.",
-   "n": 3,
-   "hot": 8,
-   "more": [
-    "Biya spent a record 73 days abroad, mostly in Geneva",
-    "Still no new government a year after his disputed re-election",
-    "Vice president post restored in April but remains empty"
-   ],
-   "img": "img/biya.jpg",
-   "alt": "President Paul Biya casts his ballot as First Lady Chantal Biya looks on",
-   "credit": "Photo: Social media",
-   "added": "2026-10-23",
-   "owner": true
-  },
-  {
-   "id": "peller-jarvis-block",
-   "c": "creators",
-   "h": "Peller and Jarvis block each other after live-stream fight, two months into marriage",
-   "p": "Streamer Peller and his wife Jarvis have blocked each other on social media after a heated argument on a live stream in the early hours of Friday. The row began when Peller said the couple were like a father and mother to Jarvis's younger sister, and should be the ones to guide her and choose who she marries. Jarvis disagreed, telling him that if her family had chosen a husband for her, they would not have picked him, and that he should leave her family alone and focus on his own. An angry Peller removed her from the live and blocked her entire family, repeatedly asking his fans whether it was all because his body is small. Jarvis then blocked him too. Peller later went on his WhatsApp channel, called her a fool for blocking him, and blocked her back. The couple married in August, and Jarvis is seven months pregnant.",
-   "n": 1,
-   "hot": 9,
-   "more": [
-    "The row started over who should choose a husband for Jarvis's younger sister",
-    "Peller blocked Jarvis's whole family; she blocked him back",
-    "The couple shared maternity photos only two weeks ago"
-   ],
-   "img": "img/peller-jarvis-block.jpg",
-   "alt": "Peller and Jarvis smiling in a car",
-   "credit": "Photo: Social media",
-   "owner": true,
-   "added": "2026-10-23",
-   "confirmed": true
-  },
-  {
-   "id": "duru",
-   "img": "img/duru.jpg",
-   "alt": "Francis Duru",
-   "credit": "Photo: VOA/Gilbert Tamba / Wikimedia Commons, Public domain",
-   "c": "celebs",
-   "h": "Nollywood mourns Francis Duru, dead at 57",
-   "p": "Veteran actor Francis Duru has died at 57 after a brief illness, two years after he lost his teenage son. Old posts about his son, his wife Adokiye and an earlier video where he answered health rumours are now circulating as tributes pour in.",
-   "n": 2,
-   "more": [
-    "His words to his late son resurface",
-    "His final touching words to his wife",
-    "Old video on health rumours goes round again"
-   ],
-   "added": "2026-10-23"
-  },
-  {
-   "id": "obj",
-   "img": "img/obj.jpg",
-   "alt": "Olusegun Obasanjo",
-   "credit": "Photo: Africa Progress Panel / Wikimedia Commons, CC BY 2.0",
-   "c": "politics",
-   "h": "Obasanjo to Tinubu: your policies made Nigeria the poverty capital",
-   "p": "Speaking at a summit in London, former President Olusegun Obasanjo blamed naira devaluation under the Tinubu government for deepening hardship, as 2027 politicking heats up.",
-   "n": 2,
-   "added": "2026-10-23"
-  },
-  {
-   "id": "gcfr",
-   "c": "celebs",
-   "h": "Mrs GCFR's family confirms her death",
-   "p": "Fans are heartbroken after the family of the online personality known as Mrs GCFR confirmed she has died. Her last celebratory post is now full of condolence messages.",
-   "n": 1,
-   "added": "2026-10-23"
   }
  ]
 }
