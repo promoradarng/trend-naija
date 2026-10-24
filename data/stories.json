@@ -1,5 +1,5 @@
 {
- "updated": "Updated 04:32 BST",
+ "updated": "Updated 05:32 BST",
  "date": "Saturday, 24 October 2026",
  "categories": {
   "all": "All gist",
@@ -14,6 +14,18 @@
   "sport": "Sport"
  },
  "stories": [
+  {
+   "id": "fayose-wike",
+   "c": "celebs",
+   "h": "Isaac Fayose shares photos with Wike's son Joaquin, calls him his younger brother",
+   "p": "Isaac Fayose, son of former Ekiti governor Ayodele Fayose, has posted photos of himself spending time with Joaquin, the son of FCT Minister Nyesom Wike. He described the young man as his younger brother. The pictures drew lively reactions online.",
+   "n": 1,
+   "more": [
+    "The two fathers are among the best-known figures in Nigerian politics.",
+    "Reactions online have mostly been light-hearted."
+   ],
+   "added": "2026-10-24"
+  },
   {
    "id": "saka-thigh",
    "c": "sport",
@@ -712,7 +724,7 @@
    "c": "naija",
    "h": "State police clears the 24-state hurdle",
    "p": "Twenty-four state Houses of Assembly have now voted for the constitutional amendment creating state police, reaching the two-thirds of states the constitution requires. Lagos, Ondo, Ebonyi and several northern states are yet to vote. The resolutions now head back to the National Assembly and then to the President for assent. Gombe's Assembly is the latest reported to have approved the bill.",
-   "n": 5,
+   "n": 6,
    "hot": 6,
    "added": "2026-10-23"
   },
