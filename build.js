@@ -9,7 +9,9 @@ const CATS = data.categories;
 const stories = data.stories;
 
 const esc = t => String(t ?? "").replace(/[&<>"]/g, m => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[m]));
-const fig = (s, eager) => s.img
+const fig = (s, eager) => (s.imgs && s.imgs.length)
+  ? `<figure class="ph ph-multi">${s.imgs.map((src, i) => `<img src="/${esc(src)}" alt="${esc((s.alts || [])[i] || s.alt || s.h)}"${eager ? "" : ' loading="lazy"'} width="640" height="640">`).join("")}<figcaption>${esc(s.credit || "")}</figcaption></figure>`
+  : s.img
   ? `<figure class="ph"><img src="/${esc(s.img)}" alt="${esc(s.alt || s.h)}"${eager ? "" : ' loading="lazy"'} width="640" height="427"><figcaption>${esc(s.credit || "")}</figcaption></figure>`
   : "";
 

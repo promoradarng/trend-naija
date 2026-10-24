@@ -125,3 +125,7 @@ footer a{color:#FFFFFF}
 .page p,.page li{font-size:18px;max-width:65ch}
 .page .muted{color:var(--muted);font-size:15px}
 .card[hidden]{display:none!important}
+
+.ph-multi{display:grid;grid-template-columns:1fr 1fr;gap:4px}
+.ph-multi img,.lead .ph-multi img{aspect-ratio:1/1;object-position:50% 50%}
+.ph-multi figcaption{grid-column:1/-1}
