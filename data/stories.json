@@ -1,5 +1,5 @@
 {
- "updated": "Updated 19:35 BST",
+ "updated": "Updated 20:40 BST",
  "date": "Saturday, 24 October 2026",
  "categories": {
   "all": "All gist",
@@ -14,6 +14,91 @@
   "sport": "Sport"
  },
  "stories": [
+  {
+   "id": "zamfara-lawmakers-apc",
+   "c": "politics",
+   "h": "Eight Zamfara lawmakers reportedly return to the APC after meeting Tinubu",
+   "p": "Eight Zamfara Assembly members who quit the APC earlier this month are reported to have rejoined the party. Minister of State for Defence Bello Matawalle is said to have led them to the President, and a planned move to the ADC was reportedly shelved. The lawmakers had complained about unpaid salaries and insecurity.",
+   "n": 2,
+   "more": [
+    "Matawalle is being hailed by party supporters over the return.",
+    "Vehicles were reportedly presented to the lawmakers in Gusau on 21 October.",
+    "The ADC has not yet responded to the reported reversal."
+   ],
+   "added": "2026-10-24"
+  },
+  {
+   "id": "wike-obi-claim",
+   "c": "elections",
+   "h": "Wike makes fresh claim about Peter Obi, saying he gave him his political start",
+   "p": "FCT Minister Nyesom Wike has reportedly made a new claim about Peter Obi, saying he helped him in the past. Obi's camp has not yet responded to the remarks. The comments are drawing wide reaction as 2027 campaigning heats up.",
+   "n": 2,
+   "more": [
+    "Wike has previously said he gave Obi logistics support in 2023.",
+    "Supporters of Obi have disputed Wike's accounts before."
+   ],
+   "added": "2026-10-24"
+  },
+  {
+   "id": "tinubu-drags-atiku-obi",
+   "c": "elections",
+   "h": "Tinubu video taking aim at Atiku and Obi trends: 'You will not regret it'",
+   "p": "A video of President Tinubu urging voters to back him while taking aim at Atiku Abubakar and Peter Obi is trending online. It comes from the build-up to his campaign flag-off in Kaduna. Opposition supporters and APC loyalists are trading comments under the clip.",
+   "n": 2,
+   "more": [
+    "Atiku earlier replied to Tinubu's hunger remarks, calling him delusional.",
+    "The clip has been shared widely on X and Facebook."
+   ],
+   "added": "2026-10-24"
+  },
+  {
+   "id": "dmi-backs-tinubu",
+   "c": "politics",
+   "h": "Group called DMI backs Tinubu's economic reforms and announces 2027 alliance",
+   "p": "A group known as DMI has announced support for President Tinubu's economic reforms and declared an alliance ahead of the 2027 elections. The announcement adds to a run of endorsements as the APC campaign begins.",
+   "n": 1,
+   "more": [
+    "The group says the reforms need more time to deliver.",
+    "Critics say Nigerians are still struggling with the cost of living."
+   ],
+   "added": "2026-10-24"
+  },
+  {
+   "id": "adeboye-granddaughter",
+   "c": "naija",
+   "h": "Pastor Adeboye's blessing for his granddaughter on her wedding day stirs emotions",
+   "p": "RCCG General Overseer Pastor Enoch Adeboye has drawn warm reactions online over the blessing he gave his granddaughter on her wedding day. Videos from the ceremony are circulating widely, with many users sharing congratulatory messages to the family.",
+   "n": 2,
+   "more": [
+    "Guests included church leaders and family friends.",
+    "Clips of the prayer have been reposted thousands of times."
+   ],
+   "added": "2026-10-24"
+  },
+  {
+   "id": "ndc-convoy-attack",
+   "c": "elections",
+   "h": "Gunmen reportedly open fire on NDC candidate's convoy in Ebonyi",
+   "p": "Gunmen are said to have attacked the convoy of a candidate of the NDC in Ebonyi State, reportedly killing one person and injuring three others. Police are yet to give full details of the incident.",
+   "n": 1,
+   "more": [
+    "The candidate is not reported to have been among the injured.",
+    "The attack has raised fresh worries about election-season security."
+   ],
+   "added": "2026-10-24"
+  },
+  {
+   "id": "sina-rambo-wife",
+   "c": "celebs",
+   "h": "Sina Rambo's wife Heidi Korth responds to fresh reports of trouble in their marriage",
+   "p": "Heidi Korth has spoken out after new reports of a crisis in her marriage to Nollywood actor Sina Rambo. She has reportedly addressed the claims of separation online, and the actor is yet to publicly respond.",
+   "n": 2,
+   "more": [
+    "Fans have been split in the comment sections.",
+    "Neither side has announced any legal step."
+   ],
+   "added": "2026-10-24"
+  },
   {
    "id": "soldiers-bread-water",
    "c": "naija",
@@ -891,74 +976,6 @@
    "added": "2026-10-24"
   },
   {
-   "id": "ballondor-london",
-   "c": "sport",
-   "h": "Updated Ballon d'Or rankings published days before London ceremony",
-   "p": "Fresh rankings for the 2026 Ballon d'Or have reportedly been released just days ahead of the award ceremony in London. Football fans in Nigeria and beyond are debating who deserves the trophy.",
-   "n": 1,
-   "more": [
-    "The ceremony is due to take place in London early next week.",
-    "Several players are said to be in contention for the top prize."
-   ],
-   "added": "2026-10-24",
-   "img": "img/ballondor-london.jpg",
-   "alt": "A Ballon d'Or trophy on display",
-   "credit": "Photo: Tkotw12 / Wikimedia Commons (CC BY-SA 4.0)"
-  },
-  {
-   "id": "queen-naomi",
-   "c": "celebs",
-   "h": "Ooni's Queen Naomi opens up on four-year university journey ahead of convocation",
-   "p": "Queen Naomi has reportedly spoken about her four years at university, including retaking JAMB and balancing motherhood with her studies. She is said to be preparing for her 2026 convocation.",
-   "n": 1,
-   "more": [
-    "She says she sat the JAMB exam a second time before gaining admission."
-   ],
-   "added": "2026-10-24"
-  },
-  {
-   "id": "fayose-wike",
-   "c": "celebs",
-   "h": "Isaac Fayose shares photos with Wike's son Joaquin, calls him his younger brother",
-   "p": "Isaac Fayose, son of former Ekiti governor Ayodele Fayose, has posted photos of himself spending time with Joaquin, the son of FCT Minister Nyesom Wike. He described the young man as his younger brother. The pictures drew lively reactions online.",
-   "n": 1,
-   "more": [
-    "The two fathers are among the best-known figures in Nigerian politics.",
-    "Reactions online have mostly been light-hearted."
-   ],
-   "added": "2026-10-24",
-   "img": "img/fayose-wike.jpg",
-   "alt": "Nyesom Wike",
-   "credit": "Photo: Hygist / Wikimedia Commons (CC BY 4.0)"
-  },
-  {
-   "id": "saka-thigh",
-   "c": "sport",
-   "h": "Arsenal's Bukayo Saka reportedly facing six to eight weeks out with a thigh injury",
-   "p": "Arsenal winger Bukayo Saka is reportedly set to miss between six and eight weeks with a thigh problem. The England international is said to be a major doubt for upcoming club and national fixtures.",
-   "n": 1,
-   "more": [
-    "The club has not yet published a full medical update.",
-    "The injury is a setback for Arsenal's busy fixture schedule."
-   ],
-   "added": "2026-10-24",
-   "img": "img/saka-thigh.jpg",
-   "alt": "Bukayo Saka in an England shirt",
-   "credit": "Photo: Bryan Berlin / Wikimedia Commons (CC BY-SA 4.0)"
-  },
-  {
-   "id": "apc-youth-kidnap",
-   "c": "naija",
-   "h": "APC youth leader and wife reportedly kidnapped by gunmen at their home",
-   "p": "A youth leader of the APC and his wife were reportedly abducted by gunmen at their home. The incident comes days after an APC lawmaker was reportedly kidnapped and later killed.",
-   "n": 1,
-   "more": [
-    "Police are yet to give details of the abduction.",
-    "Insecurity is again a talking point as campaigns for 2027 get under way."
-   ],
-   "added": "2026-10-24"
-  },
-  {
    "id": "tinubu-kaduna",
    "c": "elections",
    "h": "Tinubu's 2027 re-election campaign flags off in Kaduna today",
@@ -974,60 +991,6 @@
    "alt": "President Bola Tinubu in a cream agbada and cap speaks at a green lectern, flanked by aides and a soldier",
    "credit": "Photo: Trend Naija",
    "owner": true
-  },
-  {
-   "id": "peller-sister",
-   "c": "creators",
-   "h": "Peller and Jarvis reportedly clash again, this time over her younger sister",
-   "p": "A fresh argument between the streamers has reportedly spilled online, with the couple disagreeing over her younger sister and where family boundaries should lie. It follows their live-stream fight and the decision to block each other earlier this week.",
-   "n": 2,
-   "more": [
-    "Peller recently said he needs to grow into a man after the first clash.",
-    "The pair are two months into their marriage."
-   ],
-   "added": "2026-10-24",
-   "img": "img/peller-sister.jpg",
-   "alt": "Streamer Peller",
-   "credit": "Photo: LuckGr8t / Wikimedia Commons (CC0)"
-  },
-  {
-   "id": "agbese-kingibe",
-   "c": "politics",
-   "h": "Agbese rejects Kingibe's claim of a 25% fuel levy as false",
-   "p": "Agbese has reportedly hit back at Kingibe, calling his allegation of a 25% levy on fuel a fabrication. The exchange adds to the growing war of words ahead of the 2027 polls.",
-   "n": 1,
-   "more": [
-    "No official figures on the alleged levy have been published.",
-    "Both sides are expected to keep trading claims as campaigns heat up."
-   ],
-   "added": "2026-10-24"
-  },
-  {
-   "id": "kogi-apc",
-   "c": "politics",
-   "h": "Kogi APC group warns Faleke-Audu loyalists over alleged anti-party moves",
-   "p": "A group within the Kogi APC has reportedly cautioned loyalists of Faleke and Audu over alleged anti-party activity ahead of 2027. The loyalists have not yet publicly responded.",
-   "n": 1,
-   "more": [
-    "Internal party tensions are surfacing in several states as primaries and campaigns advance.",
-    "The party has not announced any disciplinary action."
-   ],
-   "added": "2026-10-24"
-  },
-  {
-   "id": "fbi-charged",
-   "c": "world",
-   "h": "Two former senior FBI officials charged over testimony about Hunter Biden laptop",
-   "p": "Two former senior FBI officials have reportedly been charged with misleading Congress over matters linked to the Hunter Biden laptop story. The charges are allegations and neither man has been convicted.",
-   "n": 1,
-   "more": [
-    "The case is expected to draw sharp political reaction in Washington.",
-    "Court dates have not yet been widely reported."
-   ],
-   "added": "2026-10-24",
-   "img": "img/fbi-charged.jpg",
-   "alt": "FBI headquarters, the J. Edgar Hoover Building, in Washington",
-   "credit": "Photo: Ryan J. Reilly / Wikimedia Commons (CC BY 2.0)"
   }
  ]
 }
