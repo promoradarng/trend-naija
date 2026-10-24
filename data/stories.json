@@ -1,5 +1,5 @@
 {
- "updated": "Updated 00:33 BST",
+ "updated": "Updated 01:40 BST",
  "date": "Saturday, 24 October 2026",
  "categories": {
   "all": "All gist",
@@ -14,6 +14,43 @@
   "sport": "Sport"
  },
  "stories": [
+  {
+   "id": "atiku-bait",
+   "c": "elections",
+   "h": "Atiku camp calls Tinubu's 90-day cost-of-living plan \"election bait\"",
+   "p": "Atiku's campaign has reportedly dismissed the president's 90-day plan to ease the cost of living as a pre-election move. The plan was backed by the National Economic Council a day earlier, though details have not been published. The presidency has not yet responded to the claim.",
+   "n": 2,
+   "more": [
+    "The National Economic Council endorsed the plan on Thursday.",
+    "Full details of the measures are yet to be released.",
+    "Tinubu's 2027 campaign has just been flagged off."
+   ],
+   "added": "2026-10-24"
+  },
+  {
+   "id": "wike-abbo",
+   "c": "politics",
+   "h": "Wike reportedly denies endorsing Labour Party's Abbo in Adamawa governorship race",
+   "p": "Claims that FCT Minister Nyesom Wike backed the Labour Party's candidate for the Adamawa governorship have drawn attention online. Wike is said to have denied the report. Observers are watching how the race develops ahead of 2027.",
+   "n": 1,
+   "more": [
+    "Wike has reportedly rejected the endorsement claim.",
+    "The Adamawa governorship race is attracting wider attention."
+   ],
+   "added": "2026-10-24"
+  },
+  {
+   "id": "kingcnd",
+   "c": "music",
+   "h": "King CND reportedly slams Burna Boy over reconciliation with Davido",
+   "p": "Content creator King CND has reportedly criticised Burna Boy for making peace with Davido, saying he betrayed VeryDarkMan. The comments come as the feud between VeryDarkMan and Davido continues to trend.",
+   "n": 1,
+   "more": [
+    "VeryDarkMan recently showed a school renovation said to be funded by Burna Boy.",
+    "The Davido and VeryDarkMan feud is still generating reactions online."
+   ],
+   "added": "2026-10-24"
+  },
   {
    "id": "peller-grow",
    "c": "creators",
@@ -758,38 +795,6 @@
    "h": "Arizona mum speaks after son found alive in hospital morgue",
    "p": "The mother of a toddler found alive in a morgue hours after he was declared dead described it as \"an unexplainable feeling\".",
    "n": 1,
-   "added": "2026-10-23"
-  },
-  {
-   "id": "malta",
-   "img": "img/malta.jpg",
-   "alt": "Valletta, Malta, at night",
-   "credit": "Photo: Marika Caruana / Wikimedia Commons, CC BY-SA 4.0",
-   "c": "world",
-   "h": "Japa watch: Malta sets residence-permit deadline before new tax",
-   "p": "Malta has set a cutoff for foreigners to apply for residence permits, and announced what foreign residents will pay in tax from January 2027.",
-   "n": 1,
-   "added": "2026-10-23"
-  },
-  {
-   "id": "makinde",
-   "c": "elections",
-   "h": "Makinde defends 2027 run against a sitting South-West president",
-   "p": "Oyo governor Seyi Makinde, the APM's presidential candidate, reportedly told a party town hall in Akure that the sky did not fall when two South-West candidates ran in 1999, and challenged rivals to match his stamina on the campaign trail. He also took a veiled swipe at President Tinubu.",
-   "n": 1,
-   "hot": 12,
-   "added": "2026-10-23"
-  },
-  {
-   "id": "atikuinec",
-   "c": "elections",
-   "h": "Atiku presses INEC to publish the 103 million-name voters' register",
-   "p": "ADC candidate Atiku Abubakar says people who checked INEC's portal during the 9–15 October display window reportedly met an empty page. He wants the preliminary register released now and says his party will challenge any refusal.",
-   "n": 1,
-   "hot": 12,
-   "img": "img/atikuinec.jpg",
-   "alt": "Portrait of Atiku Abubakar in a pinstripe suit",
-   "credit": "Photo: Etauso / Wikimedia Commons, CC0",
    "added": "2026-10-23"
   }
  ]
