@@ -1,5 +1,5 @@
 {
- "updated": "Updated 13:40 BST",
+ "updated": "Updated 14:35 BST",
  "date": "Saturday, 24 October 2026",
  "categories": {
   "all": "All gist",
@@ -14,6 +14,54 @@
   "sport": "Sport"
  },
  "stories": [
+  {
+   "id": "adc-deepfake-reply",
+   "c": "elections",
+   "h": "ADC fires back at APC over deepfake claims and asks for evidence",
+   "p": "The ADC has rejected allegations by the ruling party that it is behind deepfake content aimed at President Tinubu. The party challenged the APC to publish proof of its claim. The exchange comes on the day Tinubu launches his re-election campaign in Kaduna.",
+   "n": 1,
+   "more": [
+    "The ADC says accusations alone cannot replace evidence.",
+    "The row adds to a growing war of words between both campaigns."
+   ],
+   "added": "2026-10-24"
+  },
+  {
+   "id": "dstv-prices-final",
+   "c": "naija",
+   "h": "MultiChoice reportedly takes final decision on cheaper DStv decoder and subscription prices",
+   "p": "MultiChoice has reportedly settled on lower prices for DStv decoders and subscriptions in Nigeria. Details of the new price list were said to be shared with customers. Subscribers have been waiting for relief as the cost of living bites.",
+   "n": 1,
+   "more": [
+    "The new prices are said to apply to decoders and some bouquets.",
+    "Customers are advised to check official channels for the exact figures."
+   ],
+   "added": "2026-10-24"
+  },
+  {
+   "id": "tonto-prophecy",
+   "c": "celebs",
+   "h": "Tonto Dikeh causes a stir by calling out names while delivering a prophecy in church",
+   "p": "Actress Tonto Dikeh reportedly drew attention online after mentioning specific names while delivering a prophecy during a church service. Clips of the moment have been widely shared, with reactions divided.",
+   "n": 1,
+   "more": [
+    "Some viewers praised her boldness while others questioned the approach.",
+    "She has not publicly commented further, according to reports."
+   ],
+   "added": "2026-10-24"
+  },
+  {
+   "id": "caf-afcon-cycle",
+   "c": "sport",
+   "h": "CAF gives member associations a deadline to choose a 4-year or 2-year AFCON cycle",
+   "p": "The Confederation of African Football has set a deadline for national associations to decide whether the Africa Cup of Nations should be held every two years or every four years. The outcome will shape the continental calendar for Nigeria and other nations.",
+   "n": 1,
+   "more": [
+    "The decision is expected to affect club-versus-country scheduling.",
+    "Associations are expected to vote after the deadline."
+   ],
+   "added": "2026-10-24"
+  },
   {
    "id": "remi-tompolo",
    "c": "politics",
@@ -982,75 +1030,6 @@
    "img": "img/zlatan.jpg",
    "alt": "Singer Zlatan Ibile",
    "credit": "Photo: WALINTEEN PRO / Wikimedia Commons (CC BY 3.0)"
-  },
-  {
-   "id": "vdm-davido",
-   "c": "music",
-   "h": "Old prayer by VeryDarkMan's mother for Davido resurfaces amid their feud",
-   "p": "An older prayer said by VeryDarkMan's mother for Davido has resurfaced online as the two continue to trade words. Cubana Chiefpriest also made a subtle remark about Davido.",
-   "n": 1,
-   "more": [
-    "Fans of both sides have been commenting heavily.",
-    "Neither camp has ended the back-and-forth."
-   ],
-   "added": "2026-10-23",
-   "img": "img/vdm-davido.jpg",
-   "alt": "Davido in sunglasses",
-   "credit": "Photo: OLAMIPOSI DANIEL / Wikimedia Commons (CC BY-SA 4.0)"
-  },
-  {
-   "id": "echendu",
-   "c": "celebs",
-   "h": "Nollywood actor Steven Echendu reportedly dies hours after Francis Duru",
-   "p": "Fans are mourning actor Steven Echendu, who is said to have died hours after the death of Francis Duru. Tinubu and colleagues such as Mercy Johnson have also paid tribute to the late actors.",
-   "n": 1,
-   "more": [
-    "Details of the cause have not been widely confirmed.",
-    "Industry groups are expected to speak."
-   ],
-   "added": "2026-10-23"
-  },
-  {
-   "id": "okoya",
-   "c": "celebs",
-   "h": "Razaq Okoya's family responds to his son over dispute involving Shade Okoya",
-   "p": "The family of the late billionaire Razaq Okoya has reportedly replied to his son and given their own account of the dispute involving Shade Okoya.",
-   "n": 1,
-   "more": [
-    "The exchange has drawn heavy online comment.",
-    "No legal step has been announced."
-   ],
-   "added": "2026-10-23"
-  },
-  {
-   "id": "rema",
-   "c": "music",
-   "h": "Rema says showing off his wealth would pressure young people",
-   "p": "Afrobeats star Rema has explained that he avoids flaunting his success online because it could put pressure on young fans.",
-   "n": 1,
-   "more": [
-    "The comment was widely shared by fans.",
-    "He is among Nigeria's biggest global acts."
-   ],
-   "added": "2026-10-23",
-   "img": "img/rema.jpg",
-   "alt": "Rema performing live",
-   "credit": "Photo: Osaym / Wikimedia Commons (CC BY-SA 4.0)"
-  },
-  {
-   "id": "cbn-money",
-   "c": "naija",
-   "h": "CBN warns that keeping money paid by mistake can mean 5 to 10 years in prison",
-   "p": "The Central Bank of Nigeria has cautioned that anyone who refuses to return funds wrongly paid into their account risks a prison term of five to ten years.",
-   "n": 1,
-   "more": [
-    "Banks are urged to help trace wrong transfers.",
-    "The warning follows several viral cases."
-   ],
-   "added": "2026-10-23",
-   "img": "img/cbn-money.jpg",
-   "alt": "A Nigerian 500 naira note",
-   "credit": "Photo: CBN / Wikimedia Commons (Public domain)"
   }
  ]
 }
