@@ -1,5 +1,5 @@
 {
- "updated": "Updated 15:40 BST",
+ "updated": "Updated 18:40 BST",
  "date": "Saturday, 24 October 2026",
  "categories": {
   "all": "All gist",
@@ -14,6 +14,102 @@
   "sport": "Sport"
  },
  "stories": [
+  {
+   "id": "davido-zlatan-wedding",
+   "c": "celebs",
+   "h": "Davido arrives at Zlatan Ibile's wedding venue in a white Rolls-Royce",
+   "p": "Singer Davido has reportedly turned up at the venue of Zlatan Ibile and Davita Lamai's wedding in a white Rolls-Royce. A video of his arrival is circulating online, and fans also spotted him in footage of the groom's groomsmen getting ready.",
+   "n": 2,
+   "more": [
+    "Fans in the comments asked where one of the groom's regular friends was in the groomsmen video.",
+    "The traditional ceremony is still going on, with more guests expected."
+   ],
+   "added": "2026-10-24"
+  },
+  {
+   "id": "umahi-igbo-four-years",
+   "c": "elections",
+   "h": "Umahi asks why Igbos should get only four years when others have done eight",
+   "p": "Works Minister David Umahi has responded to Peter Obi's position on a South-East presidential term, asking why Igbos should be limited to four years when others have served eight. His comment adds to a growing debate over zoning and an Igbo presidency ahead of 2027.",
+   "n": 2,
+   "more": [
+    "The comment follows Anambra governor Charles Soludo's remark that backing Tinubu could open the door to an Igbo president.",
+    "Supporters of Obi's camp have yet to give a detailed reply."
+   ],
+   "added": "2026-10-24"
+  },
+  {
+   "id": "tinubu-permsec-recall",
+   "c": "politics",
+   "h": "Tinubu recalls suspended permanent secretary and gives his reason",
+   "p": "President Tinubu has reportedly recalled a permanent secretary who was suspended during an ICPC investigation. The presidency gave an explanation for the decision, which is already drawing comment online.",
+   "n": 1,
+   "more": [
+    "Critics are asking what the anti-graft agency's investigation found.",
+    "The recall comes as the government prepares for a busy campaign season."
+   ],
+   "added": "2026-10-24"
+  },
+  {
+   "id": "vdm-bred-car",
+   "c": "creators",
+   "h": "VeryDarkMan reportedly calls for a probe into how B-Red got his car",
+   "p": "Social media critic VeryDarkman has reportedly asked authorities to investigate how B-Red acquired a car, saying the means is \"not pure\". B-Red has not been reported to have replied at the time of writing.",
+   "n": 1,
+   "more": [
+    "It is the latest of several public call-outs by VeryDarkman this week, including over Davido.",
+    "No agency has said it will act on the request."
+   ],
+   "added": "2026-10-24"
+  },
+  {
+   "id": "tope-alabi-defamation",
+   "c": "music",
+   "h": "Tope Alabi warns social media users against defaming her",
+   "p": "Gospel singer Tope Alabi has said she will not tolerate false claims about her online and is reportedly ready to take legal action against those spreading them. She did not name anyone in the warning.",
+   "n": 1,
+   "more": [
+    "Fans have urged people to wait for facts before commenting.",
+    "She has not said what claims prompted the warning."
+   ],
+   "added": "2026-10-24"
+  },
+  {
+   "id": "rita-edochie-polygamy",
+   "c": "celebs",
+   "h": "Rita Edochie says she is not against polygamy",
+   "p": "Nollywood actress Rita Edochie has explained her position on polygamy after what she called a widespread misunderstanding of her earlier remarks. She said she is not against the practice.",
+   "n": 2,
+   "more": [
+    "Her earlier comments had been shared widely and sparked a debate on social media.",
+    "Reactions to her clarification remain mixed."
+   ],
+   "added": "2026-10-24"
+  },
+  {
+   "id": "kompany-hospital",
+   "c": "sport",
+   "h": "Bayern Munich boss Vincent Kompany reportedly taken to hospital after collapsing",
+   "p": "Bayern Munich manager Vincent Kompany was reportedly taken to hospital after collapsing while watching the club's second team train. No details on his condition have been given in the reports so far.",
+   "n": 1,
+   "more": [
+    "The club is expected to give an update on his health.",
+    "Bayern have a busy run of fixtures coming up."
+   ],
+   "added": "2026-10-24"
+  },
+  {
+   "id": "ntel-return",
+   "c": "naija",
+   "h": "NTEL returns to Nigeria with cheaper internet plans and eSIM",
+   "p": "Telecom company NTEL has reportedly returned to the Nigerian market, promising cheaper internet services and eSIM support. It is described as a former rival of MTN.",
+   "n": 1,
+   "more": [
+    "Pricing details and launch cities have yet to be fully explained.",
+    "The move comes as JPMorgan is also reported to be entering the Nigerian market."
+   ],
+   "added": "2026-10-24"
+  },
   {
    "id": "jarvis-respect-peller",
    "c": "creators",
@@ -338,7 +434,7 @@
    "c": "elections",
    "h": "Soludo says backing Tinubu in 2027 could pave the way for an Igbo presidency",
    "p": "Anambra governor Charles Soludo has reportedly argued that supporting the president's second-term bid could open the door to an Igbo presidency later. His remarks come as the debate over Igbo political terms continues between Peter Obi and David Umahi.",
-   "n": 1,
+   "n": 2,
    "more": [
     "Umahi earlier asked why Igbos should do only four years when others did eight.",
     "Obi's camp has not been reported as responding to Soludo yet."
@@ -485,7 +581,7 @@
    "c": "politics",
    "h": "Remi Tinubu says when she wants to leave Aso Rock",
    "p": "The First Lady has reportedly spoken about when she hopes to leave the presidential villa, as her husband begins his 2027 re-election campaign.",
-   "n": 1,
+   "n": 2,
    "more": [
     "The remarks come on the day of the APC campaign flag-off in Kaduna."
    ],
@@ -566,7 +662,7 @@
    "c": "naija",
    "h": "CBN reportedly grants JPMorgan approval to open a banking service in Nigeria",
    "p": "The Central Bank of Nigeria has reportedly approved US firm JPMorgan to set up a merchant banking operation in the country, in what would be a notable boost for foreign participation in the sector.",
-   "n": 1,
+   "n": 2,
    "more": [
     "The approval was reported by several Nigerian outlets.",
     "Further details on the licence are awaited."
@@ -661,21 +757,6 @@
    "img": "img/terror-653.jpg",
    "alt": "Office buildings in Abuja",
    "credit": "Photo: MediaMOF / Wikimedia Commons (CC BY-SA 4.0)"
-  },
-  {
-   "id": "politicians-children",
-   "c": "politics",
-   "h": "List of Nigerian politicians' children linked to financial crime cases goes round",
-   "p": "A compiled list of children of prominent Nigerian politicians facing financial crime allegations is drawing attention online. It includes the 16-count money laundering case against former Attorney-General Abubakar Malami, his wife and son, who have pleaded not guilty to charges involving about ₦8.7bn.",
-   "n": 1,
-   "more": [
-    "The Malami case is before a Federal High Court in Abuja.",
-    "The defendants deny all the charges."
-   ],
-   "added": "2026-10-24",
-   "img": "img/politicians-children.jpg",
-   "alt": "The National Assembly complex in Abuja",
-   "credit": "Photo: Shiraz Chakera / Wikimedia Commons (CC BY-SA 2.0)"
   },
   {
    "id": "omokri-mexico",
@@ -903,21 +984,6 @@
    "credit": "Photo: Hygist / Wikimedia Commons (CC BY 4.0)"
   },
   {
-   "id": "kingcnd",
-   "c": "music",
-   "h": "King CND reportedly slams Burna Boy over reconciliation with Davido",
-   "p": "Content creator King CND has reportedly criticised Burna Boy for making peace with Davido, saying he betrayed VeryDarkMan. The comments come as the feud between VeryDarkMan and Davido continues to trend.",
-   "n": 1,
-   "more": [
-    "VeryDarkMan recently showed a school renovation said to be funded by Burna Boy.",
-    "The Davido and VeryDarkMan feud is still generating reactions online."
-   ],
-   "added": "2026-10-24",
-   "img": "img/kingcnd.jpg",
-   "alt": "Burna Boy performing on stage",
-   "credit": "Photo: Nuță Lucian from Cluj-Napoca, Romania / Wikimedia Commons (CC BY-SA 2.0)"
-  },
-  {
    "id": "peller-grow",
    "c": "creators",
    "h": "Peller says he needs to grow into a man after clash with Jarvis",
@@ -944,111 +1010,6 @@
    ],
    "added": "2026-10-23",
    "img": "img/kwankwaso-second-term.jpg",
-   "alt": "Rabiu Kwankwaso speaking to the press",
-   "credit": "Photo: VOA / Wikimedia Commons (Public domain)"
-  },
-  {
-   "id": "adekunle-gold-sickle",
-   "c": "music",
-   "h": "Adekunle Gold announces $20,000 initiative for sickle cell patients",
-   "p": "Singer Adekunle Gold has announced a $20,000 initiative to support people living with sickle cell across four countries. He reportedly shared details of the programme on social media, and fans have praised the move.",
-   "n": 1,
-   "more": [
-    "The programme is said to cover patients in four countries.",
-    "Details on how to apply have yet to be widely shared."
-   ],
-   "added": "2026-10-23",
-   "img": "img/adekunle-gold-sickle.jpg",
-   "alt": "Adekunle Gold singing into a microphone",
-   "credit": "Photo: NdaniTV / Wikimedia Commons (CC BY-SA 2.5)"
-  },
-  {
-   "id": "ikorodu-police",
-   "c": "naija",
-   "h": "Lagos police commissioner orders detention of officers seen harassing a young man in Ikorodu",
-   "p": "The Lagos police commissioner has reportedly ordered the detention of officers captured on video harassing a young man in Ikorodu. The footage spread online and drew public anger, and an internal investigation is said to be under way.",
-   "n": 1,
-   "more": [
-    "The video went viral on social media this week.",
-    "Rights groups have called for the officers to face disciplinary action."
-   ],
-   "added": "2026-10-23",
-   "img": "img/ikorodu-police.jpg",
-   "alt": "Armed officers of the Nigeria Police Force",
-   "credit": "Photo: AMISOM Public Information / Wikimedia Commons (CC0)"
-  },
-  {
-   "id": "ronaldo-982",
-   "c": "sport",
-   "h": "Ronaldo scores his 982nd career goal",
-   "p": "Cristiano Ronaldo has reportedly added to his record tally with his 982nd career goal. The Portuguese forward continues to extend his lead as the most prolific scorer in the history of the game.",
-   "n": 1,
-   "more": [
-    "He is closing in on a historic 1,000 career goals.",
-    "Fans online celebrated the milestone."
-   ],
-   "added": "2026-10-23",
-   "img": "img/ronaldo-982.jpg",
-   "alt": "Cristiano Ronaldo in a Portugal shirt",
-   "credit": "Photo: Bryan Berlin / Wikimedia Commons (CC BY-SA 4.0)"
-  },
-  {
-   "id": "nlc",
-   "c": "naija",
-   "h": "NLC gives government until 27 October on fuel price and minimum wage",
-   "p": "The Nigeria Labour Congress has reportedly handed the federal government a four-day deadline to cut fuel prices and review the minimum wage. The union is said to be warning of possible action if nothing is done by 27 October.",
-   "n": 1,
-   "more": [
-    "Depots have lately lowered petrol and diesel rates.",
-    "Government has not yet replied to the ultimatum."
-   ],
-   "added": "2026-10-23",
-   "img": "img/nlc.jpg",
-   "alt": "Nigeria Labour Congress members on a protest march",
-   "credit": "Photo: Altruistic2020 / Wikimedia Commons (CC0)"
-  },
-  {
-   "id": "atiku-security",
-   "c": "elections",
-   "h": "Atiku criticises reports of security agents guarding Tinubu's campaign banners in Kaduna",
-   "p": "Atiku Abubakar has reportedly taken aim at President Tinubu over claims that security personnel were deployed to protect campaign materials in Kaduna ahead of the APC flag-off. The APC has pledged a strong turnout for Saturday's launch.",
-   "n": 1,
-   "more": [
-    "Atiku's camp has also called the 90-day cost-of-living plan 'election bait'.",
-    "The Tinubu camp has not commented on the banner claim."
-   ],
-   "added": "2026-10-23",
-   "img": "img/atiku-security.jpg",
-   "alt": "Atiku Abubakar in a suit",
-   "credit": "Photo: Etauso / Wikimedia Commons (CC0)"
-  },
-  {
-   "id": "umahi-highway",
-   "c": "elections",
-   "h": "Umahi says the Lagos-Calabar highway could stall if Tinubu loses in 2027",
-   "p": "Works Minister David Umahi has reportedly urged voters to back Tinubu, saying the Lagos-Calabar Coastal Highway may stay unfinished otherwise. He also said Peter Obi is no threat to the president.",
-   "n": 1,
-   "more": [
-    "The remarks drew mixed reactions online.",
-    "Opposition parties are yet to respond."
-   ],
-   "added": "2026-10-23",
-   "img": "img/umahi-highway.jpg",
-   "alt": "Dave Umahi in a red cap",
-   "credit": "Photo: Totalyell / Wikimedia Commons (CC BY 4.0)"
-  },
-  {
-   "id": "kwankwaso-convoy",
-   "c": "elections",
-   "h": "One reportedly killed as thugs attack a candidate's convoy linked to Kwankwaso's party",
-   "p": "Reports say hoodlums attacked the convoy of a candidate from the party of Rabiu Kwankwaso, leaving one person dead. Details of the location and any arrests have not been confirmed.",
-   "n": 1,
-   "more": [
-    "Parties have been urged to keep campaigns peaceful.",
-    "Police are yet to issue a statement."
-   ],
-   "added": "2026-10-23",
-   "img": "img/kwankwaso-convoy.jpg",
    "alt": "Rabiu Kwankwaso speaking to the press",
    "credit": "Photo: VOA / Wikimedia Commons (Public domain)"
   }
