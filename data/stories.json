@@ -1,5 +1,5 @@
 {
- "updated": "Updated 03:40 BST",
+ "updated": "Updated 04:32 BST",
  "date": "Saturday, 24 October 2026",
  "categories": {
   "all": "All gist",
@@ -14,6 +14,30 @@
   "sport": "Sport"
  },
  "stories": [
+  {
+   "id": "saka-thigh",
+   "c": "sport",
+   "h": "Arsenal's Bukayo Saka reportedly facing six to eight weeks out with a thigh injury",
+   "p": "Arsenal winger Bukayo Saka is reportedly set to miss between six and eight weeks with a thigh problem. The England international is said to be a major doubt for upcoming club and national fixtures.",
+   "n": 1,
+   "more": [
+    "The club has not yet published a full medical update.",
+    "The injury is a setback for Arsenal's busy fixture schedule."
+   ],
+   "added": "2026-10-24"
+  },
+  {
+   "id": "apc-youth-kidnap",
+   "c": "naija",
+   "h": "APC youth leader and wife reportedly kidnapped by gunmen at their home",
+   "p": "A youth leader of the APC and his wife were reportedly abducted by gunmen at their home. The incident comes days after an APC lawmaker was reportedly kidnapped and later killed.",
+   "n": 1,
+   "more": [
+    "Police are yet to give details of the abduction.",
+    "Insecurity is again a talking point as campaigns for 2027 get under way."
+   ],
+   "added": "2026-10-24"
+  },
   {
    "id": "tinubu-kaduna",
    "c": "elections",
@@ -784,28 +808,6 @@
    "c": "viral",
    "h": "Wife screams after seeing husband's watery beans",
    "p": "A woman's shocked reaction to the pot of beans her husband cooked has become the internet's favourite kitchen drama.",
-   "n": 1,
-   "added": "2026-10-23"
-  },
-  {
-   "id": "osimhen",
-   "c": "sport",
-   "h": "Osimhen under fire from Galatasaray fans after rant at critics",
-   "p": "Victor Osimhen is reportedly facing a backlash from some Galatasaray supporters after an angry message aimed at his critics, and a club board member has answered him with an open letter.",
-   "n": 1,
-   "img": "img/osimhen.jpg",
-   "alt": "Victor Osimhen in a Lille kit",
-   "credit": "Photo: Liondartois / Wikimedia Commons, CC BY-SA 4.0",
-   "added": "2026-10-23"
-  },
-  {
-   "id": "bruno",
-   "img": "img/bruno.jpg",
-   "alt": "Bruno Fernandes",
-   "credit": "Photo: Alexander Veprev / Wikimedia Commons, CC BY-SA 4.0",
-   "c": "sport",
-   "h": "Bruno Fernandes' house burgled during Man United's loss to Como",
-   "p": "Thieves broke into the Manchester United captain's Cheshire home while he was playing in the Champions League defeat to Como.",
    "n": 1,
    "added": "2026-10-23"
   }
