@@ -1,5 +1,5 @@
 {
- "updated": "Updated 14:35 BST",
+ "updated": "Updated 15:40 BST",
  "date": "Saturday, 24 October 2026",
  "categories": {
   "all": "All gist",
@@ -14,6 +14,21 @@
   "sport": "Sport"
  },
  "stories": [
+  {
+   "id": "burna-on-sneakers",
+   "c": "music",
+   "h": "Burna Boy's first sneaker collection with a Swiss running brand goes on sale",
+   "p": "Burna Boy has launched a three-shoe collection with the running brand On, released on 22 October through the brand's stores and selected retailers. Prices abroad range from about $150 to $180, and Nigerian outlets are putting the local cost at roughly ₦202,000 to ₦242,000.",
+   "n": 3,
+   "more": [
+    "The pack comes in three styles, including a Cloudmonster and a Cloudtilt Remix.",
+    "The launch comes days after the singer's much-discussed reconciliation with Davido."
+   ],
+   "img": "img/king-cnd-burna.jpg",
+   "alt": "Burna Boy performing on stage",
+   "credit": "Photo: Nuță Lucian from Cluj-Napoca, Romania / Wikimedia Commons (CC BY-SA 2.0)",
+   "added": "2026-10-24"
+  },
   {
    "id": "zlatan-wedding",
    "c": "celebs",
@@ -1018,36 +1033,6 @@
    "img": "img/kwankwaso-convoy.jpg",
    "alt": "Rabiu Kwankwaso speaking to the press",
    "credit": "Photo: VOA / Wikimedia Commons (Public domain)"
-  },
-  {
-   "id": "obasanjo-son",
-   "c": "elections",
-   "h": "Obasanjo's son names his preferred 2027 presidential candidate",
-   "p": "Olujuwon Obasanjo, son of former President Olusegun Obasanjo, has declared whom he prefers among Tinubu, Obi and Makinde for 2027. The comment adds to the debate over a southern candidate.",
-   "n": 1,
-   "more": [
-    "His father has been openly critical of the Tinubu government.",
-    "Supporters of each camp have reacted online."
-   ],
-   "added": "2026-10-23",
-   "img": "img/obasanjo-son.jpg",
-   "alt": "Olusegun Obasanjo",
-   "credit": "Photo: Helene C. Stikkel / Wikimedia Commons (Public domain)"
-  },
-  {
-   "id": "zlatan",
-   "c": "music",
-   "h": "Zlatan reportedly buys Hermes bag for his bride ahead of weekend wedding",
-   "p": "Singer Zlatan is said to have bought an expensive Hermes handbag for his fiancée before their wedding this Saturday. He also joked with fans on the street about contributing to the wedding costs.",
-   "n": 1,
-   "more": [
-    "Israel DMW earlier revealed what the aso ebi cost.",
-    "Guests are expected from across the entertainment scene."
-   ],
-   "added": "2026-10-23",
-   "img": "img/zlatan.jpg",
-   "alt": "Singer Zlatan Ibile",
-   "credit": "Photo: WALINTEEN PRO / Wikimedia Commons (CC BY 3.0)"
   }
  ]
 }
