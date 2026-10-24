@@ -1,5 +1,5 @@
 {
- "updated": "Updated 22:35 BST",
+ "updated": "Updated 23:40 BST",
  "date": "Saturday, 24 October 2026",
  "categories": {
   "all": "All gist",
@@ -14,6 +14,167 @@
   "sport": "Sport"
  },
  "stories": [
+  {
+   "id": "remi-tinubu-2031",
+   "c": "politics",
+   "h": "First Lady Remi Tinubu says she hopes to leave Aso Rock in 2031 to a Nigeria she can enjoy",
+   "p": "Remi Tinubu has spoken about when she expects to leave the presidential villa, saying she hopes to hand over in 2031 to a country that is more comfortable to live in. The remark has drawn wide comment as the 2027 campaign begins.",
+   "n": 3,
+   "more": [
+    "Her words are being read as a sign the family expects two terms in office.",
+    "Opposition figures have yet to respond directly.",
+    "Supporters say she was speaking about hopes for a better country."
+   ],
+   "added": "2026-10-24",
+   "at": "2026-10-24T22:33Z"
+  },
+  {
+   "id": "us-wanted-nigerians",
+   "c": "naija",
+   "h": "US agencies reportedly publish names and photos of Nigerians wanted over fraud and drug offences",
+   "p": "American law enforcement agencies have reportedly released the names and photographs of several Nigerian nationals they want in connection with alleged fraud and drug-related offences, and listed the accusations against them.",
+   "n": 2,
+   "more": [
+    "The notices are said to come from the FBI and the DEA.",
+    "Those named have not been tried and the allegations remain unproven.",
+    "Nigerian authorities have not yet commented."
+   ],
+   "added": "2026-10-24",
+   "at": "2026-10-24T22:33Z"
+  },
+  {
+   "id": "adekunle-gold-graduates",
+   "c": "music",
+   "h": "Adekunle Gold praised for giving N250,000 each to first-class graduates",
+   "p": "Adekunle Gold is drawing praise online after reportedly gifting N250,000 each to several first-class graduates. The singer is also in the news for a separate $20,000 initiative for sickle cell patients.",
+   "n": 1,
+   "more": [
+    "Many commenters called it a rare gesture of encouragement for academic excellence.",
+    "It follows his sickle cell announcement earlier today."
+   ],
+   "added": "2026-10-24",
+   "img": "img/adekunle-gold-sickle-cell.jpg",
+   "alt": "Adekunle Gold singing into a microphone",
+   "credit": "Photo: NdaniTV / Wikimedia Commons (CC BY-SA 2.5)",
+   "at": "2026-10-24T22:33Z"
+  },
+  {
+   "id": "dele-momodu-wike",
+   "c": "elections",
+   "h": "Dele Momodu takes a swipe at Wike over those 'inconsolable' about missing out on candidacy",
+   "p": "Publisher Dele Momodu has reportedly said some people remain inconsolable because they did not get a party ticket, in a remark widely read as aimed at Nyesom Wike.",
+   "n": 1,
+   "more": [
+    "The comment adds to the exchange of words among political figures ahead of 2027.",
+    "Wike has not responded in the reports seen so far."
+   ],
+   "added": "2026-10-24",
+   "at": "2026-10-24T22:33Z"
+  },
+  {
+   "id": "abuja-terror-convictions",
+   "c": "naija",
+   "h": "653 people reportedly convicted as federal government secures terrorism verdicts in Abuja mass trial",
+   "p": "The federal government has reportedly secured the conviction of 653 people in a mass terrorism trial held in Abuja.",
+   "n": 1,
+   "more": [
+    "The trial is among the largest of its kind in the country.",
+    "Details of the sentences were not immediately clear."
+   ],
+   "added": "2026-10-24",
+   "at": "2026-10-24T22:33Z"
+  },
+  {
+   "id": "edo-refinery-diesel",
+   "c": "naija",
+   "h": "Edo refinery reportedly exceeds full production capacity, with diesel supply at 620,000 litres a day",
+   "p": "The Edo refinery is said to be producing above its stated capacity, with daily diesel supply reportedly reaching 620,000 litres, as marketers adjust prices after Dangote halted diesel gantry sales.",
+   "n": 1,
+   "more": [
+    "The development comes as fuel marketers release new diesel prices.",
+    "Analysts will watch whether pump prices ease."
+   ],
+   "added": "2026-10-24",
+   "at": "2026-10-24T22:33Z"
+  },
+  {
+   "id": "apc-youth-leader-kidnapped",
+   "c": "naija",
+   "h": "APC youth leader and his wife reportedly kidnapped days after a lawmaker was killed",
+   "p": "An APC youth leader and his wife have reportedly been abducted, only days after a lawmaker was killed. Security agencies are said to be searching for them.",
+   "n": 1,
+   "more": [
+    "The incident has raised fresh worries about insecurity as the campaign season opens.",
+    "No group has claimed responsibility."
+   ],
+   "added": "2026-10-24",
+   "at": "2026-10-24T22:33Z"
+  },
+  {
+   "id": "rivers-virginity-tests",
+   "c": "naija",
+   "h": "Rivers government condemns alleged forced virginity testing of female secondary school students",
+   "p": "The Rivers State government has condemned reports that female secondary school students were subjected to forced virginity testing, calling the practice unacceptable.",
+   "n": 1,
+   "more": [
+    "Rights groups have long described such tests as degrading.",
+    "The state is expected to investigate the school concerned."
+   ],
+   "added": "2026-10-24",
+   "at": "2026-10-24T22:33Z"
+  },
+  {
+   "id": "chivayo-rolls-royce",
+   "c": "world",
+   "h": "Zimbabwean tycoon Wicknell Chivayo's custom Rolls-Royce Phantom arrives weeks after his death in a helicopter crash",
+   "p": "A custom Rolls-Royce Phantom ordered by Zimbabwean businessman Wicknell Chivayo has reportedly arrived at his Harare home, weeks after he died in a helicopter crash.",
+   "n": 1,
+   "more": [
+    "The car was ordered before his death.",
+    "Photos of its arrival have spread widely online."
+   ],
+   "added": "2026-10-24",
+   "at": "2026-10-24T22:33Z"
+  },
+  {
+   "id": "jordan-church-attack",
+   "c": "world",
+   "h": "Six reportedly killed and 28 injured as gunmen open fire at a Greek Orthodox church in Jordan",
+   "p": "Gunmen have reportedly attacked a Greek Orthodox church in Jordan, killing six people and wounding 28, according to video and reports circulating online.",
+   "n": 1,
+   "more": [
+    "Security forces are said to have responded to the scene.",
+    "Authorities have not yet given a full account of the attack."
+   ],
+   "added": "2026-10-24",
+   "at": "2026-10-24T22:33Z"
+  },
+  {
+   "id": "melania-ceasefire",
+   "c": "world",
+   "h": "Melania Trump reportedly helps secure a temporary Russia-Ukraine ceasefire so the elderly can be evacuated",
+   "p": "Melania Trump is reportedly credited with helping to arrange a short ceasefire between Russia and Ukraine to allow elderly civilians to be evacuated.",
+   "n": 1,
+   "more": [
+    "Details of how long the pause will last are unclear.",
+    "Neither government had given a detailed statement in the reports seen."
+   ],
+   "added": "2026-10-24",
+   "at": "2026-10-24T22:33Z"
+  },
+  {
+   "id": "infantino-fifa-term",
+   "c": "sport",
+   "h": "Asian football chief backs Gianni Infantino for another term as FIFA president",
+   "p": "A leading Asian football official has publicly backed Gianni Infantino to serve another term as FIFA president.",
+   "n": 1,
+   "more": [
+    "Other confederations are yet to declare their positions.",
+    "The FIFA election is some way off."
+   ],
+   "added": "2026-10-24",
+   "at": "2026-10-24T22:33Z"
+  },
   {
    "id": "jpmorgan-nigeria",
    "c": "naija",
@@ -805,192 +966,6 @@
    ],
    "added": "2026-10-24",
    "at": "2026-10-24T11:32Z"
-  },
-  {
-   "id": "adekunle-gold-sickle-cell",
-   "c": "music",
-   "h": "Adekunle Gold announces $20,000 initiative for sickle cell patients in four countries",
-   "p": "Singer Adekunle Gold has launched a $20,000 programme to support people living with sickle cell across four countries. The announcement drew praise from fans online.",
-   "n": 1,
-   "more": [
-    "The programme covers patients in four countries.",
-    "Fans have praised the gesture on social media."
-   ],
-   "added": "2026-10-24",
-   "img": "img/adekunle-gold-sickle-cell.jpg",
-   "alt": "Adekunle Gold singing into a microphone",
-   "credit": "Photo: NdaniTV / Wikimedia Commons (CC BY-SA 2.5)",
-   "at": "2026-10-24T11:32Z"
-  },
-  {
-   "id": "king-cnd-burna",
-   "c": "music",
-   "h": "King CND criticises Burna Boy over reconciliation with Davido, citing VeryDarkMan",
-   "p": "Content creator King CND has reportedly accused Burna Boy of betraying VeryDarkMan after the singer made peace with Davido. His remarks have drawn mixed reactions from fans online.",
-   "n": 1,
-   "more": [
-    "King CND says the reconciliation undermined VeryDarkMan.",
-    "Fans of both singers have reacted online."
-   ],
-   "added": "2026-10-24",
-   "img": "img/king-cnd-burna.jpg",
-   "alt": "Burna Boy performing on stage",
-   "credit": "Photo: Nuță Lucian from Cluj-Napoca, Romania / Wikimedia Commons (CC BY-SA 2.0)",
-   "at": "2026-10-24T11:32Z"
-  },
-  {
-   "id": "dj-dsf-children",
-   "c": "celebs",
-   "h": "DJ DSF says people who cannot afford children should not have them",
-   "p": "DJ DSF has sparked debate online after saying people who cannot afford to raise children should not have them. Reactions have been split between those who agree and those who call the comments insensitive.",
-   "n": 1,
-   "more": [
-    "The comments have started a debate on parenting and finances.",
-    "Social media users are divided."
-   ],
-   "added": "2026-10-24",
-   "at": "2026-10-24T11:32Z"
-  },
-  {
-   "id": "ebola-15-states",
-   "c": "naija",
-   "h": "Federal government places 15 states on Ebola alert and orders isolation centres",
-   "p": "The federal government has reportedly put 15 states on alert over Ebola and told hospitals to prepare isolation centres. The move follows the confirmed case in Abuja and growing concern about the virus returning to Nigeria.",
-   "n": 1,
-   "more": [
-    "Health officials are said to be urging states to step up surveillance at points of entry.",
-    "Public explainers are tracing how a disease first identified in 1976 has returned."
-   ],
-   "added": "2026-10-24",
-   "img": "img/ebola-15-states.jpg",
-   "alt": "Electron micrograph of Ebola virus particles",
-   "credit": "Photo: BernbaumJG / Wikimedia Commons (CC BY 4.0)",
-   "at": "2026-10-24T10:32Z"
-  },
-  {
-   "id": "apc-fake-news-kaduna",
-   "c": "elections",
-   "h": "APC accuses Atiku and ADC of a fake news plot against Tinubu's Kaduna rally",
-   "p": "The ruling party has reportedly accused Atiku Abubakar and the ADC of spreading false reports to sabotage its campaign flag-off in Kaduna. There was no immediate response from the ADC camp in the reports seen. The ADC has reportedly fired back, rejecting the deepfake claims and challenging the APC to provide evidence.",
-   "n": 2,
-   "more": [
-    "The rally is the first big stop of the APC re-election campaign.",
-    "The ADC has been busy with its own campaign council inauguration in Abuja this weekend."
-   ],
-   "added": "2026-10-24",
-   "img": "img/apc-fake-news-kaduna.jpg",
-   "alt": "Lugard Hall, the old parliament building in Kaduna",
-   "credit": "Photo: Dr Mary Gillham Archive Project / Wikimedia Commons (CC BY 2.0)",
-   "at": "2026-10-24T10:32Z"
-  },
-  {
-   "id": "soludo-igbo-presidency",
-   "c": "elections",
-   "h": "Soludo says backing Tinubu in 2027 could pave the way for an Igbo presidency",
-   "p": "Anambra governor Charles Soludo has reportedly argued that supporting the president's second-term bid could open the door to an Igbo presidency later. His remarks come as the debate over Igbo political terms continues between Peter Obi and David Umahi.",
-   "n": 2,
-   "more": [
-    "Umahi earlier asked why Igbos should do only four years when others did eight.",
-    "Obi's camp has not been reported as responding to Soludo yet."
-   ],
-   "added": "2026-10-24",
-   "img": "img/soludo-igbo-presidency.jpg",
-   "alt": "Anambra governor Charles Soludo in a red cap",
-   "credit": "Photo: Chinedueri / Wikimedia Commons (CC BY 4.0)",
-   "at": "2026-10-24T10:32Z"
-  },
-  {
-   "id": "conte-manutd",
-   "c": "sport",
-   "h": "Antonio Conte reportedly in talks over Manchester United job and sets conditions",
-   "p": "Former Chelsea manager Antonio Conte has reportedly discussed replacing Michael Carrick at Manchester United and laid out the terms he would want. Nothing has been confirmed by the club.",
-   "n": 1,
-   "more": [
-    "Carrick is said to be weighing action against Bruno Fernandes over his recent comments.",
-    "United are in Champions League action this week."
-   ],
-   "added": "2026-10-24",
-   "img": "img/conte-manutd.jpg",
-   "alt": "Antonio Conte at a press conference",
-   "credit": "Photo: Clément Bucco-Lechat / Wikimedia Commons (CC BY-SA 3.0)",
-   "at": "2026-10-24T10:32Z"
-  },
-  {
-   "id": "wizkid-father-trenches",
-   "c": "music",
-   "h": "Viral video of Wizkid's father in the trenches splits fans",
-   "p": "A viral clip said to show Wizkid's father in the trenches has sparked a fierce argument between fans online. An old post by the singer about his father has resurfaced in the row.",
-   "n": 2,
-   "more": [
-    "Fans on both sides have been trading posts on X and Instagram.",
-    "Wizkid has not been reported to have commented on the clip."
-   ],
-   "added": "2026-10-24",
-   "img": "img/wizkid-father-trenches.jpg",
-   "alt": "Wizkid performing on stage",
-   "credit": "Photo: TCD PHOTOGRAPHY/The TCD Concept Ltd / Wikimedia Commons (CC BY-SA 3.0)",
-   "at": "2026-10-24T10:32Z"
-  },
-  {
-   "id": "duru-wife-plans",
-   "c": "celebs",
-   "h": "Empress Njamah shares plans Francis Duru's wife had for him before his death",
-   "p": "Actress Empress Njamah has reportedly revealed what the late Francis Duru's wife had planned for him before his sudden death. An old prophecy about his passing has also resurfaced, drawing reactions from Nollywood colleagues.",
-   "n": 2,
-   "more": [
-    "A family source has shared details about his final hours.",
-    "Tributes continue to pour in from across Nollywood."
-   ],
-   "added": "2026-10-24",
-   "at": "2026-10-24T10:32Z"
-  },
-  {
-   "id": "osimhen-motm",
-   "c": "sport",
-   "h": "Turkish pundit questions Osimhen's man of the match award after Galatasaray beat Lille",
-   "p": "A Turkish commentator has reportedly doubted whether Victor Osimhen deserved the Champions League man of the match award in Galatasaray's win over Lille.",
-   "n": 1,
-   "more": [
-    "Galatasaray took the three points in the Champions League tie.",
-    "Osimhen's form remains a major talking point among Nigerian fans."
-   ],
-   "added": "2026-10-24",
-   "img": "img/osimhen-motm.jpg",
-   "alt": "Victor Osimhen in a Nigeria jersey",
-   "credit": "Photo: Fédération Guinéenne Football / Wikimedia Commons (Public domain)",
-   "at": "2026-10-24T10:32Z"
-  },
-  {
-   "id": "lewandowski-ballondor",
-   "c": "sport",
-   "h": "Lewandowski names his pick for the 2026 Ballon d'Or",
-   "p": "Robert Lewandowski has reportedly said who he thinks should win this year's Ballon d'Or, choosing from Harry Kane, Lamine Yamal and Kylian Mbappe. The ceremony takes place in London in a few days.",
-   "n": 1,
-   "more": [
-    "Updated rankings were published ahead of the ceremony.",
-    "Messi has just won the Princess of Asturias Award."
-   ],
-   "added": "2026-10-24",
-   "img": "img/lewandowski-ballondor.jpg",
-   "alt": "Robert Lewandowski",
-   "credit": "Photo: Bryan Berlin / Wikimedia Commons (CC BY-SA 4.0)",
-   "at": "2026-10-24T10:32Z"
-  },
-  {
-   "id": "gombe-state-police",
-   "c": "politics",
-   "h": "Gombe Assembly approves state police amendment",
-   "p": "The Gombe State House of Assembly has reportedly backed the proposed constitutional amendments that would allow state police, adding to the states already on board.",
-   "n": 1,
-   "more": [
-    "The count of states approving has been climbing towards the required 24.",
-    "Supporters say it will improve local security response."
-   ],
-   "added": "2026-10-24",
-   "img": "img/gombe-state-police.jpg",
-   "alt": "Armed officers of the Nigeria Police Force",
-   "credit": "Photo: AMISOM Public Information / Wikimedia Commons (CC0)",
-   "at": "2026-10-24T10:32Z"
   },
   {
    "id": "atiku-adc-council",
