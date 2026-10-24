@@ -15,6 +15,24 @@
  },
  "stories": [
   {
+   "id": "remi-tompolo",
+   "c": "politics",
+   "h": "Remi Tinubu and Tompolo share a cheerful moment at an APC rally",
+   "p": "First Lady Senator Oluremi Tinubu and Government Ekpemupolo, popularly known as Tompolo, were seen laughing and exchanging warm smiles at an APC rally. Tompolo, a former Niger Delta militant leader, now holds a major federal pipeline security contract and has become an influential figure with ties to the ruling party. The relaxed moment has sparked conversation online about how political relationships evolve in Nigeria.",
+   "n": 1,
+   "hot": 1,
+   "more": [
+    "Tompolo wore a cap and vest bearing the name of a pro-Tinubu support group.",
+    "His firm's pipeline surveillance contract has been credited by the government with helping to curb oil theft in the Niger Delta.",
+    "The rally is part of the APC's 2027 re-election campaign."
+   ],
+   "img": "img/remi-tompolo.jpg",
+   "alt": "Remi Tinubu in green APC attire smiles at Tompolo, seated beside her in a white cap and black vest",
+   "credit": "Photo: Trend Naija",
+   "owner": true,
+   "added": "2026-10-24"
+  },
+  {
    "id": "dangote-diesel-gantry",
    "c": "naija",
    "h": "Fuel marketers reportedly release new diesel prices as Dangote Refinery halts gantry sales",
@@ -55,7 +73,7 @@
    "h": "Blessing CEO out of detention, Doris Ogala confirms",
    "p": "Relationship coach Blessing CEO has been released from detention, actress Doris Ogala has confirmed. Ogala shared a video on social media showing her on a video call with Blessing shortly after her release.",
    "n": 1,
-   "hot": 1,
+   "hot": 2,
    "more": [
     "Ogala appeared delighted in the clip as she spoke with Blessing.",
     "Blessing CEO has not yet spoken publicly about her release."
@@ -72,7 +90,7 @@
    "h": "VeryDarkMan calls Davido and his uncle a disappointment over development in Osun",
    "p": "VeryDarkMan has described Davido and his uncle, Osun State Governor Ademola Adeleke, as a disappointment, criticising what he called poor development in the state. He asked how a family that owns private jets could have so much wealth while Osun still lacks a functioning airport, and how investors are expected to reach the state easily. He urged those in power to use government resources to improve people's lives.",
    "n": 1,
-   "hot": 2,
+   "hot": 3,
    "more": [
     "VDM also spoke about a past invitation from Davido's brother, B-Red, to meet their father.",
     "Neither Davido nor the Osun State government has responded to the comments.",
@@ -90,7 +108,7 @@
    "h": "Supporters reportedly carrying sticks and cutlasses arrive for Tinubu's campaign flag-off in Kaduna",
    "p": "Some APC supporters were reportedly seen holding sticks and cutlasses as crowds streamed into Ranchers Bees Stadium in Kaduna for the flag-off of President Tinubu's re-election campaign. Many others arrived in party caps and T-shirts, carrying posters of the president. Footage of the arrivals has drawn concern online about safety at campaign events.",
    "n": 1,
-   "hot": 3,
+   "hot": 4,
    "more": [
     "The Kaduna rally is the first major stop of the APC's 2027 campaign tour.",
     "The party has not commented on the reports of supporters carrying weapons.",
@@ -108,7 +126,7 @@
    "h": "Man sees his new face for the first time, 24 hours after his own child gave him a facelift",
    "p": "A viral video shows a father looking at his new face for the first time, just a day after a facelift performed by his own child. Before and after images show his face still swollen and taped, with surgical dressings still in place shortly after the operation. Viewers have been amazed that he barely recognised himself.",
    "n": 1,
-   "hot": 4,
+   "hot": 5,
    "more": [
     "Swelling is normal so soon after surgery, so the final result could look quite different once he heals.",
     "The healing process for a facelift usually takes weeks to settle.",
@@ -525,7 +543,7 @@
     "A campaign-wrapped SUV door showing Tinubu and APC 2027 branding, beside a photo of President Tinubu"
    ],
    "credit": "Photo: Nosa Asemota / Wikimedia Commons (CC BY-SA 4.0)",
-   "hot": 5,
+   "hot": 6,
    "added": "2026-10-24",
    "img": "img/tinubu-campaign-cars.jpg",
    "alt": "President Bola Tinubu in a cap and agbada"
