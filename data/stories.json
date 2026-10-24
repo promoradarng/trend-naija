@@ -59,8 +59,8 @@
   {
    "id": "adekunle-gold-sickle-cell",
    "c": "music",
-   "h": "Adekunle Gold announces 0,000 initiative for sickle cell patients in four countries",
-   "p": "Singer Adekunle Gold has launched a 0,000 programme to support people living with sickle cell across four countries. The announcement drew praise from fans online.",
+   "h": "Adekunle Gold announces $20,000 initiative for sickle cell patients in four countries",
+   "p": "Singer Adekunle Gold has launched a $20,000 programme to support people living with sickle cell across four countries. The announcement drew praise from fans online.",
    "n": 1,
    "more": [
     "The programme covers patients in four countries.",
@@ -78,7 +78,10 @@
     "King CND says the reconciliation undermined VeryDarkMan.",
     "Fans of both singers have reacted online."
    ],
-   "added": "2026-10-24"
+   "added": "2026-10-24",
+   "img": "img/king-cnd-burna.jpg",
+   "alt": "Burna Boy performing on stage",
+   "credit": "Photo: Nuță Lucian from Cluj-Napoca, Romania / Wikimedia Commons (CC BY-SA 2.0)"
   },
   {
    "id": "dj-dsf-children",
@@ -132,7 +135,10 @@
     "Umahi earlier asked why Igbos should do only four years when others did eight.",
     "Obi's camp has not been reported as responding to Soludo yet."
    ],
-   "added": "2026-10-24"
+   "added": "2026-10-24",
+   "img": "img/soludo-igbo-presidency.jpg",
+   "alt": "Anambra governor Charles Soludo in a red cap",
+   "credit": "Photo: Chinedueri / Wikimedia Commons (CC BY 4.0)"
   },
   {
    "id": "conte-manutd",
@@ -255,7 +261,10 @@
    "more": [
     "Separately, a Nigerian man has reportedly been declared wanted in the US over alleged $3.1m Medicare fraud."
    ],
-   "added": "2026-10-24"
+   "added": "2026-10-24",
+   "img": "img/fbi-wanted-nigerians.jpg",
+   "alt": "FBI headquarters, the J. Edgar Hoover Building, in Washington",
+   "credit": "Photo: Ryan J. Reilly / Wikimedia Commons (CC BY 2.0)"
   },
   {
    "id": "remi-aso-rock",
@@ -281,7 +290,10 @@
     "The couple reportedly argued live before Peller took her off the stream.",
     "Peller earlier said he needs to grow into a man after the fight."
    ],
-   "added": "2026-10-24"
+   "added": "2026-10-24",
+   "img": "img/jarvis-family.jpg",
+   "alt": "Streamer Peller",
+   "credit": "Photo: LuckGr8t / Wikimedia Commons (CC0)"
   },
   {
    "id": "itele-affair",
@@ -536,7 +548,10 @@
     "The two fathers are among the best-known figures in Nigerian politics.",
     "Reactions online have mostly been light-hearted."
    ],
-   "added": "2026-10-24"
+   "added": "2026-10-24",
+   "img": "img/fayose-wike.jpg",
+   "alt": "Nyesom Wike",
+   "credit": "Photo: Hygist / Wikimedia Commons (CC BY 4.0)"
   },
   {
    "id": "saka-thigh",
@@ -662,7 +677,10 @@
     "Wike has reportedly rejected the endorsement claim.",
     "The Adamawa governorship race is attracting wider attention."
    ],
-   "added": "2026-10-24"
+   "added": "2026-10-24",
+   "img": "img/wike-abbo.jpg",
+   "alt": "Nyesom Wike",
+   "credit": "Photo: Hygist / Wikimedia Commons (CC BY 4.0)"
   },
   {
    "id": "kingcnd",
@@ -689,7 +707,10 @@
     "Earlier in the week the pair were said to have blocked each other after a live-stream row.",
     "Fans are split between backing Peller and defending Jarvis."
    ],
-   "added": "2026-10-23"
+   "added": "2026-10-23",
+   "img": "img/peller-grow.jpg",
+   "alt": "Streamer Peller",
+   "credit": "Photo: LuckGr8t / Wikimedia Commons (CC0)"
   },
   {
    "id": "kwankwaso-second-term",
@@ -797,7 +818,10 @@
     "Parties have been urged to keep campaigns peaceful.",
     "Police are yet to issue a statement."
    ],
-   "added": "2026-10-23"
+   "added": "2026-10-23",
+   "img": "img/kwankwaso-convoy.jpg",
+   "alt": "Rabiu Kwankwaso speaking to the press",
+   "credit": "Photo: VOA / Wikimedia Commons (Public domain)"
   },
   {
    "id": "obasanjo-son",
