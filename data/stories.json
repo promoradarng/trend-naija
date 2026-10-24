@@ -1,5 +1,5 @@
 {
- "updated": "Updated 01:40 BST",
+ "updated": "Updated 03:40 BST",
  "date": "Saturday, 24 October 2026",
  "categories": {
   "all": "All gist",
@@ -14,6 +14,67 @@
   "sport": "Sport"
  },
  "stories": [
+  {
+   "id": "tinubu-kaduna",
+   "c": "elections",
+   "h": "Tinubu's 2027 re-election campaign flags off in Kaduna today",
+   "p": "The APC is launching President Tinubu's second-term campaign in Kaduna on Saturday, the first stop on a tour of selected states. Port Harcourt is reportedly next on 7 November, with a closing rally planned for Lagos in January. Rival camps, including Atiku's ADC and the Obi-Kwankwaso NDC, have also been mobilising their own campaign councils.",
+   "n": 3,
+   "more": [
+    "Campaign DG Abdulaziz Yari says Tinubu has a broader national base than his challengers.",
+    "The presidential election is reportedly set for 16 January 2027.",
+    "Supporters of other APC figures have also been reacting to the flag-off."
+   ],
+   "added": "2026-10-24"
+  },
+  {
+   "id": "peller-sister",
+   "c": "creators",
+   "h": "Peller and Jarvis reportedly clash again, this time over her younger sister",
+   "p": "A fresh argument between the streamers has reportedly spilled online, with the couple disagreeing over her younger sister and where family boundaries should lie. It follows their live-stream fight and the decision to block each other earlier this week.",
+   "n": 2,
+   "more": [
+    "Peller recently said he needs to grow into a man after the first clash.",
+    "The pair are two months into their marriage."
+   ],
+   "added": "2026-10-24"
+  },
+  {
+   "id": "agbese-kingibe",
+   "c": "politics",
+   "h": "Agbese rejects Kingibe's claim of a 25% fuel levy as false",
+   "p": "Agbese has reportedly hit back at Kingibe, calling his allegation of a 25% levy on fuel a fabrication. The exchange adds to the growing war of words ahead of the 2027 polls.",
+   "n": 1,
+   "more": [
+    "No official figures on the alleged levy have been published.",
+    "Both sides are expected to keep trading claims as campaigns heat up."
+   ],
+   "added": "2026-10-24"
+  },
+  {
+   "id": "kogi-apc",
+   "c": "politics",
+   "h": "Kogi APC group warns Faleke-Audu loyalists over alleged anti-party moves",
+   "p": "A group within the Kogi APC has reportedly cautioned loyalists of Faleke and Audu over alleged anti-party activity ahead of 2027. The loyalists have not yet publicly responded.",
+   "n": 1,
+   "more": [
+    "Internal party tensions are surfacing in several states as primaries and campaigns advance.",
+    "The party has not announced any disciplinary action."
+   ],
+   "added": "2026-10-24"
+  },
+  {
+   "id": "fbi-charged",
+   "c": "world",
+   "h": "Two former senior FBI officials charged over testimony about Hunter Biden laptop",
+   "p": "Two former senior FBI officials have reportedly been charged with misleading Congress over matters linked to the Hunter Biden laptop story. The charges are allegations and neither man has been convicted.",
+   "n": 1,
+   "more": [
+    "The case is expected to draw sharp political reaction in Washington.",
+    "Court dates have not yet been widely reported."
+   ],
+   "added": "2026-10-24"
+  },
   {
    "id": "atiku-bait",
    "c": "elections",
@@ -745,55 +806,6 @@
    "c": "sport",
    "h": "Bruno Fernandes' house burgled during Man United's loss to Como",
    "p": "Thieves broke into the Manchester United captain's Cheshire home while he was playing in the Champions League defeat to Como.",
-   "n": 1,
-   "added": "2026-10-23"
-  },
-  {
-   "id": "flamingos",
-   "c": "sport",
-   "h": "Flamingos face defending champions North Korea at U-17 World Cup",
-   "p": "Nigeria's U-17 women take on the defending champions in a crucial match.",
-   "n": 1,
-   "added": "2026-10-23"
-  },
-  {
-   "id": "lebron",
-   "img": "img/lebron.jpg",
-   "alt": "LeBron James",
-   "credit": "Photo: Erik Drost / Wikimedia Commons, CC BY 2.0",
-   "c": "world",
-   "h": "Trump calls LeBron James a \"disgrace\" over anthem",
-   "p": "The US President criticised the NBA star for not standing still during the national anthem.",
-   "n": 1,
-   "added": "2026-10-23"
-  },
-  {
-   "id": "kyiv",
-   "img": "img/kyiv.jpg",
-   "alt": "Kyiv skyline",
-   "credit": "Photo: Sergey Galyonkin from Raleigh, USA / Wikimedia Commons, CC BY-SA 2.0",
-   "c": "world",
-   "h": "Massive strikes hit Kyiv hours after Putin agrees to talks",
-   "p": "Russia launched a large missile and drone attack on Ukraine's capital shortly after Putin signalled he would join fresh peace talks. Zelensky separately said there is \"nothing personal\" between him and Trump.",
-   "n": 1,
-   "added": "2026-10-23"
-  },
-  {
-   "id": "zuck",
-   "img": "img/zuck.jpg",
-   "alt": "Mark Zuckerberg",
-   "credit": "Photo: Jeff Sainlar; Social Producer and Editor, Meta / Wikimedia Commons, CC BY-SA 4.0",
-   "c": "world",
-   "h": "Zuckerberg reportedly strikes deal over California billionaire tax",
-   "p": "The Meta boss has reportedly reached an arrangement to pay a proposed California wealth tax without giving up control of the company.",
-   "n": 1,
-   "added": "2026-10-23"
-  },
-  {
-   "id": "az",
-   "c": "world",
-   "h": "Arizona mum speaks after son found alive in hospital morgue",
-   "p": "The mother of a toddler found alive in a morgue hours after he was declared dead described it as \"an unexplainable feeling\".",
    "n": 1,
    "added": "2026-10-23"
   }
