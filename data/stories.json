@@ -1,5 +1,5 @@
 {
- "updated": "Updated 07:45 BST",
+ "updated": "Updated 08:35 BST",
  "date": "Saturday, 24 October 2026",
  "categories": {
   "all": "All gist",
@@ -14,6 +14,30 @@
   "sport": "Sport"
  },
  "stories": [
+  {
+   "id": "terror-653",
+   "c": "naija",
+   "h": "FG reportedly secures 653 convictions in latest Abuja mass terrorism trial",
+   "p": "The Federal Government has reportedly secured convictions of 653 people in a mass terrorism trial in Abuja. The figure is said to come from the latest phase of a series of trials that began earlier this year, and it has not yet been independently confirmed.",
+   "n": 1,
+   "more": [
+    "Earlier phases of the trials reported hundreds of convictions, with sentences said to range from several years to life.",
+    "The Attorney General has led the prosecutions."
+   ],
+   "added": "2026-10-24"
+  },
+  {
+   "id": "politicians-children",
+   "c": "politics",
+   "h": "List of Nigerian politicians' children linked to financial crime cases goes round",
+   "p": "A compiled list of children of prominent Nigerian politicians facing financial crime allegations is drawing attention online. It includes the 16-count money laundering case against former Attorney-General Abubakar Malami, his wife and son, who have pleaded not guilty to charges involving about ₦8.7bn.",
+   "n": 1,
+   "more": [
+    "The Malami case is before a Federal High Court in Abuja.",
+    "The defendants deny all the charges."
+   ],
+   "added": "2026-10-24"
+  },
   {
    "id": "omokri-mexico",
    "c": "politics",
