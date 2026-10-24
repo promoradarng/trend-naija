@@ -1,5 +1,5 @@
 {
- "updated": "Updated 18:40 BST",
+ "updated": "Updated 19:35 BST",
  "date": "Saturday, 24 October 2026",
  "categories": {
   "all": "All gist",
@@ -15,11 +15,60 @@
  },
  "stories": [
   {
+   "id": "atiku-hunger-reply",
+   "c": "elections",
+   "h": "Atiku fires back after Tinubu blames opponents for hunger",
+   "p": "At the APC campaign flag-off in Kaduna, President Tinubu reportedly asked who created hunger and poverty and answered that his rivals did. Atiku Abubakar has replied that blaming the opposition is either delusion or political amnesia, pointing out that the APC governed for eight years before Tinubu took office. He cited the naira's slide from about ₦471 to ₦1,329 to the dollar and World Bank poverty projections.",
+   "n": 1,
+   "more": [
+    "Atiku also questioned trillions of naira recorded under energy security spending.",
+    "The exchange sharpens the 2027 battle between the APC and the ADC.",
+    "Supporters on both sides are trading the clips online."
+   ],
+   "added": "2026-10-24"
+  },
+  {
+   "id": "utomi-debate-dare",
+   "c": "elections",
+   "h": "Pat Utomi dares Tinubu to defend his record in a live debate",
+   "p": "Political economist Pat Utomi has reportedly challenged President Tinubu to defend his achievements in a live presidential debate. Utomi has previously urged INEC to make debates compulsory for candidates. Atiku has also said he would take part in 2027 debates only if Tinubu and the APC attend.",
+   "n": 1,
+   "more": [
+    "Tinubu's camp skipped broadcast debates in the 2023 cycle.",
+    "No response from the presidency had been reported at the time of writing."
+   ],
+   "added": "2026-10-24"
+  },
+  {
+   "id": "macklemore-wembley",
+   "c": "music",
+   "h": "Calls grow in Britain to stop Macklemore's Wembley 'Free Palestine' show",
+   "p": "A group of British peers has reportedly asked the Home Secretary to block rapper Macklemore from entering the UK ahead of his concert at Wembley Arena on 30 October. The Jewish Leadership Council has also raised concerns with the promoter. Supporters say he is entitled to speak up for Palestinian rights.",
+   "n": 1,
+   "more": [
+    "He was dropped from Ed Sheeran's tour after on-stage comments last month.",
+    "Stars including Paloma Faith and Kehlani have backed him."
+   ],
+   "added": "2026-10-24"
+  },
+  {
+   "id": "meghan-police-letter",
+   "c": "world",
+   "h": "London police confirm passing a letter about Thomas Markle to Meghan's office",
+   "p": "The Metropolitan Police has confirmed that it forwarded a letter containing allegations about Thomas Markle Sr. to the office of the Duchess of Sussex. Details of the letter's contents were not made public.",
+   "n": 1,
+   "more": [
+    "The Sussexes' representatives have not commented publicly.",
+    "Thomas Markle is Meghan's estranged father."
+   ],
+   "added": "2026-10-24"
+  },
+  {
    "id": "davido-zlatan-wedding",
    "c": "celebs",
    "h": "Davido arrives at Zlatan Ibile's wedding venue in a white Rolls-Royce",
    "p": "Singer Davido has reportedly turned up at the venue of Zlatan Ibile and Davita Lamai's wedding in a white Rolls-Royce. A video of his arrival is circulating online, and fans also spotted him in footage of the groom's groomsmen getting ready.",
-   "n": 2,
+   "n": 3,
    "more": [
     "A video of his arrival is circulating online.",
     "The traditional ceremony is still going on."
@@ -944,67 +993,6 @@
    "img": "img/fbi-charged.jpg",
    "alt": "FBI headquarters, the J. Edgar Hoover Building, in Washington",
    "credit": "Photo: Ryan J. Reilly / Wikimedia Commons (CC BY 2.0)"
-  },
-  {
-   "id": "atiku-bait",
-   "c": "elections",
-   "h": "Atiku camp calls Tinubu's 90-day cost-of-living plan \"election bait\"",
-   "p": "Atiku's campaign has reportedly dismissed the president's 90-day plan to ease the cost of living as a pre-election move. The plan was backed by the National Economic Council a day earlier, though details have not been published. The presidency has not yet responded to the claim.",
-   "n": 2,
-   "more": [
-    "The National Economic Council endorsed the plan on Thursday.",
-    "Full details of the measures are yet to be released.",
-    "Tinubu's 2027 campaign has just been flagged off."
-   ],
-   "added": "2026-10-24",
-   "img": "img/atiku-bait.jpg",
-   "alt": "Atiku Abubakar in a suit",
-   "credit": "Photo: Etauso / Wikimedia Commons (CC0)"
-  },
-  {
-   "id": "wike-abbo",
-   "c": "politics",
-   "h": "Wike reportedly denies endorsing Labour Party's Abbo in Adamawa governorship race",
-   "p": "Claims that FCT Minister Nyesom Wike backed the Labour Party's candidate for the Adamawa governorship have drawn attention online. Wike is said to have denied the report. Observers are watching how the race develops ahead of 2027.",
-   "n": 1,
-   "more": [
-    "Wike has reportedly rejected the endorsement claim.",
-    "The Adamawa governorship race is attracting wider attention."
-   ],
-   "added": "2026-10-24",
-   "img": "img/wike-abbo.jpg",
-   "alt": "Nyesom Wike",
-   "credit": "Photo: Hygist / Wikimedia Commons (CC BY 4.0)"
-  },
-  {
-   "id": "peller-grow",
-   "c": "creators",
-   "h": "Peller says he needs to grow into a man after clash with Jarvis",
-   "p": "Streamer Peller has reportedly spoken out following a heated exchange with his pregnant wife Jarvis, which was said to involve a disagreement over her younger sister and family boundaries. He admitted he has some growing up to do. The couple's fallout has drawn heavy reaction online.",
-   "n": 2,
-   "more": [
-    "Earlier in the week the pair were said to have blocked each other after a live-stream row.",
-    "Fans are split between backing Peller and defending Jarvis."
-   ],
-   "added": "2026-10-23",
-   "img": "img/peller-grow.jpg",
-   "alt": "Streamer Peller",
-   "credit": "Photo: LuckGr8t / Wikimedia Commons (CC0)"
-  },
-  {
-   "id": "kwankwaso-second-term",
-   "c": "elections",
-   "h": "Kwankwaso reportedly says Tinubu does not deserve a second term",
-   "p": "Former Kano governor Rabiu Kwankwaso has reportedly said President Tinubu does not deserve a second term in office. The remark comes as the 2027 campaign season gathers pace, with the ruling party's camp yet to respond.",
-   "n": 1,
-   "more": [
-    "Kwankwaso is on the NDC ticket with Peter Obi.",
-    "Tinubu's camp opened its campaign with a flag-off in Kaduna."
-   ],
-   "added": "2026-10-23",
-   "img": "img/kwankwaso-second-term.jpg",
-   "alt": "Rabiu Kwankwaso speaking to the press",
-   "credit": "Photo: VOA / Wikimedia Commons (Public domain)"
   }
  ]
 }
