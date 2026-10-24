@@ -1,5 +1,5 @@
 {
- "updated": "Updated 21:45 BST",
+ "updated": "Updated 22:35 BST",
  "date": "Saturday, 24 October 2026",
  "categories": {
   "all": "All gist",
@@ -14,6 +14,110 @@
   "sport": "Sport"
  },
  "stories": [
+  {
+   "id": "jpmorgan-nigeria",
+   "c": "naija",
+   "h": "JPMorgan reportedly enters Nigeria and appoints a former CBN governor as a director",
+   "p": "Global bank JPMorgan has reportedly begun operations in Nigeria. The move is said to include the appointment of a former Central Bank of Nigeria governor to its local board. The development is being read by many as a sign of renewed foreign interest in the Nigerian financial market.",
+   "n": 1,
+   "more": [
+    "The appointment of a former central bank chief is drawing attention in banking circles.",
+    "Details of the licence and the scale of the planned operations were not immediately clear."
+   ],
+   "added": "2026-10-24",
+   "at": "2026-10-24T21:32Z"
+  },
+  {
+   "id": "chelsea-spurs-alonso",
+   "c": "sport",
+   "h": "Xabi Alonso explains what went wrong as Chelsea lose to Tottenham",
+   "p": "Chelsea were beaten by Tottenham in the London derby, and manager Xabi Alonso has spoken about where his side fell short. Fans online have been debating the result and the team's form. The defeat comes on a weekend when rivals picked up points.",
+   "n": 2,
+   "more": [
+    "Alonso pointed to key moments in the match that went against his team.",
+    "The loss has reignited talk about Chelsea's season so far."
+   ],
+   "added": "2026-10-24",
+   "at": "2026-10-24T21:32Z"
+  },
+  {
+   "id": "onana-crash",
+   "c": "sport",
+   "h": "Andre Onana reportedly taken to hospital after a multi-car crash in Turkey",
+   "p": "Goalkeeper Andre Onana was reportedly taken to hospital after a multi-car collision in Turkey. No serious injury has been reported so far. Further updates on his condition are expected.",
+   "n": 1,
+   "more": [
+    "Reports say he was checked by doctors as a precaution.",
+    "His club has yet to give a detailed statement."
+   ],
+   "added": "2026-10-24",
+   "at": "2026-10-24T21:32Z"
+  },
+  {
+   "id": "kai-cenat-skit-claim",
+   "c": "creators",
+   "h": "Skit maker Gilmore claims Kai Cenat borrowed one of his ideas",
+   "p": "A Nigerian skit maker known as Gilmore has reportedly claimed that streaming star Kai Cenat used an idea he had created earlier. The claim has set off debate among online content creators about credit and originality. Kai Cenat has not been reported to have responded.",
+   "n": 1,
+   "more": [
+    "Some creators online say ideas often overlap, while others are urging credit for original makers.",
+    "The post has drawn comments from fans on both sides."
+   ],
+   "added": "2026-10-24",
+   "at": "2026-10-24T21:32Z"
+  },
+  {
+   "id": "natasha-osawaru-obi-video",
+   "c": "elections",
+   "h": "Natasha Osawaru's video of Peter Obi sparks reactions ahead of 2027",
+   "p": "A video of social media personality Natasha Osawaru featuring Peter Obi is drawing reactions online as the 2027 race heats up. Supporters and critics have been trading comments about the clip. The NDC presidential candidate's camp has not been reported to have commented on it.",
+   "n": 1,
+   "more": [
+    "The clip is circulating widely on social media.",
+    "Obi's supporters have been sharing it as an endorsement of his campaign."
+   ],
+   "added": "2026-10-24",
+   "at": "2026-10-24T21:32Z"
+  },
+  {
+   "id": "obasanjo-son-2027-pick",
+   "c": "elections",
+   "h": "Obasanjo's son names his preferred 2027 presidential candidate",
+   "p": "A son of former President Olusegun Obasanjo has reportedly named the candidate he would like to see win the 2027 presidential election. His comments have added to the debate about the opposition and ruling-party tickets. The family name carries weight in Nigerian politics, so the remarks are being widely discussed.",
+   "n": 1,
+   "more": [
+    "He spoke about what he wants to see from the next president.",
+    "Reactions online have been mixed."
+   ],
+   "added": "2026-10-24",
+   "at": "2026-10-24T21:32Z"
+  },
+  {
+   "id": "daurawa-no-campaign",
+   "c": "politics",
+   "h": "Sheikh Daurawa says he will not campaign for any candidate in 2027",
+   "p": "Prominent Kano cleric Sheikh Aminu Daurawa has said he will not campaign for any presidential candidate in 2027. He made the remark as parties step up their campaigns across the north. His position is being noted by political watchers in the region.",
+   "n": 1,
+   "more": [
+    "The cleric's statement was reported in Hausa-language coverage.",
+    "Parties are competing for influential voices in the north."
+   ],
+   "added": "2026-10-24",
+   "at": "2026-10-24T21:32Z"
+  },
+  {
+   "id": "cbn-mistaken-money",
+   "c": "naija",
+   "h": "CBN warns that keeping money received by mistake could mean 5 to 10 years in prison",
+   "p": "The Central Bank of Nigeria has warned that anyone who keeps money mistakenly paid into their account could face a prison sentence of five to ten years. The warning comes as more Nigerians use transfers and mobile banking. Customers are advised to report wrongly received funds to their banks.",
+   "n": 1,
+   "more": [
+    "The CBN urged customers to alert their banks promptly.",
+    "The reminder follows several public cases of wrong transfers."
+   ],
+   "added": "2026-10-24",
+   "at": "2026-10-24T21:32Z"
+  },
   {
    "id": "okwuluora-woman-treatment",
    "c": "naija",
@@ -901,124 +1005,6 @@
    "credit": "Photo: Trend Naija",
    "owner": true,
    "at": "2026-10-24T09:33Z"
-  },
-  {
-   "id": "dangote-petrol",
-   "c": "naija",
-   "h": "Dangote and depot owners reportedly set for new petrol price rise after crude increase",
-   "p": "Petrol prices are said to be heading up again as crude oil rises, according to reports. The move comes just a day after depots were reported to have cut petrol and diesel rates nationwide.",
-   "n": 1,
-   "more": [
-    "The NLC has given government until 27 October to act on fuel prices and minimum wage.",
-    "Marketers are said to be watching crude movements before confirming new pump prices."
-   ],
-   "added": "2026-10-24",
-   "img": "img/dangote-petrol.jpg",
-   "alt": "Aliko Dangote in a dark suit",
-   "credit": "Photo: Saba Dubai / Wikimedia Commons (CC BY 3.0)",
-   "at": "2026-10-24T09:33Z"
-  },
-  {
-   "id": "fbi-wanted-nigerians",
-   "c": "naija",
-   "h": "FBI reportedly publishes names and photos of four Nigerians wanted over $6m email fraud",
-   "p": "The FBI has reportedly released the names and photos of four Nigerians it wants in connection with a $6 million business email compromise scheme.",
-   "n": 1,
-   "more": [
-    "Separately, a Nigerian man has reportedly been declared wanted in the US over alleged $3.1m Medicare fraud."
-   ],
-   "added": "2026-10-24",
-   "img": "img/fbi-wanted-nigerians.jpg",
-   "alt": "FBI headquarters, the J. Edgar Hoover Building, in Washington",
-   "credit": "Photo: Ryan J. Reilly / Wikimedia Commons (CC BY 2.0)",
-   "at": "2026-10-24T09:33Z"
-  },
-  {
-   "id": "remi-aso-rock",
-   "c": "politics",
-   "h": "Remi Tinubu says when she wants to leave Aso Rock",
-   "p": "The First Lady has reportedly spoken about when she hopes to leave the presidential villa, as her husband begins his 2027 re-election campaign.",
-   "n": 2,
-   "more": [
-    "The remarks come on the day of the APC campaign flag-off in Kaduna."
-   ],
-   "added": "2026-10-24",
-   "img": "img/remi-aso-rock.jpg",
-   "alt": "Remi Tinubu in a gold headtie",
-   "credit": "Photo: MaximumDrone / Wikimedia Commons (CC0)",
-   "at": "2026-10-24T09:33Z"
-  },
-  {
-   "id": "jarvis-family",
-   "c": "creators",
-   "h": "Jarvis explains why she keeps her family away from husband Peller",
-   "p": "Jarvis has reportedly explained why she does not let her relatives talk to her husband Peller, following their latest clash over her younger sister's streaming career.",
-   "n": 1,
-   "more": [
-    "The couple reportedly argued live before Peller took her off the stream.",
-    "Peller earlier said he needs to grow into a man after the fight."
-   ],
-   "added": "2026-10-24",
-   "img": "img/jarvis-family.jpg",
-   "alt": "Streamer Peller",
-   "credit": "Photo: LuckGr8t / Wikimedia Commons (CC0)",
-   "at": "2026-10-24T09:33Z"
-  },
-  {
-   "id": "itele-affair",
-   "c": "celebs",
-   "h": "Itele reportedly explains why he cautioned his wife and defended Irewole Olaniyan",
-   "p": "Actor Itele has reportedly spoken about his stance in an ongoing affair controversy, saying why he warned his wife and backed Irewole Olaniyan.",
-   "n": 1,
-   "more": [
-    "Online reaction to his comments is said to be mixed."
-   ],
-   "added": "2026-10-24",
-   "at": "2026-10-24T09:33Z"
-  },
-  {
-   "id": "melania-oleshky",
-   "c": "world",
-   "h": "Melania Trump reportedly helps secure temporary Russia-Ukraine ceasefire for Oleshky evacuation",
-   "p": "A temporary ceasefire has reportedly been agreed to let elderly residents leave the town of Oleshky, with Melania Trump said to have played a part.",
-   "n": 1,
-   "more": [
-    "The pause is said to be limited to the evacuation of older residents."
-   ],
-   "added": "2026-10-24",
-   "img": "img/melania-oleshky.jpg",
-   "alt": "Melania Trump in front of a US flag",
-   "credit": "Photo: The White House / Wikimedia Commons (Public domain)",
-   "at": "2026-10-24T09:33Z"
-  },
-  {
-   "id": "gombe-truck",
-   "c": "naija",
-   "h": "Runaway truck reportedly kills 11 after ramming vehicles in Gombe",
-   "p": "A runaway truck reportedly crashed into several vehicles in Gombe, leaving 11 people dead. Details on the number of injured and the cause of the brake failure were still emerging.",
-   "n": 1,
-   "more": [
-    "Emergency workers are said to have been at the scene.",
-    "Authorities have yet to give a full account of the crash."
-   ],
-   "added": "2026-10-24",
-   "at": "2026-10-24T08:33Z"
-  },
-  {
-   "id": "lagos-collapse",
-   "c": "naija",
-   "h": "Another building collapse in Lagos leaves people dead and injured, reports say",
-   "p": "A building has reportedly collapsed in Lagos, with deaths and injuries reported. Rescue teams were said to be at the site, and the cause is yet to be established.",
-   "n": 1,
-   "more": [
-    "It is the latest in a string of collapses reported in recent days.",
-    "Officials are expected to investigate the structure."
-   ],
-   "added": "2026-10-24",
-   "img": "img/lagos-collapse.jpg",
-   "alt": "Lagos city skyline across the lagoon",
-   "credit": "Photo: FrankvEck / Wikimedia Commons (CC BY-SA 4.0)",
-   "at": "2026-10-24T08:33Z"
   },
   {
    "id": "tinubu-kaduna",
