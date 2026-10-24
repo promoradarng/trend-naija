@@ -1,5 +1,5 @@
 {
- "updated": "Updated 20:40 BST",
+ "updated": "Updated 21:45 BST",
  "date": "Saturday, 24 October 2026",
  "categories": {
   "all": "All gist",
@@ -14,6 +14,123 @@
   "sport": "Sport"
  },
  "stories": [
+  {
+   "id": "peller-jarvis-sister",
+   "c": "creators",
+   "h": "Peller says Jarvis's sister refused to greet him in his own house",
+   "p": "Streamer Peller has reportedly called out members of his wife Jarvis's family, saying her sister would not even greet him at home. The claim follows a livestream that ended after an argument over the sister. Jarvis has separately told critics to stop pushing her to respect him.",
+   "n": 2,
+   "more": [
+    "The row began during a livestream that ended abruptly on Friday.",
+    "Fans are split between the couple on social media.",
+    "Neither family has issued a fuller statement."
+   ],
+   "added": "2026-10-24"
+  },
+  {
+   "id": "atiku-kaduna-banners",
+   "c": "elections",
+   "h": "Atiku reportedly accuses security agents of protecting Tinubu's banners in Kaduna",
+   "p": "Atiku Abubakar has reportedly confronted the Tinubu camp over allegations that security agents guarded campaign banners in Kaduna ahead of the APC flag-off. The APC has in turn accused the ADC of a fake news plot around the rally. Neither side has produced evidence publicly.",
+   "n": 1,
+   "more": [
+    "The rally is the formal start of Tinubu's 2027 re-election campaign.",
+    "Both camps are trading accusations online.",
+    "Police have not commented on the banner claim."
+   ],
+   "added": "2026-10-24"
+  },
+  {
+   "id": "kwankwaso-second-term",
+   "c": "elections",
+   "h": "Kwankwaso says Tinubu does not deserve a second term",
+   "p": "Opposition figure Rabiu Kwankwaso has said President Tinubu has not earned a second term, criticising the administration's record on the economy and cost of living. The APC maintains its reforms are working and will be defended on the campaign trail.",
+   "n": 1,
+   "more": [
+    "Kwankwaso is a leading figure in the NDC alliance.",
+    "The APC points to its 90-day cost-of-living plan.",
+    "Campaign rhetoric is expected to sharpen after the Kaduna flag-off."
+   ],
+   "added": "2026-10-24"
+  },
+  {
+   "id": "omo-agege-riggers",
+   "c": "elections",
+   "h": "Omo-Agege warns election riggers in 2027 will face serious consequences",
+   "p": "Former Deputy Senate President Ovie Omo-Agege, now seeking a Senate seat on the NDC platform, has reportedly warned that anyone who rigs the 2027 elections will face grave consequences. His wording has drawn comment online, with some reading it as a threat and others as a warning about public anger.",
+   "n": 1,
+   "more": [
+    "He is running under the NDC banner.",
+    "INEC has repeatedly promised credible polls.",
+    "Critics have asked him to clarify what he meant."
+   ],
+   "added": "2026-10-24"
+  },
+  {
+   "id": "uganda-drc-transit",
+   "c": "world",
+   "h": "Uganda restricts transit for travellers with recent DR Congo travel history",
+   "p": "Uganda has reportedly barred travellers with recent DR Congo travel history from transiting through its territory while an Ebola-related investigation continues. The move comes as Nigeria places 15 states on Ebola alert.",
+   "n": 1,
+   "more": [
+    "Nigeria has told hospitals to prepare isolation centres.",
+    "Health authorities are urging calm and basic hygiene.",
+    "More travel rules could follow across the region."
+   ],
+   "added": "2026-10-24"
+  },
+  {
+   "id": "macron-postpones-visit",
+   "c": "politics",
+   "h": "Macron reportedly postpones his 28 October visit to Nigeria",
+   "p": "French President Emmanuel Macron has reportedly postponed a planned trip to Nigeria that was due on 28 October. No new date has been given in the reports seen so far, and neither government has detailed the reason.",
+   "n": 1,
+   "more": [
+    "The visit had been billed as a state-level engagement.",
+    "Officials have not announced a new date.",
+    "The Presidency has not commented publicly."
+   ],
+   "added": "2026-10-24"
+  },
+  {
+   "id": "saka-injury-weeks",
+   "c": "sport",
+   "h": "Saka reportedly out for up to eight weeks with a thigh injury",
+   "p": "Arsenal winger Bukayo Saka is reportedly facing up to eight weeks on the sidelines with a thigh injury. The England and Arsenal forward is a heavy loss for the club during a busy run of fixtures.",
+   "n": 1,
+   "more": [
+    "Arsenal have not yet given a formal return date.",
+    "He is also a Nigerian-heritage fan favourite.",
+    "England fans are watching his fitness closely."
+   ],
+   "added": "2026-10-24"
+  },
+  {
+   "id": "ronaldo-982",
+   "c": "sport",
+   "h": "Ronaldo scores his 982nd career goal in an Al Nassr win",
+   "p": "Cristiano Ronaldo has reportedly added another goal to his career tally, reaching 982 as Al Nassr won in the Saudi Pro League. The forward continues to chase the 1,000-goal milestone.",
+   "n": 1,
+   "more": [
+    "He is closing in on 1,000 career goals.",
+    "Al Nassr stay in the title race.",
+    "Fans are counting down the remaining goals."
+   ],
+   "added": "2026-10-24"
+  },
+  {
+   "id": "us-charges-ex-fbi",
+   "c": "world",
+   "h": "US reportedly charges two former FBI officials over statements about the Hunter Biden laptop",
+   "p": "Two former FBI officials have reportedly been charged in the United States over alleged false statements to Congress about the Hunter Biden laptop. Both are expected to contest the charges.",
+   "n": 1,
+   "more": [
+    "The case is likely to stay politically charged.",
+    "Court dates have not been widely reported.",
+    "Lawyers for the pair are expected to enter pleas."
+   ],
+   "added": "2026-10-24"
+  },
   {
    "id": "zamfara-lawmakers-apc",
    "c": "politics",
@@ -819,161 +936,6 @@
    "img": "img/lagos-collapse.jpg",
    "alt": "Lagos city skyline across the lagoon",
    "credit": "Photo: FrankvEck / Wikimedia Commons (CC BY-SA 4.0)"
-  },
-  {
-   "id": "jpmorgan-cbn",
-   "c": "naija",
-   "h": "CBN reportedly grants JPMorgan approval to open a banking service in Nigeria",
-   "p": "The Central Bank of Nigeria has reportedly approved US firm JPMorgan to set up a merchant banking operation in the country, in what would be a notable boost for foreign participation in the sector.",
-   "n": 2,
-   "more": [
-    "The approval was reported by several Nigerian outlets.",
-    "Further details on the licence are awaited."
-   ],
-   "added": "2026-10-24",
-   "img": "img/jpmorgan-cbn.jpg",
-   "alt": "Central Bank of Nigeria headquarters in Abuja",
-   "credit": "Photo: GodwinPaya / Wikimedia Commons (CC BY-SA 4.0)"
-  },
-  {
-   "id": "messi-asturias",
-   "c": "sport",
-   "h": "Messi wins Princess of Asturias Award days before the Ballon d'Or ceremony",
-   "p": "Lionel Messi has reportedly won the Princess of Asturias Award, and Barcelona has congratulated him. The honour comes just days before the Ballon d'Or ceremony in London.",
-   "n": 1,
-   "more": [
-    "Barcelona publicly reacted to the news.",
-    "The Ballon d'Or ceremony takes place in London this week."
-   ],
-   "added": "2026-10-24",
-   "img": "img/messi-asturias.jpg",
-   "alt": "Lionel Messi in an Argentina shirt",
-   "credit": "Photo: Bryan Berlin / Wikimedia Commons (CC BY-SA 4.0)"
-  },
-  {
-   "id": "onana-crash",
-   "c": "sport",
-   "h": "Trabzonspor gives update on Andre Onana after car accident in Turkey",
-   "p": "Trabzonspor has reportedly issued an update on goalkeeper Andre Onana, who is on loan from Manchester United, after he was involved in a car accident in Turkey.",
-   "n": 1,
-   "more": [
-    "The club said to be monitoring his condition.",
-    "No further details were immediately released."
-   ],
-   "added": "2026-10-24",
-   "img": "img/onana-crash.jpg",
-   "alt": "Andre Onana in a Cameroon training top",
-   "credit": "Photo: Franco237 / Wikimedia Commons (CC BY-SA 4.0)"
-  },
-  {
-   "id": "fernandes-burgled",
-   "c": "sport",
-   "h": "Bruno Fernandes' home reportedly burgled during Manchester United's Champions League defeat",
-   "p": "Burglars reportedly broke into the home of Manchester United captain Bruno Fernandes while the team was losing to Como in the Champions League.",
-   "n": 1,
-   "more": [
-    "The break-in was reported by several football outlets.",
-    "Police inquiries are said to be under way."
-   ],
-   "added": "2026-10-24",
-   "img": "img/fernandes-burgled.jpg",
-   "alt": "Bruno Fernandes in a Portugal jacket",
-   "credit": "Photo: Bryan Berlin / Wikimedia Commons (CC BY-SA 4.0)"
-  },
-  {
-   "id": "tinubu-campaign-cars",
-   "c": "elections",
-   "h": "Luxury SUVs for Tinubu's 2027 campaign spark anger as UN says 17.9m more Nigerians are now poor",
-   "p": "Photos of brand-new SUVs branded \"#TinubuAgain 2027\" are going round online, and many Nigerians are not happy. Posts on social media say the campaign is using BMW, Range Rover, GMC and Acura vehicles. We could confirm that GMC and Toyota SUVs have been given out, but not the other brands.",
-   "n": 2,
-   "more": [
-    "This week, Defence Minister Bello Matawalle gave GMC Terrain SUVs to eight Zamfara lawmakers who stayed in the APC. Kaduna Governor Uba Sani gave Toyota Highlanders to APC council chairmen, and Tompolo's support group has sent dozens of vehicles to Kogi, Kwara and other states.",
-    "APC supporters say the cars were bought by party members and support groups, not with government money, and there is no evidence so far that public funds were used.",
-    "It comes days after a UN report said 17.9 million more Nigerians fell into poverty between 2021 and 2024, the biggest rise of any country in the world. That period covers Buhari's last two years and Tinubu's first year.",
-    "Many people online are asking why the money is not being spent on ambulances and hospital equipment instead."
-   ],
-   "imgs": [
-    "img/tinubu-campaign-cars-1.jpg",
-    "img/tinubu-campaign-cars-2.jpg"
-   ],
-   "alts": [
-    "SUVs parked in a row carrying #TinubuAgain 2027 campaign branding, beside a photo of President Tinubu",
-    "A campaign-wrapped SUV door showing Tinubu and APC 2027 branding, beside a photo of President Tinubu"
-   ],
-   "credit": "Photo: Nosa Asemota / Wikimedia Commons (CC BY-SA 4.0)",
-   "added": "2026-10-24",
-   "img": "img/tinubu-campaign-cars.jpg",
-   "alt": "President Bola Tinubu in a cap and agbada"
-  },
-  {
-   "id": "terror-653",
-   "c": "naija",
-   "h": "FG reportedly secures 653 convictions in latest Abuja mass terrorism trial",
-   "p": "The Federal Government has reportedly secured convictions of 653 people in a mass terrorism trial in Abuja. The figure is said to come from the latest phase of a series of trials that began earlier this year, and it has not yet been independently confirmed.",
-   "n": 1,
-   "more": [
-    "Earlier phases of the trials reported hundreds of convictions, with sentences said to range from several years to life.",
-    "The Attorney General has led the prosecutions."
-   ],
-   "added": "2026-10-24",
-   "img": "img/terror-653.jpg",
-   "alt": "Office buildings in Abuja",
-   "credit": "Photo: MediaMOF / Wikimedia Commons (CC BY-SA 4.0)"
-  },
-  {
-   "id": "omokri-mexico",
-   "c": "politics",
-   "h": "Mexico reportedly clears Reno Omokri as Nigeria's envoy to four countries",
-   "p": "Mexico has reportedly approved Reno Omokri to serve as Nigeria's ambassador covering four countries in Latin America. The clearance is said to remove the last hurdle before he takes up the post.",
-   "n": 1,
-   "more": [
-    "The approval was reported by a Nigerian news site.",
-    "No date has been given for his formal posting."
-   ],
-   "added": "2026-10-24",
-   "img": "img/omokri-mexico.jpg",
-   "alt": "Reno Omokri holding a framed certificate",
-   "credit": "Photo: Etauso / Wikimedia Commons (CC BY-SA 4.0)"
-  },
-  {
-   "id": "officer-woos",
-   "c": "creators",
-   "h": "Officer Woos hits back at critic over silence while Broda Shaggi was away",
-   "p": "Skit maker Officer Woos, an associate of comedian Broda Shaggi, has reportedly replied to a critic who questioned why he stayed quiet while his colleague was away. He is said to have defended his conduct in a public response.",
-   "n": 1,
-   "more": [
-    "The exchange has drawn mixed reactions online.",
-    "Neither side has said more."
-   ],
-   "added": "2026-10-24",
-   "img": "img/officer-woos.jpg",
-   "alt": "Comedian Broda Shaggi",
-   "credit": "Photo: globacomlimited / Wikimedia Commons (CC BY-SA 4.0)"
-  },
-  {
-   "id": "bauchi-ndc",
-   "c": "elections",
-   "h": "Bauchi NDC governorship candidate Ibrahim Kashim quits the party",
-   "p": "Ibrahim Kashim, the NDC governorship candidate in Bauchi State and a former state secretary, has resigned from the party citing personal reasons. The NDC says it will hold fresh congresses to fill the vacancy and has accused the APC of luring its candidates away. A report says other NDC candidates in the state could follow him out.",
-   "n": 3,
-   "more": [
-    "The NDC says it will use provisions of the Electoral Act, 2026 to replace affected candidates.",
-    "Kashim has not said which party he may join next, though speculation links him to the APC.",
-    "A similar dispute is ongoing over the NDC governorship ticket in Kaduna State."
-   ],
-   "added": "2026-10-24"
-  },
-  {
-   "id": "kcluxury-court",
-   "c": "celebs",
-   "h": "KC Luxury reportedly arrives at Lagos court in an ambulance as lawyer seeks medical bail",
-   "p": "Socialite KC Luxury was reportedly brought to a Lagos court in an ambulance, with his lawyer asking for bail on medical grounds. He is facing a multi-count drug-related case brought by the anti-narcotics agency and has denied the charges.",
-   "n": 1,
-   "more": [
-    "He earlier pleaded not guilty to all counts alongside two co-defendants.",
-    "His lawyers have also challenged his detention in a separate suit."
-   ],
-   "added": "2026-10-24"
   },
   {
    "id": "tinubu-kaduna",
