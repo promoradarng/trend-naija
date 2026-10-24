@@ -1,5 +1,5 @@
 {
- "updated": "Updated 11:35 BST",
+ "updated": "Updated 12:35 BST",
  "date": "Saturday, 24 October 2026",
  "categories": {
   "all": "All gist",
@@ -14,6 +14,66 @@
   "sport": "Sport"
  },
  "stories": [
+  {
+   "id": "jaruma-detained",
+   "c": "naija",
+   "h": "Businesswoman Jaruma reportedly detained by police over social media posts about Seyi Tinubu",
+   "p": "Businesswoman Jaruma is reportedly in police custody following posts she made online about a woman said to be linked to Seyi Tinubu. The reasons for her detention have not been officially explained. The police are yet to issue a public statement.",
+   "n": 1,
+   "more": [
+    "Reports say the detention followed her online posts.",
+    "No official statement from the police at the time of writing."
+   ],
+   "added": "2026-10-24"
+  },
+  {
+   "id": "eagles-dutch-serie-a",
+   "c": "sport",
+   "h": "Dutch-born Serie A player reportedly agrees to play for the Super Eagles",
+   "p": "A Dutch-born player in Italy's Serie A has reportedly agreed to represent Nigeria at senior level. The move would be a boost for the national team. The Nigeria Football Federation has not yet confirmed the switch.",
+   "n": 1,
+   "more": [
+    "The player is said to qualify through Nigerian heritage.",
+    "Official confirmation is still awaited."
+   ],
+   "added": "2026-10-24"
+  },
+  {
+   "id": "adekunle-gold-sickle-cell",
+   "c": "music",
+   "h": "Adekunle Gold announces 0,000 initiative for sickle cell patients in four countries",
+   "p": "Singer Adekunle Gold has launched a 0,000 programme to support people living with sickle cell across four countries. The announcement drew praise from fans online.",
+   "n": 1,
+   "more": [
+    "The programme covers patients in four countries.",
+    "Fans have praised the gesture on social media."
+   ],
+   "added": "2026-10-24"
+  },
+  {
+   "id": "king-cnd-burna",
+   "c": "music",
+   "h": "King CND criticises Burna Boy over reconciliation with Davido, citing VeryDarkMan",
+   "p": "Content creator King CND has reportedly accused Burna Boy of betraying VeryDarkMan after the singer made peace with Davido. His remarks have drawn mixed reactions from fans online.",
+   "n": 1,
+   "more": [
+    "King CND says the reconciliation undermined VeryDarkMan.",
+    "Fans of both singers have reacted online."
+   ],
+   "added": "2026-10-24"
+  },
+  {
+   "id": "dj-dsf-children",
+   "c": "celebs",
+   "h": "DJ DSF says people who cannot afford children should not have them",
+   "p": "DJ DSF has sparked debate online after saying people who cannot afford to raise children should not have them. Reactions have been split between those who agree and those who call the comments insensitive.",
+   "n": 1,
+   "more": [
+    "The comments have started a debate on parenting and finances.",
+    "Social media users are divided."
+   ],
+   "added": "2026-10-24"
+  },
   {
    "id": "ebola-15-states",
    "c": "naija",
@@ -858,35 +918,6 @@
    "h": "Mrs GCFR's family confirms her death",
    "p": "Fans are heartbroken after the family of the online personality known as Mrs GCFR confirmed she has died. Her last celebratory post is now full of condolence messages.",
    "n": 1,
-   "added": "2026-10-23"
-  },
-  {
-   "id": "vdm",
-   "img": "img/vdm.jpg",
-   "alt": "VeryDarkMan",
-   "credit": "Photo: CoreTechLogic / Wikimedia Commons, CC0",
-   "c": "celebs",
-   "h": "VeryDarkMan: stop asking me who to vote for",
-   "p": "The activist told followers he is disappointed that people keep asking him to name a presidential candidate, and urged them to judge the country's situation for themselves. (19 Oct)",
-   "n": 1,
-   "added": "2026-10-23"
-  },
-  {
-   "id": "statepolice",
-   "c": "naija",
-   "h": "State police clears the 24-state hurdle",
-   "p": "Twenty-four state Houses of Assembly have now voted for the constitutional amendment creating state police, reaching the two-thirds of states the constitution requires. Lagos, Ondo, Ebonyi and several northern states are yet to vote. The resolutions now head back to the National Assembly and then to the President for assent. Gombe's Assembly is the latest reported to have approved the bill.",
-   "n": 7,
-   "hot": 7,
-   "added": "2026-10-23"
-  },
-  {
-   "id": "ebolaug",
-   "c": "naija",
-   "h": "Ebola: Swiss say Abuja patient likely caught virus in Uganda",
-   "p": "Switzerland says Nigeria's first Ebola patient in over a decade, the Ugandan-born wife of a Swiss diplomat in Abuja, most likely picked up the virus on a trip to Uganda about two weeks earlier. The exact source is still unknown and 44 possible contacts are being traced.",
-   "n": 1,
-   "hot": 12,
    "added": "2026-10-23"
   }
  ]
