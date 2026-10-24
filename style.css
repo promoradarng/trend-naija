@@ -56,8 +56,8 @@ a:focus-visible,button:focus-visible,input:focus-visible{outline:2px solid var(-
 .lead p{font-size:19px;max-width:62ch;margin:0 0 12px}
 .lead p::first-letter{font-family:var(--display);font-weight:700;float:left;font-size:3.3em;line-height:.85;padding:4px 8px 0 0;color:var(--brand)}
 .lead .src{font-family:var(--label);font-size:12px}
-.lead .more{display:flex;flex-direction:column;gap:0;margin-top:16px;border-top:1px solid var(--line)}
-.lead .more span{font-family:var(--display);font-style:italic;padding:8px 0;border-bottom:1px solid var(--line)}
+.lead .more{display:flex;flex-direction:column;gap:12px;margin-top:12px}
+.lead .more span{display:block;font:inherit;font-style:normal}
 
 .side h3{font-family:var(--label);font-size:12px;font-weight:700;text-transform:uppercase;letter-spacing:.12em;margin:0 0 4px;padding:8px 10px;background:var(--nav);color:#FFFFFF;border-left:6px solid var(--brand)}
 .hot-list{list-style:none;margin:0;padding:0;counter-reset:h}
