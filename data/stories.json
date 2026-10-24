@@ -1,5 +1,5 @@
 {
- "updated": "Updated 09:45 BST",
+ "updated": "Updated 10:33 BST",
  "date": "Saturday, 24 October 2026",
  "categories": {
   "all": "All gist",
@@ -14,6 +14,86 @@
   "sport": "Sport"
  },
  "stories": [
+  {
+   "id": "atiku-adc-council",
+   "c": "elections",
+   "h": "Atiku inaugurates ADC presidential campaign council as Tinubu heads to Kaduna",
+   "p": "Atiku Abubakar has reportedly inaugurated the ADC presidential campaign council in Abuja, on the same weekend the APC begins its re-election campaign in Kaduna. APC campaign chief Abdulaziz Yari has played down the threat from both Atiku and Peter Obi.",
+   "n": 2,
+   "more": [
+    "Yari says Port Harcourt and Maiduguri are the next stops on Tinubu's campaign trail.",
+    "The ADC council has reportedly criticised Kwankwaso for urging Atiku to step aside for Obi."
+   ],
+   "added": "2026-10-24"
+  },
+  {
+   "id": "dangote-petrol",
+   "c": "naija",
+   "h": "Dangote and depot owners reportedly set for new petrol price rise after crude increase",
+   "p": "Petrol prices are said to be heading up again as crude oil rises, according to reports. The move comes just a day after depots were reported to have cut petrol and diesel rates nationwide.",
+   "n": 1,
+   "more": [
+    "The NLC has given government until 27 October to act on fuel prices and minimum wage.",
+    "Marketers are said to be watching crude movements before confirming new pump prices."
+   ],
+   "added": "2026-10-24"
+  },
+  {
+   "id": "fbi-wanted-nigerians",
+   "c": "naija",
+   "h": "FBI reportedly publishes names and photos of four Nigerians wanted over $6m email fraud",
+   "p": "The FBI has reportedly released the names and photos of four Nigerians it wants in connection with a $6 million business email compromise scheme.",
+   "n": 1,
+   "more": [
+    "Separately, a Nigerian man has reportedly been declared wanted in the US over alleged $3.1m Medicare fraud."
+   ],
+   "added": "2026-10-24"
+  },
+  {
+   "id": "remi-aso-rock",
+   "c": "politics",
+   "h": "Remi Tinubu says when she wants to leave Aso Rock",
+   "p": "The First Lady has reportedly spoken about when she hopes to leave the presidential villa, as her husband begins his 2027 re-election campaign.",
+   "n": 1,
+   "more": [
+    "The remarks come on the day of the APC campaign flag-off in Kaduna."
+   ],
+   "added": "2026-10-24"
+  },
+  {
+   "id": "jarvis-family",
+   "c": "creators",
+   "h": "Jarvis explains why she keeps her family away from husband Peller",
+   "p": "Jarvis has reportedly explained why she does not let her relatives talk to her husband Peller, following their latest clash over her younger sister's streaming career.",
+   "n": 1,
+   "more": [
+    "The couple reportedly argued live before Peller took her off the stream.",
+    "Peller earlier said he needs to grow into a man after the fight."
+   ],
+   "added": "2026-10-24"
+  },
+  {
+   "id": "itele-affair",
+   "c": "celebs",
+   "h": "Itele reportedly explains why he cautioned his wife and defended Irewole Olaniyan",
+   "p": "Actor Itele has reportedly spoken about his stance in an ongoing affair controversy, saying why he warned his wife and backed Irewole Olaniyan.",
+   "n": 1,
+   "more": [
+    "Online reaction to his comments is said to be mixed."
+   ],
+   "added": "2026-10-24"
+  },
+  {
+   "id": "melania-oleshky",
+   "c": "world",
+   "h": "Melania Trump reportedly helps secure temporary Russia-Ukraine ceasefire for Oleshky evacuation",
+   "p": "A temporary ceasefire has reportedly been agreed to let elderly residents leave the town of Oleshky, with Melania Trump said to have played a part.",
+   "n": 1,
+   "more": [
+    "The pause is said to be limited to the evacuation of older residents."
+   ],
+   "added": "2026-10-24"
+  },
   {
    "id": "gombe-truck",
    "c": "naija",
@@ -780,74 +860,6 @@
    "c": "celebs",
    "h": "VeryDarkMan: stop asking me who to vote for",
    "p": "The activist told followers he is disappointed that people keep asking him to name a presidential candidate, and urged them to judge the country's situation for themselves. (19 Oct)",
-   "n": 1,
-   "added": "2026-10-23"
-  },
-  {
-   "id": "eazi",
-   "img": "img/eazi.jpg",
-   "alt": "Mr Eazi",
-   "credit": "Photo: NdaniTV / Wikimedia Commons, CC BY 3.0",
-   "c": "celebs",
-   "h": "Mr Eazi on dollar-billionaire talk: money isn't the target",
-   "p": "The singer and investor spoke about the idea of becoming a dollar billionaire and said wealth is not what drives him.",
-   "n": 1,
-   "added": "2026-10-23"
-  },
-  {
-   "id": "israel",
-   "img": "img/israel.jpg",
-   "alt": "Zlatan Ibile",
-   "credit": "Photo: WALINTEEN PRO / Wikimedia Commons, CC BY 3.0",
-   "c": "celebs",
-   "h": "Israel DMW reveals what he paid for Zlatan's wedding aso ebi",
-   "p": "Davido's logistics manager shared how much he spent on aso ebi for Zlatan Ibile's wedding, and fans have plenty to say.",
-   "n": 1,
-   "added": "2026-10-23"
-  },
-  {
-   "id": "eze",
-   "img": "img/eze.jpg",
-   "alt": "Pastor Jerry Eze",
-   "credit": "Photo: Nominaetch / Wikimedia Commons, CC BY-SA 4.0",
-   "c": "celebs",
-   "h": "Jerry Eze's new church building trends online",
-   "p": "Pictures of the pastor's new church building are drawing reactions, including from gospel singer Mercy Chinwo and actor Stan Nze.",
-   "n": 1,
-   "added": "2026-10-23"
-  },
-  {
-   "id": "natasha",
-   "c": "celebs",
-   "h": "Natasha Osawaru shares sweet clip with her son with 2Baba",
-   "p": "2Baba's estranged wife posted a video with their son and fans flooded her comments.",
-   "n": 1,
-   "added": "2026-10-23"
-  },
-  {
-   "id": "bobby",
-   "c": "celebs",
-   "h": "Bobby Maris speaks on love after split from Uche Ogbodo",
-   "p": "The singer shared his thoughts on what falling in love does to a person, following the end of his marriage to actress Uche Ogbodo.",
-   "n": 1,
-   "added": "2026-10-23"
-  },
-  {
-   "id": "fola",
-   "c": "celebs",
-   "h": "Singer Fola explains his casual outfit at UNILAG project defence",
-   "p": "The singer said why he showed up in casual clothes to defend his final-year project at the University of Lagos.",
-   "n": 1,
-   "added": "2026-10-23"
-  },
-  {
-   "id": "omotola",
-   "img": "img/omotola.jpg",
-   "alt": "Omotola Jalade-Ekeinde",
-   "credit": "Photo: World Economic Forum / Wikimedia Commons, CC BY 3.0",
-   "c": "celebs",
-   "h": "Omotola's first daughter opens up about her journey",
-   "p": "Omotola Jalade-Ekeinde's eldest daughter shared emotional details about her personal journey.",
    "n": 1,
    "added": "2026-10-23"
   },
