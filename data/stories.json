@@ -1,5 +1,5 @@
 {
- "updated": "Updated 05:32 BST",
+ "updated": "Updated 06:33 BST",
  "date": "Saturday, 24 October 2026",
  "categories": {
   "all": "All gist",
@@ -14,6 +14,54 @@
   "sport": "Sport"
  },
  "stories": [
+  {
+   "id": "bauchi-ndc",
+   "c": "elections",
+   "h": "Bauchi NDC governorship candidate Ibrahim Kashim quits the party",
+   "p": "Ibrahim Kashim, the NDC governorship candidate in Bauchi State and a former state secretary, has resigned from the party citing personal reasons. The NDC says it will hold fresh congresses to fill the vacancy and has accused the APC of luring its candidates away. A report says other NDC candidates in the state could follow him out.",
+   "n": 3,
+   "more": [
+    "The NDC says it will use provisions of the Electoral Act, 2026 to replace affected candidates.",
+    "Kashim has not said which party he may join next, though speculation links him to the APC.",
+    "A similar dispute is ongoing over the NDC governorship ticket in Kaduna State."
+   ],
+   "added": "2026-10-24"
+  },
+  {
+   "id": "kcluxury-court",
+   "c": "celebs",
+   "h": "KC Luxury reportedly arrives at Lagos court in an ambulance as lawyer seeks medical bail",
+   "p": "Socialite KC Luxury was reportedly brought to a Lagos court in an ambulance, with his lawyer asking for bail on medical grounds. He is facing a multi-count drug-related case brought by the anti-narcotics agency and has denied the charges.",
+   "n": 1,
+   "more": [
+    "He earlier pleaded not guilty to all counts alongside two co-defendants.",
+    "His lawyers have also challenged his detention in a separate suit."
+   ],
+   "added": "2026-10-24"
+  },
+  {
+   "id": "ballondor-london",
+   "c": "sport",
+   "h": "Updated Ballon d'Or rankings published days before London ceremony",
+   "p": "Fresh rankings for the 2026 Ballon d'Or have reportedly been released just days ahead of the award ceremony in London. Football fans in Nigeria and beyond are debating who deserves the trophy.",
+   "n": 1,
+   "more": [
+    "The ceremony is due to take place in London early next week.",
+    "Several players are said to be in contention for the top prize."
+   ],
+   "added": "2026-10-24"
+  },
+  {
+   "id": "queen-naomi",
+   "c": "celebs",
+   "h": "Ooni's Queen Naomi opens up on four-year university journey ahead of convocation",
+   "p": "Queen Naomi has reportedly spoken about her four years at university, including retaking JAMB and balancing motherhood with her studies. She is said to be preparing for her 2026 convocation.",
+   "n": 1,
+   "more": [
+    "She says she sat the JAMB exam a second time before gaining admission."
+   ],
+   "added": "2026-10-24"
+  },
   {
    "id": "fayose-wike",
    "c": "celebs",
@@ -780,46 +828,6 @@
    "c": "naija",
    "h": "Edo govt pulls down building linked to suspected ritualist",
    "p": "State authorities demolished a property allegedly used by a suspected cultist for organ harvesting and ritual activities.",
-   "n": 1,
-   "added": "2026-10-23"
-  },
-  {
-   "id": "gana",
-   "c": "naija",
-   "h": "Man jailed 40 years for spying for Benue militia leader Gana",
-   "p": "A Federal High Court in Abuja sentenced the man after he pleaded guilty to spying for the late militia leader.",
-   "n": 1,
-   "added": "2026-10-23"
-  },
-  {
-   "id": "sokoto",
-   "c": "naija",
-   "h": "Mother, children among six dead in Sokoto crash",
-   "p": "Six people, three of them from one family, died in a road crash in Sokoto involving an overloaded vehicle.",
-   "n": 1,
-   "added": "2026-10-23"
-  },
-  {
-   "id": "crs",
-   "c": "naija",
-   "h": "Cross River budgets ₦987.8bn for 2027",
-   "p": "Governor Bassey Otu presented the 2027 budget, with 72% set aside for capital projects.",
-   "n": 1,
-   "added": "2026-10-23"
-  },
-  {
-   "id": "pot",
-   "c": "viral",
-   "h": "No light? She ironed her outfit with a cooking pot",
-   "p": "A lady refused to step out rumpled during a power outage and pressed her clothes with a hot pot instead. The video has people laughing and taking notes.",
-   "n": 1,
-   "added": "2026-10-23"
-  },
-  {
-   "id": "beans",
-   "c": "viral",
-   "h": "Wife screams after seeing husband's watery beans",
-   "p": "A woman's shocked reaction to the pot of beans her husband cooked has become the internet's favourite kitchen drama.",
    "n": 1,
    "added": "2026-10-23"
   }
