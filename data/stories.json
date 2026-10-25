@@ -1,5 +1,5 @@
 {
- "updated": "Updated 16:35 GMT",
+ "updated": "Updated 16:40 GMT",
  "date": "Sunday, 25 October 2026",
  "categories": {
   "all": "All gist",
@@ -14,6 +14,61 @@
   "sport": "Sport"
  },
  "stories": [
+  {
+   "id": "ncdc-ebola-weekly-stipend",
+   "c": "naija",
+   "h": "NCDC approves N100,000 weekly payments for people under Ebola monitoring",
+   "p": "The Nigeria Centre for Disease Control has reportedly approved a weekly stipend of N100,000 for people being monitored as contacts of the confirmed Ebola case. The payment is said to be meant to help them stay at home for the monitoring period.",
+   "n": 1,
+   "more": [
+    "Health officials are still tracing contacts of the confirmed case in Abuja.",
+    "Neighbouring countries have tightened travel rules as the outbreak is watched."
+   ],
+   "added": "2026-10-25",
+   "img": "img/ncdc-ebola-weekly-stipend.jpg",
+   "alt": "Medics at work in an Ebola observation ward",
+   "credit": "Stock image: DFID - UK Department for International Development / Flickr, CC BY 2.0",
+   "at": "2026-10-25T16:35Z"
+  },
+  {
+   "id": "naira-slides-reserves",
+   "c": "naija",
+   "h": "Naira weakens against the dollar even though reserves stand at about $55 billion",
+   "p": "A fresh CBN dollar rate shows the naira losing ground, reportedly despite foreign reserves of around $55 billion. The slide is drawing questions from traders and ordinary Nigerians.",
+   "n": 1,
+   "more": [
+    "Analysts say demand for dollars is still high.",
+    "Petrol and diesel prices are also being watched closely."
+   ],
+   "added": "2026-10-25",
+   "at": "2026-10-25T16:35Z"
+  },
+  {
+   "id": "abuja-hotel-worker-tiler",
+   "c": "naija",
+   "h": "Police arrest a tiler over the death of a hotel worker in Abuja",
+   "p": "Police in Abuja have arrested a tiler in connection with the death of a hotel staff member in the Utako area after a violent confrontation. The suspect reportedly told officers the man fell and hit his head.",
+   "n": 2,
+   "more": [
+    "Investigators are said to be looking into what led to the clash.",
+    "The police have not yet announced when the suspect will be charged."
+   ],
+   "added": "2026-10-25",
+   "at": "2026-10-25T16:35Z"
+  },
+  {
+   "id": "remi-tinubu-2031",
+   "c": "politics",
+   "h": "First Lady Remi Tinubu says she wants to leave Aso Rock in 2031",
+   "p": "Nigeria's First Lady Remi Tinubu has reportedly said she hopes to leave the presidential villa in 2031 for a Nigeria she can enjoy. The remark, made as the 2027 campaign gets under way, is drawing mixed reactions online.",
+   "n": 2,
+   "more": [
+    "Supporters read it as confidence in a second term for her husband.",
+    "Opposition voices say Nigerians want results, not predictions."
+   ],
+   "added": "2026-10-25",
+   "at": "2026-10-25T16:35Z"
+  },
   {
    "id": "ndlea-lagos-airport-cocaine",
    "c": "naija",
