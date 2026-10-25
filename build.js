@@ -52,7 +52,7 @@ const absImg = s => (s.imgs && s.imgs.length) ? `${SITE}/${s.imgs[0]}` : (s.img 
 const fig = (s, eager) => (s.imgs && s.imgs.length)
   ? `<figure class="ph ph-multi">${s.imgs.map((src, i) => `<img src="/${esc(src)}" alt="${esc((s.alts || [])[i] || s.alt || s.h)}"${eager ? "" : ' loading="lazy"'} width="640" height="640">`).join("")}<figcaption>${esc(s.credit || "")}</figcaption></figure>`
   : s.img
-  ? `<figure class="ph"><img src="/${esc(s.img)}" alt="${esc(s.alt || s.h)}"${eager ? "" : ' loading="lazy"'} width="640" height="427"><figcaption>${esc(s.credit || "")}</figcaption></figure>`
+  ? `<figure class="ph${s.owner ? " ph-full" : ""}"><img src="/${esc(s.img)}" alt="${esc(s.alt || s.h)}"${eager ? "" : ' loading="lazy"'} width="640" height="427"><figcaption>${esc(s.credit || "")}</figcaption></figure>`
   : "";
 // Social media embeds: a story's "embed" field holds the URL of the original public post.
 // Supported: Instagram (post/reel), X/Twitter (status), TikTok (video), YouTube, Facebook (post/video/reel).

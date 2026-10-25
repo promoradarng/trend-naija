@@ -105,6 +105,8 @@ a:focus-visible,button:focus-visible,input:focus-visible{outline:2px solid var(-
 .ph img{display:block;width:100%;height:auto;max-width:100%;aspect-ratio:3/2;object-fit:cover;object-position:50% 25%;background:var(--chip)}
 .ph figcaption{font-family:var(--label);font-size:10.5px;color:var(--muted);margin-top:4px;letter-spacing:.02em}
 .lead .ph img{aspect-ratio:16/9}
+/* owner photos are shown whole, never cropped */
+.ph-full img,.lead .ph-full img{aspect-ratio:auto;object-fit:contain;max-height:min(80vh,720px);width:auto;margin:0 auto}
 .empty{text-align:center;color:var(--muted);padding:40px 0;font-style:italic}
 
 footer{padding-block:0 34px;font-size:15px;color:var(--muted)}
