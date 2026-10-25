@@ -154,3 +154,15 @@ footer a{color:#FFFFFF}
 .story-related{margin-top:36px;border-top:4px solid var(--brand);padding-top:12px}
 .story-related h3{margin-top:4px}
 .story-related .river{columns:2 260px;padding-block:8px 0}
+
+/* archive page and "search all stories" link */
+.allq{margin:8px 0 0;font-family:var(--label);font-size:14px}
+.arc-search{margin:12px 0 4px;max-width:520px}
+.arc-search input{width:100%}
+.arc-list{list-style:none;padding:0;margin:12px 0 0}
+.arc{padding:12px 0;border-top:1px solid var(--line)}
+.arc-meta{display:flex;gap:12px;align-items:baseline;flex-wrap:wrap;font-family:var(--label);font-size:11px;color:var(--muted);text-transform:uppercase;letter-spacing:.08em}
+.arc-meta .when{display:inline}
+.arc>a{display:block;font-family:var(--display);font-weight:700;font-size:20px;line-height:1.2;margin:4px 0;color:var(--ink);text-decoration:none}
+.arc>a:hover{text-decoration:underline}
+.arc p{margin:0;font-size:15px;color:var(--muted)}

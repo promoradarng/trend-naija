@@ -6,14 +6,39 @@ const ROOT = __dirname;
 const SITE = "https://trendnaija.com";
 const data = JSON.parse(fs.readFileSync(path.join(ROOT, "data/stories.json"), "utf8"));
 const CATS = data.categories;
-const stories = data.stories;
 
 // every story carries "at" (UTC time it went up); stamp new ones now and save them back
 const nowAt = new Date().toISOString().slice(0, 16) + "Z";
-if (stories.some(s => !s.at)) {
-  stories.forEach(s => { if (!s.at) s.at = nowAt; });
+if (data.stories.some(s => !s.at)) {
+  data.stories.forEach(s => { if (!s.at) s.at = nowAt; });
   fs.writeFileSync(path.join(ROOT, "data/stories.json"), JSON.stringify(data, null, 1));
 }
+
+// Archive: every story ever published is kept in data/archive/<id>.json, so it keeps its own page
+// and stays searchable after it leaves the front page. An archived owner story is only replaced by
+// an owner version, and owner stories stay on the front page for OWNER_HOURS after they went up.
+const ARCH = path.join(ROOT, "data/archive");
+const OWNER_HOURS = 48;
+fs.mkdirSync(ARCH, { recursive: true });
+const archive = new Map(fs.readdirSync(ARCH).filter(f => f.endsWith(".json"))
+  .map(f => JSON.parse(fs.readFileSync(path.join(ARCH, f), "utf8"))).map(s => [s.id, s]));
+for (const s of data.stories) {
+  const old = archive.get(s.id);
+  if (old && old.owner && !s.owner) continue;
+  const { hot, lead, pg, ...keep } = s;
+  const next = { ...keep, at: (old && old.at) || s.at };
+  const file = path.join(ARCH, `${s.id}.json`);
+  const text = JSON.stringify(next, null, 1);
+  if (!fs.existsSync(file) || fs.readFileSync(file, "utf8") !== text) fs.writeFileSync(file, text);
+  archive.set(s.id, next);
+}
+const byNewest = list => list.map((s, i) => [s, i]).sort((a, b) => (b[0].at > a[0].at) - (b[0].at < a[0].at) || a[1] - b[1]).map(x => x[0]);
+const onFront = new Set(data.stories.map(s => s.id));
+const pinned = [...archive.values()].filter(s => s.owner && !onFront.has(s.id) && Date.now() - Date.parse(s.at) < OWNER_HOURS * 3600e3);
+// front page: the current stories plus recent owner stories, newest first (the first is Top gist)
+const stories = byNewest(data.stories.map(s => (archive.get(s.id).owner && !s.owner) ? { ...archive.get(s.id), hot: s.hot } : s).concat(pinned));
+// every story ever published, newest first: story pages, sitemap, archive page and photos
+const all = byNewest([...archive.values()]);
 const WHEN = new Intl.DateTimeFormat("en-GB", { timeZone: "Europe/London", day: "numeric", month: "short", year: "numeric", hour: "2-digit", minute: "2-digit", hour12: false, timeZoneName: "short" });
 const when = s => `<time class="when" datetime="${esc(s.at)}">${esc(WHEN.format(new Date(s.at)))}</time>`;
 
@@ -94,7 +119,7 @@ function head(title, desc, canonical, opt = {}) {
 <body>`;
 }
 
-const nav = `<nav class="topnav" aria-label="Site"><div class="wrap"><a href="/">Home</a><a href="/about">About</a><a href="/contact">Contact</a></div></nav>`;
+const nav = `<nav class="topnav" aria-label="Site"><div class="wrap"><a href="/">Home</a><a href="/archive">All stories</a><a href="/about">About</a><a href="/contact">Contact</a></div></nav>`;
 
 function masthead() {
   return `${nav}
@@ -146,15 +171,16 @@ function buildIndex() {
   </section>
   <section class="wrap river" id="river" aria-live="polite">
 ${river}
-<div class="empty" id="empty" hidden>No gist matches that yet. Try another category or clear the search.</div>
+<div class="empty" id="empty" hidden>No gist on the front page matches that. Try another category, or search all our past stories below.</div>
+<p class="allq" id="allq" hidden><a href="/archive">Search all ${all.length} stories for “<span></span>” →</a></p>
   </section>
 </main>
 <script>
 (function(){
   var cat="all",q="";
   try{var h=location.hash.slice(1);if(document.getElementById("tab-"+h)){cat=h;}}catch(e){}
-  var tabs=document.querySelectorAll("#tabs button"),cards=document.querySelectorAll("#river .card"),empty=document.getElementById("empty");
-  function apply(){var shown=0;cards.forEach(function(c){var ok=(cat==="all"||c.dataset.c===cat)&&(!q||c.textContent.toLowerCase().indexOf(q)>-1);c.hidden=!ok;if(ok)shown++;});empty.hidden=shown>0;tabs.forEach(function(b){b.setAttribute("aria-pressed",b.dataset.k===cat)});}
+  var tabs=document.querySelectorAll("#tabs button"),cards=document.querySelectorAll("#river .card"),empty=document.getElementById("empty"),allq=document.getElementById("allq");
+  function apply(){var shown=0;cards.forEach(function(c){var ok=(cat==="all"||c.dataset.c===cat)&&(!q||c.textContent.toLowerCase().indexOf(q)>-1);c.hidden=!ok;if(ok)shown++;});empty.hidden=shown>0;allq.hidden=!q;allq.querySelector("span").textContent=q;allq.querySelector("a").href="/archive?q="+encodeURIComponent(q);tabs.forEach(function(b){b.setAttribute("aria-pressed",b.dataset.k===cat)});}
   document.getElementById("tabs").addEventListener("click",function(e){var b=e.target.closest("button");if(!b)return;cat=b.dataset.k;try{history.replaceState(null,"",cat==="all"?location.pathname:"#"+cat)}catch(e){}apply();});
   document.getElementById("q").addEventListener("input",function(e){q=e.target.value.trim().toLowerCase();apply();});
   if(cat!=="all")apply();
@@ -244,13 +270,13 @@ function buildPages() {
 function buildStories() {
   const dir = path.join(ROOT, "gist");
   fs.rmSync(dir, { recursive: true, force: true });
-  stories.forEach((s, i) => {
+  all.forEach((s, i) => {
     EMBED_USED.clear();
     const url = SITE + storyPath(s);
     const img = absImg(s);
     const desc = String(s.p || "").slice(0, 155).replace(/\s+\S*$/, "") + "…";
-    const related = stories.filter(x => x !== s && x.c === s.c).slice(0, 4);
-    const more = related.length < 4 ? related.concat(stories.filter(x => x !== s && !related.includes(x)).slice(0, 4 - related.length)) : related;
+    const related = stories.filter(x => x.id !== s.id && x.c === s.c).slice(0, 4);
+    const more = related.length < 4 ? related.concat(stories.filter(x => x.id !== s.id && !related.includes(x)).slice(0, 4 - related.length)) : related;
     const ld = {
       "@context": "https://schema.org", "@type": "NewsArticle", headline: s.h.slice(0, 110), description: desc,
       datePublished: s.at, dateModified: s.at, mainEntityOfPage: url, articleSection: CATS[s.c] || s.c,
@@ -276,13 +302,35 @@ function buildStories() {
   });
 }
 
+// /archive: every story ever published, searchable, each linking to its own page
+function buildArchive() {
+  const rows = all.map(s => `<li class="arc" data-c="${esc(s.c)}"><div class="arc-meta">${when(s)}<span>${esc(CATS[s.c] || s.c)}</span></div><a href="${storyPath(s)}">${esc(s.h)}</a><p>${esc(s.p)}</p></li>`).join("\n");
+  page("archive.html", "All stories", "Search every story Trend Naija has published: Nigerian news, Nollywood and celebrity gist, music, creators, elections, viral stories and sport.", `
+<h2>All stories</h2>
+<p class="muted">Every story we have published, newest first. Search by name, topic or headline.</p>
+<div class="search arc-search"><label for="aq" style="position:absolute;left:-9999px">Search all stories</label><input id="aq" type="search" placeholder="Search all ${all.length} stories…"></div>
+<p class="muted" id="acount"></p>
+<ol class="arc-list" id="alist">
+${rows}
+</ol>
+<script>
+(function(){
+  var items=document.querySelectorAll("#alist .arc"),box=document.getElementById("aq"),count=document.getElementById("acount");
+  function apply(){var q=box.value.trim().toLowerCase(),n=0;items.forEach(function(li){var ok=!q||li.textContent.toLowerCase().indexOf(q)>-1;li.hidden=!ok;if(ok)n++;});count.textContent=q?(n+" stor"+(n===1?"y":"ies")+" found"):"";try{history.replaceState(null,"",q?"?q="+encodeURIComponent(q):location.pathname)}catch(e){}}
+  try{var q=new URLSearchParams(location.search).get("q");if(q){box.value=q;}}catch(e){}
+  box.addEventListener("input",apply);apply();
+})();
+</script>`);
+}
+
 function buildMeta() {
   const today = new Date().toISOString().slice(0, 10);
   const urls = ["/", "/about", "/contact", "/privacy", "/terms"];
   fs.writeFileSync(path.join(ROOT, "sitemap.xml"), `<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 ${urls.map(u => `  <url><loc>${SITE}${u}</loc><lastmod>${today}</lastmod>${u === "/" ? "<changefreq>hourly</changefreq>" : ""}</url>`).join("\n")}
-${stories.map(s => `  <url><loc>${SITE}${storyPath(s)}</loc><lastmod>${String(s.at || today).slice(0, 10)}</lastmod></url>`).join("\n")}
+  <url><loc>${SITE}/archive</loc><lastmod>${today}</lastmod><changefreq>hourly</changefreq></url>
+${all.map(s => `  <url><loc>${SITE}${storyPath(s)}</loc><lastmod>${String(s.at || today).slice(0, 10)}</lastmod></url>`).join("\n")}
 </urlset>
 `);
   fs.writeFileSync(path.join(ROOT, "robots.txt"), `User-agent: *\nAllow: /\nDisallow: /data/\nDisallow: /src/\n\nSitemap: ${SITE}/sitemap.xml\n`);
@@ -291,13 +339,14 @@ ${stories.map(s => `  <url><loc>${SITE}${storyPath(s)}</loc><lastmod>${String(s.
 
 // remove images no story uses any more
 function pruneImages() {
-  const used = new Set(stories.flatMap(s => [s.img, ...(s.imgs || [])]).filter(Boolean).map(f => path.basename(f)));
+  const used = new Set(all.flatMap(s => [s.img, ...(s.imgs || [])]).filter(Boolean).map(f => path.basename(f)));
   for (const f of fs.readdirSync(path.join(ROOT, "img"))) if (!used.has(f)) fs.unlinkSync(path.join(ROOT, "img", f));
 }
 
 pruneImages();
 buildIndex();
 buildStories();
+buildArchive();
 buildPages();
 buildMeta();
-console.log(`Built ${stories.length} stories, ${stories.filter(s => s.img).length} with photos.`);
+console.log(`Built ${stories.length} stories, ${stories.filter(s => s.img).length} with photos; ${all.length} in the archive.`);
