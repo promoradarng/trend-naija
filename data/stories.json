@@ -1,5 +1,5 @@
 {
- "updated": "Updated 07:40 GMT",
+ "updated": "Updated 08:32 GMT",
  "date": "Sunday, 25 October 2026",
  "categories": {
   "all": "All gist",
@@ -14,6 +14,71 @@
   "sport": "Sport"
  },
  "stories": [
+  {
+   "id": "wike-obi-candidate-claim",
+   "c": "politics",
+   "h": "Wike makes fresh claim about helping Peter Obi become a presidential candidate",
+   "p": "FCT Minister Nyesom Wike has reportedly made a new claim about his role in Peter Obi's political journey, saying he helped put him on the path to a presidential ticket. A separate report says Wike also spoke about what could stop Obi from winning the presidency in 2027. Obi's camp has not been reported to respond.",
+   "n": 1,
+   "more": [
+    "Wike has repeatedly commented on Obi as the 2027 race heats up.",
+    "Obi is running on the NDC ticket with Kwankwaso."
+   ],
+   "added": "2026-10-25",
+   "at": "2026-10-25T08:33Z"
+  },
+  {
+   "id": "seyi-vodi-zlatan-wedding",
+   "c": "celebs",
+   "h": "Seyi Vodi reportedly turned away by bouncers at Zlatan Ibile's wedding",
+   "p": "Content creator Seyi Vodi was reportedly denied entry to Zlatan Ibile and Davita's wedding by security staff, and Nigerians have reacted online. It is not clear whether he had an invitation. Many other stars attended the celebration.",
+   "n": 2,
+   "more": [
+    "Davido and Enioluwa were among the guests.",
+    "Videos from the wedding continue to circulate online."
+   ],
+   "added": "2026-10-25",
+   "at": "2026-10-25T08:33Z"
+  },
+  {
+   "id": "tope-alabi-pastor-ultimatum",
+   "c": "naija",
+   "h": "Tope Alabi reportedly gives Canada-based pastor 24 hours over online claims about Toluwanisings' death",
+   "p": "Gospel singer Tope Alabi has reportedly given a Canada-based pastor a 24-hour ultimatum in the controversy surrounding the death of Toluwanisings. This follows her earlier warning to social media users against defamation.",
+   "n": 2,
+   "more": [
+    "She has said she will take legal action against defamation.",
+    "Many Nigerians are weighing in online."
+   ],
+   "added": "2026-10-25",
+   "at": "2026-10-25T08:33Z"
+  },
+  {
+   "id": "petrol-price-drop-diesel-rise",
+   "c": "naija",
+   "h": "Marketers cut petrol prices across Nigeria while diesel climbs",
+   "p": "Petrol prices have reportedly fallen at filling stations in several parts of the country, while diesel is getting more expensive because of high crude oil prices.",
+   "n": 2,
+   "more": [
+    "Diesel affects transport and food costs.",
+    "Motorists are watching whether the petrol cut lasts."
+   ],
+   "added": "2026-10-25",
+   "at": "2026-10-25T08:33Z"
+  },
+  {
+   "id": "shoprite-nigeria-revival",
+   "c": "viral",
+   "h": "Shoprite reportedly makes fresh move to revive its Nigerian business",
+   "p": "Retailer Shoprite is said to be taking new steps to return to the Nigerian market after earlier shutting its stores in the country. Details of the plan have not been fully reported.",
+   "n": 1,
+   "more": [
+    "The chain had closed its Nigerian stores after selling the business.",
+    "Shoppers online are asking where the new stores would open."
+   ],
+   "added": "2026-10-25",
+   "at": "2026-10-25T08:33Z"
+  },
   {
    "id": "tinubu-opposition-hunger",
    "c": "politics",
@@ -925,100 +990,6 @@
    "owner": true,
    "added": "2026-10-24",
    "at": "2026-10-24T19:05Z"
-  },
-  {
-   "id": "regina-daniels-claims",
-   "c": "celebs",
-   "h": "Unverified claims about Regina Daniels' family and close circle spread online",
-   "p": "Nollywood actress Regina Daniels is trending after a wave of unconfirmed claims about her family and people close to her spread on Instagram. Posts suggest her mother has raised concerns about some people in her daughter's circle, but the details being shared have not been backed up by any official source. Neither Regina nor her family has publicly responded, and Trend Naija has not been able to verify any of the reports.",
-   "n": 1,
-   "hot": 3,
-   "more": [
-    "There is no confirmation of any police involvement, despite claims being shared online.",
-    "None of the people mentioned in the posts has been shown to have done anything wrong.",
-    "Fans are urging caution, saying matters of family and health deserve privacy until the facts are clear."
-   ],
-   "img": "img/regina-daniels-claims.jpg",
-   "alt": "Regina Daniels in a red head wrap smiles beside her mother, Rita Daniels, in a colourful print outfit",
-   "credit": "Photo: Trend Naija",
-   "owner": true,
-   "added": "2026-10-24",
-   "at": "2026-10-24T18:39Z"
-  },
-  {
-   "id": "jarvis-respect-peller",
-   "c": "creators",
-   "h": "Jarvis tells critics to stop pushing her to respect Peller",
-   "p": "Streamer Jarvis has hit back at people urging her to show more respect to her husband Peller, saying they should stop forcing it because the respect is not there. She added that women reflect whatever they are given in a relationship. The remarks have sparked fresh reactions online, about two months into their reported marriage.",
-   "n": 1,
-   "hot": 4,
-   "more": [
-    "\"Whatever you show us is what we will reflect back,\" Jarvis said.",
-    "The comments follow the couple's recent public clashes, including a row over her younger sister.",
-    "Fans are divided, with many pointing out that respect in a marriage has to go both ways."
-   ],
-   "img": "img/jarvis-respect-peller.jpg",
-   "alt": "Peller and Jarvis pose side by side in matching white England football shirts",
-   "credit": "Photo: Trend Naija",
-   "owner": true,
-   "added": "2026-10-24",
-   "at": "2026-10-24T17:04Z"
-  },
-  {
-   "id": "zlatan-wedding",
-   "c": "celebs",
-   "h": "Zlatan and Davita Lamai's traditional wedding gets underway",
-   "p": "Rapper Zlatan Ibile and Davita Lamai's traditional wedding is underway, with the singer releasing photos from the ceremony on Saturday. The pictures sent \"Zlatan\" and \"Zanku\" into Nigeria's top social media trends. Claims of a ₦2.3 billion wedding and a $1 million ring have not been backed up by any credible or official source.",
-   "n": 1,
-   "hot": 5,
-   "more": [
-    "The couple posed in matching red and white outfits with coral beads in the official photos.",
-    "Zlatan was earlier reported to have bought his bride a Hermes bag ahead of the wedding.",
-    "Big names from the entertainment industry are expected to celebrate with the couple."
-   ],
-   "img": "img/zlatan-wedding.jpg",
-   "alt": "Davita Lamai in a red beaded gown and coral crown stands beside Zlatan, seated on a gold throne in white and coral beads",
-   "credit": "Photo: Trend Naija",
-   "owner": true,
-   "added": "2026-10-24",
-   "at": "2026-10-24T13:48Z"
-  },
-  {
-   "id": "remi-tompolo",
-   "c": "politics",
-   "h": "Remi Tinubu and Tompolo share a cheerful moment at an APC rally",
-   "p": "First Lady Senator Oluremi Tinubu and Government Ekpemupolo, popularly known as Tompolo, were seen laughing and exchanging warm smiles at an APC rally. Tompolo, a former Niger Delta militant leader, now holds a major federal pipeline security contract and has become an influential figure with ties to the ruling party. The relaxed moment has sparked conversation online about how political relationships evolve in Nigeria.",
-   "n": 1,
-   "hot": 6,
-   "more": [
-    "Tompolo wore a cap and vest bearing the name of a pro-Tinubu support group.",
-    "His firm's pipeline surveillance contract has been credited by the government with helping to curb oil theft in the Niger Delta.",
-    "The rally is part of the APC's 2027 re-election campaign."
-   ],
-   "img": "img/remi-tompolo.jpg",
-   "alt": "Remi Tinubu in green APC attire smiles at Tompolo, seated beside her in a white cap and black vest",
-   "credit": "Photo: Trend Naija",
-   "owner": true,
-   "added": "2026-10-24",
-   "at": "2026-10-24T13:30Z"
-  },
-  {
-   "id": "blessing-ceo-released",
-   "c": "celebs",
-   "h": "Blessing CEO out of detention, Doris Ogala confirms",
-   "p": "Relationship coach Blessing CEO has been released from detention, actress Doris Ogala has confirmed. Ogala shared a video on social media showing her on a video call with Blessing shortly after her release.",
-   "n": 1,
-   "hot": 7,
-   "more": [
-    "Ogala appeared delighted in the clip as she spoke with Blessing.",
-    "Blessing CEO has not yet spoken publicly about her release."
-   ],
-   "img": "img/blessing-ceo-released.jpg",
-   "alt": "Doris Ogala in a cap, sunglasses and striped top smiling during a video call in a car",
-   "credit": "Photo: Trend Naija",
-   "owner": true,
-   "added": "2026-10-24",
-   "at": "2026-10-24T12:32Z"
   }
  ]
 }
