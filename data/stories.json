@@ -1,5 +1,5 @@
 {
- "updated": "Updated 02:33 GMT Sunday, 25 October 2026",
+ "updated": "Updated 03:40 GMT Sunday, 25 October 2026",
  "date": "Sunday, 25 October 2026",
  "categories": {
   "all": "All gist",
@@ -14,6 +14,98 @@
   "sport": "Sport"
  },
  "stories": [
+  {
+   "id": "ebola-nigeria-case",
+   "c": "naija",
+   "h": "Nigeria confirms an Ebola case in Abuja as health officials trace 44 contacts",
+   "p": "The Nigeria Centre for Disease Control says a woman who arrived from Uganda has tested positive for Ebola in Abuja, the country's first case in about a decade. Health Minister Muhammad Pate says 44 contacts, including health workers and caregivers, are being traced. A toll-free line, 6232, has been opened for suspected cases, while some Nigerians question how long detection took.",
+   "n": 3,
+   "more": [
+    "Symptoms reportedly began on 7 October and she was admitted to a private hospital on 11 October.",
+    "The US embassy has also advised Americans in Nigeria on precautions.",
+    "Kenya has also recorded cases in the same regional outbreak."
+   ],
+   "added": "2026-10-25",
+   "at": "2026-10-25T03:33Z"
+  },
+  {
+   "id": "phyna-police-wig",
+   "c": "celebs",
+   "h": "Phyna reportedly invited by police over a rented wig controversy",
+   "p": "Former Big Brother Naija winner Phyna has reportedly been invited by the police after a dispute over a rented wig. A separate video also shows an officer telling her he did not recognise her as a celebrity during a routine check. Neither matter has been fully explained publicly.",
+   "n": 1,
+   "more": [
+    "The wig dispute reportedly started online before police stepped in.",
+    "Fans are split between mocking the exchange and defending her."
+   ],
+   "added": "2026-10-25",
+   "at": "2026-10-25T03:33Z"
+  },
+  {
+   "id": "multichoice-dstv-prices",
+   "c": "naija",
+   "h": "MultiChoice reportedly confirms cheaper DStv decoders and subscription prices",
+   "p": "MultiChoice has reportedly taken a final decision to reduce the prices of DStv decoders and subscription packages in Nigeria. The company is said to have not yet published every new price, so customers are advised to check before renewing.",
+   "n": 1,
+   "more": [
+    "The cut is said to follow months of complaints about subscription costs.",
+    "Full package-by-package prices are still awaited."
+   ],
+   "added": "2026-10-25",
+   "at": "2026-10-25T03:33Z"
+  },
+  {
+   "id": "dangote-diesel-gantry",
+   "c": "naija",
+   "h": "Marketers reportedly announce new diesel prices after Dangote halts gantry sales",
+   "p": "Fuel marketers have reportedly released new pump prices after the Dangote Refinery stopped selling diesel at its gantry. It is not yet clear how long the pause will last or how much it will affect supply.",
+   "n": 1,
+   "more": [
+    "Marketers say they are adjusting to the change in supply arrangements.",
+    "The reported rise in output at the Edo refinery may ease pressure on diesel."
+   ],
+   "added": "2026-10-25",
+   "at": "2026-10-25T03:33Z"
+  },
+  {
+   "id": "eagles-dutch-serie-a",
+   "c": "sport",
+   "h": "Dutch-born Serie A star reportedly agrees to play for the Super Eagles",
+   "p": "A Netherlands-born player in Italy's Serie A has reportedly agreed to represent Nigeria at senior level. The Nigeria Football Federation has not yet confirmed the switch or the player's eligibility paperwork.",
+   "n": 1,
+   "more": [
+    "Nigeria has been widening its search for dual-nationality players.",
+    "A formal announcement is awaited."
+   ],
+   "added": "2026-10-25",
+   "at": "2026-10-25T03:33Z"
+  },
+  {
+   "id": "osimhen-motm-debate",
+   "c": "sport",
+   "h": "Turkish pundit questions Osimhen's man-of-the-match award in Galatasaray win over Lille",
+   "p": "A Turkish football commentator has questioned why Victor Osimhen was named player of the match after Galatasaray beat Lille in the Champions League. The debate has divided fans, with many Nigerians defending the striker.",
+   "n": 1,
+   "more": [
+    "Galatasaray took the win in Europe's top club competition.",
+    "Osimhen has not responded to the comments."
+   ],
+   "added": "2026-10-25",
+   "at": "2026-10-25T03:33Z"
+  },
+  {
+   "id": "gombe-state-police",
+   "c": "politics",
+   "h": "Gombe Assembly reportedly approves the creation of a state police force",
+   "p": "Lawmakers in Gombe State have reportedly voted to back the creation of a state police force. The move follows wider national debate on decentralising policing amid insecurity concerns.",
+   "n": 1,
+   "more": [
+    "Several state assemblies have been weighing similar backing.",
+    "Federal approval would still be needed for any change."
+   ],
+   "added": "2026-10-25",
+   "at": "2026-10-25T03:33Z"
+  },
   {
    "id": "conte-man-utd",
    "c": "sport",
@@ -777,78 +869,6 @@
    "at": "2026-10-24T17:33Z"
   },
   {
-   "id": "tinubu-permsec-recall",
-   "c": "politics",
-   "h": "Tinubu recalls suspended permanent secretary and gives his reason",
-   "p": "President Tinubu has reportedly recalled a permanent secretary who was suspended during an ICPC investigation. The presidency gave an explanation for the decision, which is already drawing comment online.",
-   "n": 1,
-   "more": [
-    "The permanent secretary had been suspended during an ICPC investigation."
-   ],
-   "added": "2026-10-24",
-   "at": "2026-10-24T17:33Z"
-  },
-  {
-   "id": "vdm-bred-car",
-   "c": "creators",
-   "h": "VeryDarkMan reportedly calls for a probe into how B-Red got his car",
-   "p": "Social media critic VeryDarkman has reportedly asked authorities to investigate how B-Red acquired a car, saying the means is \"not pure\". B-Red has not been reported to have replied at the time of writing.",
-   "n": 1,
-   "more": [
-    "It is the latest of several public call-outs by VeryDarkman this week, including over Davido."
-   ],
-   "added": "2026-10-24",
-   "at": "2026-10-24T17:33Z"
-  },
-  {
-   "id": "tope-alabi-defamation",
-   "c": "music",
-   "h": "Tope Alabi warns social media users against defaming her",
-   "p": "Gospel singer Tope Alabi has said she will not tolerate false claims about her online and is reportedly ready to take legal action against those spreading them. She did not name anyone in the warning.",
-   "n": 1,
-   "more": [
-    "She did not name anyone in the warning."
-   ],
-   "added": "2026-10-24",
-   "at": "2026-10-24T17:33Z"
-  },
-  {
-   "id": "rita-edochie-polygamy",
-   "c": "celebs",
-   "h": "Rita Edochie says she is not against polygamy",
-   "p": "Nollywood actress Rita Edochie has explained her position on polygamy after what she called a widespread misunderstanding of her earlier remarks. She said she is not against the practice.",
-   "n": 2,
-   "more": [
-    "She spoke after her earlier remarks were widely misunderstood."
-   ],
-   "added": "2026-10-24",
-   "at": "2026-10-24T17:33Z"
-  },
-  {
-   "id": "kompany-hospital",
-   "c": "sport",
-   "h": "Bayern Munich boss Vincent Kompany reportedly taken to hospital after collapsing",
-   "p": "Bayern Munich manager Vincent Kompany was reportedly taken to hospital after collapsing while watching the club's second team train. No details on his condition have been given in the reports so far.",
-   "n": 1,
-   "more": [
-    "The club is yet to give a detailed update."
-   ],
-   "added": "2026-10-24",
-   "at": "2026-10-24T17:33Z"
-  },
-  {
-   "id": "ntel-return",
-   "c": "naija",
-   "h": "NTEL returns to Nigeria with cheaper internet plans and eSIM",
-   "p": "Telecom company NTEL has reportedly returned to the Nigerian market, promising cheaper internet services and eSIM support. It is described as a former rival of MTN.",
-   "n": 1,
-   "more": [
-    "The company is described as a former rival of MTN."
-   ],
-   "added": "2026-10-24",
-   "at": "2026-10-24T17:33Z"
-  },
-  {
    "id": "jarvis-respect-peller",
    "c": "creators",
    "h": "Jarvis tells critics to stop pushing her to respect Peller",
@@ -866,22 +886,6 @@
    "owner": true,
    "added": "2026-10-24",
    "at": "2026-10-24T17:04Z"
-  },
-  {
-   "id": "burna-on-sneakers",
-   "c": "music",
-   "h": "Burna Boy's first sneaker collection with a Swiss running brand goes on sale",
-   "p": "Burna Boy has launched a three-shoe collection with the running brand On, released on 22 October through the brand's stores and selected retailers. Prices abroad range from about $150 to $180, and Nigerian outlets are putting the local cost at roughly ₦202,000 to ₦242,000.",
-   "n": 3,
-   "more": [
-    "The pack comes in three styles, including a Cloudmonster and a Cloudtilt Remix.",
-    "The launch comes days after the singer's much-discussed reconciliation with Davido."
-   ],
-   "img": "img/king-cnd-burna.jpg",
-   "alt": "Burna Boy performing on stage",
-   "credit": "Photo: Nuță Lucian from Cluj-Napoca, Romania / Wikimedia Commons (CC BY-SA 2.0)",
-   "added": "2026-10-24",
-   "at": "2026-10-24T14:32Z"
   },
   {
    "id": "zlatan-wedding",
