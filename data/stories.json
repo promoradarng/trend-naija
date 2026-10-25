@@ -1,5 +1,5 @@
 {
- "updated": "Updated 05:35 GMT",
+ "updated": "Updated 07:00 GMT",
  "date": "Sunday, 25 October 2026",
  "categories": {
   "all": "All gist",
@@ -14,6 +14,94 @@
   "sport": "Sport"
  },
  "stories": [
+  {
+   "id": "apc-adc-deepfake",
+   "c": "elections",
+   "h": "APC and ADC trade accusations over deepfake videos and a forged letter ahead of Tinubu's Kaduna rally",
+   "p": "The APC has accused Atiku Abubakar and the ADC of plotting fake news, citing deepfake videos and a forged letter, to disrupt the party's Kaduna campaign rally. The ADC has rejected the claim and challenged the APC to produce evidence.",
+   "n": 2,
+   "more": [
+    "The ADC says the APC must publish proof of its allegation.",
+    "The row comes as both camps step up 2027 campaign activity."
+   ],
+   "added": "2026-10-25",
+   "at": "2026-10-25T06:32Z"
+  },
+  {
+   "id": "umahi-obi-four-years",
+   "c": "elections",
+   "h": "Umahi challenges Peter Obi's argument that Igbos should take just four years",
+   "p": "Works Minister David Umahi has questioned Peter Obi's reasoning on a single four-year term for an Igbo president, asking why others did eight years while Igbos are told to settle for four.",
+   "n": 1,
+   "more": [
+    "The remark adds to the debate on an Igbo presidency in 2027.",
+    "Obi's camp had not responded at the time of writing."
+   ],
+   "added": "2026-10-25",
+   "at": "2026-10-25T06:32Z"
+  },
+  {
+   "id": "genevieve-tribe-vote",
+   "c": "creators",
+   "h": "Content creator Genevieve urges Nigerians to stop voting along tribal lines",
+   "p": "Creator Genevieve has urged voters to put competence and good governance ahead of ethnic loyalty in 2027, in a message that reportedly criticised some Tinubu supporters.",
+   "n": 1,
+   "more": [
+    "Her post has drawn mixed reactions online.",
+    "Several creators have been weighing in on the 2027 race."
+   ],
+   "added": "2026-10-25",
+   "at": "2026-10-25T06:32Z"
+  },
+  {
+   "id": "tonto-dikeh-prophecy",
+   "c": "celebs",
+   "h": "Tonto Dikeh causes a stir by calling out names while delivering a prophecy in church",
+   "p": "Actress Tonto Dikeh reportedly named specific people while delivering a prophecy during a church service, and a video of the moment is drawing reactions online.",
+   "n": 1,
+   "more": [
+    "Fans are split over whether the moment was appropriate.",
+    "She had not publicly explained the remarks at the time of writing."
+   ],
+   "added": "2026-10-25",
+   "at": "2026-10-25T06:32Z"
+  },
+  {
+   "id": "egungun-zlatan-thanks",
+   "c": "music",
+   "h": "Egungun of Lagos thanks Zlatan for helping him buy his first costume seven years ago",
+   "p": "Masquerade performer Egungun of Lagos has publicly thanked singer Zlatan, saying he gave him money to buy his first costume, as the singer's wedding celebrations continue.",
+   "n": 1,
+   "more": [
+    "The message went viral during the wedding celebrations."
+   ],
+   "added": "2026-10-25",
+   "at": "2026-10-25T06:32Z"
+  },
+  {
+   "id": "ruth-kadiri-weddings",
+   "c": "celebs",
+   "h": "Ruth Kadiri says expensive weddings put unnecessary pressure on couples",
+   "p": "Nollywood actress Ruth Kadiri has said couples do not need an expensive wedding, noting the strain big ceremonies place on newlyweds.",
+   "n": 1,
+   "more": [
+    "Her comments follow the talk around lavish weddings this weekend."
+   ],
+   "added": "2026-10-25",
+   "at": "2026-10-25T06:32Z"
+  },
+  {
+   "id": "itele-irewole",
+   "c": "celebs",
+   "h": "Itele explains why he defended Irewole Olaniyan amid controversy",
+   "p": "Itele has said he stood up for Irewole Olaniyan because he does not want to see her fall, as the controversy around her continues to draw reactions.",
+   "n": 1,
+   "more": [
+    "Reactions online remain divided."
+   ],
+   "added": "2026-10-25",
+   "at": "2026-10-25T06:32Z"
+  },
   {
    "id": "atiku-withdraw-calls",
    "c": "elections",
@@ -806,58 +894,6 @@
    "at": "2026-10-24T19:33Z"
   },
   {
-   "id": "dmi-backs-tinubu",
-   "c": "politics",
-   "h": "Group called DMI backs Tinubu's economic reforms and announces 2027 alliance",
-   "p": "A group known as DMI has announced support for President Tinubu's economic reforms and declared an alliance ahead of the 2027 elections. The announcement adds to a run of endorsements as the APC campaign begins.",
-   "n": 1,
-   "more": [
-    "The group says the reforms need more time to deliver.",
-    "Critics say Nigerians are still struggling with the cost of living."
-   ],
-   "added": "2026-10-24",
-   "at": "2026-10-24T19:33Z"
-  },
-  {
-   "id": "adeboye-granddaughter",
-   "c": "naija",
-   "h": "Pastor Adeboye's blessing for his granddaughter on her wedding day stirs emotions",
-   "p": "RCCG General Overseer Pastor Enoch Adeboye has drawn warm reactions online over the blessing he gave his granddaughter on her wedding day. Videos from the ceremony are circulating widely, with many users sharing congratulatory messages to the family.",
-   "n": 2,
-   "more": [
-    "Guests included church leaders and family friends.",
-    "Clips of the prayer have been reposted thousands of times."
-   ],
-   "added": "2026-10-24",
-   "at": "2026-10-24T19:33Z"
-  },
-  {
-   "id": "ndc-convoy-attack",
-   "c": "elections",
-   "h": "Gunmen reportedly open fire on NDC candidate's convoy in Ebonyi",
-   "p": "Gunmen are said to have attacked the convoy of a candidate of the NDC in Ebonyi State, reportedly killing one person and injuring three others. Police are yet to give full details of the incident.",
-   "n": 1,
-   "more": [
-    "The candidate is not reported to have been among the injured.",
-    "The attack has raised fresh worries about election-season security."
-   ],
-   "added": "2026-10-24",
-   "at": "2026-10-24T19:33Z"
-  },
-  {
-   "id": "sina-rambo-wife",
-   "c": "celebs",
-   "h": "Sina Rambo's wife Heidi Korth responds to fresh reports of trouble in their marriage",
-   "p": "Heidi Korth has spoken out after new reports of a crisis in her marriage to Nollywood actor Sina Rambo. She has reportedly addressed the claims of separation online, and the actor is yet to publicly respond.",
-   "n": 2,
-   "more": [
-    "Fans have been split in the comment sections.",
-    "Neither side has announced any legal step."
-   ],
-   "added": "2026-10-24",
-   "at": "2026-10-24T19:33Z"
-  },
-  {
    "id": "soldiers-bread-water",
    "c": "naija",
    "h": "Video of Nigerian soldiers dipping bread in river water sparks outrage",
@@ -894,46 +930,6 @@
    "owner": true,
    "added": "2026-10-24",
    "at": "2026-10-24T18:39Z"
-  },
-  {
-   "id": "atiku-hunger-reply",
-   "c": "elections",
-   "h": "Atiku fires back after Tinubu blames opponents for hunger",
-   "p": "At the APC campaign flag-off in Kaduna, President Tinubu reportedly asked who created hunger and poverty and answered that his rivals did. Atiku Abubakar has replied that blaming the opposition is either delusion or political amnesia, pointing out that the APC governed for eight years before Tinubu took office. He cited the naira's slide from about ₦471 to ₦1,329 to the dollar and World Bank poverty projections.",
-   "n": 1,
-   "more": [
-    "Atiku also questioned trillions of naira recorded under energy security spending.",
-    "The exchange sharpens the 2027 battle between the APC and the ADC.",
-    "Supporters on both sides are trading the clips online."
-   ],
-   "added": "2026-10-24",
-   "at": "2026-10-24T18:33Z"
-  },
-  {
-   "id": "utomi-debate-dare",
-   "c": "elections",
-   "h": "Pat Utomi dares Tinubu to defend his record in a live debate",
-   "p": "Political economist Pat Utomi has reportedly challenged President Tinubu to defend his achievements in a live presidential debate. Utomi has previously urged INEC to make debates compulsory for candidates. Atiku has also said he would take part in 2027 debates only if Tinubu and the APC attend.",
-   "n": 1,
-   "more": [
-    "Tinubu's camp skipped broadcast debates in the 2023 cycle.",
-    "No response from the presidency had been reported at the time of writing."
-   ],
-   "added": "2026-10-24",
-   "at": "2026-10-24T18:33Z"
-  },
-  {
-   "id": "macklemore-wembley",
-   "c": "music",
-   "h": "Calls grow in Britain to stop Macklemore's Wembley 'Free Palestine' show",
-   "p": "A group of British peers has reportedly asked the Home Secretary to block rapper Macklemore from entering the UK ahead of his concert at Wembley Arena on 30 October. The Jewish Leadership Council has also raised concerns with the promoter. Supporters say he is entitled to speak up for Palestinian rights.",
-   "n": 1,
-   "more": [
-    "He was dropped from Ed Sheeran's tour after on-stage comments last month.",
-    "Stars including Paloma Faith and Kehlani have backed him."
-   ],
-   "added": "2026-10-24",
-   "at": "2026-10-24T18:33Z"
   },
   {
    "id": "jarvis-respect-peller",
