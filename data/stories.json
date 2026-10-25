@@ -1,5 +1,5 @@
 {
- "updated": "Updated 17:35 GMT",
+ "updated": "Updated 18:40 GMT",
  "date": "Sunday, 25 October 2026",
  "categories": {
   "all": "All gist",
@@ -14,6 +14,48 @@
   "sport": "Sport"
  },
  "stories": [
+  {
+   "id": "makinde-2027-water-testing",
+   "c": "politics",
+   "h": "Analyst says Governor Makinde's 2027 presidential bid is a test of the waters, not a serious bid to win",
+   "p": "A political analyst has reportedly described Oyo State Governor Seyi Makinde's move towards the 2027 presidential race as exploratory. The analyst said it appears aimed at gauging support rather than a determined push to win. Makinde's camp has not been quoted in the report.",
+   "n": 1,
+   "more": [
+    "The 2027 field is already crowded, with APC, ADC and NDC camps all making their pitch.",
+    "Analysts say the North-West and South-West could decide the race."
+   ],
+   "added": "2026-10-25",
+   "at": "2026-10-25T18:34Z"
+  },
+  {
+   "id": "lagos-container-trucks-mile2",
+   "c": "naija",
+   "h": "Mother and child reportedly die as two container trucks overturn in Lagos",
+   "p": "A mother and her child have reportedly died after two container trucks overturned at Mile 2 in Apapa, Lagos. Emergency responders are said to have been called to the scene. The cause of the accident has not been confirmed.",
+   "n": 1,
+   "more": [
+    "Heavy container traffic around the Apapa corridor has long been a safety concern.",
+    "Further details from the authorities are awaited."
+   ],
+   "img": "img/lagos-container-trucks.jpg",
+   "added": "2026-10-25",
+   "alt": "Container trucks on a highway",
+   "credit": "Stock image: futureatlas.com / Flickr, CC BY 2.0",
+   "at": "2026-10-25T18:34Z"
+  },
+  {
+   "id": "edo-ransom-friends-deaths",
+   "c": "naija",
+   "h": "Woman says friends were killed in Edo even after N25 million ransom was paid for each of them",
+   "p": "A woman has reportedly cried out online over the deaths of friends in Edo State, saying a ransom of N25 million was paid for each of them before they were killed. The claim has not been independently confirmed. It has renewed debate about kidnapping and insecurity in the state.",
+   "n": 1,
+   "more": [
+    "Nigerians online are calling on security agencies to act.",
+    "The police have not yet responded to the claim."
+   ],
+   "added": "2026-10-25",
+   "at": "2026-10-25T18:34Z"
+  },
   {
    "id": "ecuador-baby-moustache",
    "c": "viral",
