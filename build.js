@@ -23,6 +23,44 @@ const fig = (s, eager) => (s.imgs && s.imgs.length)
   : s.img
   ? `<figure class="ph"><img src="/${esc(s.img)}" alt="${esc(s.alt || s.h)}"${eager ? "" : ' loading="lazy"'} width="640" height="427"><figcaption>${esc(s.credit || "")}</figcaption></figure>`
   : "";
+// Social media embeds: a story's "embed" field holds the URL of the original public post.
+// Supported: Instagram (post/reel), X/Twitter (status), TikTok (video), YouTube, Facebook (post/video/reel).
+const EMBED_USED = new Set();
+function embedHtml(url) {
+  const u = String(url || "").trim();
+  let m;
+  if ((m = u.match(/^https:\/\/(?:www\.)?instagram\.com\/(?:[A-Za-z0-9_.]+\/)?(p|reel|tv)\/([A-Za-z0-9_-]+)/))) {
+    EMBED_USED.add("instagram");
+    const link = `https://www.instagram.com/${m[1]}/${m[2]}/`;
+    return `<div class="embed"><blockquote class="instagram-media" data-instgrm-permalink="${esc(link)}" data-instgrm-version="14"><a href="${esc(link)}" target="_blank" rel="noopener">View this post on Instagram</a></blockquote></div>`;
+  }
+  if ((m = u.match(/^https:\/\/(?:www\.|mobile\.)?(?:x|twitter)\.com\/([A-Za-z0-9_]+)\/status\/(\d+)/))) {
+    EMBED_USED.add("x");
+    const link = `https://twitter.com/${m[1]}/status/${m[2]}`;
+    return `<div class="embed"><blockquote class="twitter-tweet" data-dnt="true"><a href="${esc(link)}" target="_blank" rel="noopener">View this post on X</a></blockquote></div>`;
+  }
+  if ((m = u.match(/^https:\/\/(?:www\.)?tiktok\.com\/@([A-Za-z0-9_.]+)\/video\/(\d+)/))) {
+    EMBED_USED.add("tiktok");
+    const link = `https://www.tiktok.com/@${m[1]}/video/${m[2]}`;
+    return `<div class="embed"><blockquote class="tiktok-embed" cite="${esc(link)}" data-video-id="${m[2]}"><section><a href="${esc(link)}" target="_blank" rel="noopener">View this video on TikTok</a></section></blockquote></div>`;
+  }
+  if ((m = u.match(/^https:\/\/(?:www\.|m\.)?(?:youtube\.com\/(?:watch\?(?:.*&)?v=|shorts\/|live\/)|youtu\.be\/)([A-Za-z0-9_-]{11})/))) {
+    return `<div class="embed embed-yt"><iframe src="https://www.youtube-nocookie.com/embed/${m[1]}" title="YouTube video" loading="lazy" allow="encrypted-media; picture-in-picture; fullscreen" allowfullscreen></iframe></div>`;
+  }
+  if (/^https:\/\/(?:www\.|m\.)?facebook\.com\/[^\s"<>]+$/.test(u) || /^https:\/\/fb\.watch\/[A-Za-z0-9_-]+\/?$/.test(u)) {
+    const video = /\/(videos|reel|watch)\b|fb\.watch/.test(u);
+    const src = `https://www.facebook.com/plugins/${video ? "video" : "post"}.php?href=${encodeURIComponent(u)}&show_text=true&width=500`;
+    return `<div class="embed embed-fb${video ? " embed-fbv" : ""}"><iframe src="${esc(src)}" title="Facebook post" loading="lazy" scrolling="no" allow="encrypted-media; picture-in-picture; fullscreen" allowfullscreen></iframe></div>`;
+  }
+  return "";
+}
+const media = (s, eager) => fig(s, eager) || embedHtml(s.embed);
+const embedScripts = () => [
+  EMBED_USED.has("instagram") ? '<script async src="https://www.instagram.com/embed.js"></script>' : "",
+  EMBED_USED.has("x") ? '<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>' : "",
+  EMBED_USED.has("tiktok") ? '<script async src="https://www.tiktok.com/embed.js"></script>' : ""
+].join("");
+
 
 function head(title, desc, canonical) {
   return `<!doctype html>
@@ -78,7 +116,7 @@ const footer = `<footer>
 function card(s) {
   const n = s.confirmed ? 2 : (s.n || 1);
   return `<article class="card" data-c="${esc(s.c)}" id="${esc(s.id)}"><div class="meta"><span class="cat">${esc(CATS[s.c] || s.c)}</span>${n > 1 ? "" : '<span class="status">Reported</span>'}</div>
-${fig(s)}<h4>${esc(s.h)}</h4>${when(s)}<p>${esc(s.p)}</p></article>`;
+${media(s)}<h4>${esc(s.h)}</h4>${when(s)}<p>${esc(s.p)}</p></article>`;
 }
 
 function buildIndex() {
@@ -96,7 +134,7 @@ function buildIndex() {
     <div class="search"><label for="q" style="position:absolute;left:-9999px">Search stories</label><input id="q" type="search" placeholder="Search gist…"></div>
   </div></div>
   <section class="wrap top">
-    <article class="lead" id="lead"><div class="kicker">Top gist · ${esc(CATS[lead.c])}</div>${fig(lead, true)}<h2>${esc(lead.h)}</h2>${when(lead)}<p>${esc(lead.p)}</p>${(lead.more || []).length ? `<div class="more">${lead.more.map(t => `<span>${esc(t)}</span>`).join("")}</div>` : ""}</article>
+    <article class="lead" id="lead"><div class="kicker">Top gist · ${esc(CATS[lead.c])}</div>${media(lead, true)}<h2>${esc(lead.h)}</h2>${when(lead)}<p>${esc(lead.p)}</p>${(lead.more || []).length ? `<div class="more">${lead.more.map(t => `<span>${esc(t)}</span>`).join("")}</div>` : ""}</article>
     <aside class="side"><h3>Most talked about</h3><ol class="hot-list">${hot.map(s => `<li><div><a class="hl" href="#${esc(s.id)}">${esc(s.h)}</a><small>${esc(CATS[s.c])}</small></div></li>`).join("")}</ol></aside>
   </section>
   <section class="wrap river" id="river" aria-live="polite">
@@ -115,7 +153,7 @@ ${river}
   if(cat!=="all")apply();
 })();
 </script>
-` + footer;
+` + embedScripts() + footer;
   fs.writeFileSync(path.join(ROOT, "index.html"), html);
 }
 

@@ -131,3 +131,12 @@ footer a{color:#FFFFFF}
 .ph-multi{display:grid;grid-template-columns:1fr 1fr;gap:4px}
 .ph-multi img,.lead .ph-multi img{aspect-ratio:1/1;object-position:50% 50%}
 .ph-multi figcaption{grid-column:1/-1}
+
+/* social media embeds */
+.embed{margin:0 0 6px;max-width:100%;overflow:hidden}
+.embed blockquote{margin:0 auto!important;max-width:100%!important;min-width:0!important}
+.embed blockquote a{font-family:var(--label);font-size:13px;font-weight:600}
+.embed iframe{display:block;width:100%;border:0}
+.embed-yt iframe{aspect-ratio:16/9;height:auto}
+.embed-fb iframe{height:520px}
+.embed-fbv iframe{aspect-ratio:9/16;height:auto;max-height:640px}
