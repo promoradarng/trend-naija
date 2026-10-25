@@ -1,5 +1,5 @@
 {
- "updated": "Updated 20:35 GMT",
+ "updated": "Updated 21:35 GMT",
  "date": "Sunday, 25 October 2026",
  "categories": {
   "all": "All gist",
@@ -14,6 +14,81 @@
   "sport": "Sport"
  },
  "stories": [
+  {
+   "id": "ndc-campaign-council-2027",
+   "c": "elections",
+   "h": "NDC reportedly unveils its 2027 campaign council with Peter Obi, Kwankwaso and Dickson",
+   "p": "The Nigeria Democratic Congress has reportedly named its campaign council for the 2027 elections. The list is said to include presidential candidate Peter Obi, his running mate Rabiu Kwankwaso and party leader Seriake Dickson.",
+   "n": 1,
+   "hot": 1,
+   "more": [
+    "The announcement follows weeks of meetings in Abuja over the council's make-up.",
+    "The party had earlier dismissed reports of division over the Obi-Kwankwaso ticket."
+   ],
+   "added": "2026-10-25",
+   "img": "img/ndc-campaign-council-2027.jpg",
+   "alt": "Peter Obi",
+   "credit": "Photo: Plus TV Africa / Wikimedia Commons, CC BY 3.0",
+   "at": "2026-10-25T21:35Z"
+  },
+  {
+   "id": "okonjo-iweala-mother-dies",
+   "c": "naija",
+   "h": "Ngozi Okonjo-Iweala announces the death of her mother, Prof Kamene Okonjo, aged 96",
+   "p": "WTO Director-General Ngozi Okonjo-Iweala has announced that her mother, Professor Kamene Okonjo, has died at the age of 96. Tributes are expected from across Nigeria and beyond.",
+   "n": 1,
+   "more": [
+    "Prof Okonjo was a respected academic and a former traditional title holder in Delta State.",
+    "The family is expected to announce funeral arrangements."
+   ],
+   "added": "2026-10-25",
+   "img": "img/okonjo-iweala-mother-dies.jpg",
+   "alt": "Ngozi Okonjo-Iweala speaking at a conference",
+   "credit": "Photo: Perambara/Amantha Perera / Flickr, CC BY 2.0",
+   "at": "2026-10-25T21:35Z"
+  },
+  {
+   "id": "zamfara-ebola-surveillance",
+   "c": "naija",
+   "h": "Zamfara steps up Ebola screening after a traveller reportedly arrives with a fever",
+   "p": "The Zamfara State government has reportedly activated Ebola surveillance at Gusau airport and major motor parks. This follows the arrival of a passenger from Saudi Arabia said to have had a 38-degree fever.",
+   "n": 1,
+   "more": [
+    "Health officials have urged residents to report anyone with symptoms.",
+    "It comes as the NCDC approves weekly payments for people placed under monitoring."
+   ],
+   "added": "2026-10-25",
+   "at": "2026-10-25T21:35Z"
+  },
+  {
+   "id": "hurts-blood-clot-nfl-review",
+   "c": "sport",
+   "h": "NFL and players' union reportedly review Jalen Hurts' blood clot diagnosis",
+   "p": "The NFL and the NFL Players Association are reportedly jointly investigating the medical care given to Philadelphia Eagles quarterback Jalen Hurts after a blood clot diagnosis.",
+   "n": 1,
+   "more": [
+    "The review is said to focus on how the condition was identified and treated.",
+    "There is no official word yet on when he could return to play."
+   ],
+   "added": "2026-10-25",
+   "img": "img/hurts-blood-clot-nfl-review.jpg",
+   "alt": "Jalen Hurts",
+   "credit": "Photo: All-Pro Reels / Wikimedia Commons, CC BY-SA 2.0",
+   "at": "2026-10-25T21:35Z"
+  },
+  {
+   "id": "uk-defence-war-ready-1000-days",
+   "c": "world",
+   "h": "UK Defence Secretary says Britain must be ready for war within 1,000 days",
+   "p": "The UK Defence Secretary has said Britain must strengthen its military readiness because potential adversaries could be able to attack by around 2030.",
+   "n": 1,
+   "more": [
+    "The warning is aimed at pushing faster investment in the armed forces.",
+    "Opposition parties are expected to press for details on funding."
+   ],
+   "added": "2026-10-25",
+   "at": "2026-10-25T21:35Z"
+  },
   {
    "id": "soludo-obi-anambra-2027",
    "c": "politics",
