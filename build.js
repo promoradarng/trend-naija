@@ -18,6 +18,8 @@ const WHEN = new Intl.DateTimeFormat("en-GB", { timeZone: "Europe/London", day: 
 const when = s => `<time class="when" datetime="${esc(s.at)}">${esc(WHEN.format(new Date(s.at)))}</time>`;
 
 const esc = t => String(t ?? "").replace(/[&<>"]/g, m => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[m]));
+const storyPath = s => `/gist/${encodeURIComponent(s.id)}/`;
+const absImg = s => (s.imgs && s.imgs.length) ? `${SITE}/${s.imgs[0]}` : (s.img ? `${SITE}/${s.img}` : "");
 const fig = (s, eager) => (s.imgs && s.imgs.length)
   ? `<figure class="ph ph-multi">${s.imgs.map((src, i) => `<img src="/${esc(src)}" alt="${esc((s.alts || [])[i] || s.alt || s.h)}"${eager ? "" : ' loading="lazy"'} width="640" height="640">`).join("")}<figcaption>${esc(s.credit || "")}</figcaption></figure>`
   : s.img
@@ -62,7 +64,7 @@ const embedScripts = () => [
 ].join("");
 
 
-function head(title, desc, canonical) {
+function head(title, desc, canonical, opt = {}) {
   return `<!doctype html>
 <html lang="en-GB">
 <head>
@@ -75,7 +77,12 @@ function head(title, desc, canonical) {
 <meta property="og:title" content="${esc(title)}">
 <meta property="og:description" content="${esc(desc)}">
 <meta property="og:url" content="${SITE}${canonical}">
-<meta property="og:type" content="website">
+<meta property="og:type" content="${opt.article ? "article" : "website"}">${opt.image ? `
+<meta property="og:image" content="${esc(opt.image)}">
+<meta name="twitter:image" content="${esc(opt.image)}">` : ""}${opt.article ? `
+<meta property="article:published_time" content="${esc(opt.article)}">` : ""}
+<meta name="robots" content="max-image-preview:large">${opt.ld ? `
+<script type="application/ld+json">${JSON.stringify(opt.ld).replace(/</g, "\\u003c")}</script>` : ""}
 <meta name="twitter:card" content="summary_large_image">
 <meta name="theme-color" content="#008751">
 <link rel="icon" href="/favicon.svg" type="image/svg+xml">
@@ -116,7 +123,7 @@ const footer = `<footer>
 function card(s) {
   const n = s.confirmed ? 2 : (s.n || 1);
   return `<article class="card" data-c="${esc(s.c)}" id="${esc(s.id)}"><div class="meta"><span class="cat">${esc(CATS[s.c] || s.c)}</span>${n > 1 ? "" : '<span class="status">Reported</span>'}</div>
-${media(s)}<h4>${esc(s.h)}</h4>${when(s)}<p>${esc(s.p)}</p></article>`;
+${media(s)}<h4><a href="${storyPath(s)}">${esc(s.h)}</a></h4>${when(s)}<p>${esc(s.p)}</p></article>`;
 }
 
 function buildIndex() {
@@ -134,7 +141,7 @@ function buildIndex() {
     <div class="search"><label for="q" style="position:absolute;left:-9999px">Search stories</label><input id="q" type="search" placeholder="Search gist…"></div>
   </div></div>
   <section class="wrap top">
-    <article class="lead" id="lead"><div class="kicker">Top gist · ${esc(CATS[lead.c])}</div>${media(lead, true)}<h2>${esc(lead.h)}</h2>${when(lead)}<p>${esc(lead.p)}</p>${(lead.more || []).length ? `<div class="more">${lead.more.map(t => `<span>${esc(t)}</span>`).join("")}</div>` : ""}</article>
+    <article class="lead" id="lead"><div class="kicker">Top gist · ${esc(CATS[lead.c])}</div>${media(lead, true)}<h2><a href="${storyPath(lead)}">${esc(lead.h)}</a></h2>${when(lead)}<p>${esc(lead.p)}</p>${(lead.more || []).length ? `<div class="more">${lead.more.map(t => `<span>${esc(t)}</span>`).join("")}</div>` : ""}</article>
     <aside class="side"><h3>Most talked about</h3><ol class="hot-list">${hot.map(s => `<li><div><a class="hl" href="#${esc(s.id)}">${esc(s.h)}</a><small>${esc(CATS[s.c])}</small></div></li>`).join("")}</ol></aside>
   </section>
   <section class="wrap river" id="river" aria-live="polite">
@@ -233,12 +240,49 @@ function buildPages() {
 <p>That page has moved or never existed. <a href="/">Go to today's gist</a>.</p>`);
 }
 
+// one page per story at /gist/<id>/ so Google can index and rank each story
+function buildStories() {
+  const dir = path.join(ROOT, "gist");
+  fs.rmSync(dir, { recursive: true, force: true });
+  stories.forEach((s, i) => {
+    EMBED_USED.clear();
+    const url = SITE + storyPath(s);
+    const img = absImg(s);
+    const desc = String(s.p || "").slice(0, 155).replace(/\s+\S*$/, "") + "…";
+    const related = stories.filter(x => x !== s && x.c === s.c).slice(0, 4);
+    const more = related.length < 4 ? related.concat(stories.filter(x => x !== s && !related.includes(x)).slice(0, 4 - related.length)) : related;
+    const ld = {
+      "@context": "https://schema.org", "@type": "NewsArticle", headline: s.h.slice(0, 110), description: desc,
+      datePublished: s.at, dateModified: s.at, mainEntityOfPage: url, articleSection: CATS[s.c] || s.c,
+      image: img ? [img] : undefined,
+      author: { "@type": "Organization", name: "Trend Naija", url: SITE },
+      publisher: { "@type": "Organization", name: "Trend Naija", url: SITE, logo: { "@type": "ImageObject", url: `${SITE}/favicon.svg` } }
+    };
+    const n = s.confirmed ? 2 : (s.n || 1);
+    const body = `<article class="story-page">
+  <p class="crumbs"><a href="/">Home</a> › <a href="/#${esc(s.c)}">${esc(CATS[s.c] || s.c)}</a></p>
+  <div class="kicker">${esc(CATS[s.c] || s.c)}</div>${n > 1 ? "" : ' <span class="status">Reported</span>'}
+  <h1>${esc(s.h)}</h1>
+  ${when(s)}
+  ${media(s, true)}
+  <p class="story-text">${esc(s.p)}</p>
+  ${(s.more || []).length ? `<ul class="story-more">${s.more.map(m => `<li>${esc(m)}</li>`).join("")}</ul>` : ""}
+</article>
+<section class="story-related"><h3>More gist</h3><div class="river">${more.map(card).join("\n")}</div></section>`;
+    fs.mkdirSync(path.join(dir, s.id), { recursive: true });
+    fs.writeFileSync(path.join(dir, s.id, "index.html"),
+      head(`${s.h} | Trend Naija`, desc, storyPath(s), { article: s.at, image: img, ld }) + masthead() +
+      `\n<main class="wrap page">\n${body}\n</main>\n` + embedScripts() + footer);
+  });
+}
+
 function buildMeta() {
   const today = new Date().toISOString().slice(0, 10);
   const urls = ["/", "/about", "/contact", "/privacy", "/terms"];
   fs.writeFileSync(path.join(ROOT, "sitemap.xml"), `<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 ${urls.map(u => `  <url><loc>${SITE}${u}</loc><lastmod>${today}</lastmod>${u === "/" ? "<changefreq>hourly</changefreq>" : ""}</url>`).join("\n")}
+${stories.map(s => `  <url><loc>${SITE}${storyPath(s)}</loc><lastmod>${String(s.at || today).slice(0, 10)}</lastmod></url>`).join("\n")}
 </urlset>
 `);
   fs.writeFileSync(path.join(ROOT, "robots.txt"), `User-agent: *\nAllow: /\nDisallow: /data/\nDisallow: /src/\n\nSitemap: ${SITE}/sitemap.xml\n`);
@@ -247,12 +291,13 @@ ${urls.map(u => `  <url><loc>${SITE}${u}</loc><lastmod>${today}</lastmod>${u ===
 
 // remove images no story uses any more
 function pruneImages() {
-  const used = new Set(stories.filter(s => s.img).map(s => path.basename(s.img)));
+  const used = new Set(stories.flatMap(s => [s.img, ...(s.imgs || [])]).filter(Boolean).map(f => path.basename(f)));
   for (const f of fs.readdirSync(path.join(ROOT, "img"))) if (!used.has(f)) fs.unlinkSync(path.join(ROOT, "img", f));
 }
 
 pruneImages();
 buildIndex();
+buildStories();
 buildPages();
 buildMeta();
 console.log(`Built ${stories.length} stories, ${stories.filter(s => s.img).length} with photos.`);
