@@ -1,5 +1,5 @@
 {
- "updated": "Updated 04:40 GMT Sunday, 25 October 2026",
+ "updated": "Updated 05:35 GMT",
  "date": "Sunday, 25 October 2026",
  "categories": {
   "all": "All gist",
@@ -14,6 +14,45 @@
   "sport": "Sport"
  },
  "stories": [
+  {
+   "id": "atiku-withdraw-calls",
+   "c": "elections",
+   "h": "Calls reportedly grow for Atiku to drop his 2027 presidential ambition",
+   "p": "Atiku Abubakar, the ADC's 2027 presidential candidate, is reportedly facing fresh calls to withdraw from the race. The report says a new reason has emerged behind the demand, though the details are still being discussed.",
+   "n": 1,
+   "more": [
+    "The call comes as parties step up their 2027 campaigns",
+    "Atiku earlier criticised President Tinubu over his remarks on hunger"
+   ],
+   "added": "2026-10-25",
+   "at": "2026-10-25T05:32Z"
+  },
+  {
+   "id": "davido-zlatan-bride-parents",
+   "c": "celebs",
+   "h": "Video of Davido and Zlatan pleading with the bride's parents at the wedding stirs online buzz",
+   "p": "A clip from Zlatan Ibile and Davita's wedding reportedly shows Davido joining the groom to plead with the bride's parents during the traditional ceremony. The video has drawn wide reaction online, with many fans praising the friendship.",
+   "n": 2,
+   "more": [
+    "Davido arrived at the venue in a white Rolls-Royce",
+    "Several celebrities were photographed among the guests"
+   ],
+   "added": "2026-10-25",
+   "at": "2026-10-25T05:32Z"
+  },
+  {
+   "id": "met-police-markle-letter",
+   "c": "world",
+   "h": "Met Police reportedly forwards a letter about Meghan's father to the Sussexes' office",
+   "p": "London's Metropolitan Police has reportedly passed on a letter containing allegations about Thomas Markle Sr. to the office of the Duke and Duchess of Sussex. The contents of the letter have not been made public.",
+   "n": 1,
+   "more": [
+    "The report says the force acted as a forwarding step",
+    "Neither side has publicly commented in detail"
+   ],
+   "added": "2026-10-25",
+   "at": "2026-10-25T05:32Z"
+  },
   {
    "id": "vdm-bred-car",
    "c": "celebs",
@@ -943,62 +982,6 @@
    "owner": true,
    "added": "2026-10-24",
    "at": "2026-10-24T12:32Z"
-  },
-  {
-   "id": "vdm-davido-osun",
-   "c": "celebs",
-   "h": "VeryDarkMan calls Davido and his uncle a disappointment over development in Osun",
-   "p": "VeryDarkMan has described Davido and his uncle, Osun State Governor Ademola Adeleke, as a disappointment, criticising what he called poor development in the state. He asked how a family that owns private jets could have so much wealth while Osun still lacks a functioning airport, and how investors are expected to reach the state easily. He urged those in power to use government resources to improve people's lives.",
-   "n": 1,
-   "hot": 8,
-   "more": [
-    "VDM also spoke about a past invitation from Davido's brother, B-Red, to meet their father.",
-    "Neither Davido nor the Osun State government has responded to the comments.",
-    "Fans are split on whether his criticism is fair or too harsh on the Adeleke family."
-   ],
-   "img": "img/vdm-davido-osun.jpg",
-   "alt": "VeryDarkMan speaking in a selfie video beside a photo of Davido shaking hands with Governor Ademola Adeleke",
-   "credit": "Photo: Trend Naija",
-   "owner": true,
-   "added": "2026-10-24",
-   "at": "2026-10-24T12:15Z"
-  },
-  {
-   "id": "kaduna-rally-crowd",
-   "c": "elections",
-   "h": "Supporters reportedly carrying sticks and cutlasses arrive for Tinubu's campaign flag-off in Kaduna",
-   "p": "Some APC supporters were reportedly seen holding sticks and cutlasses as crowds streamed into Ranchers Bees Stadium in Kaduna for the flag-off of President Tinubu's re-election campaign. Many others arrived in party caps and T-shirts, carrying posters of the president. Footage of the arrivals has drawn concern online about safety at campaign events.",
-   "n": 1,
-   "hot": 9,
-   "more": [
-    "The Kaduna rally is the first major stop of the APC's 2027 campaign tour.",
-    "The party has not commented on the reports of supporters carrying weapons.",
-    "Port Harcourt is reportedly the next stop on the campaign trail."
-   ],
-   "img": "img/kaduna-rally-crowd.jpg",
-   "alt": "Crowds in party caps and T-shirts, some holding APC posters, arrive at a stadium in Kaduna",
-   "credit": "Photo: Trend Naija",
-   "owner": true,
-   "added": "2026-10-24",
-   "at": "2026-10-24T12:02Z"
-  },
-  {
-   "id": "dad-facelift",
-   "c": "viral",
-   "h": "Man sees his new face for the first time, 24 hours after his own child gave him a facelift",
-   "p": "A viral video shows a father looking at his new face for the first time, just a day after a facelift performed by his own child. Before and after images show his face still swollen and taped, with surgical dressings still in place shortly after the operation. Viewers have been amazed that he barely recognised himself.",
-   "n": 1,
-   "more": [
-    "Swelling is normal so soon after surgery, so the final result could look quite different once he heals.",
-    "The healing process for a facelift usually takes weeks to settle.",
-    "Many viewers praised the child for trusting their skills on their own parent."
-   ],
-   "img": "img/dad-facelift.jpg",
-   "alt": "Before surgery, bandaged after the operation, and 24 hours after: an older man's face during facelift recovery",
-   "credit": "Photo: Trend Naija",
-   "owner": true,
-   "added": "2026-10-24",
-   "at": "2026-10-24T11:33Z"
   }
  ]
 }
