@@ -1,5 +1,5 @@
 {
- "updated": "Updated 12:35 GMT",
+ "updated": "Updated 13:33 GMT",
  "date": "Sunday, 25 October 2026",
  "categories": {
   "all": "All gist",
@@ -14,6 +14,58 @@
   "sport": "Sport"
  },
  "stories": [
+  {
+   "id": "jayz-blue-ivy-piano",
+   "c": "music",
+   "h": "Jay-Z praises daughter Blue Ivy after she joins him on stage on piano",
+   "p": "Jay-Z reportedly bowed to his 14-year-old daughter, Blue Ivy, and hyped her up when she joined him on stage and performed on the piano. Clips of the moment are said to be circulating widely online.",
+   "n": 1,
+   "more": [
+    "Blue Ivy has increasingly appeared on stage with her parents in recent years.",
+    "Fans online praised the father-daughter moment."
+   ],
+   "added": "2026-10-25",
+   "at": "2026-10-25T13:33Z"
+  },
+  {
+   "id": "insecurity-stability-index",
+   "c": "naija",
+   "h": "Report says insecurity is worsening in Nigeria even as a stability index shows rising economic confidence",
+   "p": "A new report reportedly shows insecurity getting worse across Nigeria, while a separate stability index points to improving economic confidence. The mixed picture is drawing attention as the 2027 campaign season gets under way.",
+   "n": 1,
+   "more": [
+    "The report is said to highlight kidnappings and attacks in several states.",
+    "Analysts say economic confidence and security perceptions do not always move together."
+   ],
+   "added": "2026-10-25",
+   "at": "2026-10-25T13:33Z"
+  },
+  {
+   "id": "customs-recruitment-update",
+   "c": "naija",
+   "h": "Nigeria Customs shares an update on its recruitment exercise",
+   "p": "The Nigeria Customs Service has reportedly issued fresh details on its recruitment exercise, which it says is moving to an annual cycle. Candidates are advised to rely only on the service's official channels for information.",
+   "n": 2,
+   "more": [
+    "The previous exercise reportedly selected 3,852 candidates from more than 573,000 applicants.",
+    "Successful candidates have been told to watch their registered email and SMS for instructions."
+   ],
+   "added": "2026-10-25",
+   "at": "2026-10-25T13:33Z"
+  },
+  {
+   "id": "unilorin-siblings-first-class",
+   "c": "viral",
+   "h": "Brother and sister both graduate with first-class degrees from UNILORIN",
+   "p": "A brother and sister have both reportedly earned first-class degrees from the University of Ilorin, in different departments and with different CGPAs. Their achievement is being celebrated online.",
+   "n": 1,
+   "more": [
+    "The University of Ilorin has had several widely shared first-class stories this week.",
+    "Congratulations poured in from netizens."
+   ],
+   "added": "2026-10-25",
+   "at": "2026-10-25T13:33Z"
+  },
   {
    "id": "davido-wizkid-song-dj",
    "c": "music",
