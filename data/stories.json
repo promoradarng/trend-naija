@@ -15,6 +15,25 @@
  },
  "stories": [
   {
+   "id": "gunmen-kill-10-east",
+   "c": "naija",
+   "h": "Gunmen kill at least 10 people in eastern Nigeria, police confirm",
+   "p": "Gunmen have killed at least 10 people in an attack in eastern Nigeria, police have confirmed. The killings have renewed serious concern about the worsening security situation in parts of the country, where communities continue to face threats from armed attackers. Behind the death toll are grieving families whose lives have been changed forever.",
+   "n": 1,
+   "hot": 1,
+   "more": [
+    "Many Nigerians are asking how long lives will continue to be lost to gun violence.",
+    "Protecting lives and property remains one of the government's most important duties.",
+    "Nigerians say they deserve to live, work and travel without constant fear for their safety."
+   ],
+   "img": "img/gunmen-kill-10-east.jpg",
+   "alt": "Armed police officers in helmets and vests line a street in a Nigerian town",
+   "credit": "Image: social media",
+   "owner": true,
+   "added": "2026-10-25",
+   "at": "2026-10-25T13:58Z"
+  },
+  {
    "id": "jayz-blue-ivy-piano",
    "c": "music",
    "h": "Jay-Z praises daughter Blue Ivy after she joins him on stage on piano",
