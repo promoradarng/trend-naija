@@ -10,6 +10,8 @@ Static site for trendnaija.com, hosted on Cloudflare Pages.
 
 ## Photos and social media embeds
 
+**Photo step for every update (do this before committing):** run `python3 tools/photos.py missing` to list the newest stories without a picture. For each one, run `python3 tools/photos.py find <id> "<person's full name>"` (or `find <id> "<subject>" stock` for a generic stand-in), view the downloaded candidates, and if one clearly fits run `python3 tools/photos.py pick <id> <number> "<alt text>"`. This takes a minute per story; do it for every new story where a person or subject is named. If no candidate clearly shows the right person, leave the story without a photo.
+
 Every story should have a picture where possible. Use the first of these that exists, and never copy a photo from a newspaper, blog or someone else's social media post into `img/`:
 
 1. **The owner's own photo** (stories with `"owner": true`).
