@@ -1,5 +1,5 @@
 {
- "updated": "Updated 08:32 GMT",
+ "updated": "Updated 09:40 GMT",
  "date": "Sunday, 25 October 2026",
  "categories": {
   "all": "All gist",
@@ -14,6 +14,104 @@
   "sport": "Sport"
  },
  "stories": [
+  {
+   "id": "regina-daniels-mother-clash",
+   "c": "celebs",
+   "h": "Regina Daniels reportedly breaks her silence after a video of a heated exchange with her mother goes viral",
+   "p": "Actress Regina Daniels has reportedly responded after a clip of a tense confrontation with her mother spread widely online. The video drew a flood of comments from fans, many of them divided over what the exchange meant. It comes amid months of public attention on her family and marriage.",
+   "n": 1,
+   "more": [
+    "The clip has been shared across Instagram and X, with fans taking sides.",
+    "Her mother has been in the headlines several times this year over family matters.",
+    "Neither side has given full details of what led to the exchange."
+   ],
+   "added": "2026-10-25",
+   "at": "2026-10-25T09:32Z"
+  },
+  {
+   "id": "shettima-ethiopia-nutrition",
+   "c": "politics",
+   "h": "Shettima leads a Nigerian delegation to Ethiopia to study its nutrition programme",
+   "p": "Vice President Kashim Shettima is heading a delegation to Ethiopia to learn how the country has tackled malnutrition. Officials say the lessons will be adapted for Nigeria's N774 nutrition drive. The visit is part of efforts to cut child hunger across the country.",
+   "n": 2,
+   "more": [
+    "The delegation includes health and agriculture officials.",
+    "The N774 nutrition drive targets every local government area.",
+    "Ethiopia is often cited for its community-based feeding model."
+   ],
+   "added": "2026-10-25",
+   "at": "2026-10-25T09:32Z"
+  },
+  {
+   "id": "matawalle-zamfara-lawmakers-apc",
+   "c": "politics",
+   "h": "Eight Zamfara lawmakers reportedly return to the APC, with Matawalle praised for the move",
+   "p": "Eight lawmakers in Zamfara State have reportedly rejoined the ruling APC, with supporters of Bello Matawalle crediting him for the return. The development comes as parties reshuffle their ranks ahead of the 2027 elections. Opposition figures have not yet commented.",
+   "n": 2,
+   "more": [
+    "Defections and returns are increasing as 2027 campaigns gather pace.",
+    "Supporters hailed the move as a boost for the APC in the north-west.",
+    "It is not yet clear which parties the lawmakers had been with."
+   ],
+   "added": "2026-10-25",
+   "at": "2026-10-25T09:32Z"
+  },
+  {
+   "id": "dmi-alliance-tinubu",
+   "c": "elections",
+   "h": "DMI backs Tinubu's economic reforms and announces an alliance ahead of 2027",
+   "p": "A group known as DMI has declared support for President Tinubu's economic reforms and announced an alliance with his campaign for the 2027 elections. The announcement follows the APC's campaign flag-off. Rival parties continue to court voters on cost-of-living concerns.",
+   "n": 1,
+   "more": [
+    "The alliance was announced a day after Tinubu's campaign speech in Kaduna.",
+    "Opposition parties say the reforms have worsened hardship.",
+    "Campaign groups on all sides are announcing alliances this week."
+   ],
+   "added": "2026-10-25",
+   "at": "2026-10-25T09:32Z"
+  },
+  {
+   "id": "uganda-ebola-transit",
+   "c": "world",
+   "h": "Uganda restricts transit for travellers from DR Congo as it investigates an Ebola case",
+   "p": "Uganda has barred travellers with recent DR Congo travel history from passing through the country while health officials investigate an Ebola case. The measure is meant to limit spread across the border. Neighbouring countries are on alert.",
+   "n": 2,
+   "more": [
+    "Nigeria confirmed an Ebola case in Abuja this week.",
+    "Health officials in the region are tracing contacts.",
+    "Travel advisories are expected to be updated."
+   ],
+   "added": "2026-10-25",
+   "at": "2026-10-25T09:32Z"
+  },
+  {
+   "id": "francis-duru-poison-claim",
+   "c": "celebs",
+   "h": "Nollywood actor claims the late Francis Duru was poisoned, stirring debate",
+   "p": "A popular actor has alleged that veteran Francis Duru was poisoned, a claim that has divided Nigerians online. No evidence has been made public to support the allegation, and the family has not confirmed it. Many fans have urged caution while mourning the actor.",
+   "n": 1,
+   "more": [
+    "Nollywood colleagues have paid tributes since his death.",
+    "Some fans have asked for the claim to be backed with evidence.",
+    "The allegation remains unverified."
+   ],
+   "added": "2026-10-25",
+   "at": "2026-10-25T09:32Z"
+  },
+  {
+   "id": "adeboye-granddaughter-wedding",
+   "c": "naija",
+   "h": "Pastor Adeboye blesses his granddaughter on her wedding day in Baltimore",
+   "p": "The General Overseer of the RCCG, Pastor Enoch Adeboye, and his wife travelled to Baltimore in the United States for their granddaughter's wedding. Photos and videos of the ceremony and his blessing have been widely shared. Church members sent congratulations online.",
+   "n": 2,
+   "more": [
+    "The couple were seen praying with the newlyweds.",
+    "Many Nigerians in the diaspora attended.",
+    "Congratulatory messages poured in from church members."
+   ],
+   "added": "2026-10-25",
+   "at": "2026-10-25T09:32Z"
+  },
   {
    "id": "wike-obi-candidate-claim",
    "c": "politics",
@@ -84,7 +182,7 @@
    "c": "politics",
    "h": "Tinubu says opposition created the hunger and poverty it now campaigns against; Atiku calls the claim delusional",
    "p": "President Tinubu accused opposition politicians of building their campaigns on hardship they helped create. Atiku Abubakar hit back, describing the remark as delusional and questioning the state of the naira and poverty levels under the current government.",
-   "n": 3,
+   "n": 4,
    "more": [
     "The exchange follows the APC campaign flag-off in Kaduna.",
     "The opposition says it will keep pressing the government on living costs."
@@ -883,113 +981,6 @@
    ],
    "added": "2026-10-24",
    "at": "2026-10-24T21:32Z"
-  },
-  {
-   "id": "cbn-mistaken-money",
-   "c": "naija",
-   "h": "CBN warns that keeping money received by mistake could mean 5 to 10 years in prison",
-   "p": "The Central Bank of Nigeria has warned that anyone who keeps money mistakenly paid into their account could face a prison sentence of five to ten years. The warning comes as more Nigerians use transfers and mobile banking. Customers are advised to report wrongly received funds to their banks.",
-   "n": 1,
-   "more": [
-    "The CBN urged customers to alert their banks promptly.",
-    "The reminder follows several public cases of wrong transfers."
-   ],
-   "added": "2026-10-24",
-   "at": "2026-10-24T21:32Z"
-  },
-  {
-   "id": "okwuluora-woman-treatment",
-   "c": "naija",
-   "h": "Philanthropist Okwuluora vows to personally fund woman's medical treatment, says no fundraising needed",
-   "p": "Popular philanthropist Okwuluora says he will take full responsibility for the medical treatment of a woman whose condition has drawn wide public attention, paying all costs from his own pocket until she recovers. He plans to send her photograph to doctors at Parklane Hospital and the University of Nigeria Teaching Hospital (UNTH) in Enugu for assessment, then bring her and her family in for treatment once they approve. He said he first stepped back because some people around her appeared more interested in the money that could be raised than in her wellbeing, but he has now decided to go ahead without any public fundraising. Once she has recovered, he said, an account could be opened for well-wishers who want to support her.",
-   "n": 1,
-   "hot": 1,
-   "more": [
-    "Okwuluora said concerns about her safety made him reconsider his involvement before he decided to proceed.",
-    "Her case has also sparked a debate online, with some Nigerians asking why pastors who claim to perform healing miracles have not stepped forward to help her.",
-    "Others are asking why cases like hers so often depend on expensive treatment and public donations."
-   ],
-   "owner": true,
-   "added": "2026-10-24",
-   "at": "2026-10-24T21:27Z",
-   "img": "img/okwuluora-woman-treatment.jpg",
-   "alt": "A woman in a yellow and black print dress, her body visibly swollen, crosses a road beside a tricycle",
-   "credit": "Image: social media"
-  },
-  {
-   "id": "peller-jarvis-sister",
-   "c": "creators",
-   "h": "Peller says Jarvis's sister refused to greet him in his own house",
-   "p": "Streamer Peller has reportedly called out members of his wife Jarvis's family, saying her sister would not even greet him at home. The claim follows a livestream that ended after an argument over the sister. Jarvis has separately told critics to stop pushing her to respect him.",
-   "n": 2,
-   "more": [
-    "The row began during a livestream that ended abruptly on Friday.",
-    "Fans are split between the couple on social media.",
-    "Neither family has issued a fuller statement."
-   ],
-   "added": "2026-10-24",
-   "at": "2026-10-24T20:33Z"
-  },
-  {
-   "id": "atiku-kaduna-banners",
-   "c": "elections",
-   "h": "Atiku reportedly accuses security agents of protecting Tinubu's banners in Kaduna",
-   "p": "Atiku Abubakar has reportedly confronted the Tinubu camp over allegations that security agents guarded campaign banners in Kaduna ahead of the APC flag-off. The APC has in turn accused the ADC of a fake news plot around the rally. Neither side has produced evidence publicly.",
-   "n": 1,
-   "more": [
-    "The rally is the formal start of Tinubu's 2027 re-election campaign.",
-    "Both camps are trading accusations online.",
-    "Police have not commented on the banner claim."
-   ],
-   "added": "2026-10-24",
-   "at": "2026-10-24T20:33Z"
-  },
-  {
-   "id": "kwankwaso-second-term",
-   "c": "elections",
-   "h": "Kwankwaso says Tinubu does not deserve a second term",
-   "p": "Opposition figure Rabiu Kwankwaso has said President Tinubu has not earned a second term, criticising the administration's record on the economy and cost of living. The APC maintains its reforms are working and will be defended on the campaign trail.",
-   "n": 1,
-   "more": [
-    "Kwankwaso is a leading figure in the NDC alliance.",
-    "The APC points to its 90-day cost-of-living plan.",
-    "Campaign rhetoric is expected to sharpen after the Kaduna flag-off."
-   ],
-   "added": "2026-10-24",
-   "at": "2026-10-23T23:33Z"
-  },
-  {
-   "id": "omo-agege-riggers",
-   "c": "elections",
-   "h": "Omo-Agege warns election riggers in 2027 will face serious consequences",
-   "p": "Former Deputy Senate President Ovie Omo-Agege, now seeking a Senate seat on the NDC platform, has reportedly warned that anyone who rigs the 2027 elections will face grave consequences. His wording has drawn comment online, with some reading it as a threat and others as a warning about public anger.",
-   "n": 1,
-   "more": [
-    "He is running under the NDC banner.",
-    "INEC has repeatedly promised credible polls.",
-    "Critics have asked him to clarify what he meant."
-   ],
-   "added": "2026-10-24",
-   "at": "2026-10-24T20:33Z"
-  },
-  {
-   "id": "soldiers-bread-water",
-   "c": "naija",
-   "h": "Video of Nigerian soldiers dipping bread in river water sparks outrage",
-   "p": "A video circulating online appears to show Nigerian soldiers in the field crouching at a muddy riverbank and dipping bread into the water before eating it. The footage has drawn an emotional response from Nigerians, many of whom say it shows the tough conditions troops face while fighting insecurity. The Nigerian Army has not commented on the video, and it is not yet clear when or where it was recorded.",
-   "n": 1,
-   "hot": 2,
-   "more": [
-    "Many users have contrasted the scene with the large sums being spent on campaigns ahead of the 2027 elections.",
-    "Others are calling for better welfare, rations and supplies for troops on the front line.",
-    "Trend Naija has not independently confirmed the details of the video."
-   ],
-   "img": "img/soldiers-bread-water.jpg",
-   "alt": "Two Nigerian soldiers in camouflage crouch at a muddy riverbank, dipping pieces of bread into the brown water",
-   "credit": "Image: social media",
-   "owner": true,
-   "added": "2026-10-24",
-   "at": "2026-10-24T19:05Z"
   }
  ]
 }
