@@ -1,5 +1,5 @@
 {
- "updated": "Updated 01:40 GMT",
+ "updated": "Updated 02:33 GMT Sunday, 25 October 2026",
  "date": "Sunday, 25 October 2026",
  "categories": {
   "all": "All gist",
@@ -14,6 +14,58 @@
   "sport": "Sport"
  },
  "stories": [
+  {
+   "id": "conte-man-utd",
+   "c": "sport",
+   "h": "Antonio Conte reportedly in contact with Manchester United over the manager job",
+   "p": "Reports say Manchester United have made initial contact over Antonio Conte as a possible replacement for Michael Carrick. Conte is said to be ready to start immediately, though the club has not confirmed any talks. Other names, including Eddie Howe, have also been linked.",
+   "n": 2,
+   "more": [
+    "Carrick is reportedly still backed by the board for now.",
+    "Another poor result could change the picture, according to the reports."
+   ],
+   "added": "2026-10-25",
+   "at": "2026-10-25T02:33Z"
+  },
+  {
+   "id": "soludo-tinubu-igbo",
+   "c": "elections",
+   "h": "Soludo says backing Tinubu in 2027 could pave the way for an Igbo presidency",
+   "p": "Anambra governor Charles Soludo has argued that South-East support for President Tinubu's second term could open the door to an Igbo president later. He has said his party, APGA, will not field a presidential candidate. Supporters of other candidates, including Peter Obi, have not accepted that argument.",
+   "n": 2,
+   "more": [
+    "Soludo has urged Igbo voters not to call votes for other candidates wasted.",
+    "The stance has drawn mixed reactions in the South-East."
+   ],
+   "added": "2026-10-25",
+   "at": "2026-10-25T02:33Z"
+  },
+  {
+   "id": "jaruma-detained",
+   "c": "celebs",
+   "h": "Businesswoman Jaruma reportedly in police custody over social media posts",
+   "p": "Jaruma has reportedly been held by police since Monday over posts she made online. She is said to face strict bail conditions. Police have not given a full public account.",
+   "n": 1,
+   "more": [
+    "Her supporters are asking for clarity on the charges.",
+    "No court date has been publicly reported."
+   ],
+   "added": "2026-10-25",
+   "at": "2026-10-25T02:33Z"
+  },
+  {
+   "id": "dj-dsf-kids",
+   "c": "celebs",
+   "h": "DJ DSF sparks debate by saying people who cannot afford children should not have them",
+   "p": "The media personality reportedly said that people who are struggling financially should hold off on having children. His remark drew a mix of agreement and criticism online.",
+   "n": 1,
+   "more": [
+    "Many commenters pointed to the rising cost of living.",
+    "Others said parenthood should not be judged by income."
+   ],
+   "added": "2026-10-25",
+   "at": "2026-10-25T02:33Z"
+  },
   {
    "id": "tinubu-nominees-buhari",
    "c": "politics",
@@ -849,58 +901,6 @@
    "owner": true,
    "added": "2026-10-24",
    "at": "2026-10-24T13:48Z"
-  },
-  {
-   "id": "adc-deepfake-reply",
-   "c": "elections",
-   "h": "ADC fires back at APC over deepfake claims and asks for evidence",
-   "p": "The ADC has rejected allegations by the ruling party that it is behind deepfake content aimed at President Tinubu. The party challenged the APC to publish proof of its claim. The exchange comes on the day Tinubu launches his re-election campaign in Kaduna.",
-   "n": 1,
-   "more": [
-    "The ADC says accusations alone cannot replace evidence.",
-    "The row adds to a growing war of words between both campaigns."
-   ],
-   "added": "2026-10-24",
-   "at": "2026-10-24T13:32Z"
-  },
-  {
-   "id": "dstv-prices-final",
-   "c": "naija",
-   "h": "MultiChoice reportedly takes final decision on cheaper DStv decoder and subscription prices",
-   "p": "MultiChoice has reportedly settled on lower prices for DStv decoders and subscriptions in Nigeria. Details of the new price list were said to be shared with customers. Subscribers have been waiting for relief as the cost of living bites.",
-   "n": 1,
-   "more": [
-    "The new prices are said to apply to decoders and some bouquets.",
-    "Customers are advised to check official channels for the exact figures."
-   ],
-   "added": "2026-10-24",
-   "at": "2026-10-24T13:32Z"
-  },
-  {
-   "id": "tonto-prophecy",
-   "c": "celebs",
-   "h": "Tonto Dikeh causes a stir by calling out names while delivering a prophecy in church",
-   "p": "Actress Tonto Dikeh reportedly drew attention online after mentioning specific names while delivering a prophecy during a church service. Clips of the moment have been widely shared, with reactions divided.",
-   "n": 1,
-   "more": [
-    "Some viewers praised her boldness while others questioned the approach.",
-    "She has not publicly commented further, according to reports."
-   ],
-   "added": "2026-10-24",
-   "at": "2026-10-24T13:32Z"
-  },
-  {
-   "id": "caf-afcon-cycle",
-   "c": "sport",
-   "h": "CAF gives member associations a deadline to choose a 4-year or 2-year AFCON cycle",
-   "p": "The Confederation of African Football has set a deadline for national associations to decide whether the Africa Cup of Nations should be held every two years or every four years. The outcome will shape the continental calendar for Nigeria and other nations.",
-   "n": 1,
-   "more": [
-    "The decision is expected to affect club-versus-country scheduling.",
-    "Associations are expected to vote after the deadline."
-   ],
-   "added": "2026-10-24",
-   "at": "2026-10-24T13:32Z"
   },
   {
    "id": "remi-tompolo",
