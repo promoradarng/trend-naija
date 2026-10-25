@@ -1,5 +1,5 @@
 {
- "updated": "Updated 19:35 GMT",
+ "updated": "Updated 20:35 GMT",
  "date": "Sunday, 25 October 2026",
  "categories": {
   "all": "All gist",
@@ -14,6 +14,58 @@
   "sport": "Sport"
  },
  "stories": [
+  {
+   "id": "soludo-obi-anambra-2027",
+   "c": "politics",
+   "h": "Soludo reportedly rules out automatic Anambra backing for Peter Obi in 2027",
+   "p": "Anambra Governor Charles Soludo has reportedly said the state will not back Peter Obi by default in the 2027 presidential race. He is said to have argued that the 2027 contest will not be a repeat of 2023.",
+   "n": 1,
+   "more": [
+    "The remark adds to the debate over how Obi will fare in his home region.",
+    "Obi supporters have previously said he does not need any coalition to win."
+   ],
+   "added": "2026-10-25",
+   "at": "2026-10-25T20:35Z"
+  },
+  {
+   "id": "nlc-minimum-wage-warning",
+   "c": "naija",
+   "h": "Labour body reportedly warned of risks ahead of new minimum wage demand",
+   "p": "A fresh warning has reportedly been issued to the Nigeria Labour Congress over possible consequences if its new minimum wage demand is approved. Details of the demand and the response from government were still being discussed.",
+   "n": 1,
+   "more": [
+    "Workers have long pressed for pay to keep pace with prices.",
+    "Government and employers are yet to agree a new figure."
+   ],
+   "added": "2026-10-25",
+   "at": "2026-10-25T20:35Z"
+  },
+  {
+   "id": "lookman-atletico-substitutions",
+   "c": "sport",
+   "h": "Spanish media reportedly criticise Lookman after another early substitution at Atletico Madrid",
+   "p": "Ademola Lookman was reportedly taken off in the first half for the third time in four La Liga games, drawing criticism from the Spanish press. The Nigeria forward is said to be struggling to hold down a regular role.",
+   "n": 1,
+   "more": [
+    "Fans in Nigeria are watching his form closely.",
+    "Atletico have not publicly explained the changes."
+   ],
+   "added": "2026-10-25",
+   "at": "2026-10-25T20:35Z"
+  },
+  {
+   "id": "osimhen-fenerbahce-derby",
+   "c": "sport",
+   "h": "Victor Osimhen's record against Fenerbahce in focus ahead of Istanbul derby",
+   "p": "Attention is turning to Victor Osimhen's past results against Fenerbahce ahead of the Istanbul derby. The Nigeria striker is expected to be central to his side's hopes in the big match.",
+   "n": 1,
+   "more": [
+    "Turkish fans are expecting a tense, high-scoring night.",
+    "Nigerian supporters will be tuning in to watch him."
+   ],
+   "added": "2026-10-25",
+   "at": "2026-10-25T20:35Z"
+  },
   {
    "id": "atiku-kaduna-banners",
    "c": "politics",
