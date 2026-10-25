@@ -1,5 +1,5 @@
 {
- "updated": "Updated 14:40 GMT",
+ "updated": "Updated 16:35 GMT",
  "date": "Sunday, 25 October 2026",
  "categories": {
   "all": "All gist",
@@ -14,6 +14,31 @@
   "sport": "Sport"
  },
  "stories": [
+  {
+   "id": "ndlea-lagos-airport-cocaine",
+   "c": "naija",
+   "h": "NDLEA arrests a South African woman and a Nigerian-American grandmother at Lagos airport",
+   "p": "The anti-narcotics agency has reportedly detained two travellers at the Lagos airport, one of them a South African woman said to have been carrying about 36 kilograms of cocaine. The second is a Nigerian-American grandmother. Further details on the second case were not immediately available.",
+   "n": 2,
+   "more": [
+    "The South African woman was reportedly found with 36.65kg of the drug.",
+    "The agency has not said when the suspects will be charged."
+   ],
+   "added": "2026-10-25",
+   "at": "2026-10-25T15:32Z"
+  },
+  {
+   "id": "tacha-bbnaija-viewers",
+   "c": "celebs",
+   "h": "Tacha tells Big Brother Naija organisers what they must do to win viewers back",
+   "p": "Former housemate Tacha has reportedly given the organisers of Big Brother Naija her advice on how to win back viewers. Her comments are said to have sparked a conversation among fans of the reality show.",
+   "n": 1,
+   "more": [
+    "Fans have been sharing their own views on the show online."
+   ],
+   "added": "2026-10-25",
+   "at": "2026-10-25T15:32Z"
+  },
   {
    "id": "bella-shmurda-davido-snub",
    "c": "music",
@@ -1355,41 +1380,6 @@
    "owner": true,
    "added": "2026-10-24",
    "at": "2026-10-24T11:33Z"
-  },
-  {
-   "id": "atiku-adc-council",
-   "c": "elections",
-   "h": "Atiku inaugurates ADC presidential campaign council as Tinubu heads to Kaduna",
-   "p": "Atiku Abubakar has reportedly inaugurated the ADC presidential campaign council in Abuja, on the same weekend the APC begins its re-election campaign in Kaduna. APC campaign chief Abdulaziz Yari has played down the threat from both Atiku and Peter Obi.",
-   "n": 2,
-   "more": [
-    "Yari says Port Harcourt and Maiduguri are the next stops on Tinubu's campaign trail.",
-    "The ADC council has reportedly criticised Kwankwaso for urging Atiku to step aside for Obi."
-   ],
-   "added": "2026-10-24",
-   "img": "img/atiku-adc-council.jpg",
-   "alt": "Atiku Abubakar in a blue cap and striped kaftan speaks into a microphone at an event",
-   "credit": "Photo: Trend Naija",
-   "owner": true,
-   "at": "2026-10-24T09:33Z"
-  },
-  {
-   "id": "tinubu-kaduna",
-   "c": "elections",
-   "h": "Tinubu's 2027 re-election campaign flags off in Kaduna today",
-   "p": "The APC is launching President Tinubu's second-term campaign in Kaduna on Saturday, the first stop on a tour of selected states. Port Harcourt is reportedly next on 7 November, with a closing rally planned for Lagos in January. Rival camps, including Atiku's ADC and the Obi-Kwankwaso NDC, have also been mobilising their own campaign councils.",
-   "n": 3,
-   "more": [
-    "Campaign DG Abdulaziz Yari says Tinubu has a broader national base than his challengers.",
-    "The presidential election is reportedly set for 16 January 2027.",
-    "Supporters of other APC figures have also been reacting to the flag-off."
-   ],
-   "added": "2026-10-24",
-   "img": "img/tinubu-kaduna.jpg",
-   "alt": "President Bola Tinubu in a cream agbada and cap speaks at a green lectern, flanked by aides and a soldier",
-   "credit": "Photo: Trend Naija",
-   "owner": true,
-   "at": "2026-10-24T02:32Z"
   }
  ]
 }
