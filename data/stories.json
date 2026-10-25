@@ -1,5 +1,5 @@
 {
- "updated": "Updated 01:32 BST",
+ "updated": "Updated 01:40 GMT",
  "date": "Sunday, 25 October 2026",
  "categories": {
   "all": "All gist",
@@ -14,6 +14,58 @@
   "sport": "Sport"
  },
  "stories": [
+  {
+   "id": "tinubu-nominees-buhari",
+   "c": "politics",
+   "h": "Two of Tinubu's ministerial nominees were reportedly turned down by a group close to Buhari",
+   "p": "A report says two people President Tinubu once considered for ministerial posts were rejected by a circle linked to former President Buhari. The claim has not been confirmed by the Presidency. A former presidential aide has separately offered his explanation for why Fasola is not in the cabinet.",
+   "n": 2,
+   "more": [
+    "The report was circulating widely on political blogs on Sunday.",
+    "The Presidency has not publicly responded to the claim."
+   ],
+   "added": "2026-10-25",
+   "at": "2026-10-25T01:32Z"
+  },
+  {
+   "id": "el-clasico-cat",
+   "c": "viral",
+   "h": "Viral prediction cat tips the winner of Barcelona v Real Madrid El Clasico",
+   "p": "A cat that has gained a following for football forecasts has made its pick for the El Clasico between Barcelona and Real Madrid. Fans online are sharing the video ahead of kick-off.",
+   "n": 1,
+   "more": [
+    "The cat's earlier predictions have been widely shared on social media.",
+    "The match is one of La Liga's biggest fixtures of the season."
+   ],
+   "added": "2026-10-25",
+   "at": "2026-10-25T01:32Z"
+  },
+  {
+   "id": "supercomputer-pl-title",
+   "c": "sport",
+   "h": "Supercomputer now tips Arsenal for the Premier League title after Manchester City's loss",
+   "p": "A supercomputer prediction model has made Arsenal favourites to win the Premier League after their latest win and Manchester City's defeat. The model simulates the rest of the season thousands of times.",
+   "n": 1,
+   "more": [
+    "Arsenal's win and City's slip changed the title odds.",
+    "Predictions of this kind can shift quickly from week to week."
+   ],
+   "added": "2026-10-25",
+   "at": "2026-10-25T01:32Z"
+  },
+  {
+   "id": "cocin-women-leader",
+   "c": "naija",
+   "h": "COCIN women's fellowship leader reportedly dies, Tinubu sends condolences",
+   "p": "The leader of the COCIN women's fellowship has reportedly died, and President Tinubu has reacted with a message of condolence. Further details on the circumstances were not immediately available.",
+   "n": 1,
+   "more": [
+    "Tributes are said to be coming in from church members.",
+    "Funeral arrangements have not yet been announced."
+   ],
+   "added": "2026-10-25",
+   "at": "2026-10-25T01:32Z"
+  },
   {
    "id": "tinubu-flagoff-speech",
    "c": "politics",
@@ -870,44 +922,6 @@
    "at": "2026-10-24T13:30Z"
   },
   {
-   "id": "dangote-diesel-gantry",
-   "c": "naija",
-   "h": "Fuel marketers reportedly release new diesel prices as Dangote Refinery halts gantry sales",
-   "p": "Marketers have reportedly published new diesel prices after Dangote Refinery stopped selling diesel at its gantry. The move is said to be tightening supply at depots. Separately, the Edo refinery is reportedly producing above its rated capacity, with daily diesel supply put at about 620,000 litres.",
-   "n": 1,
-   "more": [
-    "Marketers are said to be adjusting pump prices in response.",
-    "The Edo refinery figure of 620,000 litres a day has been reported but not independently verified."
-   ],
-   "added": "2026-10-24",
-   "at": "2026-10-24T12:32Z"
-  },
-  {
-   "id": "qatar-newborn-visa",
-   "c": "world",
-   "h": "Qatar sets conditions for foreign newborns to get a free visa on arrival",
-   "p": "Qatar has announced the conditions under which foreign newborn babies can receive a free visa on arrival at its airports. The announcement is part of wider reporting on the visas available to foreigners landing in the country, including free transit visas for two groups of travellers.",
-   "n": 3,
-   "more": [
-    "Reports differ on whether there are four or five conditions.",
-    "Qatar also lists nine visa types available on arrival."
-   ],
-   "added": "2026-10-24",
-   "at": "2026-10-24T12:32Z"
-  },
-  {
-   "id": "khloe-single",
-   "c": "world",
-   "h": "Khloe Kardashian says past relationships make her doubt her judgment on men",
-   "p": "Reality TV star Khloe Kardashian says she has been single for four years. She says her track record in relationships means she does not fully trust herself when it comes to men.",
-   "n": 1,
-   "more": [
-    "She reportedly made the remarks while discussing her love life."
-   ],
-   "added": "2026-10-24",
-   "at": "2026-10-24T12:32Z"
-  },
-  {
    "id": "blessing-ceo-released",
    "c": "celebs",
    "h": "Blessing CEO out of detention, Doris Ogala confirms",
@@ -980,19 +994,6 @@
    "owner": true,
    "added": "2026-10-24",
    "at": "2026-10-24T11:33Z"
-  },
-  {
-   "id": "jaruma-detained",
-   "c": "naija",
-   "h": "Businesswoman Jaruma reportedly detained by police over social media posts about Seyi Tinubu",
-   "p": "Businesswoman Jaruma is reportedly in police custody following posts she made online about a woman said to be linked to Seyi Tinubu. The reasons for her detention have not been officially explained. The police are yet to issue a public statement.",
-   "n": 1,
-   "more": [
-    "Reports say the detention followed her online posts.",
-    "No official statement from the police at the time of writing."
-   ],
-   "added": "2026-10-24",
-   "at": "2026-10-24T11:32Z"
   }
  ]
 }
