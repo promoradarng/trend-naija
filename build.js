@@ -161,6 +161,9 @@ function buildIndex() {
   const tick = stories.filter(s => s.hot).sort((a, b) => a.hot - b.hot).map(s => `<span>${esc(s.h)}</span>`).join("");
   const tabs = Object.entries(CATS).map(([k, v]) => `<button type="button" id="tab-${k}" data-k="${k}" aria-pressed="${k === "all"}">${esc(v)}</button>`).join("");
   const river = stories.filter(s => s !== lead).map(card).join("\n");
+  // stories that have left the front page stay visible here, newest first, each linking to its own page
+  const frontIds = new Set(stories.map(s => s.id));
+  const earlier = all.filter(s => !frontIds.has(s.id)).slice(0, 30);
   const desc = "Trend Naija – The Gist Desk: trending Nigerian and Western news, Nollywood and celebrity gist, music, creators, 2027 election updates, viral stories and sport, updated through the day.";
   const html = head("Trend Naija – The Gist Desk | Naija news, gist & trends", desc, "/") + masthead() + `
 <div class="ticker" aria-label="In brief"><div class="wrap"><b>In brief</b><div class="track"><div class="track-inner">${tick}${tick}</div></div></div></div>
@@ -175,7 +178,10 @@ function buildIndex() {
   </section>
   <section class="wrap river" id="river" aria-live="polite">
 ${river}
-<p class="allq" id="older"><a href="/archive">Older stories are in All stories →</a></p>
+${earlier.length ? `</section>
+  <section class="wrap earlier" id="older"><h3>Earlier gist</h3><ul class="earlier-list">${earlier.map(s => `<li><a href="${storyPath(s)}">${s.img ? `<img src="/${esc(s.img)}" alt="" loading="lazy" width="96" height="64">` : ""}<span><b>${esc(s.h)}</b><small>${esc(CATS[s.c] || "")}${s.at ? " · " + esc(WHEN.format(new Date(s.at))) : ""}</small></span></a></li>`).join("")}</ul>
+  <p class="see-all"><a href="/archive">See all ${all.length} stories →</a></p>
+  <section class="wrap river-tail">` : `<p class="allq" id="older"><a href="/archive">Older stories are in All stories →</a></p>`}
 <div class="empty" id="empty" hidden>No gist on the front page matches that. Try another category, or search all our past stories below.</div>
 <p class="allq" id="allq" hidden><a href="/archive">Search all ${all.length} stories for “<span></span>” →</a></p>
   </section>

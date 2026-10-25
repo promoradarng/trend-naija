@@ -166,3 +166,17 @@ footer a{color:#FFFFFF}
 .arc>a{display:block;font-family:var(--display);font-weight:700;font-size:20px;line-height:1.2;margin:4px 0;color:var(--ink);text-decoration:none}
 .arc>a:hover{text-decoration:underline}
 .arc p{margin:0;font-size:15px;color:var(--muted)}
+
+/* earlier gist: stories that have left the front page */
+.earlier{border-top:4px solid var(--brand);margin-top:28px;padding-top:12px}
+.earlier h3{margin:4px 0 8px}
+.earlier-list{list-style:none;margin:0;padding:0;columns:2 320px;column-gap:28px}
+.earlier-list li{break-inside:avoid;border-top:1px solid var(--line)}
+.earlier-list a{display:flex;gap:12px;align-items:flex-start;padding:10px 0;color:var(--ink);text-decoration:none}
+.earlier-list img{flex:none;width:96px;height:64px;object-fit:cover}
+.earlier-list b{display:block;font-family:var(--display);font-size:17px;line-height:1.2}
+.earlier-list a:hover b{text-decoration:underline}
+.earlier-list small{display:block;margin-top:4px;font-family:var(--label);font-size:11px;color:var(--muted);text-transform:uppercase;letter-spacing:.08em}
+.see-all{margin:14px 0 0}
+.see-all a{display:inline-block;background:#141414;color:#fff;border:1px solid #444;font-family:var(--label);font-weight:700;font-size:13px;text-transform:uppercase;letter-spacing:.1em;padding:12px 18px;text-decoration:none}
+.river-tail:empty{display:none}
