@@ -1,5 +1,5 @@
 {
- "updated": "Updated 18:40 GMT",
+ "updated": "Updated 19:35 GMT",
  "date": "Sunday, 25 October 2026",
  "categories": {
   "all": "All gist",
@@ -14,6 +14,136 @@
   "sport": "Sport"
  },
  "stories": [
+  {
+   "id": "atiku-kaduna-banners",
+   "c": "politics",
+   "h": "Atiku criticises reports of security agents guarding Tinubu campaign banners in Kaduna",
+   "p": "Atiku Abubakar has reportedly criticised claims that security personnel were stationed to protect APC campaign banners in Kaduna. The former vice-president, now a leading opposition figure, said public security resources should not be used for party materials. There has been no official response from the APC or the security agencies in the reports seen so far.",
+   "n": 1,
+   "more": [
+    "Campaign banners have become a flashpoint as parties step up activity ahead of 2027.",
+    "The APC has not commented in the reports seen so far."
+   ],
+   "added": "2026-10-25",
+   "at": "2026-10-25T19:35Z"
+  },
+  {
+   "id": "kwankwaso-tinubu-second-term",
+   "c": "politics",
+   "h": "Kwankwaso says Tinubu does not deserve a second term",
+   "p": "Rabiu Kwankwaso has reportedly said President Tinubu has not earned a second term in office. He pointed to the cost of living and the state of the economy as reasons. Supporters of the president have defended his reforms as necessary for long-term growth.",
+   "n": 1,
+   "more": [
+    "Kwankwaso is part of the opposition NDC platform alongside Peter Obi.",
+    "The APC says the economy is stabilising under the reforms."
+   ],
+   "added": "2026-10-25",
+   "at": "2026-10-25T19:35Z"
+  },
+  {
+   "id": "pantami-gombe-governorship",
+   "c": "politics",
+   "h": "Pantami says he will expose those allegedly plotting against his Gombe governorship bid",
+   "p": "Former minister Isa Ali Pantami has reportedly said he will name those he alleges are working against his bid to become governor of Gombe State. He did not give details in the reports seen so far. Those he appears to refer to have not responded publicly.",
+   "n": 1,
+   "more": [
+    "The Gombe race is already drawing attention ahead of 2027.",
+    "No names have been confirmed in reports so far."
+   ],
+   "added": "2026-10-25",
+   "at": "2026-10-25T19:35Z"
+  },
+  {
+   "id": "macron-nigeria-visit-postponed",
+   "c": "world",
+   "h": "Macron reportedly postpones planned 28 October visit to Nigeria",
+   "p": "French President Emmanuel Macron has reportedly delayed his planned trip to Nigeria, which was due on 28 October. No new date has been given in the reports seen so far. The visit had been expected to focus on trade and security ties.",
+   "n": 1,
+   "more": [
+    "No reason for the delay has been confirmed in the reports seen so far.",
+    "A new date has not been announced."
+   ],
+   "added": "2026-10-25",
+   "at": "2026-10-25T19:35Z"
+  },
+  {
+   "id": "kano-hisbah-tiktokers-arrested",
+   "c": "naija",
+   "h": "Kano Hisbah reportedly detains TikToker and two other women over dance videos",
+   "p": "The Kano State Hisbah board has reportedly detained a TikToker, Amani Ishaq, and two other women over dance videos it considers immoral. The agency enforces Islamic moral rules in the state. It has not said what will happen next, according to the reports seen so far.",
+   "n": 1,
+   "more": [
+    "Hisbah has made similar arrests of content creators in the past.",
+    "Reaction on social media has been mixed."
+   ],
+   "added": "2026-10-25",
+   "at": "2026-10-25T19:35Z"
+  },
+  {
+   "id": "mike-edwards-dna-result",
+   "c": "celebs",
+   "h": "Former BBNaija housemate Mike Edwards surprised by DNA ancestry result",
+   "p": "Former Big Brother Naija housemate Mike Edwards has reportedly shared a DNA test that shows his ancestry is mainly Igbo and Yoruba. He said he was surprised by the result. The post has drawn reactions from fans online.",
+   "n": 1,
+   "more": [
+    "DNA ancestry tests have become a popular trend among Nigerian celebrities.",
+    "Fans have been sharing their own results in reply."
+   ],
+   "added": "2026-10-25",
+   "at": "2026-10-25T19:35Z"
+  },
+  {
+   "id": "saka-out-eight-weeks",
+   "c": "sport",
+   "h": "Arsenal winger Bukayo Saka reportedly out for up to eight weeks with injury",
+   "p": "Arsenal winger Bukayo Saka is reportedly facing up to eight weeks on the sidelines with an injury. The club is said to be assessing the best treatment plan. The news is a blow to Arsenal in the Premier League title race.",
+   "n": 1,
+   "more": [
+    "Arsenal have not given a firm return date in the reports seen so far.",
+    "He could miss a busy run of league and European games."
+   ],
+   "added": "2026-10-25",
+   "at": "2026-10-25T19:35Z"
+  },
+  {
+   "id": "ronaldo-982-goals",
+   "c": "sport",
+   "h": "Cristiano Ronaldo reportedly scores his 982nd career goal",
+   "p": "Cristiano Ronaldo has reportedly scored again, taking his career tally to 982 goals. He continues to add to a record that no other player is close to matching. Fans are discussing how near he is to the 1,000 mark.",
+   "n": 1,
+   "more": [
+    "The 1,000-goal milestone is his stated target.",
+    "Reaction online has been strong among both fans and critics."
+   ],
+   "added": "2026-10-25",
+   "at": "2026-10-25T19:35Z"
+  },
+  {
+   "id": "onana-turkey-car-crash",
+   "c": "sport",
+   "h": "Manchester United goalkeeper Andre Onana reportedly escapes serious injury in car crash in Turkey",
+   "p": "Goalkeeper Andre Onana has reportedly been involved in a car crash in Turkey and escaped without serious injury. Details of the incident are limited in the reports seen so far. No official statement from his club has been seen yet.",
+   "n": 1,
+   "more": [
+    "He is said to be safe and well.",
+    "The cause of the crash has not been confirmed."
+   ],
+   "added": "2026-10-25",
+   "at": "2026-10-25T19:35Z"
+  },
+  {
+   "id": "us-fbi-officials-charged-laptop",
+   "c": "world",
+   "h": "US Justice Department reportedly charges two former FBI officials over testimony on Hunter Biden laptop",
+   "p": "The US Justice Department has reportedly charged two former FBI officials in connection with their testimony about the Hunter Biden laptop. Details of the charges have not been fully set out in the reports seen so far. Lawyers for the two have not been quoted.",
+   "n": 1,
+   "more": [
+    "The laptop story has been a political flashpoint in the US for years.",
+    "The two are presumed innocent unless proven otherwise."
+   ],
+   "added": "2026-10-25",
+   "at": "2026-10-25T19:35Z"
+  },
   {
    "id": "makinde-2027-water-testing",
    "c": "politics",
@@ -956,486 +1086,6 @@
    "img": "img/met-police-markle-letter.jpg",
    "alt": "Meghan, Duchess of Sussex, smiling",
    "credit": "Photo: Northern Ireland Office / Wikimedia Commons, CC BY 2.0"
-  },
-  {
-   "id": "vdm-bred-car",
-   "c": "celebs",
-   "h": "VeryDarkMan calls for a probe into how singer B-Red got his car",
-   "p": "Social media critic VeryDarkMan has reportedly asked the authorities to look into how singer B-Red acquired his car, saying the means was not clean. B-Red has not been reported to have responded, and no agency has confirmed any inquiry.",
-   "n": 1,
-   "more": [
-    "The claim is said to have been made in a fresh online post.",
-    "It follows VeryDarkMan's other recent public call-outs of entertainers."
-   ],
-   "added": "2026-10-25",
-   "at": "2026-10-25T04:32Z"
-  },
-  {
-   "id": "tope-alabi-defamation",
-   "c": "celebs",
-   "h": "Gospel singer Tope Alabi warns social media users against defamation",
-   "p": "Gospel singer Tope Alabi has reportedly warned online users against spreading false claims about her and said she is ready to take legal action. The warning is said to have followed fresh rumours about her circulating on social media.",
-   "n": 1,
-   "more": [
-    "She is said to have urged people to verify claims before posting.",
-    "No suit has been reported filed yet."
-   ],
-   "added": "2026-10-25",
-   "at": "2026-10-25T04:32Z"
-  },
-  {
-   "id": "rita-edochie-polygamy",
-   "c": "celebs",
-   "h": "Rita Edochie says she is not against polygamy, clarifying her stance",
-   "p": "Nollywood actress Rita Edochie has reportedly said she is not against polygamy and that people have misread her position. She is said to have spoken after fans reacted to her earlier comments.",
-   "n": 1,
-   "more": [
-    "Her earlier remarks had sparked debate online.",
-    "She is said to have called for respect on both sides of the argument."
-   ],
-   "added": "2026-10-25",
-   "at": "2026-10-25T04:32Z"
-  },
-  {
-   "id": "ebola-nigeria-case",
-   "c": "naija",
-   "h": "Nigeria confirms an Ebola case in Abuja as health officials trace 44 contacts",
-   "p": "The Nigeria Centre for Disease Control says a woman who arrived from Uganda has tested positive for Ebola in Abuja, the country's first case in about a decade. Health Minister Muhammad Pate says 44 contacts, including health workers and caregivers, are being traced. A toll-free line, 6232, has been opened for suspected cases, while some Nigerians question how long detection took.",
-   "n": 3,
-   "more": [
-    "Symptoms reportedly began on 7 October and she was admitted to a private hospital on 11 October.",
-    "The US embassy has also advised Americans in Nigeria on precautions.",
-    "Kenya has also recorded cases in the same regional outbreak."
-   ],
-   "added": "2026-10-25",
-   "at": "2026-10-25T03:33Z",
-   "img": "img/ebola-nigeria-case.jpg",
-   "alt": "A health worker in a protective suit",
-   "credit": "Stock image: DFID / Flickr, CC BY 2.0"
-  },
-  {
-   "id": "phyna-police-wig",
-   "c": "celebs",
-   "h": "Phyna reportedly invited by police over a rented wig controversy",
-   "p": "Former Big Brother Naija winner Phyna has reportedly been invited by the police after a dispute over a rented wig. A separate video also shows an officer telling her he did not recognise her as a celebrity during a routine check. Neither matter has been fully explained publicly.",
-   "n": 1,
-   "more": [
-    "The wig dispute reportedly started online before police stepped in.",
-    "Fans are split between mocking the exchange and defending her."
-   ],
-   "added": "2026-10-25",
-   "at": "2026-10-25T03:33Z"
-  },
-  {
-   "id": "multichoice-dstv-prices",
-   "c": "naija",
-   "h": "MultiChoice reportedly confirms cheaper DStv decoders and subscription prices",
-   "p": "MultiChoice has reportedly taken a final decision to reduce the prices of DStv decoders and subscription packages in Nigeria. The company is said to have not yet published every new price, so customers are advised to check before renewing.",
-   "n": 1,
-   "more": [
-    "The cut is said to follow months of complaints about subscription costs.",
-    "Full package-by-package prices are still awaited."
-   ],
-   "added": "2026-10-25",
-   "at": "2026-10-25T03:33Z",
-   "img": "img/multichoice-dstv-prices.jpg",
-   "alt": "Satellite dishes on a building",
-   "credit": "Stock image: osde8info / Flickr, CC BY-SA 2.0"
-  },
-  {
-   "id": "dangote-diesel-gantry",
-   "c": "naija",
-   "h": "Marketers reportedly announce new diesel prices after Dangote halts gantry sales",
-   "p": "Fuel marketers have reportedly released new pump prices after the Dangote Refinery stopped selling diesel at its gantry. It is not yet clear how long the pause will last or how much it will affect supply.",
-   "n": 1,
-   "more": [
-    "Marketers say they are adjusting to the change in supply arrangements.",
-    "The reported rise in output at the Edo refinery may ease pressure on diesel."
-   ],
-   "added": "2026-10-25",
-   "at": "2026-10-25T03:33Z",
-   "img": "img/dangote-diesel-gantry.jpg",
-   "alt": "An old diesel fuel pump",
-   "credit": "Stock image: Nan Palmero / Flickr, CC BY 2.0"
-  },
-  {
-   "id": "eagles-dutch-serie-a",
-   "c": "sport",
-   "h": "Dutch-born Serie A star reportedly agrees to play for the Super Eagles",
-   "p": "A Netherlands-born player in Italy's Serie A has reportedly agreed to represent Nigeria at senior level. The Nigeria Football Federation has not yet confirmed the switch or the player's eligibility paperwork.",
-   "n": 1,
-   "more": [
-    "Nigeria has been widening its search for dual-nationality players.",
-    "A formal announcement is awaited."
-   ],
-   "added": "2026-10-25",
-   "at": "2026-10-25T03:33Z",
-   "img": "img/eagles-dutch-serie-a.jpg",
-   "alt": "A football match in a packed stadium",
-   "credit": "Stock image: nova3web / Flickr, CC BY-SA 2.0"
-  },
-  {
-   "id": "osimhen-motm-debate",
-   "c": "sport",
-   "h": "Turkish pundit questions Osimhen's man-of-the-match award in Galatasaray win over Lille",
-   "p": "A Turkish football commentator has questioned why Victor Osimhen was named player of the match after Galatasaray beat Lille in the Champions League. The debate has divided fans, with many Nigerians defending the striker.",
-   "n": 1,
-   "more": [
-    "Galatasaray took the win in Europe's top club competition.",
-    "Osimhen has not responded to the comments."
-   ],
-   "added": "2026-10-25",
-   "at": "2026-10-25T03:33Z"
-  },
-  {
-   "id": "gombe-state-police",
-   "c": "politics",
-   "h": "Gombe Assembly reportedly approves the creation of a state police force",
-   "p": "Lawmakers in Gombe State have reportedly voted to back the creation of a state police force. The move follows wider national debate on decentralising policing amid insecurity concerns.",
-   "n": 1,
-   "more": [
-    "Several state assemblies have been weighing similar backing.",
-    "Federal approval would still be needed for any change."
-   ],
-   "added": "2026-10-25",
-   "at": "2026-10-25T03:33Z",
-   "img": "img/gombe-state-police.jpg",
-   "alt": "A Nigeria Police armoured vehicle",
-   "credit": "Stock image: theglobalpanorama / Flickr, CC BY-SA 2.0"
-  },
-  {
-   "id": "conte-man-utd",
-   "c": "sport",
-   "h": "Antonio Conte reportedly in contact with Manchester United over the manager job",
-   "p": "Reports say Manchester United have made initial contact over Antonio Conte as a possible replacement for Michael Carrick. Conte is said to be ready to start immediately, though the club has not confirmed any talks. Other names, including Eddie Howe, have also been linked.",
-   "n": 2,
-   "more": [
-    "Carrick is reportedly still backed by the board for now.",
-    "Another poor result could change the picture, according to the reports."
-   ],
-   "added": "2026-10-25",
-   "at": "2026-10-25T02:33Z",
-   "img": "img/conte-man-utd.jpg",
-   "alt": "Antonio Conte",
-   "credit": "Photo: Nicola Genati / Wikimedia Commons, CC BY-SA 3.0"
-  },
-  {
-   "id": "soludo-tinubu-igbo",
-   "c": "elections",
-   "h": "Soludo says backing Tinubu in 2027 could pave the way for an Igbo presidency",
-   "p": "Anambra governor Charles Soludo has argued that South-East support for President Tinubu's second term could open the door to an Igbo president later. He has said his party, APGA, will not field a presidential candidate. Supporters of other candidates, including Peter Obi, have not accepted that argument.",
-   "n": 2,
-   "more": [
-    "Soludo has urged Igbo voters not to call votes for other candidates wasted.",
-    "The stance has drawn mixed reactions in the South-East."
-   ],
-   "added": "2026-10-25",
-   "at": "2026-10-25T02:33Z"
-  },
-  {
-   "id": "jaruma-detained",
-   "c": "celebs",
-   "h": "Businesswoman Jaruma reportedly in police custody over social media posts",
-   "p": "Jaruma has reportedly been held by police since Monday over posts she made online. She is said to face strict bail conditions. Police have not given a full public account.",
-   "n": 1,
-   "more": [
-    "Her supporters are asking for clarity on the charges.",
-    "No court date has been publicly reported."
-   ],
-   "added": "2026-10-25",
-   "at": "2026-10-25T02:33Z"
-  },
-  {
-   "id": "dj-dsf-kids",
-   "c": "celebs",
-   "h": "DJ DSF sparks debate by saying people who cannot afford children should not have them",
-   "p": "The media personality reportedly said that people who are struggling financially should hold off on having children. His remark drew a mix of agreement and criticism online.",
-   "n": 1,
-   "more": [
-    "Many commenters pointed to the rising cost of living.",
-    "Others said parenthood should not be judged by income."
-   ],
-   "added": "2026-10-25",
-   "at": "2026-10-25T02:33Z"
-  },
-  {
-   "id": "tinubu-nominees-buhari",
-   "c": "politics",
-   "h": "Two of Tinubu's ministerial nominees were reportedly turned down by a group close to Buhari",
-   "p": "A report says two people President Tinubu once considered for ministerial posts were rejected by a circle linked to former President Buhari. The claim has not been confirmed by the Presidency. A former presidential aide has separately offered his explanation for why Fasola is not in the cabinet.",
-   "n": 2,
-   "more": [
-    "The report was circulating widely on political blogs on Sunday.",
-    "The Presidency has not publicly responded to the claim."
-   ],
-   "added": "2026-10-25",
-   "at": "2026-10-25T01:32Z"
-  },
-  {
-   "id": "el-clasico-cat",
-   "c": "viral",
-   "h": "Viral prediction cat tips the winner of Barcelona v Real Madrid El Clasico",
-   "p": "A cat that has gained a following for football forecasts has made its pick for the El Clasico between Barcelona and Real Madrid. Fans online are sharing the video ahead of kick-off.",
-   "n": 1,
-   "more": [
-    "The cat's earlier predictions have been widely shared on social media.",
-    "The match is one of La Liga's biggest fixtures of the season."
-   ],
-   "added": "2026-10-25",
-   "at": "2026-10-25T01:32Z"
-  },
-  {
-   "id": "supercomputer-pl-title",
-   "c": "sport",
-   "h": "Supercomputer now tips Arsenal for the Premier League title after Manchester City's loss",
-   "p": "A supercomputer prediction model has made Arsenal favourites to win the Premier League after their latest win and Manchester City's defeat. The model simulates the rest of the season thousands of times.",
-   "n": 1,
-   "more": [
-    "Arsenal's win and City's slip changed the title odds.",
-    "Predictions of this kind can shift quickly from week to week."
-   ],
-   "added": "2026-10-25",
-   "at": "2026-10-25T01:32Z"
-  },
-  {
-   "id": "cocin-women-leader",
-   "c": "naija",
-   "h": "COCIN women's fellowship leader reportedly dies, Tinubu sends condolences",
-   "p": "The leader of the COCIN women's fellowship has reportedly died, and President Tinubu has reacted with a message of condolence. Further details on the circumstances were not immediately available.",
-   "n": 1,
-   "more": [
-    "Tributes are said to be coming in from church members.",
-    "Funeral arrangements have not yet been announced."
-   ],
-   "added": "2026-10-25",
-   "at": "2026-10-25T01:32Z"
-  },
-  {
-   "id": "tinubu-flagoff-speech",
-   "c": "politics",
-   "h": "Tinubu's full campaign flag-off speech published after APC's Kaduna launch",
-   "p": "The text of President Tinubu's remarks at the APC 2027 presidential campaign flag-off has been published. He used the Kaduna event to defend his record and appeal to voters ahead of the 2027 polls. Reaction from opposition parties has continued to follow.",
-   "n": 2,
-   "more": [
-    "The speech followed his remarks accusing opponents of exploiting hunger.",
-    "The ADC and NDC camps have already answered parts of it.",
-    "Port Harcourt is the next stop on the campaign timetable."
-   ],
-   "added": "2026-10-25",
-   "at": "2026-10-25T00:32Z"
-  },
-  {
-   "id": "efcc-recruitment-2026",
-   "c": "naija",
-   "h": "EFCC recruitment 2026: open positions, requirements and how to apply",
-   "p": "The Economic and Financial Crimes Commission has reportedly opened recruitment for new staff. A guide sets out the available roles, eligibility requirements and the application steps.",
-   "n": 1,
-   "more": [
-    "Applicants are advised to check eligibility before applying.",
-    "Details are said to be available on the commission's official portal."
-   ],
-   "added": "2026-10-25",
-   "at": "2026-10-25T00:32Z"
-  },
-  {
-   "id": "zamfara-cleric-dies",
-   "c": "naija",
-   "h": "Prominent Islamic cleric reportedly dies in Zamfara State",
-   "p": "A prominent Islamic cleric has reportedly died in Zamfara State, according to Hausa-language reports. Further details on the cause and funeral arrangements are said to be awaited.",
-   "n": 1,
-   "more": [
-    "Tributes are said to be coming in from followers.",
-    "Details are still emerging."
-   ],
-   "added": "2026-10-25",
-   "at": "2026-10-25T00:32Z"
-  },
-  {
-   "id": "remi-tinubu-2031",
-   "c": "politics",
-   "h": "First Lady Remi Tinubu says she hopes to leave Aso Rock in 2031 to a Nigeria she can enjoy",
-   "p": "Remi Tinubu has spoken about when she expects to leave the presidential villa, saying she hopes to hand over in 2031 to a country that is more comfortable to live in. The remark has drawn wide comment as the 2027 campaign begins.",
-   "n": 3,
-   "more": [
-    "Her words are being read as a sign the family expects two terms in office.",
-    "Opposition figures have yet to respond directly.",
-    "Supporters say she was speaking about hopes for a better country."
-   ],
-   "added": "2026-10-24",
-   "at": "2026-10-24T22:33Z"
-  },
-  {
-   "id": "us-wanted-nigerians",
-   "c": "naija",
-   "h": "US agencies reportedly publish names and photos of Nigerians wanted over fraud and drug offences",
-   "p": "American law enforcement agencies have reportedly released the names and photographs of several Nigerian nationals they want in connection with alleged fraud and drug-related offences, and listed the accusations against them.",
-   "n": 2,
-   "more": [
-    "The notices are said to come from the FBI and the DEA.",
-    "Those named have not been tried and the allegations remain unproven.",
-    "Nigerian authorities have not yet commented."
-   ],
-   "added": "2026-10-24",
-   "at": "2026-10-24T22:33Z"
-  },
-  {
-   "id": "adekunle-gold-graduates",
-   "c": "music",
-   "h": "Adekunle Gold praised for giving N250,000 each to first-class graduates",
-   "p": "Adekunle Gold is drawing praise online after reportedly gifting N250,000 each to several first-class graduates. The singer is also in the news for a separate $20,000 initiative for sickle cell patients.",
-   "n": 1,
-   "more": [
-    "Many commenters called it a rare gesture of encouragement for academic excellence.",
-    "It follows his sickle cell announcement earlier today."
-   ],
-   "added": "2026-10-24",
-   "img": "img/adekunle-gold-sickle-cell.jpg",
-   "alt": "Adekunle Gold singing into a microphone",
-   "credit": "Photo: NdaniTV / Wikimedia Commons (CC BY-SA 2.5)",
-   "at": "2026-10-24T22:33Z"
-  },
-  {
-   "id": "dele-momodu-wike",
-   "c": "elections",
-   "h": "Dele Momodu takes a swipe at Wike over those 'inconsolable' about missing out on candidacy",
-   "p": "Publisher Dele Momodu has reportedly said some people remain inconsolable because they did not get a party ticket, in a remark widely read as aimed at Nyesom Wike.",
-   "n": 1,
-   "more": [
-    "The comment adds to the exchange of words among political figures ahead of 2027.",
-    "Wike has not responded in the reports seen so far."
-   ],
-   "added": "2026-10-24",
-   "at": "2026-10-24T22:33Z"
-  },
-  {
-   "id": "abuja-terror-convictions",
-   "c": "naija",
-   "h": "653 people reportedly convicted as federal government secures terrorism verdicts in Abuja mass trial",
-   "p": "The federal government has reportedly secured the conviction of 653 people in a mass terrorism trial held in Abuja.",
-   "n": 1,
-   "more": [
-    "The trial is among the largest of its kind in the country.",
-    "Details of the sentences were not immediately clear."
-   ],
-   "added": "2026-10-24",
-   "at": "2026-10-24T22:33Z"
-  },
-  {
-   "id": "edo-refinery-diesel",
-   "c": "naija",
-   "h": "Edo refinery reportedly exceeds full production capacity, with diesel supply at 620,000 litres a day",
-   "p": "The Edo refinery is said to be producing above its stated capacity, with daily diesel supply reportedly reaching 620,000 litres, as marketers adjust prices after Dangote halted diesel gantry sales.",
-   "n": 1,
-   "more": [
-    "The development comes as fuel marketers release new diesel prices.",
-    "Analysts will watch whether pump prices ease."
-   ],
-   "added": "2026-10-24",
-   "at": "2026-10-24T22:33Z"
-  },
-  {
-   "id": "apc-youth-leader-kidnapped",
-   "c": "naija",
-   "h": "APC youth leader and his wife reportedly kidnapped days after a lawmaker was killed",
-   "p": "An APC youth leader and his wife have reportedly been abducted, only days after a lawmaker was killed. Security agencies are said to be searching for them.",
-   "n": 1,
-   "more": [
-    "The incident has raised fresh worries about insecurity as the campaign season opens.",
-    "No group has claimed responsibility."
-   ],
-   "added": "2026-10-24",
-   "at": "2026-10-24T22:33Z"
-  },
-  {
-   "id": "rivers-virginity-tests",
-   "c": "naija",
-   "h": "Rivers government condemns alleged forced virginity testing of female secondary school students",
-   "p": "The Rivers State government has condemned reports that female secondary school students were subjected to forced virginity testing, calling the practice unacceptable.",
-   "n": 1,
-   "more": [
-    "Rights groups have long described such tests as degrading.",
-    "The state is expected to investigate the school concerned."
-   ],
-   "added": "2026-10-24",
-   "at": "2026-10-24T22:33Z"
-  },
-  {
-   "id": "chivayo-rolls-royce",
-   "c": "world",
-   "h": "Zimbabwean tycoon Wicknell Chivayo's custom Rolls-Royce Phantom arrives weeks after his death in a helicopter crash",
-   "p": "A custom Rolls-Royce Phantom ordered by Zimbabwean businessman Wicknell Chivayo has reportedly arrived at his Harare home, weeks after he died in a helicopter crash.",
-   "n": 1,
-   "more": [
-    "The car was ordered before his death.",
-    "Photos of its arrival have spread widely online."
-   ],
-   "added": "2026-10-24",
-   "at": "2026-10-24T22:33Z"
-  },
-  {
-   "id": "jordan-church-attack",
-   "c": "world",
-   "h": "Six reportedly killed and 28 injured as gunmen open fire at a Greek Orthodox church in Jordan",
-   "p": "Gunmen have reportedly attacked a Greek Orthodox church in Jordan, killing six people and wounding 28, according to video and reports circulating online.",
-   "n": 1,
-   "more": [
-    "Security forces are said to have responded to the scene.",
-    "Authorities have not yet given a full account of the attack."
-   ],
-   "added": "2026-10-24",
-   "at": "2026-10-24T22:33Z"
-  },
-  {
-   "id": "melania-ceasefire",
-   "c": "world",
-   "h": "Melania Trump reportedly helps secure a temporary Russia-Ukraine ceasefire so the elderly can be evacuated",
-   "p": "Melania Trump is reportedly credited with helping to arrange a short ceasefire between Russia and Ukraine to allow elderly civilians to be evacuated.",
-   "n": 1,
-   "more": [
-    "Details of how long the pause will last are unclear.",
-    "Neither government had given a detailed statement in the reports seen."
-   ],
-   "added": "2026-10-24",
-   "at": "2026-10-24T22:33Z"
-  },
-  {
-   "id": "infantino-fifa-term",
-   "c": "sport",
-   "h": "Asian football chief backs Gianni Infantino for another term as FIFA president",
-   "p": "A leading Asian football official has publicly backed Gianni Infantino to serve another term as FIFA president.",
-   "n": 1,
-   "more": [
-    "Other confederations are yet to declare their positions.",
-    "The FIFA election is some way off."
-   ],
-   "added": "2026-10-24",
-   "at": "2026-10-24T22:33Z"
-  },
-  {
-   "id": "jpmorgan-nigeria",
-   "c": "naija",
-   "h": "JPMorgan reportedly enters Nigeria and appoints a former CBN governor as a director",
-   "p": "Global bank JPMorgan has reportedly begun operations in Nigeria. The move is said to include the appointment of a former Central Bank of Nigeria governor to its local board. The development is being read by many as a sign of renewed foreign interest in the Nigerian financial market.",
-   "n": 1,
-   "more": [
-    "The appointment of a former central bank chief is drawing attention in banking circles.",
-    "Details of the licence and the scale of the planned operations were not immediately clear."
-   ],
-   "added": "2026-10-24",
-   "at": "2026-10-24T21:32Z"
-  },
-  {
-   "id": "chelsea-spurs-alonso",
-   "c": "sport",
-   "h": "Xabi Alonso explains what went wrong as Chelsea lose to Tottenham",
-   "p": "Chelsea were beaten by Tottenham in the London derby, and manager Xabi Alonso has spoken about where his side fell short. Fans online have been debating the result and the team's form. The defeat comes on a weekend when rivals picked up points.",
-   "n": 2,
-   "more": [
-    "Alonso pointed to key moments in the match that went against his team.",
-    "The loss has reignited talk about Chelsea's season so far."
-   ],
-   "added": "2026-10-24",
-   "at": "2026-10-24T21:32Z"
   },
   {
    "id": "okwuluora-woman-treatment",
