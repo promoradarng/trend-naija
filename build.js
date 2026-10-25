@@ -35,8 +35,12 @@ for (const s of data.stories) {
 const byNewest = list => list.map((s, i) => [s, i]).sort((a, b) => (b[0].at > a[0].at) - (b[0].at < a[0].at) || a[1] - b[1]).map(x => x[0]);
 const onFront = new Set(data.stories.map(s => s.id));
 const pinned = [...archive.values()].filter(s => s.owner && !onFront.has(s.id) && Date.now() - Date.parse(s.at) < OWNER_HOURS * 3600e3);
-// front page: the current stories plus recent owner stories, newest first (the first is Top gist)
-const stories = byNewest(data.stories.map(s => (archive.get(s.id).owner && !s.owner) ? { ...archive.get(s.id), hot: s.hot } : s).concat(pinned));
+// front page: the newest FRONT_MAX stories (plus owner stories younger than OWNER_HOURS), newest first,
+// so each new post goes in at the top (Top gist) and the oldest drop off into the archive
+const FRONT_MAX = 40;
+const young = s => Date.now() - Date.parse(s.at) < OWNER_HOURS * 3600e3;
+const stories = byNewest(data.stories.map(s => (archive.get(s.id).owner && !s.owner) ? { ...archive.get(s.id), hot: s.hot } : s).concat(pinned))
+  .filter((s, i) => i < FRONT_MAX || (s.owner && young(s)));
 // every story ever published, newest first: story pages, sitemap, archive page and photos
 const all = byNewest([...archive.values()]);
 const WHEN = new Intl.DateTimeFormat("en-GB", { timeZone: "Europe/London", day: "numeric", month: "short", year: "numeric", hour: "2-digit", minute: "2-digit", hour12: false, timeZoneName: "short" });
@@ -171,6 +175,7 @@ function buildIndex() {
   </section>
   <section class="wrap river" id="river" aria-live="polite">
 ${river}
+<p class="allq" id="older"><a href="/archive">Older stories are in All stories →</a></p>
 <div class="empty" id="empty" hidden>No gist on the front page matches that. Try another category, or search all our past stories below.</div>
 <p class="allq" id="allq" hidden><a href="/archive">Search all ${all.length} stories for “<span></span>” →</a></p>
   </section>
