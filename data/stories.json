@@ -1,5 +1,5 @@
 {
- "updated": "Updated 09:45 GMT",
+ "updated": "Updated 10:50 GMT",
  "date": "Monday, 26 October 2026",
  "categories": {
   "all": "All gist",
@@ -14,6 +14,87 @@
   "sport": "Sport"
  },
  "stories": [
+  {
+   "id": "burna-boy-nfl-paris-halftime",
+   "c": "music",
+   "h": "Burna Boy headlines halftime at the NFL's first regular-season game in Paris",
+   "p": "Burna Boy performed at halftime of the Steelers and Saints game at the Stade de France, the first regular-season NFL game staged in Paris. The show follows his 2025 headline night at the same stadium, when he became the first African artist to do so.",
+   "n": 4,
+   "more": [
+    "The league announced him as the Paris halftime act in September.",
+    "It was one of seven halftime shows across this season's international games.",
+    "Ayra Starr is billed for the London game."
+   ],
+   "added": "2026-10-26",
+   "img": "img/burna-boy-nfl-paris-halftime.jpg",
+   "alt": "Burna Boy performing on stage",
+   "credit": "Photo: Nuță Lucian from Cluj-Napoca, Romania / Wikimedia Commons, CC BY-SA 2.0",
+   "at": "2026-10-26T10:34Z"
+  },
+  {
+   "id": "iheanacho-bursaspor-record",
+   "c": "sport",
+   "h": "Kelechi Iheanacho reportedly sets a Turkish league record in Bursaspor win, sends message to Eric Chelle",
+   "p": "Kelechi Iheanacho is said to have broken a record in the Turkish league during Bursaspor's latest win. He also reportedly sent a message to Super Eagles coach Eric Chelle, in an apparent bid for a national team recall.",
+   "n": 1,
+   "more": [
+    "The striker has been out of the Super Eagles picture recently.",
+    "Reaction online has been split between praise and calls for a recall."
+   ],
+   "added": "2026-10-26",
+   "img": "img/iheanacho-bursaspor-record.jpg",
+   "alt": "Kelechi Iheanacho playing football",
+   "credit": "Photo: Антон Зайцев / Wikimedia Commons, CC BY-SA 3.0",
+   "at": "2026-10-26T10:34Z"
+  },
+  {
+   "id": "rudeboy-addresses-dancer-claims",
+   "c": "music",
+   "h": "Rudeboy reportedly responds to claims he was a dancer amid the P-Square feud",
+   "p": "Rudeboy has reportedly addressed claims that he started out as a dancer, as the dispute with his brother continues to play out in public. He is said to have given his own account of his early career.",
+   "n": 1,
+   "more": [
+    "The brothers' split has drawn comment from fans and fellow artists."
+   ],
+   "added": "2026-10-26",
+   "at": "2026-10-26T10:34Z"
+  },
+  {
+   "id": "steve-echendu-burial-plan",
+   "c": "celebs",
+   "h": "Family of late actor Steve Echendu releases burial plan as Clarion Chukwura pays tribute",
+   "p": "The family of the late Nollywood actor Steve Echendu has reportedly released a three-day funeral programme for November. Veteran actress Clarion Chukwura is among colleagues who have paid tribute to him.",
+   "n": 1,
+   "more": [
+    "Tributes from the film industry have continued to come in."
+   ],
+   "added": "2026-10-26",
+   "at": "2026-10-26T10:34Z"
+  },
+  {
+   "id": "bonny-rivers-children-freed",
+   "c": "naija",
+   "h": "Two kidnapped children in Rivers reunited with their family",
+   "p": "Two siblings abducted from their home in Bonny, Rivers State, have reportedly been freed and returned to their parents. A video of the reunion is circulating online.",
+   "n": 1,
+   "more": [
+    "Police have not yet said whether arrests have been made."
+   ],
+   "added": "2026-10-26",
+   "at": "2026-10-26T10:34Z"
+  },
+  {
+   "id": "dre-phone-zlatan-wedding",
+   "c": "celebs",
+   "h": "Davido's aide Dre appeals for return of phone allegedly lost at Zlatan's wedding, offers reward",
+   "p": "Davido's aide, Dre, has reportedly appealed to whoever took his phone at Zlatan Ibile's wedding to return it, and is said to be offering a cash reward.",
+   "n": 1,
+   "more": [
+    "The wedding has produced a steady stream of viral clips."
+   ],
+   "added": "2026-10-26",
+   "at": "2026-10-26T10:34Z"
+  },
   {
    "id": "ebola-patient-evacuated-abuja",
    "c": "naija",
@@ -952,105 +1033,6 @@
    ],
    "added": "2026-10-25",
    "at": "2026-10-25T17:34Z"
-  },
-  {
-   "id": "fulani-leaders-livestock-demands",
-   "c": "politics",
-   "h": "Fulani leaders reportedly present three demands to Tinubu on the N30 trillion livestock sector",
-   "p": "Fulani leaders have reportedly set out three requests to President Tinubu about Nigeria's livestock sector, which is said to be worth about N30 trillion. The group wants the sector given more attention and support from government.",
-   "n": 1,
-   "more": [
-    "The sector supports millions of herders and traders across the country.",
-    "The presidency has not yet been reported to have responded."
-   ],
-   "added": "2026-10-25",
-   "at": "2026-10-25T17:34Z"
-  },
-  {
-   "id": "ncdc-ebola-weekly-stipend",
-   "c": "naija",
-   "h": "NCDC approves N100,000 weekly payments for people under Ebola monitoring",
-   "p": "The Nigeria Centre for Disease Control has reportedly approved a weekly stipend of N100,000 for people being monitored as contacts of the confirmed Ebola case. The payment is said to be meant to help them stay at home for the monitoring period.",
-   "n": 1,
-   "more": [
-    "Health officials are still tracing contacts of the confirmed case in Abuja.",
-    "Neighbouring countries have tightened travel rules as the outbreak is watched."
-   ],
-   "added": "2026-10-25",
-   "img": "img/ncdc-ebola-weekly-stipend.jpg",
-   "alt": "Medics at work in an Ebola observation ward",
-   "credit": "Stock image: DFID - UK Department for International Development / Flickr, CC BY 2.0",
-   "at": "2026-10-25T16:35Z"
-  },
-  {
-   "id": "naira-slides-reserves",
-   "c": "naija",
-   "h": "Naira weakens against the dollar even though reserves stand at about $55 billion",
-   "p": "A fresh CBN dollar rate shows the naira losing ground, reportedly despite foreign reserves of around $55 billion. The slide is drawing questions from traders and ordinary Nigerians.",
-   "n": 1,
-   "more": [
-    "Analysts say demand for dollars is still high.",
-    "Petrol and diesel prices are also being watched closely."
-   ],
-   "added": "2026-10-25",
-   "at": "2026-10-25T16:35Z"
-  },
-  {
-   "id": "bella-shmurda-davido-snub",
-   "c": "music",
-   "h": "What really happened between Bella Shmurda and Davido? Wedding moment raises eyebrows",
-   "p": "A moment involving singers Bella Shmurda and Davido at Zlatan Ibile's traditional wedding has sparked reactions on social media. In a clip now circulating online, Bella Shmurda approaches the area where Davido is seated but appears to reach past him to shake hands with the person sitting right next to him. Given how close the two were, some viewers believe it would have been hard for Bella not to notice Davido, and that is what has people talking.",
-   "n": 1,
-   "hot": 7,
-   "more": [
-    "Some fans are asking whether it was a deliberate snub.",
-    "Others wonder if something is going on between the two artists that the public does not know about.",
-    "Or are Nigerians simply reading too much into an ordinary moment? Neither singer has commented."
-   ],
-   "img": "img/bella-shmurda-davido-snub.jpg",
-   "alt": "Guests in traditional attire shake hands at Zlatan Ibile's wedding",
-   "credit": "Image: social media",
-   "owner": true,
-   "added": "2026-10-25",
-   "at": "2026-10-25T15:30Z"
-  },
-  {
-   "id": "davido-eniola-zlatan-wedding",
-   "c": "celebs",
-   "h": "Eniola Badmus and Davido at Zlatan Ibile's wedding: a reunion that has fans talking",
-   "p": "Nollywood actress Eniola Badmus and Afrobeats star Davido have caught the attention of social media users after both appeared at Zlatan Ibile's lavish wedding celebration. The two were once known as close friends, with Eniola openly cheering the singer on through different stages of his career. Their relationship was reported to have cooled after the death of Davido's son, Ifeanyi, in 2022, when the actress faced heavy criticism online over posts about the tragedy. Neither of them has said whether their differences have been settled, so attending the same wedding may not mean the friendship is back.",
-   "n": 1,
-   "hot": 8,
-   "more": [
-    "Friendships in the entertainment industry can cool through misunderstandings or public pressure, and sometimes recover quietly away from the cameras.",
-    "Zlatan's wedding brought together some of the biggest names in Nigerian entertainment, and fans are following every moment.",
-    "Would you like to see Davido and Eniola Badmus rebuild their old friendship, or are some friendships better left in the past?"
-   ],
-   "img": "img/davido-eniola-zlatan-wedding.jpg",
-   "alt": "Davido, in a red cap, smiles as he hugs a guest in a gele at Zlatan Ibile's wedding",
-   "credit": "Image: social media",
-   "owner": true,
-   "added": "2026-10-25",
-   "at": "2026-10-25T15:06Z"
-  },
-  {
-   "id": "gunmen-kill-10-east",
-   "c": "naija",
-   "h": "Gunmen kill at least 10 people in eastern Nigeria, police confirm",
-   "p": "Gunmen have killed at least 10 people in an attack in eastern Nigeria, police have confirmed. The killings have renewed serious concern about the worsening security situation in parts of the country, where communities continue to face threats from armed attackers. Behind the death toll are grieving families whose lives have been changed forever.",
-   "n": 1,
-   "hot": 9,
-   "more": [
-    "Many Nigerians are asking how long lives will continue to be lost to gun violence.",
-    "Protecting lives and property remains one of the government's most important duties.",
-    "Nigerians say they deserve to live, work and travel without constant fear for their safety."
-   ],
-   "img": "img/gunmen-kill-10-east.jpg",
-   "alt": "Armed police officers in helmets and vests line a street in a Nigerian town",
-   "credit": "Image: social media",
-   "owner": true,
-   "added": "2026-10-25",
-   "at": "2026-10-25T13:58Z"
   }
  ]
 }
