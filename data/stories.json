@@ -1,6 +1,6 @@
 {
- "updated": "Updated 23:40 GMT",
- "date": "Sunday, 25 October 2026",
+ "updated": "Updated 00:40 GMT",
+ "date": "Monday, 26 October 2026",
  "categories": {
   "all": "All gist",
   "elections": "2027 elections",
@@ -14,6 +14,21 @@
   "sport": "Sport"
  },
  "stories": [
+  {
+   "id": "ndc-borno-assembly-candidate-dropped",
+   "c": "elections",
+   "h": "NDC reportedly drops its Borno House of Assembly candidate",
+   "p": "The Nigeria Democratic Congress has reportedly removed its candidate for a House of Assembly seat in Borno State. The move is said to come as the party unveils its 2027 campaign council. No further details on the reason were immediately available.",
+   "n": 1,
+   "more": [
+    "The party has not been widely quoted on the decision.",
+    "It follows other disputes over candidate lists in several states."
+   ],
+   "alt": "",
+   "credit": "",
+   "added": "2026-10-26",
+   "at": "2026-10-26T00:32Z"
+  },
   {
    "id": "hannity-earhardt-wedding",
    "c": "world",
@@ -128,7 +143,7 @@
    "c": "elections",
    "h": "NDC reportedly unveils its 2027 campaign council with Peter Obi, Kwankwaso and Dickson",
    "p": "The Nigeria Democratic Congress has reportedly named its campaign council for the 2027 elections. The list is said to include presidential candidate Peter Obi, his running mate Rabiu Kwankwaso and party leader Seriake Dickson.",
-   "n": 1,
+   "n": 2,
    "hot": 3,
    "more": [
     "The announcement follows weeks of meetings in Abuja over the council's make-up.",
