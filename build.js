@@ -48,11 +48,18 @@ const when = s => `<time class="when" datetime="${esc(s.at)}">${esc(WHEN.format(
 
 const esc = t => String(t ?? "").replace(/[&<>"]/g, m => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[m]));
 const storyPath = s => `/gist/${encodeURIComponent(s.id)}/`;
-const absImg = s => (s.imgs && s.imgs.length) ? `${SITE}/${s.imgs[0]}` : (s.img ? `${SITE}/${s.img}` : "");
+// Safety net: a story with no photo of its own (no img, imgs or embed) shows the credited
+// stand-in photo for its category from stock/, so no story ever goes up without a picture.
+const STOCK = JSON.parse(fs.readFileSync(path.join(ROOT, "stock/stock.json"), "utf8"));
+const stockOf = s => (s.img || (s.imgs && s.imgs.length) || s.embed) ? null : (STOCK[s.c] || STOCK.naija);
+const thumbOf = s => s.img || (s.imgs && s.imgs[0]) || (stockOf(s) || {}).img || "";
+const absImg = s => (s.imgs && s.imgs.length) ? `${SITE}/${s.imgs[0]}` : (s.img ? `${SITE}/${s.img}` : (stockOf(s) ? `${SITE}/${stockOf(s).img}` : ""));
 const fig = (s, eager) => (s.imgs && s.imgs.length)
   ? `<figure class="ph ph-multi">${s.imgs.map((src, i) => `<img src="/${esc(src)}" alt="${esc((s.alts || [])[i] || s.alt || s.h)}"${eager ? "" : ' loading="lazy"'} width="640" height="640">`).join("")}<figcaption>${esc(s.credit || "")}</figcaption></figure>`
   : s.img
   ? `<figure class="ph${s.owner ? " ph-full" : ""}"><img src="/${esc(s.img)}" alt="${esc(s.alt || s.h)}"${eager ? "" : ' loading="lazy"'} width="640" height="427"><figcaption>${esc(s.credit || "")}</figcaption></figure>`
+  : stockOf(s)
+  ? `<figure class="ph"><img src="/${esc(stockOf(s).img)}" alt="${esc(stockOf(s).alt)}"${eager ? "" : ' loading="lazy"'} width="640" height="427"><figcaption>${esc(stockOf(s).credit)}</figcaption></figure>`
   : "";
 // Social media embeds: a story's "embed" field holds the URL of the original public post.
 // Supported: Instagram (post/reel), X/Twitter (status), TikTok (video), YouTube, Facebook (post/video/reel).
@@ -182,7 +189,7 @@ function buildIndex() {
   <section class="wrap river" id="river" aria-live="polite">
 ${river}
 ${earlier.length ? `</section>
-  <section class="wrap earlier" id="older"><h3>Earlier gist</h3><ul class="earlier-list">${earlier.map(s => `<li><a href="${storyPath(s)}">${s.img ? `<img src="/${esc(s.img)}" alt="" loading="lazy" width="96" height="64">` : ""}<span><b>${esc(s.h)}</b><small>${esc(CATS[s.c] || "")}${s.at ? " · " + esc(WHEN.format(new Date(s.at))) : ""}</small></span></a></li>`).join("")}</ul>
+  <section class="wrap earlier" id="older"><h3>Earlier gist</h3><ul class="earlier-list">${earlier.map(s => `<li><a href="${storyPath(s)}">${thumbOf(s) ? `<img src="/${esc(thumbOf(s))}" alt="" loading="lazy" width="96" height="64">` : ""}<span><b>${esc(s.h)}</b><small>${esc(CATS[s.c] || "")}${s.at ? " · " + esc(WHEN.format(new Date(s.at))) : ""}</small></span></a></li>`).join("")}</ul>
   <p class="see-all"><a href="/archive">See all ${all.length} stories →</a></p>
   <section class="wrap river-tail">` : `<p class="allq" id="older"><a href="/archive">Older stories are in All stories →</a></p>`}
 <div class="empty" id="empty" hidden>No gist on the front page matches that. Try another category, or search all our past stories below.</div>
@@ -363,4 +370,4 @@ buildStories();
 buildArchive();
 buildPages();
 buildMeta();
-console.log(`Built ${stories.length} stories, ${stories.filter(s => s.img).length} with photos; ${all.length} in the archive.`);
+console.log(`Built ${stories.length} stories, ${stories.filter(s => s.img || (s.imgs && s.imgs.length) || s.embed).length} with their own photo or embed, ${stories.filter(stockOf).length} with a stand-in; ${all.length} in the archive.`);
