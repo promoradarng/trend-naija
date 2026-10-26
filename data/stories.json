@@ -1,5 +1,5 @@
 {
- "updated": "Updated 08:40 GMT Monday, 26 October 2026",
+ "updated": "Updated 09:45 GMT",
  "date": "Monday, 26 October 2026",
  "categories": {
   "all": "All gist",
@@ -14,6 +14,100 @@
   "sport": "Sport"
  },
  "stories": [
+  {
+   "id": "ebola-patient-evacuated-abuja",
+   "c": "naija",
+   "h": "Ebola patient evacuated from Nigeria on a medical flight as 53 contacts are isolated",
+   "p": "A 42-year-old woman infected with the Bundibugyo strain of Ebola has reportedly been flown out of Abuja for treatment abroad. She is said to be married to a Swiss diplomat. Officials have identified 53 people who had contact with her and placed them in isolation.",
+   "n": 1,
+   "more": [
+    "The Bundibugyo strain was first recorded in a 2007 outbreak in Uganda.",
+    "The NCDC has urged the public to rely on official updates.",
+    "Contacts under monitoring are due weekly allowances, the agency has said."
+   ],
+   "added": "2026-10-26",
+   "at": "2026-10-26T09:34Z"
+  },
+  {
+   "id": "keyamo-apc-air-mobilisation",
+   "c": "elections",
+   "h": "Tinubu names Festus Keyamo to head air mobilisation for his 2027 campaign",
+   "p": "President Tinubu has appointed Aviation Minister Festus Keyamo to lead the Directorate of Air Mobilisation in the APC presidential campaign council, according to a statement from his media adviser. The FAAN managing director, Olubunmi Kuku, is named a deputy director. The directorate will handle air travel and logistics across the six geopolitical zones.",
+   "n": 1,
+   "more": [
+    "Engr. Farouk Ahmed Umar is the second deputy director.",
+    "The APC flagged off its re-election campaign in Kaduna over the weekend.",
+    "The NDC has also named its own campaign council."
+   ],
+   "added": "2026-10-26",
+   "at": "2026-10-26T09:34Z"
+  },
+  {
+   "id": "ccb-probe-obi-saraki-mark",
+   "c": "politics",
+   "h": "CCB reportedly reviewing overseas-asset claims against Peter Obi, Bukola Saraki and David Mark",
+   "p": "The Code of Conduct Bureau is reportedly reviewing claims from the Panama and Pandora Papers leaks about undisclosed foreign assets linked to several current and former politicians, including Peter Obi, Bukola Saraki and David Mark. The bureau is said to have described the process as confidential. Being under review does not mean any wrongdoing has been proven.",
+   "n": 1,
+   "more": [
+    "Others named in the reports include Stella Oduah and James Ibori.",
+    "The bureau has declined to give details.",
+    "The reports come about 80 days before the election."
+   ],
+   "added": "2026-10-26",
+   "at": "2026-10-26T09:34Z"
+  },
+  {
+   "id": "ay-cardiff-show-chaos",
+   "c": "celebs",
+   "h": "AY apologises after chaos at his Cardiff comedy show, blames a payment dispute",
+   "p": "Comedian AY has apologised to fans after his Cardiff show on the UK tour descended into confusion, with ticket holders waiting for hours and police attending. He says he and the other comedians arrived but could not perform because of a payment dispute with the organisers. He has urged the tour management to publish refund details.",
+   "n": 1,
+   "more": [
+    "The dispute was reportedly settled only after most of the crowd had left.",
+    "The organisers had not issued a public statement at the time of reporting."
+   ],
+   "added": "2026-10-26",
+   "at": "2026-10-26T09:34Z"
+  },
+  {
+   "id": "mbappe-brace-clasico-barcelona",
+   "c": "sport",
+   "h": "Mbappé scores twice as Real Madrid beat Barcelona 2-1 at Camp Nou",
+   "p": "Kylian Mbappé scored a late winner in the 87th minute to complete a brace and give Real Madrid a 2-1 win at Camp Nou. It ended Barcelona's winning run and was Madrid's first league win at the ground since 2021. Mbappé has now scored eight goals in his first seven El Clásico matches.",
+   "n": 1,
+   "more": [
+    "He has passed Lionel Messi's tally from his first seven meetings with Madrid.",
+    "The result tightens the title race."
+   ],
+   "added": "2026-10-26",
+   "at": "2026-10-26T09:34Z"
+  },
+  {
+   "id": "davido-show-offer-zlatan-wedding",
+   "c": "music",
+   "h": "Davido reportedly caught on camera as a crew member mentions a $1.5m show offer at Zlatan's wedding",
+   "p": "A clip from Zlatan Ibile's wedding reception shows a member of Davido's crew reportedly telling him about a $1.5 million show offer, worth about ₦2 billion. His cousin, who was filming, reminded him the camera was still rolling. The video has spread widely online.",
+   "n": 1,
+   "more": [
+    "Davido was among the high-profile guests at the Lagos event.",
+    "Fans are debating the figure online."
+   ],
+   "added": "2026-10-26",
+   "at": "2026-10-26T09:34Z"
+  },
+  {
+   "id": "tope-alabi-pastor-tayo-posts",
+   "c": "music",
+   "h": "Canada-based Pastor Tayo reportedly deletes posts about Tope Alabi after a legal ultimatum",
+   "p": "Pastor Tayo has reportedly removed Facebook posts that linked gospel singer Tope Alabi to the death of singer Toluwanisings. Alabi's lawyers had sent a letter on 24 October demanding removal within 24 hours, a retraction and an apology, saying no investigation had linked her to the death. The posts are gone, but no apology has been reported.",
+   "n": 1,
+   "more": [
+    "The lawyers said the claims were baseless.",
+    "Woli Agba and Dele Omo Woli have also reportedly taken legal steps over similar claims."
+   ],
+   "added": "2026-10-26",
+   "at": "2026-10-26T09:34Z"
+  },
   {
    "id": "verydarkman-pastor-miracle",
    "c": "creators",
@@ -382,8 +476,8 @@
    "id": "bwala-reacts-ndc-campaign-council",
    "c": "elections",
    "h": "Daniel Bwala reportedly responds to the NDC's 2027 campaign council list",
-   "p": "Presidential aide Daniel Bwala has reportedly reacted to the NDC's newly released campaign council, which features Peter Obi, Rabiu Kwankwaso and Governor Dickson. Details of his remarks were still emerging.",
-   "n": 1,
+   "p": "Presidential aide Daniel Bwala has criticised the NDC's newly released campaign council, which features Peter Obi, Rabiu Kwankwaso and Governor Dickson, describing it as filled with content creators. Reports also point to disagreement within the NDC over the council list.",
+   "n": 2,
    "more": [
     "The NDC named the council earlier on Sunday.",
     "The APC flagged off its own presidential campaign over the weekend."
@@ -902,63 +996,6 @@
    "at": "2026-10-25T16:35Z"
   },
   {
-   "id": "abuja-hotel-worker-tiler",
-   "c": "naija",
-   "h": "Police arrest a tiler over the death of a hotel worker in Abuja",
-   "p": "Police in Abuja have arrested a tiler in connection with the death of a hotel staff member in the Utako area after a violent confrontation. The suspect reportedly told officers the man fell and hit his head.",
-   "n": 2,
-   "more": [
-    "Investigators are said to be looking into what led to the clash.",
-    "The police have not yet announced when the suspect will be charged."
-   ],
-   "added": "2026-10-25",
-   "at": "2026-10-25T16:35Z"
-  },
-  {
-   "id": "remi-tinubu-2031",
-   "c": "politics",
-   "h": "First Lady Remi Tinubu says she wants to leave Aso Rock in 2031",
-   "p": "Nigeria's First Lady Remi Tinubu has reportedly said she hopes to leave the presidential villa in 2031 for a Nigeria she can enjoy. The remark, made as the 2027 campaign gets under way, is drawing mixed reactions online.",
-   "n": 2,
-   "more": [
-    "Supporters read it as confidence in a second term for her husband.",
-    "Opposition voices say Nigerians want results, not predictions."
-   ],
-   "added": "2026-10-25",
-   "at": "2026-10-25T16:35Z"
-  },
-  {
-   "id": "ndlea-lagos-airport-cocaine",
-   "c": "naija",
-   "h": "NDLEA arrests a South African woman and a Nigerian-American grandmother at Lagos airport",
-   "p": "The anti-narcotics agency has reportedly detained two travellers at the Lagos airport, one of them a South African woman said to have been carrying about 36 kilograms of cocaine. The second is a Nigerian-American grandmother. Further details on the second case were not immediately available.",
-   "n": 2,
-   "more": [
-    "The South African woman was reportedly found with 36.65kg of the drug.",
-    "The agency has not said when the suspects will be charged."
-   ],
-   "added": "2026-10-25",
-   "at": "2026-10-25T15:32Z",
-   "img": "img/ndlea-lagos-airport-cocaine.jpg",
-   "alt": "Suitcases lined up in an airport baggage hall (stock image)",
-   "credit": "Stock image: Chor Ip / Flickr, CC BY-SA 2.0"
-  },
-  {
-   "id": "tacha-bbnaija-viewers",
-   "c": "celebs",
-   "h": "Tacha tells Big Brother Naija organisers what they must do to win viewers back",
-   "p": "Former housemate Tacha has reportedly given the organisers of Big Brother Naija her advice on how to win back viewers. Her comments are said to have sparked a conversation among fans of the reality show.",
-   "n": 1,
-   "more": [
-    "Fans have been sharing their own views on the show online."
-   ],
-   "added": "2026-10-25",
-   "at": "2026-10-25T15:32Z",
-   "img": "img/tacha-bbnaija-viewers.jpg",
-   "alt": "A television remote control (stock image)",
-   "credit": "Stock image: Dmitry Makeev / Wikimedia Commons, CC BY-SA 4.0"
-  },
-  {
    "id": "bella-shmurda-davido-snub",
    "c": "music",
    "h": "What really happened between Bella Shmurda and Davido? Wedding moment raises eyebrows",
@@ -997,38 +1034,6 @@
    "at": "2026-10-25T15:06Z"
   },
   {
-   "id": "dangote-london-listing",
-   "c": "naija",
-   "h": "Dangote Cement reportedly lines up a $1bn London share sale as the boss visits the stock exchange",
-   "p": "Dangote Cement is reportedly preparing to sell about 10 per cent of the company to investors in London, a deal that could raise around $1 billion as early as November. The sale is said to involve existing shareholders rather than new shares, with Goldman Sachs and UBS reportedly arranging it. Aliko Dangote was reported to have visited the London Stock Exchange as investor meetings were expected to begin from 27 October.",
-   "n": 3,
-   "more": [
-    "Investor sessions are reportedly planned for London, South Africa and Dubai.",
-    "The timing is said to depend on market conditions."
-   ],
-   "added": "2026-10-25",
-   "img": "img/dangote-london-listing.jpg",
-   "alt": "Aliko Dangote",
-   "credit": "Photo: World Economic Forum / Wikimedia Commons, CC BY-SA 2.0",
-   "at": "2026-10-25T14:34Z"
-  },
-  {
-   "id": "natasha-osawaru-obi-video",
-   "c": "elections",
-   "h": "Natasha Osawaru shares a video of Peter Obi, drawing reactions ahead of 2027",
-   "p": "Edo lawmaker and 2Baba's wife Natasha Osawaru reportedly posted a video of Peter Obi, the NDC presidential candidate, and it has drawn mixed reactions online. She earlier backed Obi and Rabiu Kwankwaso at the NDC convention and has since won the party's ticket for her state assembly seat.",
-   "n": 1,
-   "more": [
-    "She is set to contest the Egor seat in 2027.",
-    "Supporters of other parties have also joined the online debate."
-   ],
-   "added": "2026-10-25",
-   "at": "2026-10-25T14:34Z",
-   "img": "img/obi.jpg",
-   "alt": "Peter Obi",
-   "credit": "Photo: VOA / Wikimedia Commons, Public domain"
-  },
-  {
    "id": "gunmen-kill-10-east",
    "c": "naija",
    "h": "Gunmen kill at least 10 people in eastern Nigeria, police confirm",
@@ -1046,22 +1051,6 @@
    "owner": true,
    "added": "2026-10-25",
    "at": "2026-10-25T13:58Z"
-  },
-  {
-   "id": "jayz-blue-ivy-piano",
-   "c": "music",
-   "h": "Jay-Z praises daughter Blue Ivy after she joins him on stage on piano",
-   "p": "Jay-Z reportedly bowed to his 14-year-old daughter, Blue Ivy, and hyped her up when she joined him on stage and performed on the piano. Clips of the moment are said to be circulating widely online.",
-   "n": 1,
-   "more": [
-    "Blue Ivy has increasingly appeared on stage with her parents in recent years.",
-    "Fans online praised the father-daughter moment."
-   ],
-   "added": "2026-10-25",
-   "at": "2026-10-25T13:33Z",
-   "img": "img/jayz-blue-ivy-piano.jpg",
-   "alt": "Jay-Z at a Shawn Carter Foundation event",
-   "credit": "Photo: Joella Marano from Manhattan, NY / Wikimedia Commons, CC BY-SA 3.0"
   }
  ]
 }
