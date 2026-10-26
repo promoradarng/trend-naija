@@ -15,12 +15,30 @@
  },
  "stories": [
   {
+   "id": "lekki-street-boy-zlatan-wedding-money",
+   "c": "creators",
+   "h": "Lekki Street Boy shows off the huge amount of money he made at Zlatan's wedding!",
+   "p": "Social media personality Lekki Street Boy has got people talking after showing off the cash he reportedly received from wealthy guests and celebrities at Zlatan's lavish wedding. He thanked Soso Soberekon, Cubana Chief Priest and others who sprayed and handed him money during the celebration.",
+   "body": [
+    "Popular social media personality Lekki Street Boy has got people talking after showing off the money he reportedly received from wealthy guests and celebrities at Zlatan's lavish wedding celebration.",
+    "The excited young man could barely contain his happiness as he displayed the cash and expressed his appreciation to those who showed him love at the event.",
+    "He gave special thanks to popular entertainment personality Soso Soberekon, celebrity businessman Cubana Chief Priest, and several others who generously sprayed and handed him money during the celebration.",
+    "From the look of things, Lekki Street Boy did not just attend Zlatan's wedding to celebrate with the couple. He also returned home with what appears to be a serious financial blessing.",
+    "While some people attended the wedding to enjoy the food, music and celebrity atmosphere, this young man apparently had another reason to remember the occasion."
+   ],
+   "n": 1,
+   "hot": 1,
+   "owner": true,
+   "added": "2026-10-26",
+   "at": "2026-10-26T14:55Z"
+  },
+  {
    "id": "brazil-lula-supporters-celebrate",
    "c": "world",
    "h": "Jubilation in Brazil as Lula supporters pour onto the streets to celebrate election victory",
    "p": "Supporters of Brazil's Workers' Party (PT) flooded the streets and set off fireworks to celebrate President Luiz Inácio Lula da Silva's narrow runoff win over Flávio Bolsonaro of the Liberal Party (PL). Lula took about 51.8% of the vote after the full count, winning a fourth term in one of the most fiercely contested races in the country's recent history.",
    "n": 3,
-   "hot": 1,
+   "hot": 2,
    "more": [
     "Huge crowds dressed in the party's red filled one of São Paulo's main avenues late into the night.",
     "Lula came from behind after trailing Bolsonaro in the first round.",
@@ -129,7 +147,7 @@
     "Whatever anyone thinks about El-Rufai politically, seeing a husband and wife show affection during such a difficult period is bound to attract reactions."
    ],
    "n": 1,
-   "hot": 2,
+   "hot": 3,
    "img": "img/el-rufai-wife-court-kiss.jpg",
    "alt": "Nasir El-Rufai, in a cream jacket, kisses his wife, who wears a cream headscarf and pink floral dress, in a wood-panelled courtroom",
    "credit": "Image: social media",
@@ -448,7 +466,7 @@
     "Congratulations to VDM on this latest venture!"
    ],
    "n": 1,
-   "hot": 3,
+   "hot": 4,
    "img": "img/vdm-second-container-ratel.jpg",
    "alt": "Four photos of VeryDarkMan unloading boxes of Ratel Power Station lithium batteries from a shipping container, and posing in traditional attire beside a new SUV",
    "credit": "Image: social media",
@@ -471,7 +489,7 @@
     "If someone openly calls for weapons to attack people during worship, shouldn't that be enough to trigger an immediate security investigation? Nigeria has suffered enough religious violence, and credible threats against worshippers cannot be treated as ordinary speech."
    ],
    "n": 3,
-   "hot": 4,
+   "hot": 5,
    "img": "img/video-chant-threat-enugu-jos-probe.jpg",
    "alt": "Two stills from the viral video: a young man in a blue beret and brown uniform chants as others march behind him",
    "credit": "Image: social media",
@@ -493,7 +511,7 @@
     "And to Christians who believe marriage should be between one man and one woman, how would you respond if your pastor stood before the congregation and made this announcement?"
    ],
    "n": 1,
-   "hot": 5,
+   "hot": 6,
    "img": "img/pastor-prophetess-second-wife.jpg",
    "alt": "Three photos of a church stage: a woman in a green dress speaks into a microphone beside a man in a white jacket, and in the last photo a second woman stands with them",
    "credit": "Image: social media",
@@ -850,7 +868,7 @@
     "What kind of society are we creating when adults cannot resolve a simple disagreement at children's football practice without involving law enforcement?"
    ],
    "n": 1,
-   "hot": 6,
+   "hot": 7,
    "img": "img/police-called-3-year-old-footballer.jpg",
    "alt": "Four photos of toddlers in red and blue football kits chasing a red ball on a grass pitch",
    "credit": "Image: social media",
@@ -921,7 +939,7 @@
    "h": "Brazil chooses Lula again: he beats Flávio Bolsonaro to win a fourth term",
    "p": "President Luiz Inácio Lula da Silva has won Brazil's closely fought presidential runoff, defeating Senator Flávio Bolsonaro by roughly 51.8% to 48.2% after the full count, a margin of about 4.4 million votes. The victory gives Lula a fourth presidential term and completes a remarkable comeback after Bolsonaro led the first round. The result is drawing attention around the world.",
    "n": 3,
-   "hot": 7,
+   "hot": 8,
    "more": [
     "Bolsonaro won the first round with about 47% to Lula's 45%, making Lula the first candidate since 1989 to come from behind and win a Brazilian runoff.",
     "Voting was extended by two hours on election day, which the Bolsonaro camp may challenge in court.",
@@ -953,7 +971,7 @@
     "If this woman's observation reflects a wider problem, then Igbo communities need to examine the health, welfare and life expectancy of their men more seriously."
    ],
    "n": 1,
-   "hot": 8,
+   "hot": 9,
    "img": "img/imo-funeral-men-obituaries.jpg",
    "alt": "A woman in a black top and checked wrapper speaks into a microphone at a funeral, with other women in matching outfits standing behind her",
    "credit": "Image: social media",
@@ -1169,7 +1187,6 @@
    "h": "Lady shocked at how hot solar panels on a neighbouring building became under the sun",
    "p": "A lady has gone viral after showing how hot the solar panels on a three-storey building next to her house had become under the scorching sun, saying she never imagined they could generate that much heat. Solar panels can get extremely hot in direct sunlight, with surface temperatures sometimes reaching 60°C to 80°C or more in very hot weather. They are designed to turn sunlight into electricity, but they also absorb heat, and too much heat can actually reduce how well they work.",
    "n": 1,
-   "hot": 9,
    "more": [
     "A panel feeling very hot does not mean it is faulty or about to catch fire; smoke, flames, a burning smell or visible damage would be the warning signs.",
     "More Nigerians are installing rooftop solar because of the electricity situation.",
