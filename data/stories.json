@@ -1,5 +1,5 @@
 {
- "updated": "Updated 14:55 GMT",
+ "updated": "Updated 14:45 GMT",
  "date": "Monday, 26 October 2026",
  "categories": {
   "all": "All gist",
@@ -14,6 +14,90 @@
   "sport": "Sport"
  },
  "stories": [
+  {
+   "id": "toluwanisings-burial-dispute",
+   "c": "celebs",
+   "h": "Late gospel singer ToluwaniSings: her family reportedly stands firm on burial plans as her father appeals to his daughter-in-law",
+   "p": "The family of the late gospel singer is said to be insisting on its burial arrangements and demanding a full investigation into her death. Her father has reportedly appealed to his daughter-in-law to reconsider burying him at home rather than in a cemetery.",
+   "n": 2,
+   "more": [
+    "The family is reportedly calling for a thorough investigation.",
+    "Reactions are pouring in from fans of the singer online."
+   ],
+   "added": "2026-10-26",
+   "at": "2026-10-26T14:43Z"
+  },
+  {
+   "id": "vdm-praises-tinubu-strategy",
+   "c": "politics",
+   "h": "VeryDarkMan reportedly praises Tinubu's political strategy and says rivals including Peter Obi lack his nerve",
+   "p": "Social commentator VeryDarkMan has reportedly said President Tinubu's political approach is stronger than that of his rivals, naming Peter Obi among them. The remark is drawing mixed reactions from supporters of different camps ahead of 2027.",
+   "n": 1,
+   "more": [
+    "Supporters of the NDC and the APC are trading views on social media.",
+    "The 2027 race is already heating up online."
+   ],
+   "img": "img/tinubu-vdm.jpg",
+   "alt": "Bola Tinubu",
+   "credit": "Photo: Nosa Asemota / Wikimedia Commons, CC BY-SA 4.0",
+   "added": "2026-10-26",
+   "at": "2026-10-26T14:43Z"
+  },
+  {
+   "id": "bruno-fernandes-cryptic-like",
+   "c": "sport",
+   "h": "Bruno Fernandes reportedly likes a cryptic post that appears to criticise Manchester United manager Michael Carrick",
+   "p": "The Manchester United captain is said to have liked an Instagram post that seems to take aim at manager Michael Carrick after he was dropped. The club has not commented.",
+   "n": 1,
+   "more": [
+    "Fans are debating whether the like was deliberate.",
+    "United have been under pressure over recent team selections."
+   ],
+   "img": "img/bruno-fernandes-like.jpg",
+   "alt": "Bruno Fernandes",
+   "credit": "Photo: Bryan Berlin / Wikimedia Commons, CC BY-SA 4.0",
+   "added": "2026-10-26",
+   "at": "2026-10-26T14:43Z"
+  },
+  {
+   "id": "mr-eazi-shatta-wale-shows",
+   "c": "music",
+   "h": "Mr Eazi says he has never paid Shatta Wale, yet the Ghanaian star always turns up at his shows",
+   "p": "Mr Eazi has reportedly spoken about his friendship with Shatta Wale, saying the dancehall star shows up at his concerts without being paid.",
+   "n": 1,
+   "more": [
+    "The two Afrobeats and dancehall stars have long supported each other's shows."
+   ],
+   "img": "img/mr-eazi-shatta-wale-shows.jpg",
+   "alt": "Mr Eazi",
+   "credit": "Photo: NdaniTV / Wikimedia Commons, CC BY 3.0",
+   "added": "2026-10-26",
+   "at": "2026-10-26T14:43Z"
+  },
+  {
+   "id": "ibiyeomie-tithes-christmas-clothes",
+   "c": "naija",
+   "h": "Pastor David Ibiyeomie reportedly urges Christians to pay tithes before buying Christmas clothes",
+   "p": "The Port Harcourt-based pastor is said to have told worshippers to settle their tithes before holiday shopping. His message is drawing mixed reactions online.",
+   "n": 1,
+   "more": [
+    "Nigerians are debating the message as festive spending approaches."
+   ],
+   "added": "2026-10-26",
+   "at": "2026-10-26T14:43Z"
+  },
+  {
+   "id": "us-green-card-lottery-reopening",
+   "c": "world",
+   "h": "US court reportedly sets three dates to reopen the 2027 green card lottery for foreign applicants",
+   "p": "A US court has reportedly set dates for the reopening of the 2027 diversity visa lottery, news that is drawing strong interest among Nigerians hoping to relocate.",
+   "n": 1,
+   "more": [
+    "Applicants are advised to follow official US government channels only."
+   ],
+   "added": "2026-10-26",
+   "at": "2026-10-26T14:43Z"
+  },
   {
    "id": "el-rufai-wife-court-kiss",
    "c": "politics",
