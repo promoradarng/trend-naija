@@ -1,5 +1,5 @@
 {
- "updated": "Updated 20:40 GMT",
+ "updated": "Updated 21:45 GMT",
  "date": "Monday, 26 October 2026",
  "categories": {
   "all": "All gist",
@@ -14,6 +14,64 @@
   "sport": "Sport"
  },
  "stories": [
+  {
+   "id": "atiku-camp-hits-back-shettima-hygiene",
+   "c": "elections",
+   "h": "Atiku's camp hits back at Shettima over remarks about his Kano School of Hygiene training",
+   "p": "Supporters of ADC candidate Atiku Abubakar have reportedly responded to Vice President Kashim Shettima's mockery of Atiku's early schooling, turning the argument on President Tinubu's own academic record. The APC has not yet answered the counter-claim.",
+   "n": 1,
+   "more": [
+    "The exchange follows Shettima's separate criticism of Peter Obi earlier today.",
+    "Education records have been a recurring theme of the 2027 campaign."
+   ],
+   "img": "img/atiku-adc-council.jpg",
+   "alt": "Atiku Abubakar",
+   "credit": "Photo: Trend Naija",
+   "added": "2026-10-26",
+   "at": "2026-10-26T21:37Z"
+  },
+  {
+   "id": "omah-lay-accident-tour-postponed",
+   "c": "music",
+   "h": "Omah Lay reportedly breaks silence on an accident and postpones some Clarity of Mind tour dates",
+   "p": "Singer Omah Lay has reportedly addressed an accident and said some dates of his Clarity of Mind tour will be pushed back. Details of his condition and the new dates were not immediately clear.",
+   "n": 1,
+   "more": [
+    "The tour supports his latest album and was due to run through November.",
+    "Fans have been sending him messages of support online."
+   ],
+   "added": "2026-10-26",
+   "at": "2026-10-26T21:37Z",
+   "img": "img/omah-lay-accident-tour-postponed.jpg",
+   "alt": "Omah Lay",
+   "credit": "Photo: Warner Records / Wikimedia Commons, CC BY-SA 4.0"
+  },
+  {
+   "id": "troops-iswap-lake-chad-strikes",
+   "c": "naija",
+   "h": "Troops reportedly kill 16 ISWAP fighters in Lake Chad air and artillery strikes",
+   "p": "The military says air and artillery strikes around the Lake Chad area killed 16 ISWAP fighters and wounded a senior commander. Independent confirmation of the figures was not immediately available.",
+   "n": 1,
+   "more": [
+    "The operation is part of continuing efforts against insurgents in the north-east.",
+    "No casualties among troops were mentioned."
+   ],
+   "added": "2026-10-26",
+   "at": "2026-10-26T21:37Z"
+  },
+  {
+   "id": "madagascar-tycoon-nigeria-broadcast",
+   "c": "naija",
+   "h": "Madagascar's richest man reportedly plans radio and TV stations in Nigeria in a $450m deal",
+   "p": "Madagascar's wealthiest businessman is said to be planning radio and television stations in Nigeria, backed by a reported $450 million investment. Regulatory approvals and timelines were not stated.",
+   "n": 1,
+   "more": [
+    "The plan would add new broadcast competition in the Nigerian market.",
+    "Details are based on early reports and may change."
+   ],
+   "added": "2026-10-26",
+   "at": "2026-10-26T21:37Z"
+  },
   {
    "id": "shettima-obi-statistics",
    "c": "elections",
