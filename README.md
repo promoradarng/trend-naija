@@ -14,6 +14,12 @@ Static site for trendnaija.com, hosted on Cloudflare Pages.
 
 ## Photos and social media embeds
 
+**PHOTO RULES (updated 26 Oct 2026 — the owner has complained twice about stories without pictures):**
+- `tools/photos.py find` now searches Wikimedia Commons directly (about 1 second) and retries automatically when rate-limited. Openverse is too slow from the cloud and times out — do not use it.
+- Run photo searches ONE AT A TIME, never in parallel (Wikimedia blocks parallel requests with HTTP 429).
+- For every new story, search the full name of the main person named; if nothing fits, try the second person named, then reuse a photo already in `img/` of the same person, then a `stock` subject search.
+- Safety net: `build.js` shows a credited category stand-in photo from `stock/` (see `stock/stock.json`) for any story with no `img`, `imgs` or `embed`, so nothing ever appears without a picture. Never delete or change `stock/`. A real photo of the named person is always preferred over the stand-in.
+
 **Photo step for every update — MANDATORY, never skip it (the owner has complained about stories without pictures). Do it before committing; every story on the front page should end up with a picture.**
 If the person search finds nothing, try `find <id> "<generic subject>" stock` with at least two different subjects (e.g. "wedding rings", "ballot box", "graduation caps", "solar panels", "police car lights", "shopping trolley"), or reuse a licensed photo already in `img/` of the same named person (copy its credit). **Photo step for every update (do this before committing):** run `python3 tools/photos.py missing` to list the newest stories without a picture. For each one, run `python3 tools/photos.py find <id> "<person's full name>"` (or `find <id> "<subject>" stock` for a generic stand-in), view the downloaded candidates, and if one clearly fits run `python3 tools/photos.py pick <id> <number> "<alt text>"`. This takes a minute per story; do it for every new story where a person or subject is named. If no candidate clearly shows the right person, leave the story without a photo.
 
