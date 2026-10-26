@@ -82,6 +82,9 @@ def find(sid, q, stock=False):
         fn = os.path.join(out, f"{n}.jpg")
         open(fn, "wb").write(data)
         artist = re.sub("<[^>]+>", "", html.unescape(em.get("Artist", {}).get("value", "Unknown"))).split("\n")[0].strip()[:60] or "Unknown"
+        artist = re.sub(r"(Unknown author)+", "Unknown author", artist)
+        if artist.startswith("http"):
+            artist = "Unknown author"
         credit = f"{'Stock image' if stock else 'Photo'}: {artist} / Wikimedia Commons, {lic}"
         meta.append({"n": n, "file": fn, "credit": credit, "title": pg["title"], "page": ii["descriptionurl"]})
         print(f'{n}: {fn}  |  {pg["title"]}  |  {credit}')
