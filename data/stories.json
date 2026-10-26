@@ -1,5 +1,5 @@
 {
- "updated": "Updated 10:50 GMT",
+ "updated": "Updated 11:35 GMT",
  "date": "Monday, 26 October 2026",
  "categories": {
   "all": "All gist",
@@ -14,6 +14,71 @@
   "sport": "Sport"
  },
  "stories": [
+  {
+   "id": "fbi-nine-arrested-nigeria-cybercrime",
+   "c": "naija",
+   "h": "Nine people reportedly arrested in Nigeria in a US-linked cybercrime probe, with 53 devices seized",
+   "p": "Nine suspects have reportedly been detained in Nigeria over an international cybercrime investigation said to involve US agents. Dozens of phones and computers were reportedly taken for examination. The suspects are said to have targeted victims in the United States.",
+   "n": 1,
+   "more": [
+    "The 53 seized devices are said to be undergoing forensic checks.",
+    "No formal charges have been publicly confirmed yet."
+   ],
+   "added": "2026-10-26",
+   "at": "2026-10-26T11:35Z"
+  },
+  {
+   "id": "el-rufai-dss-court-order",
+   "c": "politics",
+   "h": "Court reportedly issues fresh order to Nasir El-Rufai in the DSS phone-interception case",
+   "p": "A court has reportedly issued an order to former Kaduna governor Nasir El-Rufai in the case brought against him by the DSS, which centres on remarks he made in a television interview about intercepted calls. The matter was listed for a ruling on his no-case submission.",
+   "n": 2,
+   "more": [
+    "He was granted N100 million bail in May.",
+    "His lawyers argue the prosecution has not shown enough evidence for him to defend himself."
+   ],
+   "added": "2026-10-26",
+   "at": "2026-10-26T11:35Z"
+  },
+  {
+   "id": "mercedes-pleads-don-jazzy",
+   "c": "celebs",
+   "h": "BBNaija's Mercedes reportedly appeals to Don Jazzy for financial help",
+   "p": "Former Big Brother Naija housemate Mercedes has reportedly said she has been struggling financially since leaving the house and asked music boss Don Jazzy for help. She was the second housemate evicted from the Show Ya Self edition in August.",
+   "n": 1,
+   "more": [
+    "She previously said she hoped to raise money for her father's leg treatment.",
+    "Don Jazzy has not publicly responded yet."
+   ],
+   "added": "2026-10-26",
+   "at": "2026-10-26T11:35Z"
+  },
+  {
+   "id": "ivd-blessing-ceo-release-reaction",
+   "c": "creators",
+   "h": "IVD reportedly breaks silence after Blessing CEO's release, with a pointed message to critics",
+   "p": "Relationship content creator IVD has reportedly reacted publicly following the release of Blessing CEO, sending a bold message to those who criticised them. Online reactions have been mixed.",
+   "n": 1,
+   "more": [
+    "The pair have been in the public eye for years over a long-running legal dispute.",
+    "Blessing CEO has said charges against IVD were dropped in December 2025."
+   ],
+   "added": "2026-10-26",
+   "at": "2026-10-26T11:35Z"
+  },
+  {
+   "id": "psg-players-skip-ballon-dor",
+   "c": "sport",
+   "h": "Dembélé and other PSG players reportedly to skip the 2026 Ballon d'Or ceremony despite 10 nominations",
+   "p": "Several Paris Saint-Germain players are reportedly set to stay away from the Ballon d'Or ceremony even though the club has ten nominees. Ousmane Dembélé is among those named.",
+   "n": 1,
+   "more": [
+    "The club's fixtures are said to be behind the absences.",
+    "Kylian Mbappé's Clasico double has also stirred talk around this year's award."
+   ],
+   "added": "2026-10-26",
+   "at": "2026-10-26T11:35Z"
+  },
   {
    "id": "vdm-second-container-ratel",
    "c": "creators",
@@ -978,100 +1043,6 @@
    "at": "2026-10-25T19:35Z"
   },
   {
-   "id": "saka-out-eight-weeks",
-   "c": "sport",
-   "h": "Arsenal winger Bukayo Saka reportedly out for up to eight weeks with injury",
-   "p": "Arsenal winger Bukayo Saka is reportedly facing up to eight weeks on the sidelines with an injury. The club is said to be assessing the best treatment plan. The news is a blow to Arsenal in the Premier League title race.",
-   "n": 1,
-   "more": [
-    "Arsenal have not given a firm return date in the reports seen so far.",
-    "He could miss a busy run of league and European games."
-   ],
-   "added": "2026-10-25",
-   "at": "2026-10-25T19:35Z"
-  },
-  {
-   "id": "ronaldo-982-goals",
-   "c": "sport",
-   "h": "Cristiano Ronaldo reportedly scores his 982nd career goal",
-   "p": "Cristiano Ronaldo has reportedly scored again, taking his career tally to 982 goals. He continues to add to a record that no other player is close to matching. Fans are discussing how near he is to the 1,000 mark.",
-   "n": 1,
-   "more": [
-    "The 1,000-goal milestone is his stated target.",
-    "Reaction online has been strong among both fans and critics."
-   ],
-   "added": "2026-10-25",
-   "at": "2026-10-25T19:35Z"
-  },
-  {
-   "id": "onana-turkey-car-crash",
-   "c": "sport",
-   "h": "Manchester United goalkeeper Andre Onana reportedly escapes serious injury in car crash in Turkey",
-   "p": "Goalkeeper Andre Onana has reportedly been involved in a car crash in Turkey and escaped without serious injury. Details of the incident are limited in the reports seen so far. No official statement from his club has been seen yet.",
-   "n": 1,
-   "more": [
-    "He is said to be safe and well.",
-    "The cause of the crash has not been confirmed."
-   ],
-   "added": "2026-10-25",
-   "at": "2026-10-25T19:35Z"
-  },
-  {
-   "id": "us-fbi-officials-charged-laptop",
-   "c": "world",
-   "h": "US Justice Department reportedly charges two former FBI officials over testimony on Hunter Biden laptop",
-   "p": "The US Justice Department has reportedly charged two former FBI officials in connection with their testimony about the Hunter Biden laptop. Details of the charges have not been fully set out in the reports seen so far. Lawyers for the two have not been quoted.",
-   "n": 1,
-   "more": [
-    "The laptop story has been a political flashpoint in the US for years.",
-    "The two are presumed innocent unless proven otherwise."
-   ],
-   "added": "2026-10-25",
-   "at": "2026-10-25T19:35Z"
-  },
-  {
-   "id": "makinde-2027-water-testing",
-   "c": "politics",
-   "h": "Analyst says Governor Makinde's 2027 presidential bid is a test of the waters, not a serious bid to win",
-   "p": "A political analyst has reportedly described Oyo State Governor Seyi Makinde's move towards the 2027 presidential race as exploratory. The analyst said it appears aimed at gauging support rather than a determined push to win. Makinde's camp has not been quoted in the report.",
-   "n": 1,
-   "more": [
-    "The 2027 field is already crowded, with APC, ADC and NDC camps all making their pitch.",
-    "Analysts say the North-West and South-West could decide the race."
-   ],
-   "added": "2026-10-25",
-   "at": "2026-10-25T18:34Z"
-  },
-  {
-   "id": "lagos-container-trucks-mile2",
-   "c": "naija",
-   "h": "Mother and child reportedly die as two container trucks overturn in Lagos",
-   "p": "A mother and her child have reportedly died after two container trucks overturned at Mile 2 in Apapa, Lagos. Emergency responders are said to have been called to the scene. The cause of the accident has not been confirmed.",
-   "n": 1,
-   "more": [
-    "Heavy container traffic around the Apapa corridor has long been a safety concern.",
-    "Further details from the authorities are awaited."
-   ],
-   "img": "img/lagos-container-trucks.jpg",
-   "added": "2026-10-25",
-   "alt": "Container trucks on a highway",
-   "credit": "Stock image: futureatlas.com / Flickr, CC BY 2.0",
-   "at": "2026-10-25T18:34Z"
-  },
-  {
-   "id": "edo-ransom-friends-deaths",
-   "c": "naija",
-   "h": "Woman says friends were killed in Edo even after N25 million ransom was paid for each of them",
-   "p": "A woman has reportedly cried out online over the deaths of friends in Edo State, saying a ransom of N25 million was paid for each of them before they were killed. The claim has not been independently confirmed. It has renewed debate about kidnapping and insecurity in the state.",
-   "n": 1,
-   "more": [
-    "Nigerians online are calling on security agencies to act.",
-    "The police have not yet responded to the claim."
-   ],
-   "added": "2026-10-25",
-   "at": "2026-10-25T18:34Z"
-  },
-  {
    "id": "ecuador-baby-moustache",
    "c": "viral",
    "h": "Baby in Ecuador reportedly born with a full moustache",
@@ -1089,19 +1060,6 @@
    "owner": true,
    "added": "2026-10-25",
    "at": "2026-10-25T18:11Z"
-  },
-  {
-   "id": "lagos-drivers-licence-2027",
-   "c": "naija",
-   "h": "Lagos reportedly plans 30-minute driver's licences and 10-minute renewals from 2027",
-   "p": "The Lagos State government is said to be working on a much faster driver's licence process that would start in 2027. New licences would reportedly be issued in about 30 minutes, while renewals would take around 10. No further details on cost or locations have been given yet.",
-   "n": 1,
-   "more": [
-    "The state has been talking about issuing its own licences in partnership with the federal government.",
-    "Drivers currently often wait weeks or months for a card."
-   ],
-   "added": "2026-10-25",
-   "at": "2026-10-25T17:34Z"
   }
  ]
 }
