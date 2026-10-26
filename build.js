@@ -149,10 +149,13 @@ const footer = `<footer>
 </html>
 `;
 
+// a story with "body" (array of paragraphs) carries its full text behind a "Read more" button
+const fullText = s => (s.body || []).length ? `<details class="full"><summary>Read more</summary>${s.body.map(t => `<p>${esc(t)}</p>`).join("")}</details>` : "";
+
 function card(s) {
   const n = s.confirmed ? 2 : (s.n || 1);
   return `<article class="card" data-c="${esc(s.c)}" id="${esc(s.id)}"><div class="meta"><span class="cat">${esc(CATS[s.c] || s.c)}</span>${n > 1 ? "" : '<span class="status">Reported</span>'}</div>
-${media(s)}<h4><a href="${storyPath(s)}">${esc(s.h)}</a></h4>${when(s)}<p>${esc(s.p)}</p></article>`;
+${media(s)}<h4><a href="${storyPath(s)}">${esc(s.h)}</a></h4>${when(s)}<p>${esc(s.p)}</p>${fullText(s)}</article>`;
 }
 
 function buildIndex() {
@@ -173,7 +176,7 @@ function buildIndex() {
     <div class="search"><label for="q" style="position:absolute;left:-9999px">Search stories</label><input id="q" type="search" placeholder="Search gist…"></div>
   </div></div>
   <section class="wrap top">
-    <article class="lead" id="lead"><div class="kicker">Top gist · ${esc(CATS[lead.c])}</div>${media(lead, true)}<h2><a href="${storyPath(lead)}">${esc(lead.h)}</a></h2>${when(lead)}<p>${esc(lead.p)}</p>${(lead.more || []).length ? `<div class="more">${lead.more.map(t => `<span>${esc(t)}</span>`).join("")}</div>` : ""}</article>
+    <article class="lead" id="lead"><div class="kicker">Top gist · ${esc(CATS[lead.c])}</div>${media(lead, true)}<h2><a href="${storyPath(lead)}">${esc(lead.h)}</a></h2>${when(lead)}<p>${esc(lead.p)}</p>${fullText(lead)}${(lead.more || []).length ? `<div class="more">${lead.more.map(t => `<span>${esc(t)}</span>`).join("")}</div>` : ""}</article>
     <aside class="side"><h3>Most talked about</h3><ol class="hot-list">${hot.map(s => `<li><div><a class="hl" href="#${esc(s.id)}">${esc(s.h)}</a><small>${esc(CATS[s.c])}</small></div></li>`).join("")}</ol></aside>
   </section>
   <section class="wrap river" id="river" aria-live="polite">
@@ -302,7 +305,7 @@ function buildStories() {
   <h1>${esc(s.h)}</h1>
   ${when(s)}
   ${media(s, true)}
-  <p class="story-text">${esc(s.p)}</p>
+  ${(s.body || []).length ? s.body.map(t => `<p class="story-text">${esc(t)}</p>`).join("\n  ") : `<p class="story-text">${esc(s.p)}</p>`}
   ${(s.more || []).length ? `<ul class="story-more">${s.more.map(m => `<li>${esc(m)}</li>`).join("")}</ul>` : ""}
 </article>
 <section class="story-related"><h3>More gist</h3><div class="river">${more.map(card).join("\n")}</div></section>`;

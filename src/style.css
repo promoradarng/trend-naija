@@ -54,7 +54,7 @@ a:focus-visible,button:focus-visible,input:focus-visible{outline:2px solid var(-
 .kicker{display:inline-block;font-family:var(--label);font-size:11px;text-transform:uppercase;letter-spacing:.12em;background:var(--brand);color:var(--on-brand);font-weight:700;padding:4px 9px}
 .lead h2{font-family:var(--display);font-weight:700;font-size:clamp(34px,5vw,56px);line-height:1.04;margin:8px 0 12px;text-wrap:balance;letter-spacing:-.01em}
 .lead p{font-size:19px;max-width:62ch;margin:0 0 12px}
-.lead p::first-letter{font-family:var(--display);font-weight:700;float:left;font-size:3.3em;line-height:.85;padding:4px 8px 0 0;color:var(--brand)}
+.lead > p::first-letter{font-family:var(--display);font-weight:700;float:left;font-size:3.3em;line-height:.85;padding:4px 8px 0 0;color:var(--brand)}
 .lead .src{font-family:var(--label);font-size:12px}
 .lead .more{display:flex;flex-direction:column;gap:12px;margin-top:12px}
 .lead .more span{display:block;font-family:var(--body);font-size:19px;font-style:normal;max-width:62ch;border:0;padding:0}
@@ -182,3 +182,12 @@ footer a{color:#FFFFFF}
 .see-all{margin:14px 0 0}
 .see-all a{display:inline-block;background:#141414;color:#fff;border:1px solid #444;font-family:var(--label);font-weight:700;font-size:13px;text-transform:uppercase;letter-spacing:.1em;padding:12px 18px;text-decoration:none}
 .river-tail:empty{display:none}
+
+/* "Read more": full text of a story with a body */
+.full{margin-top:8px}
+.full summary{display:inline-block;cursor:pointer;list-style:none;font-family:var(--label);font-size:12px;font-weight:700;text-transform:uppercase;letter-spacing:.08em;background:var(--brand);color:var(--on-brand);padding:6px 12px}
+.full summary::-webkit-details-marker{display:none}
+.full[open] summary{margin-bottom:8px}
+.full[open] summary::after{content:" ▲"}
+.full:not([open]) summary::after{content:" ▼"}
+.full p{margin:0 0 12px;max-width:62ch}
