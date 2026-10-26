@@ -1,5 +1,5 @@
 {
- "updated": "Updated 18:35 GMT",
+ "updated": "Updated 20:40 GMT",
  "date": "Monday, 26 October 2026",
  "categories": {
   "all": "All gist",
@@ -14,6 +14,124 @@
   "sport": "Sport"
  },
  "stories": [
+  {
+   "id": "shettima-obi-statistics",
+   "c": "elections",
+   "h": "Shettima says Peter Obi has little to offer Nigerians beyond statistics",
+   "p": "Vice President Kashim Shettima has criticised NDC presidential candidate Peter Obi, saying the former Anambra governor offers voters numbers rather than solutions. Obi's camp has not yet replied in detail.",
+   "n": 2,
+   "more": [
+    "The remark follows Shettima's earlier jibe that drew a response from Atiku's camp.",
+    "Campaign exchanges between the APC and the opposition are intensifying."
+   ],
+   "added": "2026-10-26",
+   "img": "img/obi-supporter-rilwan-arrest.jpg",
+   "alt": "Peter Obi",
+   "credit": "Photo: Plus TV Africa / Wikimedia Commons, CC BY 3.0",
+   "at": "2026-10-26T20:36Z"
+  },
+  {
+   "id": "ndc-campaign-council-2027",
+   "c": "elections",
+   "h": "NDC unveils its 2027 campaign council with Obi, Kwankwaso and Dickson among the names",
+   "p": "The NDC has named its campaign council for the 2027 election, listing Peter Obi, Rabiu Kwankwaso and Seriake Dickson among its members. The party is positioning the council as a broad coalition ahead of the race.",
+   "n": 1,
+   "more": [
+    "The announcement comes a day after the APC flagged off its own campaign.",
+    "More council members are expected to be named."
+   ],
+   "added": "2026-10-26",
+   "img": "img/obi-supporter-rilwan-arrest.jpg",
+   "alt": "Peter Obi",
+   "credit": "Photo: Plus TV Africa / Wikimedia Commons, CC BY 3.0",
+   "at": "2026-10-26T20:36Z"
+  },
+  {
+   "id": "tompolo-35-vehicles-adamawa",
+   "c": "politics",
+   "h": "Tompolo reportedly donates 35 campaign vehicles for Tinubu's re-election drive in Adamawa",
+   "p": "Niger Delta leader Government Ekpemupolo, known as Tompolo, has reportedly presented 35 vehicles to support President Tinubu's 2027 campaign in Adamawa State. The gesture is said to be part of efforts to strengthen the APC's base in the North-East.",
+   "n": 1,
+   "more": [
+    "Campaign vehicles and mobilisation have become a visible part of the early race."
+   ],
+   "added": "2026-10-26",
+   "at": "2026-10-26T20:36Z"
+  },
+  {
+   "id": "cash-transfer-office-audit-33bn",
+   "c": "naija",
+   "h": "Audit report questions N76 billion in cash transfer payments, including N33.75 billion to unverified beneficiaries",
+   "p": "Auditors have reportedly queried N76.24 billion in transactions at the National Cash Transfer Office, saying payments of N33.75 billion went to beneficiaries who were not identified. The payments span the Buhari and Tinubu administrations.",
+   "n": 1,
+   "more": [
+    "The office has not yet publicly responded to the findings."
+   ],
+   "added": "2026-10-26",
+   "at": "2026-10-26T20:36Z"
+  },
+  {
+   "id": "pate-ebola-free-december-7",
+   "c": "naija",
+   "h": "Health Minister says Nigeria could declare itself Ebola-free from 7 December",
+   "p": "Health Minister Ali Pate has said Nigeria can declare its Ebola outbreak over as early as 7 December 2026, provided no new cases are recorded. Contacts of the earlier patient remain under monitoring.",
+   "n": 2,
+   "more": [
+    "The countdown depends on the end of the monitoring period for contacts.",
+    "The NCDC has urged Nigerians to rely on official updates."
+   ],
+   "added": "2026-10-26",
+   "at": "2026-10-26T20:36Z"
+  },
+  {
+   "id": "man-utd-four-managers-carrick",
+   "c": "sport",
+   "h": "Manchester United reportedly weigh four possible replacements for Michael Carrick ahead of crisis talks",
+   "p": "Manchester United's board is said to be considering at least four managers to replace Michael Carrick as it meets to discuss his future. No decision has been announced by the club.",
+   "n": 2,
+   "more": [
+    "Carrick has faced pressure over recent results and team selections.",
+    "Reports of dressing-room unrest have added to the debate."
+   ],
+   "added": "2026-10-26",
+   "at": "2026-10-26T20:36Z"
+  },
+  {
+   "id": "apc-youth-leader-suvs-backlash",
+   "c": "viral",
+   "h": "APC youth leader faces backlash after showing off luxury SUVs worth billions of naira",
+   "p": "An APC youth leader has drawn criticism online after publicly displaying a fleet of luxury SUVs reportedly worth billions of naira. Nigerians questioned the show of wealth amid economic hardship.",
+   "n": 1,
+   "more": [
+    "The post has been widely shared and quoted on social media."
+   ],
+   "added": "2026-10-26",
+   "at": "2026-10-26T20:36Z"
+  },
+  {
+   "id": "trump-nicki-minaj-rally-apology",
+   "c": "world",
+   "h": "Trump makes personal remark about Nicki Minaj at a rally, then apologises",
+   "p": "Donald Trump reportedly made a personal comment about rapper Nicki Minaj at a rally and later apologised for it. The exchange is drawing reaction from her fans online.",
+   "n": 1,
+   "more": [
+    "Minaj recently drew attention after showing off Air Force One's interior."
+   ],
+   "added": "2026-10-26",
+   "at": "2026-10-26T20:36Z"
+  },
+  {
+   "id": "marissa-mayer-ai-kids-outrage",
+   "c": "world",
+   "h": "Former Yahoo boss Marissa Mayer draws criticism for asking AI for advice about her children",
+   "p": "Marissa Mayer has sparked online debate after saying she asked an AI assistant to help describe her children. Critics called the move odd, while others defended it as a harmless use of the tool.",
+   "n": 1,
+   "more": [
+    "The remark has been widely shared on social media."
+   ],
+   "added": "2026-10-26",
+   "at": "2026-10-26T20:36Z"
+  },
   {
    "id": "blord-gifts-employee-car",
    "c": "naija",
@@ -827,9 +945,9 @@
   {
    "id": "el-rufai-dss-court-order",
    "c": "politics",
-   "h": "Court reportedly issues fresh order to Nasir El-Rufai in the DSS phone-interception case",
-   "p": "A court has reportedly issued an order to former Kaduna governor Nasir El-Rufai in the case brought against him by the DSS, which centres on remarks he made in a television interview about intercepted calls. The matter was listed for a ruling on his no-case submission.",
-   "n": 2,
+   "h": "Court orders El-Rufai to open his defence in the DSS phone-interception case",
+   "p": "A Federal High Court in Abuja has rejected former Kaduna governor Nasir El-Rufai's no-case submission in the case brought by the DSS over his television remarks about intercepted calls. He must now present his defence.",
+   "n": 3,
    "more": [
     "He was granted N100 million bail in May.",
     "His lawyers argue the prosecution has not shown enough evidence for him to defend himself."
@@ -953,148 +1071,6 @@
    "owner": true,
    "added": "2026-10-26",
    "at": "2026-10-26T10:35Z"
-  },
-  {
-   "id": "burna-boy-nfl-paris-halftime",
-   "c": "music",
-   "h": "Burna Boy headlines halftime at the NFL's first regular-season game in Paris",
-   "p": "Burna Boy performed at halftime of the Steelers and Saints game at the Stade de France, the first regular-season NFL game staged in Paris. The show follows his 2025 headline night at the same stadium, when he became the first African artist to do so.",
-   "n": 4,
-   "more": [
-    "The league announced him as the Paris halftime act in September.",
-    "It was one of seven halftime shows across this season's international games.",
-    "Ayra Starr is billed for the London game."
-   ],
-   "added": "2026-10-26",
-   "img": "img/burna-boy-nfl-paris-halftime.jpg",
-   "alt": "Burna Boy performing on stage",
-   "credit": "Photo: Nuță Lucian from Cluj-Napoca, Romania / Wikimedia Commons, CC BY-SA 2.0",
-   "at": "2026-10-26T10:34Z"
-  },
-  {
-   "id": "iheanacho-bursaspor-record",
-   "c": "sport",
-   "h": "Kelechi Iheanacho reportedly sets a Turkish league record in Bursaspor win, sends message to Eric Chelle",
-   "p": "Kelechi Iheanacho is said to have broken a record in the Turkish league during Bursaspor's latest win. He also reportedly sent a message to Super Eagles coach Eric Chelle, in an apparent bid for a national team recall.",
-   "n": 1,
-   "more": [
-    "The striker has been out of the Super Eagles picture recently.",
-    "Reaction online has been split between praise and calls for a recall."
-   ],
-   "added": "2026-10-26",
-   "img": "img/iheanacho-bursaspor-record.jpg",
-   "alt": "Kelechi Iheanacho playing football",
-   "credit": "Photo: Антон Зайцев / Wikimedia Commons, CC BY-SA 3.0",
-   "at": "2026-10-26T10:34Z"
-  },
-  {
-   "id": "rudeboy-addresses-dancer-claims",
-   "c": "music",
-   "h": "Rudeboy reportedly responds to claims he was a dancer amid the P-Square feud",
-   "p": "Rudeboy has reportedly addressed claims that he started out as a dancer, as the dispute with his brother continues to play out in public. He is said to have given his own account of his early career.",
-   "n": 1,
-   "more": [
-    "The brothers' split has drawn comment from fans and fellow artists."
-   ],
-   "added": "2026-10-26",
-   "at": "2026-10-26T10:34Z",
-   "img": "img/rudeboy-addresses-dancer-claims.jpg",
-   "alt": "Paul Okoye (Rudeboy)",
-   "credit": "Photo: Accelerate TV / Wikimedia Commons, CC BY-SA 4.0"
-  },
-  {
-   "id": "steve-echendu-burial-plan",
-   "c": "celebs",
-   "h": "Family of late actor Steve Echendu releases burial plan as Clarion Chukwura pays tribute",
-   "p": "The family of the late Nollywood actor Steve Echendu has reportedly released a three-day funeral programme for November. Veteran actress Clarion Chukwura is among colleagues who have paid tribute to him.",
-   "n": 1,
-   "more": [
-    "Tributes from the film industry have continued to come in."
-   ],
-   "added": "2026-10-26",
-   "at": "2026-10-26T10:34Z"
-  },
-  {
-   "id": "bonny-rivers-children-freed",
-   "c": "naija",
-   "h": "Two kidnapped children in Rivers reunited with their family",
-   "p": "Two siblings abducted from their home in Bonny, Rivers State, have reportedly been freed and returned to their parents. A video of the reunion is circulating online.",
-   "n": 1,
-   "more": [
-    "Police have not yet said whether arrests have been made."
-   ],
-   "added": "2026-10-26",
-   "at": "2026-10-26T10:34Z"
-  },
-  {
-   "id": "dre-phone-zlatan-wedding",
-   "c": "celebs",
-   "h": "Davido's aide Dre appeals for return of phone allegedly lost at Zlatan's wedding, offers reward",
-   "p": "Davido's aide, Dre, has reportedly appealed to whoever took his phone at Zlatan Ibile's wedding to return it, and is said to be offering a cash reward.",
-   "n": 1,
-   "more": [
-    "The wedding has produced a steady stream of viral clips."
-   ],
-   "added": "2026-10-26",
-   "at": "2026-10-26T10:34Z"
-  },
-  {
-   "id": "ebola-patient-evacuated-abuja",
-   "c": "naija",
-   "h": "Ebola patient evacuated from Nigeria on a medical flight as 53 contacts are isolated",
-   "p": "A 42-year-old woman infected with the Bundibugyo strain of Ebola has reportedly been flown out of Abuja for treatment abroad. She is said to be married to a Swiss diplomat. Officials have identified 53 people who had contact with her and placed them in isolation.",
-   "n": 1,
-   "more": [
-    "The Bundibugyo strain was first recorded in a 2007 outbreak in Uganda.",
-    "The NCDC has urged the public to rely on official updates.",
-    "Contacts under monitoring are due weekly allowances, the agency has said."
-   ],
-   "added": "2026-10-26",
-   "at": "2026-10-26T09:34Z"
-  },
-  {
-   "id": "keyamo-apc-air-mobilisation",
-   "c": "elections",
-   "h": "Tinubu names Festus Keyamo to head air mobilisation for his 2027 campaign",
-   "p": "President Tinubu has appointed Aviation Minister Festus Keyamo to lead the Directorate of Air Mobilisation in the APC presidential campaign council, according to a statement from his media adviser. The FAAN managing director, Olubunmi Kuku, is named a deputy director. The directorate will handle air travel and logistics across the six geopolitical zones.",
-   "n": 1,
-   "more": [
-    "Engr. Farouk Ahmed Umar is the second deputy director.",
-    "The APC flagged off its re-election campaign in Kaduna over the weekend.",
-    "The NDC has also named its own campaign council."
-   ],
-   "added": "2026-10-26",
-   "at": "2026-10-26T09:34Z",
-   "img": "img/keyamo-apc-air-mobilisation.jpg",
-   "alt": "Festus Keyamo",
-   "credit": "Photo: Kaizenify / Wikimedia Commons, CC BY-SA 4.0"
-  },
-  {
-   "id": "ccb-probe-obi-saraki-mark",
-   "c": "politics",
-   "h": "CCB reportedly reviewing overseas-asset claims against Peter Obi, Bukola Saraki and David Mark",
-   "p": "The Code of Conduct Bureau is reportedly reviewing claims from the Panama and Pandora Papers leaks about undisclosed foreign assets linked to several current and former politicians, including Peter Obi, Bukola Saraki and David Mark. The bureau is said to have described the process as confidential. Being under review does not mean any wrongdoing has been proven.",
-   "n": 1,
-   "more": [
-    "Others named in the reports include Stella Oduah and James Ibori.",
-    "The bureau has declined to give details.",
-    "The reports come about 80 days before the election."
-   ],
-   "added": "2026-10-26",
-   "at": "2026-10-26T09:34Z"
-  },
-  {
-   "id": "ay-cardiff-show-chaos",
-   "c": "celebs",
-   "h": "AY apologises after chaos at his Cardiff comedy show, blames a payment dispute",
-   "p": "Comedian AY has apologised to fans after his Cardiff show on the UK tour descended into confusion, with ticket holders waiting for hours and police attending. He says he and the other comedians arrived but could not perform because of a payment dispute with the organisers. He has urged the tour management to publish refund details.",
-   "n": 1,
-   "more": [
-    "The dispute was reportedly settled only after most of the crowd had left.",
-    "The organisers had not issued a public statement at the time of reporting."
-   ],
-   "added": "2026-10-26",
-   "at": "2026-10-26T09:34Z"
   }
  ]
 }
