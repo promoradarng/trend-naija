@@ -1,5 +1,5 @@
 {
- "updated": "Updated 11:35 GMT",
+ "updated": "Updated 12:50 GMT",
  "date": "Monday, 26 October 2026",
  "categories": {
   "all": "All gist",
@@ -14,6 +14,110 @@
   "sport": "Sport"
  },
  "stories": [
+  {
+   "id": "machado-returns-venezuela",
+   "c": "world",
+   "h": "Nobel laureate María Corina Machado returns to Venezuela after 10 months in exile",
+   "p": "Venezuelan opposition leader and Nobel Peace Prize winner María Corina Machado is back in Caracas, where supporters gathered to welcome her. She had spent about ten months outside the country.",
+   "n": 2,
+   "more": [
+    "Supporters reportedly greeted her on arrival in the capital.",
+    "Her next political steps have not been spelled out."
+   ],
+   "added": "2026-10-26",
+   "at": "2026-10-26T12:44Z"
+  },
+  {
+   "id": "obi-supporter-rilwan-arrest",
+   "c": "elections",
+   "h": "Peter Obi demands release of supporter reportedly arrested in Lagos",
+   "p": "Peter Obi has called for the release of a supporter, Rilwan Olawale, who was reportedly arrested in Lagos. Obi urged the authorities to free him without delay. No official reason for the arrest has been made public.",
+   "n": 2,
+   "more": [
+    "Obi's supporters have taken the call to social media.",
+    "Police have not yet commented publicly."
+   ],
+   "added": "2026-10-26",
+   "at": "2026-10-26T12:44Z"
+  },
+  {
+   "id": "blessing-ceo-denies-drug-rumours",
+   "c": "viral",
+   "h": "Blessing CEO says she does not smoke, drink or party, responding to drug rumours after her release",
+   "p": "Relationship therapist Blessing CEO has reportedly responded to online claims about drug use following her release from custody. She said she does not smoke, drink alcohol or go to parties.",
+   "n": 2,
+   "more": [
+    "Her release has drawn wide reaction online.",
+    "Several public figures have commented on the case."
+   ],
+   "added": "2026-10-26",
+   "at": "2026-10-26T12:44Z"
+  },
+  {
+   "id": "asake-paris-final-tour-show",
+   "c": "music",
+   "h": "Asake leaves Paris arena hand in hand with his mother after final tour show",
+   "p": "A clip of Asake walking out of Paris' Accor Arena holding his mother's hand after the last show of his tour is trending. Fans have praised the moment.",
+   "n": 1,
+   "more": [
+    "The Paris date closed the tour.",
+    "Fans flooded social media with reactions to the clip."
+   ],
+   "added": "2026-10-26",
+   "at": "2026-10-26T12:44Z"
+  },
+  {
+   "id": "tombolo-okada-help",
+   "c": "celebs",
+   "h": "Veteran Yoruba actor Tombolo reportedly appeals for help as he rides okada to survive",
+   "p": "Veteran Yoruba actor Tombolo has reportedly asked the public for support after turning to motorcycle taxi work to earn a living. The appeal has prompted sympathy from fans.",
+   "n": 1,
+   "more": [
+    "Fans have asked colleagues in the industry to step in.",
+    "He is said to be a long-serving Nollywood face."
+   ],
+   "added": "2026-10-26",
+   "at": "2026-10-26T12:44Z"
+  },
+  {
+   "id": "rudeboy-ai-music",
+   "c": "music",
+   "h": "Rudeboy says AI songs are 'too perfect' and easy to identify",
+   "p": "Singer Rudeboy has spoken out against AI-generated music, saying it sounds too polished and that he can easily tell it apart from human-made songs.",
+   "n": 1,
+   "more": [
+    "The comment comes amid his public feud with his brother Peter.",
+    "Debate over AI music in Nigeria continues."
+   ],
+   "added": "2026-10-26",
+   "at": "2026-10-26T12:44Z"
+  },
+  {
+   "id": "nicki-minaj-air-force-one",
+   "c": "world",
+   "h": "Nicki Minaj draws mixed reactions after showing off Air Force One's interior",
+   "p": "Rapper Nicki Minaj has sparked reactions online after posting images of the interior of the US presidential jet, Air Force One. Fans and critics are split over the post.",
+   "n": 1,
+   "more": [
+    "Her recent comments about Donald Trump have been widely discussed.",
+    "The post went viral within hours."
+   ],
+   "added": "2026-10-26",
+   "at": "2026-10-26T12:44Z"
+  },
+  {
+   "id": "sowore-leaders-health-verifiable",
+   "c": "politics",
+   "h": "Sowore says Nigeria needs leaders whose health conditions are verifiable",
+   "p": "Activist and politician Omoyele Sowore has said Nigeria needs leaders whose health status can be independently verified. He made the remark amid continuing public discussion about leaders' fitness ahead of 2027.",
+   "n": 1,
+   "more": [
+    "The comment drew mixed responses online.",
+    "The presidency has not responded to the remark."
+   ],
+   "added": "2026-10-26",
+   "at": "2026-10-26T12:44Z"
+  },
   {
    "id": "fbi-nine-arrested-nigeria-cybercrime",
    "c": "naija",
@@ -937,110 +1041,6 @@
    ],
    "added": "2026-10-25",
    "at": "2026-10-25T20:35Z"
-  },
-  {
-   "id": "lookman-atletico-substitutions",
-   "c": "sport",
-   "h": "Spanish media reportedly criticise Lookman after another early substitution at Atletico Madrid",
-   "p": "Ademola Lookman was reportedly taken off in the first half for the third time in four La Liga games, drawing criticism from the Spanish press. The Nigeria forward is said to be struggling to hold down a regular role.",
-   "n": 1,
-   "more": [
-    "Fans in Nigeria are watching his form closely.",
-    "Atletico have not publicly explained the changes."
-   ],
-   "added": "2026-10-25",
-   "at": "2026-10-25T20:35Z"
-  },
-  {
-   "id": "osimhen-fenerbahce-derby",
-   "c": "sport",
-   "h": "Victor Osimhen's record against Fenerbahce in focus ahead of Istanbul derby",
-   "p": "Attention is turning to Victor Osimhen's past results against Fenerbahce ahead of the Istanbul derby. The Nigeria striker is expected to be central to his side's hopes in the big match.",
-   "n": 1,
-   "more": [
-    "Turkish fans are expecting a tense, high-scoring night.",
-    "Nigerian supporters will be tuning in to watch him."
-   ],
-   "added": "2026-10-25",
-   "at": "2026-10-25T20:35Z"
-  },
-  {
-   "id": "atiku-kaduna-banners",
-   "c": "politics",
-   "h": "Atiku criticises reports of security agents guarding Tinubu campaign banners in Kaduna",
-   "p": "Atiku Abubakar has reportedly criticised claims that security personnel were stationed to protect APC campaign banners in Kaduna. The former vice-president, now a leading opposition figure, said public security resources should not be used for party materials. There has been no official response from the APC or the security agencies in the reports seen so far.",
-   "n": 1,
-   "more": [
-    "Campaign banners have become a flashpoint as parties step up activity ahead of 2027.",
-    "The APC has not commented in the reports seen so far."
-   ],
-   "added": "2026-10-25",
-   "at": "2026-10-25T19:35Z"
-  },
-  {
-   "id": "kwankwaso-tinubu-second-term",
-   "c": "politics",
-   "h": "Kwankwaso says Tinubu does not deserve a second term",
-   "p": "Rabiu Kwankwaso has reportedly said President Tinubu has not earned a second term in office. He pointed to the cost of living and the state of the economy as reasons. Supporters of the president have defended his reforms as necessary for long-term growth.",
-   "n": 1,
-   "more": [
-    "Kwankwaso is part of the opposition NDC platform alongside Peter Obi.",
-    "The APC says the economy is stabilising under the reforms."
-   ],
-   "added": "2026-10-25",
-   "at": "2026-10-25T19:35Z"
-  },
-  {
-   "id": "pantami-gombe-governorship",
-   "c": "politics",
-   "h": "Pantami says he will expose those allegedly plotting against his Gombe governorship bid",
-   "p": "Former minister Isa Ali Pantami has reportedly said he will name those he alleges are working against his bid to become governor of Gombe State. He did not give details in the reports seen so far. Those he appears to refer to have not responded publicly.",
-   "n": 1,
-   "more": [
-    "The Gombe race is already drawing attention ahead of 2027.",
-    "No names have been confirmed in reports so far."
-   ],
-   "added": "2026-10-25",
-   "at": "2026-10-25T19:35Z"
-  },
-  {
-   "id": "macron-nigeria-visit-postponed",
-   "c": "world",
-   "h": "Macron reportedly postpones planned 28 October visit to Nigeria",
-   "p": "French President Emmanuel Macron has reportedly delayed his planned trip to Nigeria, which was due on 28 October. No new date has been given in the reports seen so far. The visit had been expected to focus on trade and security ties.",
-   "n": 1,
-   "more": [
-    "No reason for the delay has been confirmed in the reports seen so far.",
-    "A new date has not been announced."
-   ],
-   "added": "2026-10-25",
-   "at": "2026-10-25T19:35Z"
-  },
-  {
-   "id": "kano-hisbah-tiktokers-arrested",
-   "c": "naija",
-   "h": "Kano Hisbah reportedly detains TikToker and two other women over dance videos",
-   "p": "The Kano State Hisbah board has reportedly detained a TikToker, Amani Ishaq, and two other women over dance videos it considers immoral. The agency enforces Islamic moral rules in the state. It has not said what will happen next, according to the reports seen so far.",
-   "n": 1,
-   "more": [
-    "Hisbah has made similar arrests of content creators in the past.",
-    "Reaction on social media has been mixed."
-   ],
-   "added": "2026-10-25",
-   "at": "2026-10-25T19:35Z"
-  },
-  {
-   "id": "mike-edwards-dna-result",
-   "c": "celebs",
-   "h": "Former BBNaija housemate Mike Edwards surprised by DNA ancestry result",
-   "p": "Former Big Brother Naija housemate Mike Edwards has reportedly shared a DNA test that shows his ancestry is mainly Igbo and Yoruba. He said he was surprised by the result. The post has drawn reactions from fans online.",
-   "n": 1,
-   "more": [
-    "DNA ancestry tests have become a popular trend among Nigerian celebrities.",
-    "Fans have been sharing their own results in reply."
-   ],
-   "added": "2026-10-25",
-   "at": "2026-10-25T19:35Z"
   },
   {
    "id": "ecuador-baby-moustache",
