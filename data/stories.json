@@ -1,5 +1,5 @@
 {
- "updated": "Updated 22:37 GMT Monday, 26 October 2026",
+ "updated": "Updated 23:40 GMT",
  "date": "Monday, 26 October 2026",
  "categories": {
   "all": "All gist",
@@ -14,6 +14,46 @@
   "sport": "Sport"
  },
  "stories": [
+  {
+   "id": "harry-kane-wins-ballon-dor-2026",
+   "c": "sport",
+   "h": "Harry Kane wins the 2026 Ballon d'Or, ahead of Lamine Yamal and Kylian Mbappe",
+   "p": "Harry Kane has been named winner of the 2026 Ballon d'Or at the ceremony in London, becoming the first Englishman to take the award in 25 years. He beat Barcelona's Lamine Yamal and PSG's Kylian Mbappe to the prize.",
+   "n": 2,
+   "hot": 1,
+   "more": [
+    "Burna Boy reportedly presented the Socrates Award to England's Bukayo Saka at the ceremony.",
+    "The win follows the earlier mix-up in which the winners were published online hours before the event."
+   ],
+   "added": "2026-10-26",
+   "at": "2026-10-26T23:33Z"
+  },
+  {
+   "id": "dankaka-remanded-threat-governor-yusuf",
+   "c": "politics",
+   "h": "Court remands man accused of threatening to leak private images of Kano Governor Yusuf",
+   "p": "A Federal High Court in Abuja has reportedly ordered that Sanusi Dankaka be remanded over an alleged threat to leak private images of Governor Abba Yusuf. The case is said to be at an early stage.",
+   "n": 1,
+   "more": [
+    "The defendant has yet to be tried on the allegation.",
+    "The matter is expected to return to court at a later date."
+   ],
+   "added": "2026-10-26",
+   "at": "2026-10-26T23:33Z"
+  },
+  {
+   "id": "inec-preliminary-voters-register-online",
+   "c": "elections",
+   "h": "INEC publishes preliminary voters register online ahead of the 2027 election",
+   "p": "The Independent National Electoral Commission has put the preliminary voters register online, allowing Nigerians to check their details before the 2027 general election. The commission has said the national register is now above 103 million voters.",
+   "n": 1,
+   "more": [
+    "Voters can check that their names and polling units are correct.",
+    "Registration for new voters has run in several phases this year."
+   ],
+   "added": "2026-10-26",
+   "at": "2026-10-26T23:33Z"
+  },
   {
    "id": "osimhen-brace-istanbul-derby",
    "c": "sport",
