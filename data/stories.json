@@ -1,5 +1,5 @@
 {
- "updated": "Updated 12:50 GMT",
+ "updated": "Updated 14:55 GMT",
  "date": "Monday, 26 October 2026",
  "categories": {
   "all": "All gist",
@@ -14,6 +14,97 @@
   "sport": "Sport"
  },
  "stories": [
+  {
+   "id": "chris-brown-suspended-sentence",
+   "c": "music",
+   "h": "Chris Brown reportedly given a suspended eight-month prison sentence over a 2023 nightclub brawl",
+   "p": "A UK court has reportedly handed the singer a suspended eight-month sentence after he pleaded guilty to a public order offence linked to a brawl at a London nightclub in 2023. Being suspended, the term is not served unless conditions are breached.",
+   "n": 1,
+   "more": [
+    "The case dates back to an incident at a London nightclub in 2023.",
+    "The singer had pleaded guilty to a public order offence."
+   ],
+   "added": "2026-10-26",
+   "at": "2026-10-26T13:54Z"
+  },
+  {
+   "id": "eric-bauza-dies-46",
+   "c": "world",
+   "h": "Eric Bauza, the voice of Bugs Bunny and Daffy Duck, dies at 46",
+   "p": "The Emmy-winning voice actor, best known for voicing Looney Tunes characters such as Bugs Bunny and Daffy Duck, has died at the age of 46, according to reports. Tributes from fans and colleagues are circulating online.",
+   "n": 2,
+   "more": [
+    "He took over several classic Looney Tunes roles in recent years.",
+    "Fans are sharing clips of his best-loved performances."
+   ],
+   "added": "2026-10-26",
+   "at": "2026-10-26T13:54Z"
+  },
+  {
+   "id": "peller-reacts-ochacho-carter-efe-n5m",
+   "c": "creators",
+   "h": "Peller reacts as King Ochacho says he gave Carter Efe N5 million after his win",
+   "p": "Streamer Peller has reportedly reacted with displeasure after King Ochacho claimed he handed Carter Efe N5 million following a win. The exchange has drawn comments from fans of the online personalities.",
+   "n": 1,
+   "more": [
+    "Ochacho made the claim after Carter Efe's win.",
+    "Peller's response has split fans online."
+   ],
+   "added": "2026-10-26",
+   "at": "2026-10-26T13:54Z"
+  },
+  {
+   "id": "don-jazzy-el-nino-donation",
+   "c": "music",
+   "h": "Nigerians pray for Don Jazzy as he reportedly gives out millions amid extreme weather",
+   "p": "Music executive Don Jazzy has reportedly shared millions of naira with followers as extreme weather linked to El Niño hits parts of the country. Fans have flooded his page with prayers and thanks.",
+   "n": 1,
+   "more": [
+    "The gesture comes amid concern over severe weather conditions.",
+    "Fans have praised his giving on social media."
+   ],
+   "added": "2026-10-26",
+   "at": "2026-10-26T13:54Z"
+  },
+  {
+   "id": "apc-secretary-jamb-results-trend",
+   "c": "politics",
+   "h": "JAMB results of APC national secretary spark reactions online",
+   "p": "Reported JAMB results said to belong to the APC national secretary have been trending, with Nigerians posting a mix of jokes and comments. The party has not been reported to have issued a statement on the matter.",
+   "n": 1,
+   "more": [
+    "The trending results come as the 2027 campaign season heats up.",
+    "Social media users have been sharing screenshots and reacting."
+   ],
+   "added": "2026-10-26",
+   "at": "2026-10-26T13:54Z"
+  },
+  {
+   "id": "wike-son-wedding-cameraman",
+   "c": "viral",
+   "h": "Wike's son's response to a cameraman at Zlatan Ibile's wedding draws reactions",
+   "p": "A clip from Zlatan Ibile's wedding reportedly shows the son of FCT Minister Nyesom Wike reacting after a cameraman pointed a lens at him. The moment has prompted mixed reactions online.",
+   "n": 1,
+   "more": [
+    "The wedding has produced a string of viral moments.",
+    "Viewers are split over how he responded."
+   ],
+   "added": "2026-10-26",
+   "at": "2026-10-26T13:54Z"
+  },
+  {
+   "id": "pantami-vows-expose-gombe-plot",
+   "c": "politics",
+   "h": "Pantami vows to expose those behind an alleged plot to end his Gombe governorship bid",
+   "p": "Former minister Isa Ali Pantami has reportedly vowed to expose people he says are plotting to end his Gombe governorship ambition. The statement follows the ongoing INEC review of his candidacy.",
+   "n": 1,
+   "more": [
+    "INEC is reportedly deciding on the candidacy question.",
+    "He did not name those he accuses, according to the reports."
+   ],
+   "added": "2026-10-26",
+   "at": "2026-10-26T13:54Z"
+  },
   {
    "id": "machado-returns-venezuela",
    "c": "world",
@@ -957,109 +1048,6 @@
    "alt": "Peter Obi",
    "credit": "Photo: Plus TV Africa / Wikimedia Commons, CC BY 3.0",
    "at": "2026-10-25T21:35Z"
-  },
-  {
-   "id": "okonjo-iweala-mother-dies",
-   "c": "naija",
-   "h": "Ngozi Okonjo-Iweala announces the death of her mother, Prof Kamene Okonjo, aged 96",
-   "p": "WTO Director-General Ngozi Okonjo-Iweala has announced that her mother, Professor Kamene Okonjo, has died at the age of 96. Tributes are expected from across Nigeria and beyond.",
-   "n": 1,
-   "more": [
-    "Prof Okonjo was a respected academic and a former traditional title holder in Delta State.",
-    "The family is expected to announce funeral arrangements."
-   ],
-   "added": "2026-10-25",
-   "img": "img/okonjo-iweala-mother-dies.jpg",
-   "alt": "Ngozi Okonjo-Iweala speaking at a conference",
-   "credit": "Photo: Perambara/Amantha Perera / Flickr, CC BY 2.0",
-   "at": "2026-10-25T21:35Z"
-  },
-  {
-   "id": "zamfara-ebola-surveillance",
-   "c": "naija",
-   "h": "Zamfara steps up Ebola screening after a traveller reportedly arrives with a fever",
-   "p": "The Zamfara State government has reportedly activated Ebola surveillance at Gusau airport and major motor parks. This follows the arrival of a passenger from Saudi Arabia said to have had a 38-degree fever.",
-   "n": 1,
-   "more": [
-    "Health officials have urged residents to report anyone with symptoms.",
-    "It comes as the NCDC approves weekly payments for people placed under monitoring."
-   ],
-   "added": "2026-10-25",
-   "at": "2026-10-25T21:35Z"
-  },
-  {
-   "id": "hurts-blood-clot-nfl-review",
-   "c": "sport",
-   "h": "NFL and players' union reportedly review Jalen Hurts' blood clot diagnosis",
-   "p": "The NFL and the NFL Players Association are reportedly jointly investigating the medical care given to Philadelphia Eagles quarterback Jalen Hurts after a blood clot diagnosis.",
-   "n": 1,
-   "more": [
-    "The review is said to focus on how the condition was identified and treated.",
-    "There is no official word yet on when he could return to play."
-   ],
-   "added": "2026-10-25",
-   "img": "img/hurts-blood-clot-nfl-review.jpg",
-   "alt": "Jalen Hurts",
-   "credit": "Photo: All-Pro Reels / Wikimedia Commons, CC BY-SA 2.0",
-   "at": "2026-10-25T21:35Z"
-  },
-  {
-   "id": "uk-defence-war-ready-1000-days",
-   "c": "world",
-   "h": "UK Defence Secretary says Britain must be ready for war within 1,000 days",
-   "p": "The UK Defence Secretary has said Britain must strengthen its military readiness because potential adversaries could be able to attack by around 2030.",
-   "n": 1,
-   "more": [
-    "The warning is aimed at pushing faster investment in the armed forces.",
-    "Opposition parties are expected to press for details on funding."
-   ],
-   "added": "2026-10-25",
-   "at": "2026-10-25T21:35Z"
-  },
-  {
-   "id": "soludo-obi-anambra-2027",
-   "c": "politics",
-   "h": "Soludo reportedly rules out automatic Anambra backing for Peter Obi in 2027",
-   "p": "Anambra Governor Charles Soludo has reportedly said the state will not back Peter Obi by default in the 2027 presidential race. He is said to have argued that the 2027 contest will not be a repeat of 2023.",
-   "n": 1,
-   "more": [
-    "The remark adds to the debate over how Obi will fare in his home region.",
-    "Obi supporters have previously said he does not need any coalition to win."
-   ],
-   "added": "2026-10-25",
-   "at": "2026-10-25T20:35Z"
-  },
-  {
-   "id": "nlc-minimum-wage-warning",
-   "c": "naija",
-   "h": "Labour body reportedly warned of risks ahead of new minimum wage demand",
-   "p": "A fresh warning has reportedly been issued to the Nigeria Labour Congress over possible consequences if its new minimum wage demand is approved. Details of the demand and the response from government were still being discussed.",
-   "n": 1,
-   "more": [
-    "Workers have long pressed for pay to keep pace with prices.",
-    "Government and employers are yet to agree a new figure."
-   ],
-   "added": "2026-10-25",
-   "at": "2026-10-25T20:35Z"
-  },
-  {
-   "id": "ecuador-baby-moustache",
-   "c": "viral",
-   "h": "Baby in Ecuador reportedly born with a full moustache",
-   "p": "A newborn baby in Ecuador has gone viral after reportedly arriving with what looks like a full moustache. While most newborns are still struggling to open their eyes, this little one allegedly came out looking like he already has a wife, three children and bills to pay. Photos of the baby, wrapped in a towel with dark hair above his lip, have been shared widely online.",
-   "n": 1,
-   "hot": 9,
-   "more": [
-    "Social media users have been flooding the photos with jokes about the baby's \"grown man\" look.",
-    "Some newborns are born with extra fine body hair, which usually falls off within the first weeks of life.",
-    "The details of the birth have not been independently confirmed."
-   ],
-   "img": "img/ecuador-baby-moustache.jpg",
-   "alt": "A newborn baby with curly wet hair and dark hair above his upper lip, wrapped in a white towel",
-   "credit": "Image: social media",
-   "owner": true,
-   "added": "2026-10-25",
-   "at": "2026-10-25T18:11Z"
   }
  ]
 }
