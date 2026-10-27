@@ -1,6 +1,6 @@
 {
- "updated": "Updated 23:40 GMT",
- "date": "Monday, 26 October 2026",
+ "updated": "Updated 01:40 BST",
+ "date": "Tuesday, 27 October 2026",
  "categories": {
   "all": "All gist",
   "elections": "2027 elections",
@@ -14,6 +14,32 @@
   "sport": "Sport"
  },
  "stories": [
+  {
+   "id": "taraba-community-attack-58-killed",
+   "c": "naija",
+   "h": "Gunmen reportedly kill 58 people in a four-hour raid on a Taraba community",
+   "p": "Armed men are said to have attacked a community in Taraba State for about four hours, leaving 58 people dead according to a report. Details on the exact location and who was behind the raid are still limited, and security agencies are yet to give a full account.",
+   "n": 1,
+   "more": [
+    "Reports say the attack lasted around four hours before the gunmen withdrew.",
+    "Residents and local leaders are expected to press for stronger security in the area."
+   ],
+   "added": "2026-10-27",
+   "at": "2026-10-27T01:33Z"
+  },
+  {
+   "id": "katsina-cleric-masusuka-killed",
+   "c": "naija",
+   "h": "Islamic cleric Sheikh Yahaya Masusuka reportedly shot dead by gunmen at his home in Katsina",
+   "p": "Gunmen are said to have killed Sheikh Yahaya Masusuka at his home in Dutsin-Ma, Katsina State, in what is reportedly a targeted attack. Police are yet to say who carried it out or why.",
+   "n": 1,
+   "more": [
+    "The attack is said to have taken place at the cleric's residence.",
+    "Dutsin-Ma has seen repeated security incidents in recent months."
+   ],
+   "added": "2026-10-27",
+   "at": "2026-10-27T01:33Z"
+  },
   {
    "id": "harry-kane-wins-ballon-dor-2026",
    "c": "sport",
@@ -1009,259 +1035,6 @@
    "img": "img/machado-returns-venezuela.jpg",
    "alt": "María Corina Machado",
    "credit": "Photo: SantanaZ / Wikimedia Commons, CC0"
-  },
-  {
-   "id": "obi-supporter-rilwan-arrest",
-   "c": "elections",
-   "h": "Peter Obi demands release of supporter reportedly arrested in Lagos",
-   "p": "Peter Obi has called for the release of a supporter, Rilwan Olawale, who was reportedly arrested in Lagos. Obi urged the authorities to free him without delay. No official reason for the arrest has been made public.",
-   "n": 2,
-   "more": [
-    "Obi's supporters have taken the call to social media.",
-    "Police have not yet commented publicly."
-   ],
-   "added": "2026-10-26",
-   "at": "2026-10-26T12:44Z",
-   "img": "img/obi-supporter-rilwan-arrest.jpg",
-   "alt": "Peter Obi",
-   "credit": "Photo: Plus TV Africa / Wikimedia Commons, CC BY 3.0"
-  },
-  {
-   "id": "blessing-ceo-denies-drug-rumours",
-   "c": "viral",
-   "h": "Blessing CEO says she does not smoke, drink or party, responding to drug rumours after her release",
-   "p": "Relationship therapist Blessing CEO has reportedly responded to online claims about drug use following her release from custody. She said she does not smoke, drink alcohol or go to parties.",
-   "n": 2,
-   "more": [
-    "Her release has drawn wide reaction online.",
-    "Several public figures have commented on the case."
-   ],
-   "added": "2026-10-26",
-   "at": "2026-10-26T12:44Z"
-  },
-  {
-   "id": "asake-paris-final-tour-show",
-   "c": "music",
-   "h": "Asake leaves Paris arena hand in hand with his mother after final tour show",
-   "p": "A clip of Asake walking out of Paris' Accor Arena holding his mother's hand after the last show of his tour is trending. Fans have praised the moment.",
-   "n": 1,
-   "more": [
-    "The Paris date closed the tour.",
-    "Fans flooded social media with reactions to the clip."
-   ],
-   "added": "2026-10-26",
-   "at": "2026-10-26T12:44Z",
-   "img": "img/asake-paris-final-tour-show.jpg",
-   "alt": "Asake performing on stage",
-   "credit": "Photo: Mensah Memories / Wikimedia Commons, CC BY 3.0"
-  },
-  {
-   "id": "tombolo-okada-help",
-   "c": "celebs",
-   "h": "Veteran Yoruba actor Tombolo reportedly appeals for help as he rides okada to survive",
-   "p": "Veteran Yoruba actor Tombolo has reportedly asked the public for support after turning to motorcycle taxi work to earn a living. The appeal has prompted sympathy from fans.",
-   "n": 1,
-   "more": [
-    "Fans have asked colleagues in the industry to step in.",
-    "He is said to be a long-serving Nollywood face."
-   ],
-   "added": "2026-10-26",
-   "at": "2026-10-26T12:44Z"
-  },
-  {
-   "id": "rudeboy-ai-music",
-   "c": "music",
-   "h": "Rudeboy says AI songs are 'too perfect' and easy to identify",
-   "p": "Singer Rudeboy has spoken out against AI-generated music, saying it sounds too polished and that he can easily tell it apart from human-made songs.",
-   "n": 1,
-   "more": [
-    "The comment comes amid his public feud with his brother Peter.",
-    "Debate over AI music in Nigeria continues."
-   ],
-   "added": "2026-10-26",
-   "at": "2026-10-26T12:44Z",
-   "img": "img/rudeboy-ai-music.jpg",
-   "alt": "Paul Okoye (Rudeboy)",
-   "credit": "Photo: Accelerate TV / Wikimedia Commons, CC BY-SA 4.0"
-  },
-  {
-   "id": "nicki-minaj-air-force-one",
-   "c": "world",
-   "h": "Nicki Minaj draws mixed reactions after showing off Air Force One's interior",
-   "p": "Rapper Nicki Minaj has sparked reactions online after posting images of the interior of the US presidential jet, Air Force One. Fans and critics are split over the post.",
-   "n": 1,
-   "more": [
-    "Her recent comments about Donald Trump have been widely discussed.",
-    "The post went viral within hours."
-   ],
-   "added": "2026-10-26",
-   "at": "2026-10-26T12:44Z",
-   "img": "img/nicki-minaj-air-force-one.jpg",
-   "alt": "Nicki Minaj filming inside the cabin of Air Force One",
-   "credit": "Image: @NICKIMINAJ / X",
-   "owner": true
-  },
-  {
-   "id": "sowore-leaders-health-verifiable",
-   "c": "politics",
-   "h": "Sowore says Nigeria needs leaders whose health conditions are verifiable",
-   "p": "Activist and politician Omoyele Sowore has said Nigeria needs leaders whose health status can be independently verified. He made the remark amid continuing public discussion about leaders' fitness ahead of 2027.",
-   "n": 1,
-   "more": [
-    "The comment drew mixed responses online.",
-    "The presidency has not responded to the remark."
-   ],
-   "added": "2026-10-26",
-   "at": "2026-10-26T12:44Z",
-   "img": "img/sowore-leaders-health-verifiable.jpg",
-   "alt": "Omoyele Sowore",
-   "credit": "Photo: Mohamed Nanabhay from Qatar / Wikimedia Commons, CC BY 2.0"
-  },
-  {
-   "id": "fbi-nine-arrested-nigeria-cybercrime",
-   "c": "naija",
-   "h": "Nine people reportedly arrested in Nigeria in a US-linked cybercrime probe, with 53 devices seized",
-   "p": "Nine suspects have reportedly been detained in Nigeria over an international cybercrime investigation said to involve US agents. Dozens of phones and computers were reportedly taken for examination. The suspects are said to have targeted victims in the United States.",
-   "n": 1,
-   "more": [
-    "The 53 seized devices are said to be undergoing forensic checks.",
-    "No formal charges have been publicly confirmed yet."
-   ],
-   "added": "2026-10-26",
-   "at": "2026-10-26T11:35Z"
-  },
-  {
-   "id": "el-rufai-dss-court-order",
-   "c": "politics",
-   "h": "Court orders El-Rufai to open his defence in the DSS phone-interception case",
-   "p": "A Federal High Court in Abuja has rejected former Kaduna governor Nasir El-Rufai's no-case submission in the case brought by the DSS over his television remarks about intercepted calls. He must now present his defence.",
-   "n": 3,
-   "more": [
-    "He was granted N100 million bail in May.",
-    "His lawyers argue the prosecution has not shown enough evidence for him to defend himself."
-   ],
-   "added": "2026-10-26",
-   "at": "2026-10-26T11:35Z",
-   "img": "img/el-rufai-dss-court-order.jpg",
-   "alt": "Nasir El-Rufai",
-   "credit": "Photo: VOA / Wikimedia Commons, Public domain"
-  },
-  {
-   "id": "mercedes-pleads-don-jazzy",
-   "c": "celebs",
-   "h": "BBNaija's Mercedes reportedly appeals to Don Jazzy for financial help",
-   "p": "Former Big Brother Naija housemate Mercedes has reportedly said she has been struggling financially since leaving the house and asked music boss Don Jazzy for help. She was the second housemate evicted from the Show Ya Self edition in August.",
-   "n": 1,
-   "more": [
-    "She previously said she hoped to raise money for her father's leg treatment.",
-    "Don Jazzy has not publicly responded yet."
-   ],
-   "added": "2026-10-26",
-   "at": "2026-10-26T11:35Z",
-   "img": "img/mercedes-pleads-don-jazzy.jpg",
-   "alt": "Don Jazzy",
-   "credit": "Photo: Unknown author / Wikimedia Commons, CC BY 4.0"
-  },
-  {
-   "id": "ivd-blessing-ceo-release-reaction",
-   "c": "creators",
-   "h": "IVD reportedly breaks silence after Blessing CEO's release, with a pointed message to critics",
-   "p": "Relationship content creator IVD has reportedly reacted publicly following the release of Blessing CEO, sending a bold message to those who criticised them. Online reactions have been mixed.",
-   "n": 1,
-   "more": [
-    "The pair have been in the public eye for years over a long-running legal dispute.",
-    "Blessing CEO has said charges against IVD were dropped in December 2025."
-   ],
-   "added": "2026-10-26",
-   "at": "2026-10-26T11:35Z"
-  },
-  {
-   "id": "psg-players-skip-ballon-dor",
-   "c": "sport",
-   "h": "Dembélé and other PSG players reportedly to skip the 2026 Ballon d'Or ceremony despite 10 nominations",
-   "p": "Several Paris Saint-Germain players are reportedly set to stay away from the Ballon d'Or ceremony even though the club has ten nominees. Ousmane Dembélé is among those named.",
-   "n": 1,
-   "more": [
-    "The club's fixtures are said to be behind the absences.",
-    "Kylian Mbappé's Clasico double has also stirred talk around this year's award."
-   ],
-   "added": "2026-10-26",
-   "at": "2026-10-26T11:35Z",
-   "img": "img/psg-players-skip-ballon-dor.jpg",
-   "alt": "Ousmane Dembélé in a France shirt",
-   "credit": "Photo: Антон Зайцев / Wikimedia Commons, CC BY-SA 3.0"
-  },
-  {
-   "id": "vdm-second-container-ratel",
-   "c": "creators",
-   "h": "They mocked VeryDarkMan over two cars, but 8 months later, look at what he has done!",
-   "p": "Eight months after critics mocked VeryDarkMan for importing a container with just two cars, the activist and influencer says he has brought in his second 40-foot container from China. This time he has reportedly moved beyond cars into gadgets and portable power stations, sold as Ratel Power Stations.",
-   "body": [
-    "Remember when VeryDarkMan imported his first container of cars and people started dragging him?",
-    "Some mocked him, insulted him and questioned his business ambitions. They asked, \"Is this the container he has been bragging about? Just two cars?\"",
-    "Well, barely eight months later, VDM is back with what he says is his second 40-foot container from China!",
-    "This time, he has reportedly moved beyond cars into gadgets and portable power stations, which he calls Ratel Power Stations.",
-    "According to him, his business goal is simple: make life easier for Nigerians while making good money for himself in the process.",
-    "Clearly, he understands that business is business! Nobody starts at the top, and every successful business has to begin somewhere.",
-    "Whether you like VeryDarkMan or not, there is nothing wrong with acknowledging someone's business progress.",
-    "Congratulations to VDM on this latest venture!"
-   ],
-   "n": 1,
-   "hot": 7,
-   "img": "img/vdm-second-container-ratel.jpg",
-   "alt": "Four photos of VeryDarkMan unloading boxes of Ratel Power Station lithium batteries from a shipping container, and posing in traditional attire beside a new SUV",
-   "credit": "Image: social media",
-   "owner": true,
-   "added": "2026-10-26",
-   "at": "2026-10-26T10:49Z"
-  },
-  {
-   "id": "video-chant-threat-enugu-jos-probe",
-   "c": "naija",
-   "h": "JIBWIS and Christian group call for DSS probe of video allegedly threatening worshippers in Enugu and Jos",
-   "p": "The leadership of JIBWIS (Izala) has urged the DSS and police to identify the man in a viral video allegedly calling for AK-47 rifles to attack Sunday worshippers in Enugu and Jos. The Northern Christian Association has also demanded a probe. The speaker's identity, the date of the recording and the translation have not been independently verified.",
-   "body": [
-    "Update: JIBWIS national chairman Sheikh Abdullahi Bala Lau has urged the DSS, the Nigeria Police Force and other security agencies to identify the individual in the video. The Northern Christian Association has also called on security agencies to establish whether the footage is authentic and identify those featured.",
-    "There are conflicting claims online about when the video was recorded, with some users saying it dates back to 2020 and others saying it was posted only days ago. Social media users have also named a man they claim is the speaker, and there are unconfirmed reports that he has been suspended by the movement. None of these claims has been independently verified, and no official has named anyone.",
-    "Of particular concern is the apparent presence of children and young people during the chant. Critics fear that exposing minors to messages that appear to encourage religious violence could contribute to radicalisation and deepen religious tensions.",
-    "A disturbing video reportedly filmed somewhere in Northern Nigeria has raised serious concerns over alleged threats of religious violence, and is now being reported by several Nigerian news outlets.",
-    "The footage shows young men in brown uniforms and blue berets marching and chanting in Hausa during what appears to be a drill. News reports have linked the uniforms to the first-aid volunteer wing of the Islamic movement JIBWIS, whose members help coordinate Friday Jumu'ah prayers.",
-    "According to a Hausa-to-English translation circulating with the video, the drill leader allegedly calls for AK-47 rifles so the group can travel to Enugu and attack Christians during Sunday worship. He reportedly refers to the worshippers as \"infidels\", imitates the sound of gunfire, and also mentions Jos as another target.",
-    "Lere Olayinka, media aide to the FCT Minister, has called on the DSS and the police to investigate the video.",
-    "However, the location, date, identity of the speaker, the group's actual affiliation and the accuracy of the translation have not been independently verified. No response from the group had been reported at the time of writing.",
-    "If the translation is accurate, this is an extremely serious matter. Nobody should be allowed to use religion as an excuse to threaten innocent people, whether they are Christians or Muslims.",
-    "If someone openly calls for weapons to attack people during worship, shouldn't that be enough to trigger an immediate security investigation? Nigeria has suffered enough religious violence, and credible threats against worshippers cannot be treated as ordinary speech."
-   ],
-   "n": 3,
-   "hot": 8,
-   "img": "img/video-chant-threat-enugu-jos-probe.jpg",
-   "alt": "Two stills from the viral video: a young man in a blue beret and brown uniform chants as others march behind him",
-   "credit": "Image: social media",
-   "owner": true,
-   "added": "2026-10-26",
-   "at": "2026-10-26T10:42Z"
-  },
-  {
-   "id": "pastor-prophetess-second-wife",
-   "c": "viral",
-   "h": "\"God told us to take another wife!\" American pastor and prophetess introduce second wife to their congregation",
-   "p": "A married American pastor and prophetess have reportedly introduced another woman, said to be a member of their church, as their new wife, telling the congregation the arrangement was the will of God. The announcement has sparked debate about religious leadership, marriage and the use of divine authority to justify personal decisions.",
-   "body": [
-    "A married American pastor and prophetess have sparked controversy after reportedly introducing another woman, said to be a member of their church, as their new wife.",
-    "According to the circulating account, the couple announced to their congregation that they had entered a polygynous marriage, claiming the arrangement was the will of God.",
-    "The announcement has raised serious questions about religious leadership, marriage and the use of divine authority to justify personal decisions.",
-    "One question many people are asking is whether a religious leader's claim that God approved something should automatically place that decision beyond criticism.",
-    "At what point do we begin to distinguish personal desires from what religious leaders describe as God's instructions?",
-    "And to Christians who believe marriage should be between one man and one woman, how would you respond if your pastor stood before the congregation and made this announcement?"
-   ],
-   "n": 1,
-   "hot": 9,
-   "img": "img/pastor-prophetess-second-wife.jpg",
-   "alt": "Three photos of a church stage: a woman in a green dress speaks into a microphone beside a man in a white jacket, and in the last photo a second woman stands with them",
-   "credit": "Image: social media",
-   "owner": true,
-   "added": "2026-10-26",
-   "at": "2026-10-26T10:35Z"
   }
  ]
 }
