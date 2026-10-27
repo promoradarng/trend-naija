@@ -1,5 +1,5 @@
 {
- "updated": "Updated 04:40 GMT",
+ "updated": "Updated 06:45 GMT",
  "date": "Tuesday, 27 October 2026",
  "categories": {
   "all": "All gist",
@@ -14,6 +14,53 @@
   "sport": "Sport"
  },
  "stories": [
+  {
+   "id": "fbi-nine-nigerians-cybercrime-arrests",
+   "c": "naija",
+   "h": "FBI reportedly arrests nine Nigerians in cybercrime operation targeting Americans",
+   "p": "US authorities have reportedly arrested nine Nigerians wanted over online fraud schemes that targeted American victims. Dozens of phones and computers were said to have been seized in the operation. Details of the charges and where the suspects will face court have not been fully released.",
+   "n": 2,
+   "more": [
+    "About 53 devices were reportedly seized during the arrests.",
+    "The FBI has in recent weeks published names and photos of wanted Nigerian fraud suspects.",
+    "The suspects are expected to answer to charges in the United States."
+   ],
+   "added": "2026-10-27",
+   "img": "img/fbi-nine-nigerians-cybercrime-arrests.jpg",
+   "alt": "FBI office sign",
+   "credit": "Stock image: Noah Wulf / Wikimedia Commons, CC BY-SA 4.0",
+   "at": "2026-10-27T06:36Z"
+  },
+  {
+   "id": "cbn-approves-jpmorgan-merchant-bank-nigeria",
+   "c": "naija",
+   "h": "CBN gives JPMorgan approval in principle to open a merchant bank in Nigeria",
+   "p": "The Central Bank of Nigeria has granted JPMorgan approval in principle to set up JPMorgan Merchant Bank Nigeria Limited. Adedapo Olagunju, who has led the bank's West African operations since 2018, has been cleared to run it. The approval is only a first step, as a final licence is still needed before the bank can begin business.",
+   "n": 3,
+   "more": [
+    "JPMorgan reportedly placed about $38 million with the central bank as a capital deposit.",
+    "Board nominees, including independent directors, were also approved.",
+    "The firm still has to complete registration with the Corporate Affairs Commission."
+   ],
+   "added": "2026-10-27",
+   "at": "2026-10-27T06:36Z"
+  },
+  {
+   "id": "dangote-rabiu-otedola-wealth-73bn",
+   "c": "naija",
+   "h": "Combined wealth of Dangote, Rabiu and Otedola reportedly rises to $73.1 billion",
+   "p": "The combined fortunes of Nigeria's richest businessmen, Aliko Dangote, Abdulsamad Rabiu and Femi Otedola, have reportedly climbed to about $73.1 billion. The rise is said to be driven by gains in their listed companies and refining and energy interests.",
+   "n": 1,
+   "more": [
+    "Dangote remains the richest of the three by a wide margin.",
+    "The figures are estimates and move with share prices and exchange rates."
+   ],
+   "added": "2026-10-27",
+   "img": "img/dangote-rabiu-otedola-wealth-73bn.jpg",
+   "alt": "Aliko Dangote",
+   "credit": "Photo: World Economic Forum / Wikimedia Commons, CC BY-SA 2.0",
+   "at": "2026-10-27T06:36Z"
+  },
   {
    "id": "burna-boy-saka-socrates-award",
    "c": "sport",
@@ -186,10 +233,11 @@
    "c": "naija",
    "h": "Islamic cleric Sheikh Yahaya Masusuka reportedly shot dead by gunmen at his home in Katsina",
    "p": "Gunmen are said to have killed Sheikh Yahaya Masusuka at his home in Dutsin-Ma, Katsina State, in what is reportedly a targeted attack. Police are yet to say who carried it out or why.",
-   "n": 1,
+   "n": 2,
    "more": [
     "The attack is said to have taken place at the cleric's residence.",
-    "Dutsin-Ma has seen repeated security incidents in recent months."
+    "Dutsin-Ma has seen repeated security incidents in recent months.",
+    "The Katsina state government has reportedly promised action over the killing."
    ],
    "added": "2026-10-27",
    "at": "2026-10-27T01:33Z"
@@ -973,90 +1021,6 @@
    "at": "2026-10-26T14:45Z"
   },
   {
-   "id": "toluwanisings-burial-dispute",
-   "c": "celebs",
-   "h": "Late gospel singer ToluwaniSings: her family reportedly stands firm on burial plans as her father appeals to his daughter-in-law",
-   "p": "The family of the late gospel singer is said to be insisting on its burial arrangements and demanding a full investigation into her death. Her father has reportedly appealed to his daughter-in-law to reconsider burying him at home rather than in a cemetery.",
-   "n": 2,
-   "more": [
-    "The family is reportedly calling for a thorough investigation.",
-    "Reactions are pouring in from fans of the singer online."
-   ],
-   "added": "2026-10-26",
-   "at": "2026-10-26T14:43Z"
-  },
-  {
-   "id": "vdm-praises-tinubu-strategy",
-   "c": "politics",
-   "h": "VeryDarkMan reportedly praises Tinubu's political strategy and says rivals including Peter Obi lack his nerve",
-   "p": "Social commentator VeryDarkMan has reportedly said President Tinubu's political approach is stronger than that of his rivals, naming Peter Obi among them. The remark is drawing mixed reactions from supporters of different camps ahead of 2027.",
-   "n": 1,
-   "more": [
-    "Supporters of the NDC and the APC are trading views on social media.",
-    "The 2027 race is already heating up online."
-   ],
-   "img": "img/tinubu-vdm.jpg",
-   "alt": "Bola Tinubu",
-   "credit": "Photo: Nosa Asemota / Wikimedia Commons, CC BY-SA 4.0",
-   "added": "2026-10-26",
-   "at": "2026-10-26T14:43Z"
-  },
-  {
-   "id": "bruno-fernandes-cryptic-like",
-   "c": "sport",
-   "h": "Bruno Fernandes reportedly likes a cryptic post that appears to criticise Manchester United manager Michael Carrick",
-   "p": "The Manchester United captain is said to have liked an Instagram post that seems to take aim at manager Michael Carrick after he was dropped. The club has not commented.",
-   "n": 1,
-   "more": [
-    "Fans are debating whether the like was deliberate.",
-    "United have been under pressure over recent team selections."
-   ],
-   "img": "img/bruno-fernandes-like.jpg",
-   "alt": "Bruno Fernandes",
-   "credit": "Photo: Bryan Berlin / Wikimedia Commons, CC BY-SA 4.0",
-   "added": "2026-10-26",
-   "at": "2026-10-26T14:43Z"
-  },
-  {
-   "id": "mr-eazi-shatta-wale-shows",
-   "c": "music",
-   "h": "Mr Eazi says he has never paid Shatta Wale, yet the Ghanaian star always turns up at his shows",
-   "p": "Mr Eazi has reportedly spoken about his friendship with Shatta Wale, saying the dancehall star shows up at his concerts without being paid.",
-   "n": 1,
-   "more": [
-    "The two Afrobeats and dancehall stars have long supported each other's shows."
-   ],
-   "img": "img/mr-eazi-shatta-wale-shows.jpg",
-   "alt": "Mr Eazi",
-   "credit": "Photo: NdaniTV / Wikimedia Commons, CC BY 3.0",
-   "added": "2026-10-26",
-   "at": "2026-10-26T14:43Z"
-  },
-  {
-   "id": "ibiyeomie-tithes-christmas-clothes",
-   "c": "naija",
-   "h": "Pastor David Ibiyeomie reportedly urges Christians to pay tithes before buying Christmas clothes",
-   "p": "The Port Harcourt-based pastor is said to have told worshippers to settle their tithes before holiday shopping. His message is drawing mixed reactions online.",
-   "n": 1,
-   "more": [
-    "Nigerians are debating the message as festive spending approaches."
-   ],
-   "added": "2026-10-26",
-   "at": "2026-10-26T14:43Z"
-  },
-  {
-   "id": "us-green-card-lottery-reopening",
-   "c": "world",
-   "h": "US court reportedly sets three dates to reopen the 2027 green card lottery for foreign applicants",
-   "p": "A US court has reportedly set dates for the reopening of the 2027 diversity visa lottery, news that is drawing strong interest among Nigerians hoping to relocate.",
-   "n": 1,
-   "more": [
-    "Applicants are advised to follow official US government channels only."
-   ],
-   "added": "2026-10-26",
-   "at": "2026-10-26T14:43Z"
-  },
-  {
    "id": "el-rufai-wife-court-kiss",
    "c": "politics",
    "h": "Love in the courtroom! El-Rufai shares a kiss with his wife as they reunite amid his legal troubles",
@@ -1092,103 +1056,6 @@
    "alt": "Chris Brown in a black cap, resting his chin on his hand",
    "credit": "Image: Chris Brown / social media",
    "owner": true
-  },
-  {
-   "id": "eric-bauza-dies-46",
-   "c": "world",
-   "h": "Eric Bauza, the voice of Bugs Bunny and Daffy Duck, dies at 46",
-   "p": "The Emmy-winning voice actor, best known for voicing Looney Tunes characters such as Bugs Bunny and Daffy Duck, has died at the age of 46, according to reports. Tributes from fans and colleagues are circulating online.",
-   "n": 2,
-   "more": [
-    "He took over several classic Looney Tunes roles in recent years.",
-    "Fans are sharing clips of his best-loved performances."
-   ],
-   "added": "2026-10-26",
-   "at": "2026-10-26T13:54Z"
-  },
-  {
-   "id": "peller-reacts-ochacho-carter-efe-n5m",
-   "c": "creators",
-   "h": "Peller reacts as King Ochacho says he gave Carter Efe N5 million after his win",
-   "p": "Streamer Peller has reportedly reacted with displeasure after King Ochacho claimed he handed Carter Efe N5 million following a win. The exchange has drawn comments from fans of the online personalities.",
-   "n": 1,
-   "more": [
-    "Ochacho made the claim after Carter Efe's win.",
-    "Peller's response has split fans online."
-   ],
-   "added": "2026-10-26",
-   "at": "2026-10-26T13:54Z"
-  },
-  {
-   "id": "don-jazzy-el-nino-donation",
-   "c": "music",
-   "h": "Nigerians pray for Don Jazzy as he reportedly gives out millions amid extreme weather",
-   "p": "Music executive Don Jazzy has reportedly shared millions of naira with followers as extreme weather linked to El Niño hits parts of the country. Fans have flooded his page with prayers and thanks.",
-   "n": 1,
-   "more": [
-    "The gesture comes amid concern over severe weather conditions.",
-    "Fans have praised his giving on social media."
-   ],
-   "added": "2026-10-26",
-   "at": "2026-10-26T13:54Z",
-   "img": "img/don-jazzy-el-nino-donation.jpg",
-   "alt": "Don Jazzy",
-   "credit": "Photo: Unknown author / Wikimedia Commons, CC BY 4.0"
-  },
-  {
-   "id": "apc-secretary-jamb-results-trend",
-   "c": "politics",
-   "h": "JAMB results of APC national secretary spark reactions online",
-   "p": "Reported JAMB results said to belong to the APC national secretary have been trending, with Nigerians posting a mix of jokes and comments. The party has not been reported to have issued a statement on the matter.",
-   "n": 1,
-   "more": [
-    "The trending results come as the 2027 campaign season heats up.",
-    "Social media users have been sharing screenshots and reacting."
-   ],
-   "added": "2026-10-26",
-   "at": "2026-10-26T13:54Z"
-  },
-  {
-   "id": "wike-son-wedding-cameraman",
-   "c": "viral",
-   "h": "Wike's son's response to a cameraman at Zlatan Ibile's wedding draws reactions",
-   "p": "A clip from Zlatan Ibile's wedding reportedly shows the son of FCT Minister Nyesom Wike reacting after a cameraman pointed a lens at him. The moment has prompted mixed reactions online.",
-   "n": 1,
-   "more": [
-    "The wedding has produced a string of viral moments.",
-    "Viewers are split over how he responded."
-   ],
-   "added": "2026-10-26",
-   "at": "2026-10-26T13:54Z"
-  },
-  {
-   "id": "pantami-vows-expose-gombe-plot",
-   "c": "politics",
-   "h": "Pantami vows to expose those behind an alleged plot to end his Gombe governorship bid",
-   "p": "Former minister Isa Ali Pantami has reportedly vowed to expose people he says are plotting to end his Gombe governorship ambition. The statement follows the ongoing INEC review of his candidacy.",
-   "n": 1,
-   "more": [
-    "INEC is reportedly deciding on the candidacy question.",
-    "He did not name those he accuses, according to the reports."
-   ],
-   "added": "2026-10-26",
-   "at": "2026-10-26T13:54Z"
-  },
-  {
-   "id": "machado-returns-venezuela",
-   "c": "world",
-   "h": "Nobel laureate María Corina Machado returns to Venezuela after 10 months in exile",
-   "p": "Venezuelan opposition leader and Nobel Peace Prize winner María Corina Machado is back in Caracas, where supporters gathered to welcome her. She had spent about ten months outside the country.",
-   "n": 2,
-   "more": [
-    "Supporters reportedly greeted her on arrival in the capital.",
-    "Her next political steps have not been spelled out."
-   ],
-   "added": "2026-10-26",
-   "at": "2026-10-26T12:44Z",
-   "img": "img/machado-returns-venezuela.jpg",
-   "alt": "María Corina Machado",
-   "credit": "Photo: SantanaZ / Wikimedia Commons, CC0"
   }
  ]
 }
