@@ -1,5 +1,5 @@
 {
- "updated": "Updated 09:33 GMT",
+ "updated": "Updated 10:40 GMT",
  "date": "Tuesday, 27 October 2026",
  "categories": {
   "all": "All gist",
@@ -14,6 +14,102 @@
   "sport": "Sport"
  },
  "stories": [
+  {
+   "id": "obi-four-demands-supporter-arrest",
+   "c": "elections",
+   "h": "Peter Obi makes four demands over the arrest of supporter Rilwan Olawale",
+   "p": "Peter Obi has called for the release of a supporter, Rilwan Olawale, who was reportedly arrested, and accused the Tinubu government of undermining democracy. He set out four demands over the arrest.",
+   "n": 2,
+   "more": [
+    "The arrest has drawn reactions from supporters and critics of the opposition online.",
+    "A separate report says a man arrested over an X post spent about ₦400,000 on the ordeal.",
+    "The authorities have not yet commented publicly on the specific demands."
+   ],
+   "added": "2026-10-27",
+   "img": "img/obi-four-demands-supporter-arrest.jpg",
+   "alt": "Peter Obi",
+   "credit": "Photo: VOA / Wikimedia Commons, Public domain",
+   "at": "2026-10-27T10:39Z"
+  },
+  {
+   "id": "dss-arraigns-atiku-supporter-fake-letter",
+   "c": "politics",
+   "h": "DSS arraigns Atiku supporter over alleged fake Tinubu letter to the US President",
+   "p": "The Department of State Services has reportedly taken an Atiku supporter to court for allegedly sharing a forged letter said to be from President Tinubu to the US President. The defendant's plea and the next hearing date were not immediately clear.",
+   "n": 1,
+   "more": [
+    "The case comes as campaigns for the 2027 presidential race heat up.",
+    "The Atiku camp had not responded to the arraignment at the time of reporting."
+   ],
+   "added": "2026-10-27",
+   "at": "2026-10-27T10:39Z"
+  },
+  {
+   "id": "ooni-stands-greet-obi-jackson",
+   "c": "naija",
+   "h": "Video of the Ooni of Ife standing to greet billionaire Obi Jackson sparks uproar online",
+   "p": "A video of the Ooni of Ife rising to greet businessman Obi Jackson has gone viral and divided Nigerians online. Some say it was a simple courtesy, while others question the protocol for a monarch of his stature.",
+   "n": 1,
+   "more": [
+    "Reactions are split between praise for the gesture and criticism of it.",
+    "The palace has not issued a statement on the clip."
+   ],
+   "added": "2026-10-27",
+   "at": "2026-10-27T10:39Z"
+  },
+  {
+   "id": "may-edochie-opens-lagos-store",
+   "c": "celebs",
+   "h": "May Edochie opens new store in Lagos and speaks about setbacks before the launch",
+   "p": "Yul Edochie's estranged wife, May, has reportedly opened a new store in Lagos and shared some of the difficulties she faced before the launch. Her fans have flooded social media with congratulations.",
+   "n": 1,
+   "more": [
+    "The launch comes the same day Judy Austin reacted to Yul Edochie's throwback clips featuring May.",
+    "May has been building her business and brand since the family saga became public."
+   ],
+   "added": "2026-10-27",
+   "at": "2026-10-27T10:39Z"
+  },
+  {
+   "id": "mbappe-dropped-chinese-brands-mao-joke",
+   "c": "sport",
+   "h": "Mbappé reportedly dropped by two Chinese brands over a joke about Mao Zedong",
+   "p": "Two Chinese brands have reportedly cut ties with Kylian Mbappé after a video of him joking about former leader Mao Zedong circulated online. The footage drew strong criticism in China.",
+   "n": 1,
+   "more": [
+    "The reported split comes days after Mbappé lost the 2026 Ballon d'Or to Harry Kane.",
+    "Neither the player nor his representatives had commented at the time of reporting."
+   ],
+   "added": "2026-10-27",
+   "img": "img/mbappe-dropped-chinese-brands-mao-joke.jpg",
+   "alt": "Kylian Mbappé",
+   "credit": "Photo: Zo Yout / Wikimedia Commons, CC BY-SA 4.0",
+   "at": "2026-10-27T10:39Z"
+  },
+  {
+   "id": "basiru-jamb-results-trend",
+   "c": "politics",
+   "h": "JAMB results of APC national secretary Ajibola Basiru spark mixed reactions online",
+   "p": "The JAMB results of the APC National Secretary, Ajibola Basiru, are reportedly trending, with Nigerians sharing mixed reactions online.",
+   "n": 1,
+   "more": [
+    "Reactions on social media are mixed."
+   ],
+   "added": "2026-10-27",
+   "at": "2026-10-27T10:39Z"
+  },
+  {
+   "id": "sec-unclaimed-monies-office",
+   "c": "naija",
+   "h": "SEC opens unclaimed monies office and tells investors how to get help",
+   "p": "The Securities and Exchange Commission has launched an office for unclaimed funds and explained how investors can seek help recovering money held in the capital market.",
+   "n": 1,
+   "more": [
+    "The commission explained how investors can seek help through the office."
+   ],
+   "added": "2026-10-27",
+   "at": "2026-10-27T10:39Z"
+  },
   {
    "id": "tinubu-must-go-chant-speech",
    "c": "politics",
@@ -311,9 +407,10 @@
    "c": "music",
    "h": "Dispute over burial of singer Toluwanising continues as relatives and supporters weigh in",
    "p": "A disagreement over the burial of singer Toluwanising is reportedly playing out online. An uncle is said to have asked that he should not be buried yet, while others have come out to defend his widow and ask that she be allowed to mourn in peace.",
-   "n": 2,
+   "n": 3,
    "more": [
     "A woman online said the widow is only 31 and should be left to grieve.",
+    "A lawyer has also raised legal questions over the father's request for a home burial, which the widow opposes.",
     "No official family statement has been shared publicly yet."
    ],
    "added": "2026-10-27",
