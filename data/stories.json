@@ -1,5 +1,5 @@
 {
- "updated": "Updated 14:40 GMT",
+ "updated": "Updated 15:35 GMT",
  "date": "Tuesday, 27 October 2026",
  "categories": {
   "all": "All gist",
@@ -14,6 +14,113 @@
   "sport": "Sport"
  },
  "stories": [
+  {
+   "id": "comey-third-charge-leak",
+   "c": "world",
+   "h": "US Justice Department charges James Comey a third time over alleged decade-old leak",
+   "p": "The former FBI director faces a fresh charge linked to an alleged leak from about ten years ago, according to reports. It is the third time the Justice Department has brought a case against him.",
+   "n": 1,
+   "more": [
+    "The latest charge is said to relate to the handling of sensitive information.",
+    "Comey has previously contested the earlier cases against him."
+   ],
+   "added": "2026-10-27",
+   "img": "img/comey-third-charge-leak.jpg",
+   "alt": "James Comey official portrait",
+   "credit": "Photo: Federal Bureau of Investigation / Wikimedia Commons, Public domain",
+   "at": "2026-10-27T15:36Z"
+  },
+  {
+   "id": "us-military-iran-strikes-96-hours",
+   "c": "world",
+   "h": "US forces in the Middle East reportedly ready for large operation against Iran within 96 hours of an order",
+   "p": "Reports say American forces in the region have been positioned so that a major strike could be launched within four days of a presidential order. No order has been confirmed.",
+   "n": 1,
+   "more": [
+    "The reported readiness is said to cover air and naval assets.",
+    "Officials have not publicly announced any decision to strike."
+   ],
+   "added": "2026-10-27",
+   "at": "2026-10-27T15:36Z"
+  },
+  {
+   "id": "yul-edochie-polygamy-not-sin-pastor",
+   "c": "celebs",
+   "h": "Yul Edochie says polygamy is not a sin as he backs US pastor's second marriage",
+   "p": "The Nollywood actor cited the Bible as he defended the American pastor who married a second wife. His comments have added to the online debate over the story.",
+   "n": 1,
+   "more": [
+    "Yul Edochie has himself faced public scrutiny over his own family life.",
+    "Reactions online have been sharply divided."
+   ],
+   "added": "2026-10-27",
+   "at": "2026-10-27T15:36Z"
+  },
+  {
+   "id": "basketmouth-social-media-flaunting",
+   "c": "celebs",
+   "h": "Basketmouth asks who Nigerians are trying to impress by flaunting wealth on social media",
+   "p": "The comedian criticised the culture of showing off online and questioned the motive behind it. His remarks have drawn mixed reactions.",
+   "n": 1,
+   "more": [
+    "He argued that many displays of wealth are not what they seem.",
+    "Fans and critics have weighed in on his post."
+   ],
+   "added": "2026-10-27",
+   "at": "2026-10-27T15:36Z"
+  },
+  {
+   "id": "warri-sapele-tanker-petrol-scooping",
+   "c": "naija",
+   "h": "Residents scoop petrol from broken-down tanker on Warri-Sapele road",
+   "p": "A video shows people collecting fuel from a tanker that broke down on the Warri-Sapele Road in Delta State. Such scooping has often ended in fires and deaths elsewhere in Nigeria.",
+   "n": 1,
+   "more": [
+    "Safety officials routinely warn residents to keep away from fuel tankers.",
+    "No injuries were mentioned in the report."
+   ],
+   "added": "2026-10-27",
+   "at": "2026-10-27T15:36Z"
+  },
+  {
+   "id": "ghanaian-twins-guilty-9m-romance-fraud",
+   "c": "world",
+   "h": "Ghanaian twin brothers plead guilty in $9 million romance fraud targeting elderly Americans",
+   "p": "Two twins admitted to a scheme that targeted older people in the United States. They face up to 20 years in prison.",
+   "n": 1,
+   "more": [
+    "Romance scams remain one of the costliest forms of online fraud.",
+    "Sentencing is expected at a later date."
+   ],
+   "added": "2026-10-27",
+   "at": "2026-10-27T15:36Z"
+  },
+  {
+   "id": "apc-youth-leader-billion-naira-suvs",
+   "c": "politics",
+   "h": "APC youth leader draws criticism for flaunting billion-naira SUVs",
+   "p": "An APC youth leader has been criticised online after showing off a fleet of expensive SUVs. Critics questioned the display amid economic hardship.",
+   "n": 1,
+   "more": [
+    "Supporters said the vehicles were privately acquired.",
+    "The video has been widely shared."
+   ],
+   "added": "2026-10-27",
+   "at": "2026-10-27T15:36Z"
+  },
+  {
+   "id": "unilorin-scholarship-graduates-top-cgpa",
+   "c": "naija",
+   "h": "UNILORIN graduates who won multiple scholarships emerge best in their departments",
+   "p": "Several University of Ilorin graduates, including one with three scholarships in computer science education, have been named top of their classes. Their results have gone viral and drawn congratulations.",
+   "n": 3,
+   "more": [
+    "Others include graduates in biochemistry and chemistry.",
+    "One chemistry graduate reportedly set a departmental record."
+   ],
+   "added": "2026-10-27",
+   "at": "2026-10-27T15:36Z"
+  },
   {
    "id": "tinubu-seeks-senate-external-borrowing-plan",
    "c": "politics",
@@ -296,7 +403,7 @@
    "c": "viral",
    "h": "American pastor sparks debate after marrying a second wife",
    "p": "A US pastor has reportedly drawn wide debate online after marrying a second wife. An older social media comment in which he called his current wife \"daughter\" has also resurfaced.",
-   "n": 2,
+   "n": 3,
    "more": [
     "Social media users are split, with some defending the marriage and others criticising it.",
     "The pastor has not publicly addressed the criticism."
