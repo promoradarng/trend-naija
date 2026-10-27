@@ -1,5 +1,5 @@
 {
- "updated": "Updated 20:50 GMT",
+ "updated": "Updated 21:40 GMT",
  "date": "Tuesday, 27 October 2026",
  "categories": {
   "all": "All gist",
@@ -14,6 +14,51 @@
   "sport": "Sport"
  },
  "stories": [
+  {
+   "id": "uzodimma-challenges-wike-rainbow-coalition-imo",
+   "c": "politics",
+   "h": "Imo Governor Uzodimma tells Wike the Rainbow Coalition does not exist in his state",
+   "p": "Imo State Governor Hope Uzodimma has reportedly challenged FCT Minister Nyesom Wike over his Rainbow Coalition, saying it has no presence in Imo. The exchange is the latest in a running dispute between the two over 2027 alignments, with Wike saying the platform is for Tinubu supporters and not an APC structure.",
+   "n": 2,
+   "more": [
+    "Uzodimma chairs the Progressive Governors Forum, which has said its members remain committed to the APC.",
+    "Wike has previously said he is backing rival candidates in Imo.",
+    "Neither side has shown signs of backing down."
+   ],
+   "added": "2026-10-27",
+   "at": "2026-10-27T21:34Z"
+  },
+  {
+   "id": "tito-harrison-liver-illness-sold-assets",
+   "c": "celebs",
+   "h": "Nollywood veteran Tito Harrison recounts how liver illness cost him his property",
+   "p": "Veteran actor Tito Harrison has said a liver condition and a chronic ulcer left him bedridden and forced him to sell his cars and other property to pay hospital bills. He said he and his family later moved in with his mother-in-law and praised his wife for standing by him.",
+   "n": 3,
+   "more": [
+    "He shared his story in a recent interview.",
+    "Fans have flooded social media with messages of support.",
+    "Reports differ slightly on exactly what he sold."
+   ],
+   "added": "2026-10-27",
+   "at": "2026-10-27T21:34Z"
+  },
+  {
+   "id": "francis-duru-friends-share-final-days",
+   "c": "celebs",
+   "h": "Friends of the late Francis Duru share memories of his final days",
+   "p": "Tributes continue for Nollywood veteran Francis Duru, who died at 57 after a brief illness, with close friends including Empress Njamah saying they had planned to visit him before he passed. Colleagues such as Mercy Johnson Okojie have also paid tribute, and the family has asked for privacy.",
+   "n": 5,
+   "more": [
+    "The family confirmed his death without naming the illness.",
+    "The Actors Guild and fans have joined in mourning him.",
+    "A friend who visited him in hospital has also spoken about their last conversations."
+   ],
+   "added": "2026-10-27",
+   "img": "img/duru.jpg",
+   "alt": "Francis Duru",
+   "credit": "Photo: VOA/Gilbert Tamba / Wikimedia Commons, Public domain",
+   "at": "2026-10-27T21:34Z"
+  },
   {
    "id": "obi-tinubu-200-days-abroad-kogi",
    "c": "politics",
