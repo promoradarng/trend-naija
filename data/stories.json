@@ -1,5 +1,5 @@
 {
- "updated": "Updated 12:40 GMT",
+ "updated": "Updated 13:45 GMT",
  "date": "Tuesday, 27 October 2026",
  "categories": {
   "all": "All gist",
@@ -14,6 +14,45 @@
   "sport": "Sport"
  },
  "stories": [
+  {
+   "id": "unilag-admission-jamb-323-lasu",
+   "c": "naija",
+   "h": "UNILAG reportedly offers admission to candidate who scored 323 in JAMB twice after she turned down LASU",
+   "p": "A young woman who reportedly scored 323 in JAMB on two occasions has said to have been offered admission by the University of Lagos. She had reportedly rejected a place at Lagos State University earlier. The story is drawing comment from Nigerians online.",
+   "n": 1,
+   "more": [
+    "The candidate is said to have turned down LASU while waiting for a UNILAG place.",
+    "Social media users are sharing their own JAMB admission experiences."
+   ],
+   "added": "2026-10-27",
+   "at": "2026-10-27T13:37Z"
+  },
+  {
+   "id": "mtn-data-finishes-fast-settings",
+   "c": "viral",
+   "h": "MTN explains why subscribers' data runs out quickly and suggests phone settings to change",
+   "p": "MTN has reportedly given reasons customers feel their data finishes fast, pointing to background app updates and automatic usage. The telecoms company also suggested settings subscribers can adjust on their phones to cut consumption.",
+   "n": 1,
+   "more": [
+    "Background updates and auto-playing video are among the usual culprits.",
+    "Many subscribers have complained about fast-depleting data in recent months."
+   ],
+   "added": "2026-10-27",
+   "at": "2026-10-27T13:37Z"
+  },
+  {
+   "id": "qatar-multiple-entry-visa-47-countries",
+   "c": "world",
+   "h": "Qatar publishes conditions citizens of 47 countries must meet for multiple-entry visas",
+   "p": "Qatar has reportedly set out eligibility conditions for citizens of 47 countries who want multiple-entry visas. The rules are said to cover requirements applicants must satisfy before approval.",
+   "n": 1,
+   "more": [
+    "The list of 47 countries is said to include several African nations.",
+    "Applicants are advised to check the official visa portal for the full conditions."
+   ],
+   "added": "2026-10-27",
+   "at": "2026-10-27T13:37Z"
+  },
   {
    "id": "bassey-purity-pledge-hallelujah-challenge",
    "c": "viral",
@@ -1035,409 +1074,6 @@
    "credit": "Photo: Trend Naija",
    "added": "2026-10-26",
    "at": "2026-10-26T21:37Z"
-  },
-  {
-   "id": "omah-lay-accident-tour-postponed",
-   "c": "music",
-   "h": "Omah Lay reportedly breaks silence on an accident and postpones some Clarity of Mind tour dates",
-   "p": "Singer Omah Lay has reportedly addressed an accident and said some dates of his Clarity of Mind tour will be pushed back. Details of his condition and the new dates were not immediately clear. He has since confirmed a knee injury from a music video shoot, with tour dates postponed from 30 October.",
-   "n": 2,
-   "more": [
-    "The tour supports his latest album and was due to run through November.",
-    "Fans have been sending him messages of support online."
-   ],
-   "added": "2026-10-26",
-   "at": "2026-10-26T21:37Z",
-   "img": "img/omah-lay-accident-tour-postponed.jpg",
-   "alt": "Omah Lay",
-   "credit": "Photo: Warner Records / Wikimedia Commons, CC BY-SA 4.0"
-  },
-  {
-   "id": "troops-iswap-lake-chad-strikes",
-   "c": "naija",
-   "h": "Troops reportedly kill 16 ISWAP fighters in Lake Chad air and artillery strikes",
-   "p": "The military says air and artillery strikes around the Lake Chad area killed 16 ISWAP fighters and wounded a senior commander. Independent confirmation of the figures was not immediately available.",
-   "n": 1,
-   "more": [
-    "The operation is part of continuing efforts against insurgents in the north-east.",
-    "No casualties among troops were mentioned."
-   ],
-   "added": "2026-10-26",
-   "at": "2026-10-26T21:37Z"
-  },
-  {
-   "id": "madagascar-tycoon-nigeria-broadcast",
-   "c": "naija",
-   "h": "Madagascar's richest man reportedly plans radio and TV stations in Nigeria in a $450m deal",
-   "p": "Madagascar's wealthiest businessman is said to be planning radio and television stations in Nigeria, backed by a reported $450 million investment. Regulatory approvals and timelines were not stated.",
-   "n": 1,
-   "more": [
-    "The plan would add new broadcast competition in the Nigerian market.",
-    "Details are based on early reports and may change."
-   ],
-   "added": "2026-10-26",
-   "at": "2026-10-26T21:37Z"
-  },
-  {
-   "id": "shettima-obi-statistics",
-   "c": "elections",
-   "h": "Shettima says Peter Obi has little to offer Nigerians beyond statistics",
-   "p": "Vice President Kashim Shettima has criticised NDC presidential candidate Peter Obi, saying the former Anambra governor offers voters numbers rather than solutions. Obi's camp has not yet replied in detail.",
-   "n": 2,
-   "more": [
-    "The remark follows Shettima's earlier jibe that drew a response from Atiku's camp.",
-    "Campaign exchanges between the APC and the opposition are intensifying."
-   ],
-   "added": "2026-10-26",
-   "img": "img/obi-supporter-rilwan-arrest.jpg",
-   "alt": "Peter Obi",
-   "credit": "Photo: Plus TV Africa / Wikimedia Commons, CC BY 3.0",
-   "at": "2026-10-26T20:36Z"
-  },
-  {
-   "id": "ndc-campaign-council-2027",
-   "c": "elections",
-   "h": "NDC unveils its 2027 campaign council with Obi, Kwankwaso and Dickson among the names",
-   "p": "The NDC has named its campaign council for the 2027 election, listing Peter Obi, Rabiu Kwankwaso and Seriake Dickson among its members. The party is positioning the council as a broad coalition ahead of the race.",
-   "n": 1,
-   "more": [
-    "The announcement comes a day after the APC flagged off its own campaign.",
-    "More council members are expected to be named."
-   ],
-   "added": "2026-10-26",
-   "img": "img/obi-supporter-rilwan-arrest.jpg",
-   "alt": "Peter Obi",
-   "credit": "Photo: Plus TV Africa / Wikimedia Commons, CC BY 3.0",
-   "at": "2026-10-26T20:36Z"
-  },
-  {
-   "id": "tompolo-35-vehicles-adamawa",
-   "c": "politics",
-   "h": "Tompolo reportedly donates 35 campaign vehicles for Tinubu's re-election drive in Adamawa",
-   "p": "Niger Delta leader Government Ekpemupolo, known as Tompolo, has reportedly presented 35 vehicles to support President Tinubu's 2027 campaign in Adamawa State. The gesture is said to be part of efforts to strengthen the APC's base in the North-East.",
-   "n": 1,
-   "more": [
-    "Campaign vehicles and mobilisation have become a visible part of the early race."
-   ],
-   "added": "2026-10-26",
-   "at": "2026-10-26T20:36Z"
-  },
-  {
-   "id": "cash-transfer-office-audit-33bn",
-   "c": "naija",
-   "h": "Audit report questions N76 billion in cash transfer payments, including N33.75 billion to unverified beneficiaries",
-   "p": "Auditors have reportedly queried N76.24 billion in transactions at the National Cash Transfer Office, saying payments of N33.75 billion went to beneficiaries who were not identified. The payments span the Buhari and Tinubu administrations.",
-   "n": 1,
-   "more": [
-    "The office has not yet publicly responded to the findings."
-   ],
-   "added": "2026-10-26",
-   "at": "2026-10-26T20:36Z"
-  },
-  {
-   "id": "pate-ebola-free-december-7",
-   "c": "naija",
-   "h": "Health Minister says Nigeria could declare itself Ebola-free from 7 December",
-   "p": "Health Minister Ali Pate has said Nigeria can declare its Ebola outbreak over as early as 7 December 2026, provided no new cases are recorded. Contacts of the earlier patient remain under monitoring. The WHO has meanwhile clarified that Nigeria has not formally been declared Ebola-free, even though no active confirmed case exists.",
-   "n": 3,
-   "more": [
-    "The countdown depends on the end of the monitoring period for contacts.",
-    "The NCDC has urged Nigerians to rely on official updates."
-   ],
-   "added": "2026-10-26",
-   "at": "2026-10-26T20:36Z"
-  },
-  {
-   "id": "man-utd-four-managers-carrick",
-   "c": "sport",
-   "h": "Manchester United reportedly weigh four possible replacements for Michael Carrick ahead of crisis talks",
-   "p": "Manchester United's board is said to be considering at least four managers to replace Michael Carrick as it meets to discuss his future. No decision has been announced by the club.",
-   "n": 2,
-   "more": [
-    "Carrick has faced pressure over recent results and team selections.",
-    "Reports of dressing-room unrest have added to the debate."
-   ],
-   "added": "2026-10-26",
-   "at": "2026-10-26T20:36Z"
-  },
-  {
-   "id": "apc-youth-leader-suvs-backlash",
-   "c": "viral",
-   "h": "APC youth leader faces backlash after showing off luxury SUVs worth billions of naira",
-   "p": "An APC youth leader has drawn criticism online after publicly displaying a fleet of luxury SUVs reportedly worth billions of naira. Nigerians questioned the show of wealth amid economic hardship.",
-   "n": 1,
-   "more": [
-    "The post has been widely shared and quoted on social media."
-   ],
-   "added": "2026-10-26",
-   "at": "2026-10-26T20:36Z"
-  },
-  {
-   "id": "trump-nicki-minaj-rally-apology",
-   "c": "world",
-   "h": "Trump makes personal remark about Nicki Minaj at a rally, then apologises",
-   "p": "Donald Trump reportedly made a personal comment about rapper Nicki Minaj at a rally and later apologised for it. The exchange is drawing reaction from her fans online.",
-   "n": 1,
-   "more": [
-    "Minaj recently drew attention after showing off Air Force One's interior."
-   ],
-   "added": "2026-10-26",
-   "at": "2026-10-26T20:36Z"
-  },
-  {
-   "id": "marissa-mayer-ai-kids-outrage",
-   "c": "world",
-   "h": "Former Yahoo boss Marissa Mayer draws criticism for asking AI for advice about her children",
-   "p": "Marissa Mayer has sparked online debate after saying she asked an AI assistant to help describe her children. Critics called the move odd, while others defended it as a harmless use of the tool.",
-   "n": 1,
-   "more": [
-    "The remark has been widely shared on social media."
-   ],
-   "added": "2026-10-26",
-   "at": "2026-10-26T20:36Z"
-  },
-  {
-   "id": "blord-gifts-employee-car",
-   "c": "naija",
-   "h": "Blord rewards outstanding employee with a car, earns praise for appreciating hard work",
-   "p": "Businessman and crypto entrepreneur Linus Williams, popularly known as Blord, has reportedly gifted a car to one of his most dedicated employees in recognition of their loyalty and hard work. The gesture has drawn praise online and sparked a conversation about how Nigerian employers treat and reward their staff.",
-   "body": [
-    "Nigerian businessman and cryptocurrency entrepreneur Linus Williams, popularly known as Blord, has attracted attention on social media after reportedly gifting a car to one of his most dedicated employees.",
-    "The businessman, known for his involvement in technology and other business ventures, reportedly presented the vehicle to the worker in recognition of their commitment, loyalty and contributions to the growth of the business.",
-    "The generous gesture has drawn positive reactions, with many people praising Blord for recognising the efforts of someone who has contributed to his company's success.",
-    "In a society where employees often complain about poor treatment, inadequate salaries and a lack of appreciation from employers, such gestures serve as a reminder that dedication and hard work deserve recognition.",
-    "For many workers, receiving a car from an employer would be more than an ordinary gift. It could ease transportation difficulties, reduce daily expenses and make a meaningful difference in their lives.",
-    "Blord's reported act of generosity also highlights the importance of building a workplace where employees feel valued and appreciated.",
-    "While business owners are often celebrated for their financial achievements, the people working behind the scenes also play important roles in helping those businesses succeed.",
-    "The development has sparked conversations about how employers can motivate their workers through recognition, fair treatment and meaningful rewards.",
-    "There is something encouraging about a successful businessman remembering the people who work hard to help him succeed.",
-    "Congratulations to the lucky employee, and commendation to Blord for this thoughtful gesture.",
-    "What do you think about employers rewarding loyal and hardworking staff with gifts such as cars, houses or financial support? Should more Nigerian business owners adopt this practice?"
-   ],
-   "n": 1,
-   "hot": 8,
-   "img": "img/blord-gifts-employee-car.jpg",
-   "alt": "Blord, in a black waistcoat and tie, holds open the door of a black car as the employee sits inside",
-   "credit": "Image: social media",
-   "owner": true,
-   "added": "2026-10-26",
-   "at": "2026-10-26T19:14Z"
-  },
-  {
-   "id": "trump-norway-nobel-remarks",
-   "c": "world",
-   "h": "Trump reportedly lashes out at Norway after missing the Nobel Peace Prize",
-   "p": "US President Donald Trump has reportedly used harsh language about Norway after not winning the Nobel Peace Prize, and said Norwegian immigrants are not welcome in the United States. The remarks are drawing wide reaction online.",
-   "n": 2,
-   "more": [
-    "The comments are said to have come in a fresh round of public remarks.",
-    "Reactions have poured in from critics and supporters on social media."
-   ],
-   "img": "img/trump-norway-nobel.jpg",
-   "alt": "Donald Trump official portrait",
-   "credit": "Photo: Daniel Torok / Wikimedia Commons, Public domain",
-   "added": "2026-10-26",
-   "at": "2026-10-26T18:34Z"
-  },
-  {
-   "id": "elumelu-zlatan-wedding-gift",
-   "c": "celebs",
-   "h": "Zlatan Ibile shows off wedding gift from billionaire Tony Elumelu and his wife Davita",
-   "p": "Singer Zlatan Ibile has shared the wedding present he reportedly received from banker Tony Elumelu and his wife Davita, and fans are reacting. The gift adds to the long list of talking points from his star-studded wedding.",
-   "n": 1,
-   "more": [
-    "Zlatan reportedly posted the gift for his followers to see.",
-    "Fans are praising the gesture in the comments."
-   ],
-   "img": "img/elumelu-zlatan-wedding-gift.jpg",
-   "alt": "Tony Elumelu",
-   "credit": "Photo: Heirs Holdings / Wikimedia Commons, CC0",
-   "added": "2026-10-26",
-   "at": "2026-10-26T18:34Z"
-  },
-  {
-   "id": "don-jazzy-tech-scholarship",
-   "c": "music",
-   "h": "Don Jazzy announces tech scholarship for Nigerians and plans to provide laptops",
-   "p": "Mavin Records boss Don Jazzy has reportedly announced a scholarship for Nigerians who want to study technology, and says he plans to provide laptops for beneficiaries. Fans are praising the move online.",
-   "n": 1,
-   "more": [
-    "Details on how to apply are said to be coming soon.",
-    "The announcement follows other donations he has reportedly made recently."
-   ],
-   "img": "img/don-jazzy-tech-scholarship.jpg",
-   "alt": "Don Jazzy",
-   "credit": "Photo: Unknown author / Wikimedia Commons, CC BY 4.0",
-   "added": "2026-10-26",
-   "at": "2026-10-26T18:34Z"
-  },
-  {
-   "id": "blessing-ceo-denies-drug-claims",
-   "c": "creators",
-   "h": "\"I am not a drug addict, I don't smoke, drink or even party\" – Blessing CEO breaks silence on drug claims",
-   "p": "Relationship therapist and social media personality Blessing CEO has firmly denied claims of drug use in her first interview since her release from custody. She said she has never smoked, drunk alcohol or taken illegal substances, and that many of the stories spread about her online have nothing to do with her real life.",
-   "body": [
-    "Popular Nigerian relationship therapist and social media personality Blessing CEO has strongly denied allegations of drug use, insisting that she has never been involved in smoking, drinking alcohol or taking illegal substances.",
-    "Blessing made the clarification during a recent interview following her release from custody, where she addressed several rumours and allegations that circulated on social media while she was detained.",
-    "During the interview, she was confronted with claims suggesting that she had been struggling with substance use and needed rehabilitation or professional help rather than business opportunities.",
-    "However, the controversial relationship therapist dismissed the allegations, describing them as false and misleading.",
-    "\"I am not a drug addict. I do not smoke, drink, and I do not even party,\" she stated.",
-    "According to Blessing, many of the stories circulated about her on social media have little or no connection to her actual lifestyle.",
-    "She expressed frustration over what she described as the growing habit of internet users creating and spreading damaging narratives about public figures without verifying their claims.",
-    "Blessing maintained that being controversial or frequently discussed online should not give people the freedom to make unfounded accusations about her personal life.",
-    "Her remarks have once again drawn attention to the challenges celebrities and internet personalities face when rumours about their private lives spread across social media.",
-    "While Blessing has firmly rejected the allegations, the claims remain unsubstantiated, and no verified evidence of illegal drug use was presented in the account of the interview."
-   ],
-   "n": 1,
-   "hot": 9,
-   "img": "img/blessing-ceo-denies-drug-claims.jpg",
-   "alt": "Blessing CEO poses with her chin on her hand, above two stills from the interview",
-   "credit": "Image: social media",
-   "owner": true,
-   "added": "2026-10-26",
-   "at": "2026-10-26T18:24Z"
-  },
-  {
-   "id": "atiku-camp-shettima-kano-school",
-   "c": "politics",
-   "h": "Atiku's camp hits back at Shettima over a remark about a Kano school",
-   "p": "Atiku Abubakar's camp has reportedly replied to Vice President Kashim Shettima after a remark about a Kano school that drew online reaction. The camp is said to have questioned the educational record of President Tinubu in return. The exchange adds to the sharp tone of the early 2027 campaign.",
-   "n": 1,
-   "more": [
-    "Supporters of both sides have joined the exchange on social media.",
-    "The campaigns are yet to issue any further statement."
-   ],
-   "img": "img/atiku-adc-council.jpg",
-   "alt": "Atiku Abubakar",
-   "credit": "Photo: Trend Naija",
-   "added": "2026-10-26",
-   "at": "2026-10-26T17:35Z"
-  },
-  {
-   "id": "king-mitchy-burna-boy-vdm-n250m",
-   "c": "music",
-   "h": "King Mitchy claims Burna Boy never paid VeryDarkMan's N250m, says a school was built with NGO funds",
-   "p": "Nollywood-linked personality King Mitchy has reportedly claimed that Burna Boy never paid the N250 million once linked to VeryDarkMan, and that a school was instead built using funds from a non-governmental organisation. The claim is said to be his own and has not been confirmed by either camp.",
-   "n": 1,
-   "more": [
-    "The money was the subject of heated online debate earlier.",
-    "Neither Burna Boy nor VeryDarkMan has publicly responded to the claim."
-   ],
-   "img": "img/vdm.jpg",
-   "alt": "VeryDarkMan",
-   "credit": "Photo: CoreTechLogic / Wikimedia Commons, CC0",
-   "added": "2026-10-26",
-   "at": "2026-10-26T17:35Z"
-  },
-  {
-   "id": "peller-obi-livestream-plan",
-   "c": "creators",
-   "h": "Peller says he wants to stream with Peter Obi, as the plan trends",
-   "p": "TikTok streamer Peller has reportedly spoken about a planned livestream with Peter Obi, saying he simply wants to stream with him. He is said to have stressed that it should not be read as an endorsement. No date for the stream has been announced.",
-   "n": 2,
-   "more": [
-    "The plan has sparked debate among streamers' fans and Obi supporters.",
-    "Political content creators are courting younger voters ahead of 2027."
-   ],
-   "img": "img/peller-grow.jpg",
-   "alt": "Streamer Peller",
-   "credit": "Photo: LuckGr8t / Wikimedia Commons (CC0)",
-   "added": "2026-10-26",
-   "at": "2026-10-26T17:35Z"
-  },
-  {
-   "id": "ibiyeomie-tithe-christmas-clothes",
-   "c": "naija",
-   "h": "\"Don't buy Christmas clothes for your children without first paying your tithe!\" Pastor David Ibiyeomie sparks debate",
-   "p": "Pastor David Ibiyeomie has reportedly advised parents to pay their tithes before spending money on Christmas clothes for their children. The comment has sparked debate about church priorities, with critics asking whether tithing should come before the basic needs and happiness of struggling families.",
-   "body": [
-    "Pastor David Ibiyeomie has reportedly advised parents to prioritise paying their tithes before spending money on Christmas clothes for their children.",
-    "But this raises a serious question about the priorities being preached in some churches today.",
-    "Imagine a struggling father or mother who has worked tirelessly throughout the year, trying to put food on the table, pay school fees and provide a little Christmas happiness for their children. Should such a parent feel guilty for buying their children new clothes because they have not paid their tithe?",
-    "Tithing is an important religious practice for many Christians, but should it come before the basic needs and happiness of one's children?",
-    "Critics are asking: since when did buying Christmas clothes for your own children become something you must first seek financial clearance from the church to do?"
-   ],
-   "n": 1,
-   "img": "img/ibiyeomie-tithe-christmas-clothes.jpg",
-   "alt": "Pastor David Ibiyeomie smiling in a navy suit and patterned tie against a grey background",
-   "credit": "Image: social media",
-   "owner": true,
-   "added": "2026-10-26",
-   "at": "2026-10-26T15:45Z"
-  },
-  {
-   "id": "lekki-street-boy-zlatan-wedding-money",
-   "c": "creators",
-   "h": "Lekki Street Boy shows off the huge amount of money he made at Zlatan's wedding!",
-   "p": "Social media personality Lekki Street Boy has got people talking after showing off the cash he reportedly received from wealthy guests and celebrities at Zlatan's lavish wedding. He thanked Soso Soberekon, Cubana Chief Priest and others who sprayed and handed him money during the celebration.",
-   "body": [
-    "Popular social media personality Lekki Street Boy has got people talking after showing off the money he reportedly received from wealthy guests and celebrities at Zlatan's lavish wedding celebration.",
-    "The excited young man could barely contain his happiness as he displayed the cash and expressed his appreciation to those who showed him love at the event.",
-    "He gave special thanks to popular entertainment personality Soso Soberekon, celebrity businessman Cubana Chief Priest, and several others who generously sprayed and handed him money during the celebration.",
-    "From the look of things, Lekki Street Boy did not just attend Zlatan's wedding to celebrate with the couple. He also returned home with what appears to be a serious financial blessing.",
-    "While some people attended the wedding to enjoy the food, music and celebrity atmosphere, this young man apparently had another reason to remember the occasion."
-   ],
-   "n": 1,
-   "owner": true,
-   "added": "2026-10-26",
-   "at": "2026-10-26T14:55Z",
-   "img": "img/lekki-street-boy-zlatan-wedding-money.jpg",
-   "alt": "Lekki Street Boy holds bundles of dollar notes, with inset photos of two of the celebrities he thanked",
-   "credit": "Image: social media"
-  },
-  {
-   "id": "brazil-lula-supporters-celebrate",
-   "c": "world",
-   "h": "Jubilation in Brazil as Lula supporters pour onto the streets to celebrate election victory",
-   "p": "Supporters of Brazil's Workers' Party (PT) flooded the streets and set off fireworks to celebrate President Luiz Inácio Lula da Silva's narrow runoff win over Flávio Bolsonaro of the Liberal Party (PL). Lula took about 51.8% of the vote after the full count, winning a fourth term in one of the most fiercely contested races in the country's recent history.",
-   "n": 3,
-   "more": [
-    "Huge crowds dressed in the party's red filled one of São Paulo's main avenues late into the night.",
-    "Lula came from behind after trailing Bolsonaro in the first round.",
-    "His new term begins in January 2027."
-   ],
-   "img": "img/brazil-lula-supporters-celebrate.jpg",
-   "alt": "Aerial view of a huge crowd in red filling a wide city avenue at night, with an inset photo of Lula in the presidential sash giving a thumbs-up",
-   "credit": "Image: social media",
-   "owner": true,
-   "added": "2026-10-26",
-   "at": "2026-10-26T14:45Z"
-  },
-  {
-   "id": "el-rufai-wife-court-kiss",
-   "c": "politics",
-   "h": "Love in the courtroom! El-Rufai shares a kiss with his wife as they reunite amid his legal troubles",
-   "p": "Former Kaduna State Governor Nasir El-Rufai has attracted attention for a tender moment with his wife during a court appearance, sharing a kiss as the couple reunited. The moment comes amid his ongoing legal dispute with the ICPC, which has included allegations that his wife and son were denied access to him while he was in custody.",
-   "body": [
-    "Despite the serious legal battle surrounding him, former Kaduna State Governor Nasir El-Rufai has attracted attention for a tender moment with his wife during a court appearance.",
-    "The couple's affectionate reunion has added a personal dimension to the former governor's legal troubles, reminding Nigerians that behind the political controversies and courtroom proceedings, there is also a family dealing with the situation.",
-    "El-Rufai has been involved in a legal dispute with the Independent Corrupt Practices and Other Related Offences Commission (ICPC), including allegations that his wife and son were denied access to him while he was in custody.",
-    "Whatever anyone thinks about El-Rufai politically, seeing a husband and wife show affection during such a difficult period is bound to attract reactions."
-   ],
-   "n": 1,
-   "img": "img/el-rufai-wife-court-kiss.jpg",
-   "alt": "Nasir El-Rufai, in a cream jacket, kisses his wife, who wears a cream headscarf and pink floral dress, in a wood-panelled courtroom",
-   "credit": "Image: social media",
-   "owner": true,
-   "added": "2026-10-26",
-   "at": "2026-10-26T14:26Z"
-  },
-  {
-   "id": "chris-brown-suspended-sentence",
-   "c": "music",
-   "h": "Chris Brown reportedly given a suspended eight-month prison sentence over a 2023 nightclub brawl",
-   "p": "A UK court has reportedly handed the singer a suspended eight-month sentence after he pleaded guilty to a public order offence linked to a brawl at a London nightclub in 2023. Being suspended, the term is not served unless conditions are breached.",
-   "n": 1,
-   "more": [
-    "The case dates back to an incident at a London nightclub in 2023.",
-    "The singer had pleaded guilty to a public order offence."
-   ],
-   "added": "2026-10-26",
-   "at": "2026-10-26T13:54Z",
-   "img": "img/chris-brown-suspended-sentence.jpg",
-   "alt": "Chris Brown in a black cap, resting his chin on his hand",
-   "credit": "Image: Chris Brown / social media",
-   "owner": true
   }
  ]
 }
