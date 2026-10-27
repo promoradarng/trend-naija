@@ -15,6 +15,29 @@
  },
  "stories": [
   {
+   "id": "lagos-house-helicopter-visit",
+   "c": "viral",
+   "h": "Money is talking! Man shares video of a Lagos mansion with its own helicopter as another helicopter flies in for a visit",
+   "p": "A video of a luxury residence in Lagos, reportedly with its own helicopter parked on the roof, has stunned Nigerians online, especially as a second helicopter appears to arrive for a visit. The footage has sparked talk about extreme wealth in a country where millions are struggling with the cost of living.",
+   "body": [
+    "A video making the rounds on social media has left many Nigerians stunned after a man shared footage of a luxurious residence in Lagos, reportedly featuring a private helicopter.",
+    "What caught people's attention was the sight of another helicopter apparently arriving to visit the property.",
+    "Imagine living in a house where your visitors don't have to worry about Lagos traffic because they can simply fly in with their own helicopters!",
+    "The footage has sparked reactions about the extraordinary wealth enjoyed by some individuals in Nigeria, a country where millions of people are struggling with the rising cost of living.",
+    "While the identity of the property owner and the circumstances surrounding the helicopter visit have not been independently confirmed, the video has certainly given Nigerians something to talk about.",
+    "There are levels to this money thing!",
+    "Imagine your friend calling you and saying, \"Guy, I'm coming to your house. Please, is there space to land my helicopter?\""
+   ],
+   "n": 1,
+   "hot": 1,
+   "img": "img/lagos-house-helicopter-visit.jpg",
+   "alt": "A helicopter hovers above a white mansion at dusk while another helicopter sits on its lit rooftop helipad",
+   "credit": "Image: social media",
+   "owner": true,
+   "added": "2026-10-27",
+   "at": "2026-10-27T11:55Z"
+  },
+  {
    "id": "fg-law-protect-tinubu-reforms",
    "c": "politics",
    "h": "Tinubu's economic reforms may become difficult for future presidents to reverse as FG considers new law",
@@ -28,7 +51,7 @@
     "What do you think? Is this about protecting Nigeria's economic future, or limiting the choices of future presidents and the Nigerian people?"
    ],
    "n": 1,
-   "hot": 1,
+   "hot": 2,
    "img": "img/fg-law-protect-tinubu-reforms.jpg",
    "alt": "President Bola Tinubu signs a document at a table as Vice President Kashim Shettima and other officials look on",
    "credit": "Image: social media",
@@ -171,7 +194,7 @@
     "Where and when the footage was recorded, and whether the audio has been edited, have not been independently verified."
    ],
    "n": 1,
-   "hot": 2,
+   "hot": 3,
    "img": "img/tinubu-must-go-chant-speech.jpg",
    "alt": "President Bola Tinubu, in a red cap and APC-branded attire, speaks into a microphone as Governor Babajide Sanwo-Olu and another official look on",
    "credit": "Image: social media",
@@ -185,7 +208,7 @@
    "h": "Peller shocks everyone as he brings his ex-girlfriend who never believed in him onto TikTok Live!",
    "p": "Streamer Peller has got fans talking after reportedly bringing an ex-girlfriend, said to have doubted him before his rise to fame, onto his TikTok Live. The surprise moment has drawn a flood of reactions online, coming just weeks after his much-discussed clashes with his wife, fellow streamer Jarvis.",
    "n": 1,
-   "hot": 3,
+   "hot": 4,
    "more": [
     "The moment has drawn mixed reactions from fans online.",
     "It comes weeks after his public clashes with his wife, fellow streamer Jarvis."
@@ -402,7 +425,7 @@
     "What is your opinion? Should the Anambra State Government do more to honour Zebrudaya, or should recognition of national legends go beyond their states of origin?"
    ],
    "n": 1,
-   "hot": 4,
+   "hot": 5,
    "img": "img/otti-honours-zebrudaya.jpg",
    "alt": "Tony Akposheri speaking on a podcast, above a portrait of Chief Chika Okpala in a red cap and a photo of guests around a 75th birthday cake",
    "credit": "Image: social media",
@@ -531,7 +554,7 @@
     "What do you think should be done to tackle counterfeit currency operations in South Africa and protect innocent businesses from financial losses?"
    ],
    "n": 1,
-   "hot": 5,
+   "hot": 6,
    "img": "img/fake-r100-notes-south-africa.jpg",
    "alt": "South African R100 banknotes spread out in an open black bag",
    "credit": "Image: social media",
@@ -592,7 +615,7 @@
    "h": "Nigeria shines at the Ballon d'Or as Burna Boy presents the Sócrates Award to Bukayo Saka",
    "p": "Afrobeats superstar Burna Boy presented the Sócrates Award to Arsenal and England star Bukayo Saka at the Ballon d'Or ceremony in London on Monday night. The award recognises footballers who make a positive impact on society through humanitarian and community work. It was a proud moment for Nigerian music and football on the global stage.",
    "n": 4,
-   "hot": 6,
+   "hot": 7,
    "more": [
     "Burna Boy became the first Nigerian artiste to present an award at the Ballon d'Or, which was held in London for the first time.",
     "Saka, who is of Nigerian descent, was honoured for his work with the BigShoe charity, which has funded surgeries for children in Nigeria.",
@@ -773,7 +796,7 @@
    "h": "Harry Kane wins the 2026 Ballon d'Or, ahead of Lamine Yamal and Kylian Mbappe",
    "p": "Harry Kane has been named winner of the 2026 Ballon d'Or at the ceremony in London, becoming the first Englishman to take the award in 25 years. He beat Barcelona's Lamine Yamal and PSG's Kylian Mbappe to the prize. Kane has also broken his silence after the win.",
    "n": 3,
-   "hot": 7,
+   "hot": 8,
    "more": [
     "Burna Boy reportedly presented the Socrates Award to England's Bukayo Saka at the ceremony.",
     "The win follows the earlier mix-up in which the winners were published online hours before the event."
@@ -1092,7 +1115,7 @@
     "What do you think about employers rewarding loyal and hardworking staff with gifts such as cars, houses or financial support? Should more Nigerian business owners adopt this practice?"
    ],
    "n": 1,
-   "hot": 7,
+   "hot": 8,
    "img": "img/blord-gifts-employee-car.jpg",
    "alt": "Blord, in a black waistcoat and tie, holds open the door of a black car as the employee sits inside",
    "credit": "Image: social media",
@@ -1166,7 +1189,7 @@
     "While Blessing has firmly rejected the allegations, the claims remain unsubstantiated, and no verified evidence of illegal drug use was presented in the account of the interview."
    ],
    "n": 1,
-   "hot": 8,
+   "hot": 9,
    "img": "img/blessing-ceo-denies-drug-claims.jpg",
    "alt": "Blessing CEO poses with her chin on her hand, above two stills from the interview",
    "credit": "Image: social media",
@@ -1235,7 +1258,6 @@
     "Critics are asking: since when did buying Christmas clothes for your own children become something you must first seek financial clearance from the church to do?"
    ],
    "n": 1,
-   "hot": 9,
    "img": "img/ibiyeomie-tithe-christmas-clothes.jpg",
    "alt": "Pastor David Ibiyeomie smiling in a navy suit and patterned tie against a grey background",
    "credit": "Image: social media",
