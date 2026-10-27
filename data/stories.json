@@ -15,6 +15,33 @@
  },
  "stories": [
   {
+   "id": "fubara-backs-wike-rainbow-coalition",
+   "c": "elections",
+   "h": "Rivers politics: Fubara backs Wike's cross-party Rainbow Coalition and its 2027 candidates",
+   "p": "Governor Siminalayi Fubara has publicly pledged support for President Tinubu, Nyesom Wike and the seven-party Rainbow Coalition, which has unveiled Kingsley Chinda and Major Jack of the APC as its governorship ticket. The move shows the former rivals now campaigning in the same bloc, though a court challenge to Chinda's eligibility is still pending.",
+   "body": [
+    "Governor Siminalayi Fubara has publicly pledged support for President Tinubu, Nyesom Wike and the Rainbow Coalition's 2027 candidates in Rivers State. The seven-party alliance unveiled Kingsley Chinda and Major Jack, both of the APC, as its governorship and deputy governorship choices. The rest of its slate combines APC and PDP candidates.",
+    "## Why it is trending",
+    "\"Rainbow Coalition\" entered Nigeria's trending topics on X. The unveiling confirms that Fubara and Wike are now openly campaigning within the same political bloc after their long-running disagreement.",
+    "## What has changed",
+    "The reconciliation has moved from meetings and public statements to a jointly supported electoral slate. The coalition adopted:",
+    "Kingsley Chinda and Major Jack for governor and deputy governor.",
+    "Two APC and one PDP senatorial candidates.",
+    "Ten APC and three PDP House of Representatives candidates.",
+    "Twenty-one APC and eleven PDP State Assembly candidates.",
+    "## Still uncertain",
+    "A court challenge to Chinda's eligibility remains unresolved, with a hearing reportedly scheduled for 4 November 2026. The September Supreme Court decision at the centre of the dispute did not specifically disqualify Chinda, and rival groups disagree over what it means. The coalition's endorsement therefore does not settle the pending legal question."
+   ],
+   "n": 1,
+   "hot": 1,
+   "img": "img/fubara-backs-wike-rainbow-coalition.jpg",
+   "alt": "Nyesom Wike speaking at a news conference, above Governor Siminalayi Fubara in a red cap speaking into a microphone",
+   "credit": "Image: social media",
+   "owner": true,
+   "added": "2026-10-27",
+   "at": "2026-10-27T20:01Z"
+  },
+  {
    "id": "atiku-reacts-tinubu-loan-request",
    "c": "politics",
    "h": "Atiku reacts to Tinubu's fresh $20.5bn loan request, points back to his earlier warning",
@@ -111,7 +138,7 @@
     "Do you believe Blessing CEO deserves a second chance, or do you think she still has a lot to prove to Nigerians?"
    ],
    "n": 1,
-   "hot": 1,
+   "hot": 2,
    "img": "img/blessing-ceo-starting-afresh.jpg",
    "alt": "Blessing CEO looking tearful in a video, with an inset photo of her in a green satin shirt",
    "credit": "Image: social media",
@@ -315,7 +342,7 @@
     "What do you think? Should individuals who publicly threaten religious violence face prosecution, even when no attack has taken place?"
    ],
    "n": 4,
-   "hot": 2,
+   "hot": 3,
    "img": "img/police-arrest-umar-ibrahim-gandi.jpg",
    "alt": "Two stills from the viral video showing the suspect in a blue beret and brown uniform chanting as others march behind him",
    "credit": "Image: social media",
@@ -341,7 +368,7 @@
     "What do you think? Is she simply enjoying the Nigerian lifestyle, or has love made it difficult for her to return to America?"
    ],
    "n": 1,
-   "hot": 3,
+   "hot": 4,
    "img": "img/carter-efe-girlfriend-taylor-jasmine-leaving-nigeria.jpg",
    "alt": "Two photos of Carter Efe with Taylor Jasmine, beside screenshots of her posts on X saying she does not want to leave Nigeria",
    "credit": "Image: social media",
@@ -423,7 +450,7 @@
     "Should the Actors Guild of Nigeria establish a dedicated welfare and rehabilitation fund to support actors facing serious personal and health challenges?"
    ],
    "n": 1,
-   "hot": 4,
+   "hot": 5,
    "img": "img/jerry-williams-izutech-agn.jpg",
    "alt": "Two photos of actor Jerry Williams: on the left in a beige hoodie with his hands cuffed, on the right a close-up in a grey T-shirt",
    "credit": "Image: social media",
@@ -697,7 +724,7 @@
     "The question Nigerians are asking is simple: if INEC cannot guarantee the authenticity of the identities in its electoral register, how can citizens be confident that it will deliver free, fair and credible elections in 2027?"
    ],
    "n": 4,
-   "hot": 5,
+   "hot": 6,
    "img": "img/inec-ai-images-voter-register.jpg",
    "alt": "Screenshot of four voter register entries with passport photos marked \"AI\"; names and numbers blurred by Trend Naija",
    "credit": "Image: social media (names blurred by Trend Naija)",
@@ -859,7 +886,7 @@
     "Imagine your friend calling you and saying, \"Guy, I'm coming to your house. Please, is there space to land my helicopter?\""
    ],
    "n": 1,
-   "hot": 6,
+   "hot": 7,
    "img": "img/lagos-house-helicopter-visit.jpg",
    "alt": "A helicopter hovers above a white mansion at dusk while another helicopter sits on its lit rooftop helipad",
    "credit": "Image: social media",
@@ -881,7 +908,7 @@
     "What do you think? Is this about protecting Nigeria's economic future, or limiting the choices of future presidents and the Nigerian people?"
    ],
    "n": 1,
-   "hot": 7,
+   "hot": 8,
    "img": "img/fg-law-protect-tinubu-reforms.jpg",
    "alt": "President Bola Tinubu signs a document at a table as Vice President Kashim Shettima and other officials look on",
    "credit": "Image: social media",
@@ -1024,7 +1051,7 @@
     "Where and when the footage was recorded, and whether the audio has been edited, have not been independently verified."
    ],
    "n": 1,
-   "hot": 8,
+   "hot": 9,
    "img": "img/tinubu-must-go-chant-speech.jpg",
    "alt": "President Bola Tinubu, in a red cap and APC-branded attire, speaks into a microphone as Governor Babajide Sanwo-Olu and another official look on",
    "credit": "Image: social media",
@@ -1038,7 +1065,6 @@
    "h": "Peller shocks everyone as he brings his ex-girlfriend who never believed in him onto TikTok Live!",
    "p": "Streamer Peller has got fans talking after reportedly bringing an ex-girlfriend, said to have doubted him before his rise to fame, onto his TikTok Live. The surprise moment has drawn a flood of reactions online, coming just weeks after his much-discussed clashes with his wife, fellow streamer Jarvis.",
    "n": 1,
-   "hot": 9,
    "more": [
     "The moment has drawn mixed reactions from fans online.",
     "It comes weeks after his public clashes with his wife, fellow streamer Jarvis."
