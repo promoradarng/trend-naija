@@ -1,5 +1,5 @@
 {
- "updated": "Updated 08:40 GMT",
+ "updated": "Updated 09:33 GMT",
  "date": "Tuesday, 27 October 2026",
  "categories": {
   "all": "All gist",
@@ -14,6 +14,93 @@
   "sport": "Sport"
  },
  "stories": [
+  {
+   "id": "wike-promises-appointment-pdp-candidate-steps-down",
+   "c": "politics",
+   "h": "Wike reportedly promises Tinubu appointment for PDP candidate who stepped down for APC",
+   "p": "FCT Minister Nyesom Wike has reportedly pledged a federal appointment from President Tinubu to a PDP candidate who withdrew from a race in favour of the APC candidate. The reported promise is likely to draw reaction from opposition parties ahead of 2027.",
+   "n": 1,
+   "more": [
+    "Opposition parties are yet to respond to the reported pledge.",
+    "The details of the post on offer have not been disclosed."
+   ],
+   "added": "2026-10-27",
+   "at": "2026-10-27T09:37Z"
+  },
+  {
+   "id": "2baba-changed-man-natasha-osawaru",
+   "c": "celebs",
+   "h": "2Baba says he is 'a changed man' as family saga with Natasha Osawaru continues",
+   "p": "Singer 2Baba has reportedly opened up on a new personal resolution while the dispute involving his family and Natasha Osawaru continues to attract public attention. He is said to have described himself as a changed man.",
+   "n": 1,
+   "more": [
+    "The singer's family situation has been in the news for months.",
+    "Fans are divided in their reactions online."
+   ],
+   "added": "2026-10-27",
+   "img": "img/2baba-changed-man-natasha-osawaru.jpg",
+   "alt": "2Baba",
+   "credit": "Photo: One Africa Music Fest / Wikimedia Commons, CC BY 3.0",
+   "at": "2026-10-27T09:37Z"
+  },
+  {
+   "id": "trump-reward-voter-fraud-tips",
+   "c": "world",
+   "h": "Trump reportedly offers $1 million rewards for tips on voter fraud in US elections",
+   "p": "US President Donald Trump has reportedly said the government will pay $1 million for information that leads to proof of voter fraud. The announcement is said to have come as the American political season heats up.",
+   "n": 1,
+   "more": [
+    "Critics are expected to question how such rewards would be verified and funded.",
+    "No official guidance on how to claim the reward has been reported yet."
+   ],
+   "added": "2026-10-27",
+   "img": "img/trump-reward-voter-fraud-tips.jpg",
+   "alt": "Donald Trump official portrait",
+   "credit": "Photo: Shealeah Craighead / Wikimedia Commons, Public domain",
+   "at": "2026-10-27T09:37Z"
+  },
+  {
+   "id": "iyabo-ojo-paulo-sweet-exchange",
+   "c": "celebs",
+   "h": "Iyabo Ojo and Paulo's sweet exchange gets fans talking amid rumours of a new man",
+   "p": "A friendly public exchange between Nollywood actress Iyabo Ojo and Paulo has caught the attention of fans, who are linking it to rumours that she has a new partner. Neither has confirmed any relationship.",
+   "n": 1,
+   "more": [
+    "Fans have flooded the comment section with guesses.",
+    "Iyabo Ojo has not addressed the rumours directly."
+   ],
+   "added": "2026-10-27",
+   "img": "img/iyabo-ojo-paulo-sweet-exchange.jpg",
+   "alt": "Iyabo Ojo",
+   "credit": "Photo: Danielle G. Campbell / Wikimedia Commons, CC BY-SA 4.0",
+   "at": "2026-10-27T09:37Z"
+  },
+  {
+   "id": "troops-arrest-mangu-militia-youth-chairman",
+   "c": "naija",
+   "h": "Troops reportedly arrest suspected militia member who is a youth chairman in Plateau's Mangu",
+   "p": "Soldiers have reportedly arrested a suspected militia member, said to be a youth chairman in Mangu, Plateau State, after a clash in the area. Further details on the case have not yet been released.",
+   "n": 1,
+   "more": [
+    "The area has seen repeated security incidents in recent months.",
+    "Authorities have not said what charges the suspect may face."
+   ],
+   "added": "2026-10-27",
+   "at": "2026-10-27T09:37Z"
+  },
+  {
+   "id": "bnpl-company-shuts-down-nigeria",
+   "c": "naija",
+   "h": "Nigerian buy-now-pay-later company reportedly shuts down after several years",
+   "p": "A Nigerian company offering buy-now-pay-later services has reportedly closed its doors after several years in operation. Customers with outstanding balances are said to be awaiting guidance.",
+   "n": 1,
+   "more": [
+    "Users are advised to watch for official notices on repayments.",
+    "The firm's reasons for closing are said to be commercial."
+   ],
+   "added": "2026-10-27",
+   "at": "2026-10-27T09:37Z"
+  },
   {
    "id": "ncdc-ebola-could-delay-2027-elections",
    "c": "elections",
