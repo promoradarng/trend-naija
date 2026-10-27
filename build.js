@@ -157,7 +157,9 @@ const footer = `<footer>
 `;
 
 // a story with "body" (array of paragraphs) carries its full text behind a "Read more" button
-const fullText = s => (s.body || []).length ? `<details class="full"><summary>Read more</summary>${s.body.map(t => `<p>${esc(t)}</p>`).join("")}</details>` : "";
+// a body line starting with "## " is a subheading
+const bodyLine = (t, cls) => t.startsWith("## ") ? `<h3 class="body-h">${esc(t.slice(3))}</h3>` : `<p${cls ? ` class="${cls}"` : ""}>${esc(t)}</p>`;
+const fullText = s => (s.body || []).length ? `<details class="full"><summary>Read more</summary>${s.body.map(t => bodyLine(t)).join("")}</details>` : "";
 
 function card(s) {
   const n = s.confirmed ? 2 : (s.n || 1);
@@ -312,7 +314,7 @@ function buildStories() {
   <h1>${esc(s.h)}</h1>
   ${when(s)}
   ${media(s, true)}
-  ${(s.body || []).length ? s.body.map(t => `<p class="story-text">${esc(t)}</p>`).join("\n  ") : `<p class="story-text">${esc(s.p)}</p>`}
+  ${(s.body || []).length ? s.body.map(t => bodyLine(t, "story-text")).join("\n  ") : `<p class="story-text">${esc(s.p)}</p>`}
   ${(s.more || []).length ? `<ul class="story-more">${s.more.map(m => `<li>${esc(m)}</li>`).join("")}</ul>` : ""}
 </article>
 <section class="story-related"><h3>More gist</h3><div class="river">${more.map(card).join("\n")}</div></section>`;
