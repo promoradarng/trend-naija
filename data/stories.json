@@ -1,5 +1,5 @@
 {
- "updated": "Updated 06:45 GMT",
+ "updated": "Updated 07:33 GMT",
  "date": "Tuesday, 27 October 2026",
  "categories": {
   "all": "All gist",
@@ -14,6 +14,108 @@
   "sport": "Sport"
  },
  "stories": [
+  {
+   "id": "mbappe-reacts-ballon-dor-loss-kane",
+   "c": "sport",
+   "h": "Kylian Mbappé responds after losing the 2026 Ballon d'Or to Harry Kane",
+   "p": "Kylian Mbappé has reportedly reacted to missing out on the 2026 Ballon d'Or, which went to England captain Harry Kane. The France forward finished behind Kane in the voting at the London ceremony. His response has drawn plenty of attention from football fans online.",
+   "n": 2,
+   "more": [
+    "Kane became the first Englishman to win the award in 25 years.",
+    "Lamine Yamal was also among the leading names in the voting.",
+    "The organisers earlier apologised after the winners were published by mistake."
+   ],
+   "added": "2026-10-27",
+   "at": "2026-10-27T07:35Z"
+  },
+  {
+   "id": "cbn-naira-fresh-losses-reserves-55bn",
+   "c": "naija",
+   "h": "Naira posts fresh losses as CBN adjusts the dollar rate, despite $55.2bn in reserves",
+   "p": "The Central Bank of Nigeria has adjusted its official dollar exchange rate, and the naira has recorded fresh losses. This comes even though the country's foreign reserves are reported at $55.2 billion. Analysts are watching how the currency moves in the coming days.",
+   "n": 2,
+   "more": [
+    "Reserves of $55.2bn are among the highest in recent years.",
+    "The naira has been under pressure in the official market this week."
+   ],
+   "added": "2026-10-27",
+   "at": "2026-10-27T07:35Z"
+  },
+  {
+   "id": "fccpc-updates-loan-apps-list",
+   "c": "naija",
+   "h": "FCCPC updates its list of approved loan apps, highlighting five platforms for salary earners",
+   "p": "Nigeria's consumer protection regulator has refreshed its list of loan apps, highlighting five platforms said to offer salary earners as much as N10 million. The update is meant to help borrowers pick registered lenders rather than unlicensed ones.",
+   "n": 2,
+   "more": [
+    "Borrowers are urged to check that an app is on the official list before sharing personal data.",
+    "Unregistered loan apps have faced complaints over harassment and hidden charges."
+   ],
+   "added": "2026-10-27",
+   "at": "2026-10-27T07:35Z"
+  },
+  {
+   "id": "toluwanising-burial-dispute",
+   "c": "music",
+   "h": "Dispute over burial of singer Toluwanising continues as relatives and supporters weigh in",
+   "p": "A disagreement over the burial of singer Toluwanising is reportedly playing out online. An uncle is said to have asked that he should not be buried yet, while others have come out to defend his widow and ask that she be allowed to mourn in peace.",
+   "n": 2,
+   "more": [
+    "A woman online said the widow is only 31 and should be left to grieve.",
+    "No official family statement has been shared publicly yet."
+   ],
+   "added": "2026-10-27",
+   "at": "2026-10-27T07:35Z"
+  },
+  {
+   "id": "keyamo-fresh-appointment-tinubu",
+   "c": "politics",
+   "h": "Tinubu gives Festus Keyamo a fresh appointment",
+   "p": "President Bola Tinubu has reportedly handed Aviation Minister Festus Keyamo a new appointment. Details of the new role are expected to be spelt out by the presidency.",
+   "n": 1,
+   "more": [
+    "Keyamo is one of the more visible ministers in the cabinet."
+   ],
+   "added": "2026-10-27",
+   "at": "2026-10-27T07:35Z"
+  },
+  {
+   "id": "who-nigeria-not-ebola-free-yet",
+   "c": "naija",
+   "h": "WHO says Nigeria has no active Ebola case but has not yet been declared Ebola-free",
+   "p": "The World Health Organization has clarified that Nigeria currently has no active confirmed Ebola case, but the country has not been formally declared Ebola-free. The clarification follows talk that Nigeria could make the declaration from 7 December.",
+   "n": 2,
+   "more": [
+    "The health minister earlier suggested the country could declare itself Ebola-free on 7 December.",
+    "Surveillance continues while the countdown runs."
+   ],
+   "added": "2026-10-27",
+   "at": "2026-10-27T07:35Z"
+  },
+  {
+   "id": "jasmine-taylor-gushes-carter-efe",
+   "c": "creators",
+   "h": "Jasmine Taylor gushes over Carter Efe: \"I found someone who does the most with me\"",
+   "p": "Jasmine Taylor has reportedly praised her partner, skit maker and streamer Carter Efe, saying she has found someone who does the most with her. The remarks have attracted warm and teasing reactions from fans.",
+   "n": 1,
+   "more": [
+    "The couple often feature each other in content online."
+   ],
+   "added": "2026-10-27",
+   "at": "2026-10-27T07:35Z"
+  },
+  {
+   "id": "sanusi-dankaka-remanded-governor-yusuf-images",
+   "c": "politics",
+   "h": "Man remanded in Kuje over alleged threat to leak Kano Governor Yusuf's private images",
+   "p": "A Federal High Court in Abuja has remanded Sanusi Dankaka at Kuje Correctional Centre over an alleged threat to leak private images of Kano State Governor Abba Yusuf. The case will continue at a later date.",
+   "n": 1,
+   "more": [
+    "The defendant is said to have been remanded pending further court proceedings."
+   ],
+   "added": "2026-10-27",
+   "at": "2026-10-27T07:35Z"
+  },
   {
    "id": "fake-r100-notes-south-africa",
    "c": "world",
@@ -872,42 +974,6 @@
    "at": "2026-10-26T16:38Z"
   },
   {
-   "id": "mike-edwards-48-percent-igbo",
-   "c": "celebs",
-   "h": "BBNaija's Mike Edwards says DNA test shows he is 48% Igbo",
-   "p": "Former Big Brother Naija housemate Mike Edwards says he always thought he was half Nigerian and half Jamaican, but a DNA test has reportedly shown he is 48% Igbo.",
-   "n": 1,
-   "more": [
-    "He shared the results with his followers, who reacted warmly."
-   ],
-   "added": "2026-10-26",
-   "at": "2026-10-26T16:38Z"
-  },
-  {
-   "id": "adekunle-gold-first-class-graduates-gift",
-   "c": "music",
-   "h": "Adekunle Gold praised online for gifting first-class graduates N250,000 each",
-   "p": "Singer Adekunle Gold is reportedly earning praise on social media after giving N250,000 each to several first-class graduates.",
-   "n": 1,
-   "more": [
-    "Many Nigerians called on other celebrities to reward academic excellence too."
-   ],
-   "added": "2026-10-26",
-   "at": "2026-10-26T16:38Z"
-  },
-  {
-   "id": "uk-defence-secretary-war-1000-days",
-   "c": "world",
-   "h": "UK Defence Secretary says Britain must be ready for war within 1,000 days",
-   "p": "The UK Defence Secretary has reportedly warned that the country must be prepared for war within 1,000 days, urging faster military readiness.",
-   "n": 1,
-   "more": [
-    "The warning is likely to fuel debate over defence spending."
-   ],
-   "added": "2026-10-26",
-   "at": "2026-10-26T16:38Z"
-  },
-  {
    "id": "ibiyeomie-tithe-christmas-clothes",
    "c": "naija",
    "h": "\"Don't buy Christmas clothes for your children without first paying your tithe!\" Pastor David Ibiyeomie sparks debate",
@@ -927,84 +993,6 @@
    "owner": true,
    "added": "2026-10-26",
    "at": "2026-10-26T15:45Z"
-  },
-  {
-   "id": "makinde-2027-bid-analyst",
-   "c": "elections",
-   "h": "Makinde's 2027 presidential bid is a 'water-testing' move rather than a serious push to win, analyst says",
-   "p": "An analyst has reportedly described Oyo State Governor Seyi Makinde's presidential ambition as an exploratory move rather than a bid built to win. The comment adds to the debate over who can challenge for the presidency as campaigns by the APC, NDC and ADC get under way.",
-   "n": 1,
-   "more": [
-    "The analysis is one of several on how the 2027 field is shaping up.",
-    "Supporters of the governor have not been quoted in the report."
-   ],
-   "added": "2026-10-26",
-   "at": "2026-10-26T15:36Z"
-  },
-  {
-   "id": "nkechi-blessing-nobody-supported-me",
-   "c": "celebs",
-   "h": "Nkechi Blessing says nobody supported her when she was down as she finds her spark again",
-   "p": "Nollywood actress Nkechi Blessing has reportedly said she is rediscovering herself after a period of low energy and low confidence. She is said to have noted that few people stood by her during the difficult time.",
-   "n": 1,
-   "more": [
-    "Fans have reportedly sent messages of encouragement online.",
-    "She did not name anyone in the remarks reported."
-   ],
-   "added": "2026-10-26",
-   "at": "2026-10-26T15:36Z"
-  },
-  {
-   "id": "anita-joseph-sarah-martins-marriage",
-   "c": "celebs",
-   "h": "Anita Joseph reportedly replies to Sarah Martins' comment about her ended marriage: 'Life is a phase'",
-   "p": "Actress Anita Joseph has reportedly reacted to a remark by fellow actress Sarah Martins about her failed marriage, saying life is a phase. The exchange has drawn comments from fans online.",
-   "n": 1,
-   "more": [
-    "Fans are split over the exchange between the two actresses.",
-    "Neither has said more publicly."
-   ],
-   "added": "2026-10-26",
-   "at": "2026-10-26T15:36Z"
-  },
-  {
-   "id": "joke-jigan-lagos-baddies-zlatan-wedding",
-   "c": "celebs",
-   "h": "Joke Jigan reportedly asks where the 'Lagos baddies' were at Zlatan Ibile's wedding",
-   "p": "Content creator Joke Jigan has reportedly drawn reactions after pointing out the absence of well-known Lagos socialites at Zlatan Ibile's wedding. The remark adds to the ongoing talk about who attended the star-studded event.",
-   "n": 1,
-   "more": [
-    "The wedding has dominated entertainment conversation since the weekend.",
-    "Several guests have shared their own clips and photos from the event."
-   ],
-   "added": "2026-10-26",
-   "at": "2026-10-26T15:36Z"
-  },
-  {
-   "id": "ms-jorji-women-transactional",
-   "c": "music",
-   "h": "Rapper Ms Jorji says women are transactional in relationships, and her remarks draw reactions",
-   "p": "Rapper Ms Jorji has reportedly sparked debate after saying that women are transactional in relationships. Nigerians online have responded with mixed views.",
-   "n": 1,
-   "more": [
-    "Some users agreed with her while others pushed back.",
-    "She is among the rappers frequently in the spotlight for outspoken comments."
-   ],
-   "added": "2026-10-26",
-   "at": "2026-10-26T15:36Z"
-  },
-  {
-   "id": "jaymie-opeyemi-tribal-comments-igbos",
-   "c": "viral",
-   "h": "Jaymie reportedly criticises Opeyemi over comments about Igbos, saying 'your tribe has failed this country'",
-   "p": "Social media user Jaymie has reportedly hit back at Opeyemi over remarks about the Igbo people that she described as tribalistic. The exchange comes amid heated online debate about ethnicity and the 2027 elections.",
-   "n": 1,
-   "more": [
-    "The row follows other recent online arguments over tribe and voting.",
-    "Many users have called for calm in the debate."
-   ],
-   "added": "2026-10-26",
-   "at": "2026-10-26T15:36Z"
   },
   {
    "id": "lekki-street-boy-zlatan-wedding-money",
