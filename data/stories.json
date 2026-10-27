@@ -1,5 +1,5 @@
 {
- "updated": "Updated 11:40 GMT",
+ "updated": "Updated 12:40 GMT",
  "date": "Tuesday, 27 October 2026",
  "categories": {
   "all": "All gist",
@@ -14,6 +14,106 @@
   "sport": "Sport"
  },
  "stories": [
+  {
+   "id": "bassey-purity-pledge-hallelujah-challenge",
+   "c": "viral",
+   "h": "Nathaniel Bassey's purity pledge call trends as Hallelujah Challenge participants react",
+   "p": "Gospel minister Nathaniel Bassey's call for a purity pledge has reportedly become a talking point online. Participants in the Hallelujah Challenge have been sharing their reactions, with some embracing the call and others debating it.",
+   "n": 1,
+   "more": [
+    "Many participants shared their own faith goals after the call.",
+    "Bassey had earlier asked followers about their faith projects, drawing a wave of replies."
+   ],
+   "added": "2026-10-27",
+   "at": "2026-10-27T12:33Z",
+   "img": "img/bassey-purity-pledge-hallelujah-challenge.jpg",
+   "alt": "Nathaniel Bassey",
+   "credit": "Photo: Emmacas TV / Wikimedia Commons, CC BY 3.0"
+  },
+  {
+   "id": "harry-kane-african-artists-listens",
+   "c": "music",
+   "h": "Harry Kane names the African artists he listens to around the Ballon d'Or ceremony",
+   "p": "Newly crowned Ballon d'Or winner Harry Kane has reportedly opened up on the African artists he listens to. The comments came around the 2026 awards ceremony in London, where Burna Boy presented an award.",
+   "n": 1,
+   "more": [
+    "Kane won the 2026 Ballon d'Or ahead of Kylian Mbappé.",
+    "Nigerian fans have been reacting to his music choices online."
+   ],
+   "added": "2026-10-27",
+   "at": "2026-10-27T12:33Z",
+   "img": "img/harry-kane-african-artists-listens.jpg",
+   "alt": "Harry Kane",
+   "credit": "Photo: Number 10 / Wikimedia Commons, CC BY 2.0"
+  },
+  {
+   "id": "tabitha-ogbede-tinubu-gods-wrath",
+   "c": "politics",
+   "h": "Nigerian woman faces backlash for saying those who oppose Tinubu will face God's wrath",
+   "p": "A woman identified as Tabitha Ogbede has reportedly drawn criticism online over a remark that anyone who opposes President Tinubu will face God's wrath. Reactions have been mixed, with some defending her and others saying the comment was out of order.",
+   "n": 1,
+   "more": [
+    "The clip has been widely shared on social media.",
+    "Supporters and critics of the President have both weighed in."
+   ],
+   "added": "2026-10-27",
+   "at": "2026-10-27T12:33Z"
+  },
+  {
+   "id": "ebola-n100000-weekly-payment-steps",
+   "c": "naija",
+   "h": "FG lists four steps to qualify for the ₦100,000 weekly Ebola payment",
+   "p": "The Federal Government has reportedly set out four steps for people who want to qualify for the ₦100,000 weekly payment linked to the Ebola response. Details of eligibility were shared as the country remains on alert over the disease.",
+   "n": 1,
+   "more": [
+    "The WHO says Nigeria has no active Ebola case but is not yet declared Ebola-free.",
+    "Officials have urged Nigerians to rely on official channels for information."
+   ],
+   "added": "2026-10-27",
+   "at": "2026-10-27T12:33Z"
+  },
+  {
+   "id": "nmdpra-petrol-import-licence-landing-cost",
+   "c": "naija",
+   "h": "Marketers unveil new petrol landing cost as NMDPRA sets conditions for import licences",
+   "p": "Fuel marketers have announced a new landing cost for petrol, while the downstream regulator NMDPRA has set conditions for petrol import licences. The update is likely to affect pump prices in the coming days.",
+   "n": 2,
+   "more": [
+    "Marketers say the landing cost depends on exchange rates and shipping costs.",
+    "Motorists are waiting to see whether pump prices change."
+   ],
+   "added": "2026-10-27",
+   "at": "2026-10-27T12:33Z"
+  },
+  {
+   "id": "us-pastor-second-wife-debate",
+   "c": "viral",
+   "h": "American pastor sparks debate after marrying a second wife",
+   "p": "A US pastor has reportedly drawn wide debate online after marrying a second wife. An older social media comment in which he called his current wife \"daughter\" has also resurfaced.",
+   "n": 2,
+   "more": [
+    "Social media users are split, with some defending the marriage and others criticising it.",
+    "The pastor has not publicly addressed the criticism."
+   ],
+   "added": "2026-10-27",
+   "at": "2026-10-27T12:33Z"
+  },
+  {
+   "id": "flavio-bolsonaro-banned-leaving-brazil",
+   "c": "world",
+   "h": "Defeated Brazilian presidential candidate Flavio Bolsonaro reportedly banned from leaving the country",
+   "p": "Flavio Bolsonaro, who lost Brazil's presidential race, has reportedly been ordered to surrender his passports and not leave the country. The order comes after the election result in which Lula won.",
+   "n": 1,
+   "more": [
+    "Lula supporters have been celebrating his victory.",
+    "Bolsonaro's camp has yet to respond fully to the order."
+   ],
+   "added": "2026-10-27",
+   "at": "2026-10-27T12:33Z",
+   "img": "img/flavio-bolsonaro-banned-leaving-brazil.jpg",
+   "alt": "Flávio Bolsonaro",
+   "credit": "Photo: U.S. Consulate in Rio / Wikimedia Commons, Public domain"
+  },
   {
    "id": "lagos-house-helicopter-visit",
    "c": "viral",
@@ -478,10 +578,10 @@
    "c": "music",
    "h": "Dispute over burial of singer Toluwanising continues as relatives and supporters weigh in",
    "p": "A disagreement over the burial of singer Toluwanising is reportedly playing out online. An uncle is said to have asked that he should not be buried yet, while others have come out to defend his widow and ask that she be allowed to mourn in peace.",
-   "n": 3,
+   "n": 5,
    "more": [
-    "A woman online said the widow is only 31 and should be left to grieve.",
-    "A lawyer has also raised legal questions over the father's request for a home burial, which the widow opposes.",
+    "Wale Jana reportedly said a man should not be buried in the only house he built, while the singer's grandmother insists he be buried in it.",
+    "The uncle has also spoken about what he found at the singer's home after his death.",
     "No official family statement has been shared publicly yet."
    ],
    "added": "2026-10-27",
