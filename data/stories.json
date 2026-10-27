@@ -1,5 +1,5 @@
 {
- "updated": "Updated 10:40 GMT",
+ "updated": "Updated 11:40 GMT",
  "date": "Tuesday, 27 October 2026",
  "categories": {
   "all": "All gist",
@@ -14,6 +14,35 @@
   "sport": "Sport"
  },
  "stories": [
+  {
+   "id": "gyero-jos-south-gunmen-attack",
+   "c": "naija",
+   "h": "Gunmen reportedly kill seven at a relaxation spot in Gyero, Jos South",
+   "p": "Seven people were reportedly killed when gunmen attacked a relaxation spot in Gyero, in Jos South local government area of Plateau State. Details of the attack and the identity of the attackers have not been confirmed.",
+   "n": 1,
+   "more": [
+    "The latest attack comes as troops arrest a suspected militia member in nearby Mangu.",
+    "Security agencies have not yet issued a full statement on the incident."
+   ],
+   "added": "2026-10-27",
+   "at": "2026-10-27T11:33Z"
+  },
+  {
+   "id": "joke-jigan-lagos-socialites-zlatan-wedding",
+   "c": "celebs",
+   "h": "Joke Jigan questions why Lagos socialites were missing from Zlatan's wedding",
+   "p": "Entertainer Joke Jigan has reportedly asked why many well-known Lagos socialites were not seen at Zlatan Ibile's wedding. Her comment has added to the online conversation about the ceremony.",
+   "n": 1,
+   "more": [
+    "The wedding has stayed in the headlines since the weekend, with guests and gifts widely discussed.",
+    "The couple have not responded to the comment."
+   ],
+   "added": "2026-10-27",
+   "img": "img/elumelu-zlatan-wedding-gift.jpg",
+   "alt": "Tony Elumelu",
+   "credit": "Photo: Heirs Holdings / Wikimedia Commons, CC0",
+   "at": "2026-10-27T11:33Z"
+  },
   {
    "id": "obi-four-demands-supporter-arrest",
    "c": "elections",
