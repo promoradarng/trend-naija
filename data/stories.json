@@ -15,6 +15,34 @@
  },
  "stories": [
   {
+   "id": "boy-collapses-mother-surprise-school",
+   "c": "viral",
+   "h": "Emotional moment boy collapses after his mother surprises him at school following four years abroad",
+   "p": "A young boy reportedly collapsed with emotion when his mother, who had been living abroad for four years, turned up unannounced at his school. The video of their reunion has touched many online and sparked a conversation about the price families pay when parents travel abroad for a better future.",
+   "body": [
+    "An emotional reunion between a mother and her son has captured attention on social media after the young boy reportedly collapsed upon seeing his mother for the first time in four years.",
+    "According to the story accompanying the circulating video, the woman had been living abroad for four years, leaving her son behind while she pursued a better future for her family.",
+    "After years of separation, she decided to return home and surprise her son at his school without telling him she was coming.",
+    "What was supposed to be a joyful reunion quickly became an overwhelming moment for the young boy.",
+    "Upon seeing his mother unexpectedly, the boy reportedly became so overwhelmed that he collapsed, leaving those around him concerned.",
+    "The touching scene has sparked emotional reactions online, with many social media users reflecting on the sacrifices parents make when they travel abroad in search of better opportunities for their children.",
+    "For many families, living abroad comes with a painful price. Parents sometimes spend years away from their children, missing birthdays, school activities, family celebrations and important childhood moments.",
+    "Although financial support can help provide a better life, the emotional impact of prolonged separation can be difficult for both parents and children.",
+    "The circumstances surrounding the boy's reported collapse, including whether he needed medical attention, have not been independently confirmed.",
+    "Nevertheless, the reunion has reminded many people of the importance of family, parental presence and the emotional bond between mothers and their children.",
+    "Four years without seeing his mother, and suddenly she appeared right before his eyes. Imagine the emotions running through that little boy's heart.",
+    "What do you think about parents leaving their young children behind for several years to work abroad in search of a better future? Is the sacrifice worth it?"
+   ],
+   "n": 1,
+   "hot": 1,
+   "img": "img/boy-collapses-mother-surprise-school.jpg",
+   "alt": "Four photos of a mother running to her son at school, lifting him in a hug, kneeling beside him on the ground and embracing him",
+   "credit": "Image: social media",
+   "owner": true,
+   "added": "2026-10-28",
+   "at": "2026-10-28T10:42Z"
+  },
+  {
    "id": "uzodimma-challenges-wike-rainbow-coalition-imo",
    "c": "politics",
    "h": "Imo Governor Uzodimma tells Wike the Rainbow Coalition does not exist in his state",
@@ -269,7 +297,7 @@
     "A court challenge to Chinda's eligibility remains unresolved, with a hearing reportedly scheduled for 4 November 2026. The September Supreme Court decision at the centre of the dispute did not specifically disqualify Chinda, and rival groups disagree over what it means. The coalition's endorsement therefore does not settle the pending legal question."
    ],
    "n": 1,
-   "hot": 1,
+   "hot": 2,
    "img": "img/fubara-backs-wike-rainbow-coalition.jpg",
    "alt": "Nyesom Wike speaking at a news conference, above Governor Siminalayi Fubara in a red cap speaking into a microphone",
    "credit": "Image: social media",
@@ -374,7 +402,7 @@
     "Do you believe Blessing CEO deserves a second chance, or do you think she still has a lot to prove to Nigerians?"
    ],
    "n": 1,
-   "hot": 2,
+   "hot": 3,
    "img": "img/blessing-ceo-starting-afresh.jpg",
    "alt": "Blessing CEO looking tearful in a video, with an inset photo of her in a green satin shirt",
    "credit": "Image: social media",
@@ -582,7 +610,7 @@
     "What do you think? Should individuals who publicly threaten religious violence face prosecution, even when no attack has taken place?"
    ],
    "n": 4,
-   "hot": 3,
+   "hot": 4,
    "img": "img/police-arrest-umar-ibrahim-gandi.jpg",
    "alt": "Two stills from the viral video showing the suspect in a blue beret and brown uniform chanting as others march behind him",
    "credit": "Image: social media",
@@ -608,7 +636,7 @@
     "What do you think? Is she simply enjoying the Nigerian lifestyle, or has love made it difficult for her to return to America?"
    ],
    "n": 1,
-   "hot": 4,
+   "hot": 5,
    "img": "img/carter-efe-girlfriend-taylor-jasmine-leaving-nigeria.jpg",
    "alt": "Two photos of Carter Efe with Taylor Jasmine, beside screenshots of her posts on X saying she does not want to leave Nigeria",
    "credit": "Image: social media",
@@ -690,7 +718,7 @@
     "Should the Actors Guild of Nigeria establish a dedicated welfare and rehabilitation fund to support actors facing serious personal and health challenges?"
    ],
    "n": 1,
-   "hot": 5,
+   "hot": 6,
    "img": "img/jerry-williams-izutech-agn.jpg",
    "alt": "Two photos of actor Jerry Williams: on the left in a beige hoodie with his hands cuffed, on the right a close-up in a grey T-shirt",
    "credit": "Image: social media",
@@ -964,7 +992,7 @@
     "The question Nigerians are asking is simple: if INEC cannot guarantee the authenticity of the identities in its electoral register, how can citizens be confident that it will deliver free, fair and credible elections in 2027?"
    ],
    "n": 4,
-   "hot": 6,
+   "hot": 7,
    "img": "img/inec-ai-images-voter-register.jpg",
    "alt": "Screenshot of four voter register entries with passport photos marked \"AI\"; names and numbers blurred by Trend Naija",
    "credit": "Image: social media (names blurred by Trend Naija)",
@@ -1126,7 +1154,7 @@
     "Imagine your friend calling you and saying, \"Guy, I'm coming to your house. Please, is there space to land my helicopter?\""
    ],
    "n": 1,
-   "hot": 7,
+   "hot": 8,
    "img": "img/lagos-house-helicopter-visit.jpg",
    "alt": "A helicopter hovers above a white mansion at dusk while another helicopter sits on its lit rooftop helipad",
    "credit": "Image: social media",
@@ -1148,7 +1176,7 @@
     "What do you think? Is this about protecting Nigeria's economic future, or limiting the choices of future presidents and the Nigerian people?"
    ],
    "n": 1,
-   "hot": 8,
+   "hot": 9,
    "img": "img/fg-law-protect-tinubu-reforms.jpg",
    "alt": "President Bola Tinubu signs a document at a table as Vice President Kashim Shettima and other officials look on",
    "credit": "Image: social media",
@@ -1291,7 +1319,6 @@
     "Where and when the footage was recorded, and whether the audio has been edited, have not been independently verified."
    ],
    "n": 1,
-   "hot": 9,
    "img": "img/tinubu-must-go-chant-speech.jpg",
    "alt": "President Bola Tinubu, in a red cap and APC-branded attire, speaks into a microphone as Governor Babajide Sanwo-Olu and another official look on",
    "credit": "Image: social media",
