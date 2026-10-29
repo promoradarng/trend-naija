@@ -15,6 +15,28 @@
  },
  "stories": [
   {
+   "id": "court-sacks-uzodimma-imo-west-okorocha",
+   "c": "elections",
+   "h": "BREAKING: Court sacks Uzodimma as APC senatorial candidate for Imo West, orders INEC to recognise Okorocha",
+   "p": "A Federal High Court in Abuja has ruled that Governor Hope Uzodimma did not win the APC primary for the Imo West Senate seat and that former governor Rochas Okorocha polled the most votes. The court ordered INEC to publish Okorocha as the party's candidate and barred Uzodimma from presenting himself as the candidate.",
+   "body": [
+    "The political battle in Imo State has taken a dramatic turn after a Federal High Court in Abuja ruled that Governor Hope Uzodimma is not the All Progressives Congress (APC) candidate for the Imo West senatorial seat.",
+    "In a judgment delivered on Thursday, Justice Obiora Egwuatu held that Uzodimma did not win the party's May 18 primary for Imo West and that former governor Rochas Okorocha polled the highest votes. The court ordered INEC to recognise Okorocha and publish his name as the APC's candidate, and barred Uzodimma from presenting himself as the party's candidate.",
+    "Okorocha filed the suit in August, arguing that INEC's own monitors' reports showed him as the winner of the primary. His camp says he scored 150,780 votes to Uzodimma's 102,158, while the party's returning officer had declared Uzodimma the winner with 230,464 votes. Uzodimma and the APC had asked the court to throw out the case as filed too late.",
+    "It is not yet known whether Uzodimma or the APC will appeal.",
+    "The ruling raises fresh questions about the balance of power within Imo APC. It comes amid growing political tension involving Governor Uzodimma and FCT Minister Nyesom Wike over cross-party alliances and control of party structures ahead of the 2027 elections. However, there is no evidence that Wike had anything to do with the court's decision.",
+    "Is Hope Uzodimma gradually losing his grip on Imo politics, or is this just a temporary setback in the battle for 2027?"
+   ],
+   "n": 4,
+   "hot": 1,
+   "img": "img/court-sacks-uzodimma-imo-west-okorocha.jpg",
+   "alt": "Side-by-side photos of Imo Governor Hope Uzodimma in a red cap and former governor Rochas Okorocha in a blue cap",
+   "credit": "Image: social media",
+   "owner": true,
+   "added": "2026-10-29",
+   "at": "2026-10-29T10:50Z"
+  },
+  {
    "id": "vdm-ratel-warehouse-power-banks",
    "c": "creators",
    "h": "VeryDarkMan inspects warehouse of his 40ft container of power banks from China, targets students, barbers and makeup artists",
@@ -38,7 +60,7 @@
     "What do you think about VDM's latest business venture? Would you buy an affordable portable power station to support your studies or business?"
    ],
    "n": 1,
-   "hot": 1,
+   "hot": 2,
    "img": "img/vdm-ratel-warehouse-power-banks.jpg",
    "alt": "Three photos of VeryDarkMan in a white Ratel hard hat and hi-vis vest, holding a laptop in a warehouse stacked with Ratel boxes",
    "credit": "Image: social media",
@@ -73,7 +95,7 @@
     "But should vehicles donated to politicians be withdrawn simply because the beneficiaries choose to support a different political alliance? And could this be the beginning of a political disagreement between Uzodimma and Wike ahead of 2027?"
    ],
    "n": 1,
-   "hot": 2,
+   "hot": 3,
    "img": "img/uzodimma-rejects-rainbow-coalition-imo.jpg",
    "alt": "Side-by-side portraits of Imo Governor Hope Uzodimma in a red cap and FCT Minister Nyesom Wike in a suit and red tie",
    "credit": "Image: social media",
@@ -101,7 +123,7 @@
     "What do you think brought Hilda Dokubo, Wike and Kingsley Chinda together? Reconciliation, political calculation or something else?"
    ],
    "n": 1,
-   "hot": 3,
+   "hot": 4,
    "img": "img/hilda-dokubo-visits-wike-chinda.jpg",
    "alt": "Two photos: a crowd gathered around a white coffin with an obituary poster, and Hilda Dokubo standing with two men outside a house",
    "credit": "Image: social media",
@@ -129,7 +151,7 @@
     "What do you think about parents leaving their young children behind for several years to work abroad in search of a better future? Is the sacrifice worth it?"
    ],
    "n": 1,
-   "hot": 4,
+   "hot": 5,
    "img": "img/boy-collapses-mother-surprise-school.jpg",
    "alt": "Four photos of a mother running to her son at school, lifting him in a hug, kneeling beside him on the ground and embracing him",
    "credit": "Image: social media",
@@ -392,7 +414,7 @@
     "A court challenge to Chinda's eligibility remains unresolved, with a hearing reportedly scheduled for 4 November 2026. The September Supreme Court decision at the centre of the dispute did not specifically disqualify Chinda, and rival groups disagree over what it means. The coalition's endorsement therefore does not settle the pending legal question."
    ],
    "n": 1,
-   "hot": 5,
+   "hot": 6,
    "img": "img/fubara-backs-wike-rainbow-coalition.jpg",
    "alt": "Nyesom Wike speaking at a news conference, above Governor Siminalayi Fubara in a red cap speaking into a microphone",
    "credit": "Image: social media",
@@ -497,7 +519,7 @@
     "Do you believe Blessing CEO deserves a second chance, or do you think she still has a lot to prove to Nigerians?"
    ],
    "n": 1,
-   "hot": 6,
+   "hot": 7,
    "img": "img/blessing-ceo-starting-afresh.jpg",
    "alt": "Blessing CEO looking tearful in a video, with an inset photo of her in a green satin shirt",
    "credit": "Image: social media",
@@ -705,7 +727,7 @@
     "What do you think? Should individuals who publicly threaten religious violence face prosecution, even when no attack has taken place?"
    ],
    "n": 4,
-   "hot": 7,
+   "hot": 8,
    "img": "img/police-arrest-umar-ibrahim-gandi.jpg",
    "alt": "Two stills from the viral video showing the suspect in a blue beret and brown uniform chanting as others march behind him",
    "credit": "Image: social media",
@@ -731,7 +753,7 @@
     "What do you think? Is she simply enjoying the Nigerian lifestyle, or has love made it difficult for her to return to America?"
    ],
    "n": 1,
-   "hot": 8,
+   "hot": 9,
    "img": "img/carter-efe-girlfriend-taylor-jasmine-leaving-nigeria.jpg",
    "alt": "Two photos of Carter Efe with Taylor Jasmine, beside screenshots of her posts on X saying she does not want to leave Nigeria",
    "credit": "Image: social media",
@@ -813,7 +835,6 @@
     "Should the Actors Guild of Nigeria establish a dedicated welfare and rehabilitation fund to support actors facing serious personal and health challenges?"
    ],
    "n": 1,
-   "hot": 9,
    "img": "img/jerry-williams-izutech-agn.jpg",
    "alt": "Two photos of actor Jerry Williams: on the left in a beige hoodie with his hands cuffed, on the right a close-up in a grey T-shirt",
    "credit": "Image: social media",
