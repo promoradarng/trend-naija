@@ -1,0 +1,28 @@
+{
+ "id": "cbn-payment-data-localisation-deadline",
+ "c": "naija",
+ "n": 1,
+ "h": "CBN warns banks to store payment data in Nigeria by January 2027",
+ "p": "The Central Bank of Nigeria says banks and other regulated firms must store critical payment data inside the country by 1 January 2027, and that the deadline will not move. Firms that fail to comply face sanctions.",
+ "body": [
+  "The Central Bank of Nigeria (CBN) has told banks and other financial institutions that the deadline for keeping critical payment transaction data inside Nigeria remains 1 January 2027.",
+  "## What happened",
+  "The CBN Deputy Governor for Financial System Stability, Lamido Abubakar Yuguda, gave the warning at a regulatory meeting in Lagos organised with the National Information Technology Development Agency (NITDA), reported on Thursday, 29 October 2026. He said the date had not changed and that institutions that break the rule would face sanctions. Deliberate attempts to frustrate the policy would not be tolerated, he added.",
+  "## Why the rule exists",
+  "The CBN says storing payment data in the country will improve supervision, make the financial system more resilient and protect sensitive customer information, as more Nigerians rely on mobile apps, online banking and fintech services. The meeting focused on the National Sovereign Cloud Initiative, which aims to keep government and critical data on infrastructure within Nigeria.",
+  "## What banks must do",
+  "Yuguda reportedly stressed that simply moving data into the country will not make it safe. Banks must also improve their cybersecurity, plans for keeping services running during outages, disaster recovery and risk management. They will remain responsible for risks linked to cloud providers and other technology partners.",
+  "## What it means for customers",
+  "For ordinary customers, the change should be mostly invisible, but the regulator says it should make it harder for sensitive financial data to be exposed and easier for authorities to investigate fraud."
+ ],
+ "more": [
+  "The deadline is 1 January 2027 and will not change.",
+  "Banks must also strengthen cybersecurity and backup plans.",
+  "Firms that break the rule face sanctions."
+ ],
+ "added": "2026-10-29",
+ "img": "img/cbn-payment-data-localisation-deadline.jpg",
+ "alt": "Central Bank of Nigeria headquarters in Abuja",
+ "credit": "Photo: GodwinPaya / Wikimedia Commons (CC BY-SA 4.0)",
+ "at": "2026-10-29T17:46Z"
+}
