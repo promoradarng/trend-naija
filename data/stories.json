@@ -15,6 +15,38 @@
  },
  "stories": [
   {
+   "id": "vdm-tests-ratel-power-station",
+   "c": "creators",
+   "h": "VeryDarkMan puts his Ratel Power Station to the test, shows off battery power as Blord rivalry continues",
+   "p": "VeryDarkMan has demonstrated his newly imported Ratel Power Station, saying even the smallest 1,200W model can run a TV, standing fan and fridge for up to six hours. The test has added fuel to his online rivalry with Blord, whose own gadgets his supporters want to see put through the same test.",
+   "body": [
+    "Popular Nigerian social media activist and businessman Martins Vincent Otse, better known as VeryDarkMan (VDM), has once again got Nigerians talking after demonstrating the capabilities of his newly imported Ratel Power Station.",
+    "VeryDarkMan, who recently received a 40-foot container loaded with power stations and other gadgets from China, has begun testing the products to show potential customers what they can do.",
+    "One particular demonstration has caught the attention of many people.",
+    "According to VDM, even the smallest model, rated at 1,200 watts, can power household appliances such as a television, standing fan and refrigerator for up to six hours, depending on their electricity consumption. In the test, the TV drew 74W, the fan 50W and the fridge 150W, a total of 274W.",
+    "And remember, this is just the smallest model in the range!",
+    "For a country like Nigeria, where unreliable electricity continues to affect homes, students, artisans and small businesses, a portable power station with such capabilities could be a useful alternative during power outages.",
+    "VDM has previously explained that his target customers include students, barbers, makeup artists and other Nigerians whose daily activities depend on electricity.",
+    "However, the demonstration has also added another chapter to the ongoing social media rivalry between VeryDarkMan and businessman Blord.",
+    "While Blord has continued promoting his own gadgets through videos and online publicity, supporters of VeryDarkMan are challenging him to demonstrate the actual performance of his products in a similar way.",
+    "And this is where the argument becomes interesting. Making promotional videos is one thing, but showing customers what a product can actually do is another.",
+    "VDM appears determined to let the performance of his products speak for itself, and his supporters are already celebrating his approach.",
+    "Of course, the claimed six-hour runtime would still need to be confirmed through independent testing. The box shows a battery capacity of 932Wh, which at a constant 274W works out to roughly three and a half hours. Because a fridge's compressor switches on and off rather than running all the time, the real average load can be lower and the runtime longer.",
+    "Nevertheless, the excitement surrounding the Ratel Power Station shows how much attention VeryDarkMan's latest business venture is attracting.",
+    "From activism and philanthropy to importing products from China, VDM is gradually expanding into commercial ventures. And as his supporters would say, VeryDarkMan is whoever he says he is!",
+    "Now, the big question is this: between VeryDarkMan's Ratel Power Station and Blord's gadgets, who is actually giving Nigerians better value for their money?",
+    "Let the products do the talking!"
+   ],
+   "n": 1,
+   "hot": 1,
+   "img": "img/vdm-tests-ratel-power-station.jpg",
+   "alt": "Collage of VeryDarkMan in a Ratel hard hat testing a power station running a TV, fan, fridge and laptop, with a close-up of the RP1200 unit and the wattage of each appliance",
+   "credit": "Image: social media",
+   "owner": true,
+   "added": "2026-10-29",
+   "at": "2026-10-29T13:55Z"
+  },
+  {
    "id": "court-sacks-uzodimma-imo-west-okorocha",
    "c": "elections",
    "h": "BREAKING: Court sacks Uzodimma as APC senatorial candidate for Imo West, orders INEC to recognise Okorocha",
@@ -28,7 +60,7 @@
     "Is Hope Uzodimma gradually losing his grip on Imo politics, or is this just a temporary setback in the battle for 2027?"
    ],
    "n": 4,
-   "hot": 1,
+   "hot": 2,
    "img": "img/court-sacks-uzodimma-imo-west-okorocha.jpg",
    "alt": "Side-by-side photos of Imo Governor Hope Uzodimma in a red cap and former governor Rochas Okorocha in a blue cap",
    "credit": "Image: social media",
@@ -60,7 +92,7 @@
     "What do you think about VDM's latest business venture? Would you buy an affordable portable power station to support your studies or business?"
    ],
    "n": 1,
-   "hot": 2,
+   "hot": 3,
    "img": "img/vdm-ratel-warehouse-power-banks.jpg",
    "alt": "Three photos of VeryDarkMan in a white Ratel hard hat and hi-vis vest, holding a laptop in a warehouse stacked with Ratel boxes",
    "credit": "Image: social media",
@@ -95,7 +127,7 @@
     "But should vehicles donated to politicians be withdrawn simply because the beneficiaries choose to support a different political alliance? And could this be the beginning of a political disagreement between Uzodimma and Wike ahead of 2027?"
    ],
    "n": 1,
-   "hot": 3,
+   "hot": 4,
    "img": "img/uzodimma-rejects-rainbow-coalition-imo.jpg",
    "alt": "Side-by-side portraits of Imo Governor Hope Uzodimma in a red cap and FCT Minister Nyesom Wike in a suit and red tie",
    "credit": "Image: social media",
@@ -123,7 +155,7 @@
     "What do you think brought Hilda Dokubo, Wike and Kingsley Chinda together? Reconciliation, political calculation or something else?"
    ],
    "n": 1,
-   "hot": 4,
+   "hot": 5,
    "img": "img/hilda-dokubo-visits-wike-chinda.jpg",
    "alt": "Two photos: a crowd gathered around a white coffin with an obituary poster, and Hilda Dokubo standing with two men outside a house",
    "credit": "Image: social media",
@@ -151,7 +183,7 @@
     "What do you think about parents leaving their young children behind for several years to work abroad in search of a better future? Is the sacrifice worth it?"
    ],
    "n": 1,
-   "hot": 5,
+   "hot": 6,
    "img": "img/boy-collapses-mother-surprise-school.jpg",
    "alt": "Four photos of a mother running to her son at school, lifting him in a hug, kneeling beside him on the ground and embracing him",
    "credit": "Image: social media",
@@ -414,7 +446,7 @@
     "A court challenge to Chinda's eligibility remains unresolved, with a hearing reportedly scheduled for 4 November 2026. The September Supreme Court decision at the centre of the dispute did not specifically disqualify Chinda, and rival groups disagree over what it means. The coalition's endorsement therefore does not settle the pending legal question."
    ],
    "n": 1,
-   "hot": 6,
+   "hot": 7,
    "img": "img/fubara-backs-wike-rainbow-coalition.jpg",
    "alt": "Nyesom Wike speaking at a news conference, above Governor Siminalayi Fubara in a red cap speaking into a microphone",
    "credit": "Image: social media",
@@ -519,7 +551,7 @@
     "Do you believe Blessing CEO deserves a second chance, or do you think she still has a lot to prove to Nigerians?"
    ],
    "n": 1,
-   "hot": 7,
+   "hot": 8,
    "img": "img/blessing-ceo-starting-afresh.jpg",
    "alt": "Blessing CEO looking tearful in a video, with an inset photo of her in a green satin shirt",
    "credit": "Image: social media",
@@ -727,7 +759,7 @@
     "What do you think? Should individuals who publicly threaten religious violence face prosecution, even when no attack has taken place?"
    ],
    "n": 4,
-   "hot": 8,
+   "hot": 9,
    "img": "img/police-arrest-umar-ibrahim-gandi.jpg",
    "alt": "Two stills from the viral video showing the suspect in a blue beret and brown uniform chanting as others march behind him",
    "credit": "Image: social media",
@@ -753,7 +785,6 @@
     "What do you think? Is she simply enjoying the Nigerian lifestyle, or has love made it difficult for her to return to America?"
    ],
    "n": 1,
-   "hot": 9,
    "img": "img/carter-efe-girlfriend-taylor-jasmine-leaving-nigeria.jpg",
    "alt": "Two photos of Carter Efe with Taylor Jasmine, beside screenshots of her posts on X saying she does not want to leave Nigeria",
    "credit": "Image: social media",
