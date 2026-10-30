@@ -1,0 +1,25 @@
+{
+ "id": "inec-ict-director-ai-photos-voter-register",
+ "c": "elections",
+ "n": 1,
+ "h": "INEC official says some registration officers put AI-generated photos into voter register",
+ "p": "INEC's ICT director, Lawrence Bayode, has reportedly admitted that some registration officers with system access entered AI-generated and poor-quality photos into the preliminary voter register. He said INEC knows how it happened but not why, and that the register is still being cleaned up before certification in December.",
+ "body": [
+  "The Independent National Electoral Commission (INEC) has reportedly admitted that artificial intelligence-generated photos found their way into Nigeria's preliminary voter register, and has blamed some of its own registration officers.",
+  "## What was said",
+  "Speaking on Arise Television, in comments reported on Friday, 30 October 2026, INEC's Director of Information and Communication Technology, Dr Lawrence Bayode, said some registration officers who had login access to the registration system introduced irregularities. He said some of the photos were AI-generated while others came from poor-quality registration, and that the problem was found in states across the country. He reportedly said the commission knew what the officers did and how they did it, but did not know why.",
+  "## How it was found",
+  "Bayode said INEC detected the problem by checking the database with its Automated Biometric Identification System, which compares faces and fingerprints to find duplicates and suspicious entries. He did not say how many records were affected.",
+  "## Background",
+  "INEC published the preliminary register online on 26 October, and social media users quickly shared screenshots of suspicious photos, including some from Edo State, as well as complaints about duplicate entries and missing names. INEC said on 27 October that it was examining and correcting the records, and that the online register was not final.",
+  "## What happens next",
+  "The commission says the register is still going through verification and correction, and that the final register is due to be certified on 15 December 2026. Bayode said INEC is working under pressure to finish the clean-up within the legal deadline. Opposition parties and civil society groups have called for a thorough audit before the January 2027 elections."
+ ],
+ "more": [
+  "INEC says some registration officers entered AI-generated photos.",
+  "The problem was detected with its biometric identification system.",
+  "The final register is due for certification on 15 December."
+ ],
+ "added": "2026-10-30",
+ "at": "2026-10-30T11:49Z"
+}
