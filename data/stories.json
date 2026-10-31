@@ -15,6 +15,38 @@
  },
  "stories": [
   {
+   "id": "borno-christian-woman-jailed-14-years-conversion",
+   "c": "naija",
+   "n": 5,
+   "h": "Christian woman reportedly jailed 14 years in Borno after Muslim woman converts to Christianity",
+   "p": "A Borno State High Court has reportedly sentenced Liyatu Samuel Dawa, a Christian woman, to 14 years in prison after an adult Muslim woman converted to Christianity. The convert reportedly told the court she changed her faith willingly, but Dawa was convicted under a section of the state penal code that deals with depriving a parent of lawful custody of a child.",
+   "body": [
+    "A Christian woman identified as Liyatu Samuel Dawa has reportedly been sentenced to 14 years in prison by a Borno State High Court following the conversion of an adult Muslim woman to Christianity.",
+    "## What the reports say",
+    "According to reports, the Muslim woman testified in court that she willingly embraced Christianity and was not forced or threatened by anyone.",
+    "Dawa was reportedly convicted under Section 210 of the Borno State Penal Code, which deals with depriving a parent of the lawful custody of a child. She reportedly received the maximum term of 14 years without the option of a fine, and is said to have pleaded for leniency.",
+    "## What is still unclear",
+    "The full circumstances of the conviction remain unclear. It has not been explained publicly how a custody charge applies to the conversion of an adult, and there has been no statement yet from the Borno State judiciary or government. It is also not yet known whether Dawa will appeal.",
+    "Christian advocacy groups have described the sentence as punishment for sharing her faith and a miscarriage of justice. They say Dawa is in custody and that her family has gone into hiding after receiving threats.",
+    "## Religious freedom and the Constitution",
+    "The case has raised concerns about religious freedom and how the law is being applied. Section 38 of Nigeria's Constitution guarantees every citizen the freedom to practise, change and share their religion or belief.",
+    "Many Nigerians argue that this freedom must apply equally to everyone, whether they are Christian, Muslim or of another faith, and are calling for the judgment to be reviewed by a higher court.",
+    "What do you think? Should this conviction be reviewed on appeal, and how can Nigeria make sure religious freedom is protected for everyone?"
+   ],
+   "more": [
+    "The convert reportedly testified that she changed her religion willingly.",
+    "Dawa was reportedly convicted under Section 210 of the Borno State Penal Code.",
+    "No statement has yet come from the Borno State judiciary or government."
+   ],
+   "hot": 1,
+   "img": "img/borno-christian-woman-jailed-14-years-conversion.jpg",
+   "alt": "Portrait of Liyatu Samuel Dawa in a blue headscarf and blue dress with a white bead necklace, in front of red curtains",
+   "credit": "Photo: social media",
+   "owner": true,
+   "added": "2026-10-31",
+   "at": "2026-10-31T14:05Z"
+  },
+  {
    "id": "burna-boy-for-everybody-film-w3-awards",
    "c": "music",
    "n": 1,
@@ -93,7 +125,7 @@
     "The ADC and NDC had not responded at the time of reporting."
    ],
    "added": "2026-10-31",
-   "hot": 1,
+   "hot": 2,
    "img": "img/folasade-tinubu-ojo-warns-against-atiku-obi.jpg",
    "alt": "President Bola Tinubu",
    "credit": "Photo: Nosa Asemota / Wikimedia Commons, CC BY-SA 4.0",
@@ -150,7 +182,7 @@
     "Toyin's new film 'Bestie' is due in December."
    ],
    "added": "2026-10-31",
-   "hot": 4,
+   "hot": 5,
    "img": "img/toyin-abraham-tiktok-post-funke-akindele-rift.jpg",
    "alt": "Funke Akindele at the AMVCA 2020",
    "credit": "Photo: Kaizenify / Wikimedia Commons, CC BY-SA 4.0",
@@ -183,7 +215,7 @@
    "alt": "A Nigeria Police armoured vehicle (stock image)",
    "credit": "Stock image: theglobalpanorama / Flickr, CC BY-SA 2.0",
    "at": "2026-10-31T06:42Z",
-   "hot": 2
+   "hot": 3
   },
   {
    "id": "obi-bayelsa-rescue-kidnap-victims-pledge",
@@ -212,7 +244,7 @@
    "alt": "Peter Obi",
    "credit": "Photo: VOA / Wikimedia Commons, Public domain",
    "at": "2026-10-31T06:42Z",
-   "hot": 3
+   "hot": 4
   },
   {
    "id": "el-rufai-fair-trial-appeal-trump-macron",
@@ -241,7 +273,7 @@
    "alt": "Nasir El-Rufai",
    "credit": "Photo: VOA / Wikimedia Commons, Public domain",
    "at": "2026-10-31T06:42Z",
-   "hot": 8
+   "hot": 9
   },
   {
    "id": "obasanjo-debt-worse-than-leprosy-tinubu",
@@ -270,7 +302,7 @@
    "alt": "Olusegun Obasanjo",
    "credit": "Photo: Helene C. Stikkel / Wikimedia Commons (Public domain)",
    "at": "2026-10-30T20:49Z",
-   "hot": 5
+   "hot": 6
   },
   {
    "id": "fg-nersi-n50000-monthly-cash-relief",
@@ -299,7 +331,7 @@
    "alt": "A Nigerian 500 naira note",
    "credit": "Photo: CBN / Wikimedia Commons (Public domain)",
    "at": "2026-10-30T20:49Z",
-   "hot": 6
+   "hot": 7
   },
   {
    "id": "pope-leo-votes-us-midterms",
@@ -355,8 +387,7 @@
    "img": "img/peller-no-male-doctor-wife-delivery.jpg",
    "alt": "Streamer Peller",
    "credit": "Photo: LuckGr8t / Wikimedia Commons (CC0)",
-   "at": "2026-10-30T20:49Z",
-   "hot": 9
+   "at": "2026-10-30T20:49Z"
   },
   {
    "id": "banky-w-returns-music-super-power",
@@ -556,7 +587,7 @@
    "alt": "Omoyele Sowore",
    "credit": "Photo: Mohamed Nanabhay from Qatar / Wikimedia Commons, CC BY 2.0",
    "at": "2026-10-30T14:43Z",
-   "hot": 7
+   "hot": 8
   },
   {
    "id": "ebola-africa-cdc-not-winning-10000-cases",
