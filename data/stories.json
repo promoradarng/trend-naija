@@ -15,6 +15,39 @@
  },
  "stories": [
   {
+   "id": "landlord-injured-tenant-dispute-rent-increase-1-million",
+   "c": "naija",
+   "n": 1,
+   "h": "Landlord seriously injured as dispute with tenant over rent increase from ₦300,000 to ₦1 million turns violent",
+   "p": "A disagreement between a Nigerian landlord and his tenant over renovation costs and a proposed rent increase from ₦300,000 to ₦1 million has reportedly ended in violence. The landlord was allegedly struck on the head and seriously injured.",
+   "body": [
+    "A disagreement between a Nigerian landlord and his tenant over house renovation expenses and a proposed rent increase has reportedly ended in violence, leaving the landlord seriously injured.",
+    "## How it started",
+    "According to reports, trouble began when the landlord decided to raise the rent from ₦300,000 to a staggering ₦1 million. Renovation costs also became a major point of disagreement between both parties.",
+    "## The confrontation",
+    "What should have been a discussion about rent and property maintenance allegedly turned into a physical confrontation, during which the tenant reportedly struck the landlord on the head, causing serious injuries.",
+    "Photos circulating online show a man with plasters on his head and another man seated in what appears to be an office. The identities of those involved have not been confirmed, and the details of the incident have not been independently verified.",
+    "## Rising tension over rent",
+    "The incident has raised questions about the growing tension between landlords and tenants in Nigeria, at a time when many families are already struggling with the rising cost of accommodation.",
+    "Landlords have their own expenses to deal with, but tenants are equally feeling the pressure of sudden and substantial rent increases.",
+    "However serious a disagreement becomes, violence should never be the answer.",
+    "## Over to you",
+    "What do you think? Is increasing rent from ₦300,000 to ₦1 million reasonable because of renovation costs, or has the landlord gone too far?"
+   ],
+   "more": [
+    "The rent was reportedly raised from ₦300,000 to ₦1 million.",
+    "The landlord was allegedly struck on the head.",
+    "The details have not been independently verified."
+   ],
+   "hot": 1,
+   "added": "2026-11-01",
+   "img": "img/landlord-injured-tenant-dispute-rent-increase-1-million.jpg",
+   "alt": "A man with plasters on his head beside another man seated at an office desk, faces blurred",
+   "credit": "Photo: Trend Naija",
+   "owner": true,
+   "at": "2026-11-01T15:19Z"
+  },
+  {
    "id": "jimmy-odukoya-remarries-introduces-wife",
    "c": "celebs",
    "n": 2,
@@ -118,7 +151,7 @@
     "Her explanation has not been independently verified.",
     "The story has sparked debate about professional boundaries."
    ],
-   "hot": 1,
+   "hot": 2,
    "added": "2026-11-01",
    "img": "img/bank-marketer-allegedly-caught-cheating-with-customer.jpg",
    "alt": "A woman wrapped in a bedsheet on a bed as two men stand in the bedroom, faces blurred",
@@ -154,7 +187,7 @@
     "The church was founded by his late parents, Taiwo and Bimbo Odukoya.",
     "The news has reopened debate about how churches handle divorce."
    ],
-   "hot": 2,
+   "hot": 3,
    "added": "2026-11-01",
    "img": "img/jimmy-odukoya-introduces-new-wife-fountain-of-life.jpg",
    "alt": "Pastor Jimmy Odukoya and his new wife in matching red outfits on a church stage",
@@ -359,7 +392,7 @@
     "Social media users were split in their replies.",
     "Influencers are tenants on platforms they do not own."
    ],
-   "hot": 3,
+   "hot": 4,
    "added": "2026-11-01",
    "img": "img/daniel-regha-vdm-ratel-influence-business.jpg",
    "alt": "VeryDarkMan in RATEL Power gear and in front of RATEL power station boxes, beside screenshots of posts on X by Daniel Regha and other users",
@@ -474,7 +507,7 @@
     "Sales figures are not the same as profit.",
     "Could RATEL become one of Nigeria's biggest home-grown brands?"
    ],
-   "hot": 4,
+   "hot": 5,
    "added": "2026-10-31",
    "img": "img/vdm-ratel-90-million-one-day-v2.jpg",
    "alt": "VeryDarkMan in RATEL Power safety gear holding up a phone, beside a screenshot of bank credit alerts",
@@ -617,7 +650,7 @@
     "The underlying records case continues."
    ],
    "added": "2026-10-31",
-   "hot": 5,
+   "hot": 6,
    "img": "img/us-court-denies-greenspan-discovery-tinubu.jpg",
    "alt": "President Bola Tinubu",
    "credit": "Photo: Nosa Asemota / Wikimedia Commons, CC BY-SA 4.0",
@@ -644,7 +677,6 @@
     "VDM had not responded at the time of reporting."
    ],
    "added": "2026-10-31",
-   "hot": 9,
    "img": "img/de-peters-criticises-vdm-power-station-business.jpg",
    "alt": "VeryDarkMan",
    "credit": "Photo: CoreTechLogic / Wikimedia Commons, CC0",
@@ -730,7 +762,7 @@
    "alt": "Medics at work in an Ebola observation ward (stock image)",
    "credit": "Stock image: DFID - UK Department for International Development / Flickr, CC BY 2.0",
    "at": "2026-10-31T14:43Z",
-   "hot": 8
+   "hot": 9
   },
   {
    "id": "atiku-condemns-attacks-on-opposition-candidates",
@@ -882,7 +914,7 @@
    "owner": true,
    "added": "2026-10-31",
    "at": "2026-10-31T14:12Z",
-   "hot": 6
+   "hot": 7
   },
   {
    "id": "borno-christian-woman-jailed-14-years-conversion",
@@ -914,7 +946,7 @@
    "owner": true,
    "added": "2026-10-31",
    "at": "2026-10-31T14:05Z",
-   "hot": 7
+   "hot": 8
   },
   {
    "id": "burna-boy-for-everybody-film-w3-awards",
