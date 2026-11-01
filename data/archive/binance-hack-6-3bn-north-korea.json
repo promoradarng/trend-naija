@@ -1,7 +1,7 @@
 {
  "id": "binance-hack-6-3bn-north-korea",
  "c": "world",
- "n": 3,
+ "n": 4,
  "h": "Binance reportedly hit by $6.3bn hack, the biggest crypto theft on record",
  "p": "Crypto exchange Binance has reportedly lost about $6.3 billion in digital assets in a hack it says began with an engineer's compromised laptop. The exchange has frozen about $3 billion, promised to cover customers' losses and paused deposits and withdrawals. Investigators have linked the attack to a North Korean hacking group.",
  "body": [
@@ -14,6 +14,8 @@
   "Blockchain analysis firm TRM said it believed with high confidence that the attack was carried out by TraderTraitor, a North Korean state-backed hacking unit linked to the Lazarus Group. The firm warned that the stolen money could be used to fund North Korea's weapons programmes. North Korea has not commented.",
   "## Compensation plan",
   "In an update on 30 October, Binance said it had set aside more than $6.34 billion of its own funds to compensate affected users, separate from the roughly $3 billion that has been frozen. More than $5 billion of that reserve is already held in the same cryptocurrencies that were stolen, and the exchange is buying the rest on the market, which it warned could take longer for some tokens. It said customers would be able to check their holdings through its proof-of-reserves system, but gave no date for when compensation will be completed.",
+  "## FBI names the hackers",
+  "In an advisory dated 31 October, the US Federal Bureau of Investigation said North Korean state-backed hackers linked to the TraderTraitor group were responsible for the theft. The FBI said the stolen funds were being converted mainly into Ether and could be moved through decentralised finance platforms and instant swap services to hide their trail. It published a list of wallet addresses linked to the theft and urged crypto services to block transactions involving them. The FBI worked with the US Secret Service and the Internal Revenue Service on the case, and Binance founder Changpeng Zhao thanked the agencies for helping to track and freeze funds.",
   "## Market impact",
   "The price of Bitcoin reportedly fell by about 5 per cent to below $77,000 after news of the breach. The previous record crypto theft was about $1.5 billion stolen from the Bybit exchange in 2025, also blamed on North Korean hackers.",
   "## Why it matters for Nigerians",
