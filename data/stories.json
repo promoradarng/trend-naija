@@ -15,6 +15,42 @@
  },
  "stories": [
   {
+   "id": "jimmy-odukoya-introduces-new-wife-fountain-of-life",
+   "c": "naija",
+   "n": 1,
+   "h": "Pastor Jimmy Odukoya introduces new wife as Fountain of Life Church welcomes another 'Mummy G.O.'",
+   "p": "Pastor Jimmy Odukoya, Senior Pastor of The Fountain of Life Church, has reportedly introduced his new wife to the congregation. The news has revived an old debate about how Nigerian churches treat divorce among their leaders compared with ordinary members.",
+   "body": [
+    "Pastor Jimmy Odukoya, the Senior Pastor of The Fountain of Life Church, has reportedly introduced his new wife to the congregation, bringing fresh attention to his personal life and to the church's leadership.",
+    "Photos from the occasion show the couple dressed in matching red outfits, smiling together on the church stage.",
+    "## Background",
+    "For those who may not know, Pastor Jimmy was previously married to Kemi Odukoya, and the marriage produced two children. That marriage reportedly ended some years ago.",
+    "His sister, who also serves as an associate pastor in the church, has spoken publicly about the breakdown of her own marriage, including her personal experiences and how her faith in God carried her through that difficult period.",
+    "The Fountain of Life Church was founded by their late parents, Pastors Taiwo and Bimbo Odukoya, and the children have continued the family's ministry.",
+    "## A question about double standards",
+    "The news raises a question about how marriage and divorce are discussed in some Nigerian churches.",
+    "Many religious institutions regularly remind ordinary members that marriage is sacred and that the Bible says God hates divorce. Some believers are even made to feel guilty for leaving marriages that have become unbearable.",
+    "Yet when divorce happens within prominent pastoral families, the conversation often becomes more understanding. Suddenly, people are encouraged to consider personal circumstances, healing, forgiveness and new beginnings.",
+    "Perhaps they should. Pastors are human beings too. But shouldn't ordinary church members receive that same understanding?",
+    "## Finding love again",
+    "There is nothing wrong with anyone finding love again after a failed marriage. The concern is the apparent gap between what some churches preach to their members and how they respond when their own leaders face similar situations.",
+    "So the question is this: if divorce can be understood and accepted when it involves church leaders, why should ordinary Christians sometimes be made to feel condemned for the same decision?",
+    "What is your opinion?"
+   ],
+   "more": [
+    "Pastor Jimmy Odukoya was previously married to Kemi Odukoya.",
+    "The church was founded by his late parents, Taiwo and Bimbo Odukoya.",
+    "The news has reopened debate about how churches handle divorce."
+   ],
+   "hot": 1,
+   "added": "2026-11-01",
+   "img": "img/jimmy-odukoya-introduces-new-wife-fountain-of-life.jpg",
+   "alt": "Pastor Jimmy Odukoya and his new wife in matching red outfits on a church stage",
+   "credit": "Photo: Trend Naija",
+   "owner": true,
+   "at": "2026-11-01T13:10Z"
+  },
+  {
    "id": "sanwo-olu-walks-runway-lagos-fashion-week",
    "c": "viral",
    "n": 2,
@@ -211,7 +247,7 @@
     "Social media users were split in their replies.",
     "Influencers are tenants on platforms they do not own."
    ],
-   "hot": 1,
+   "hot": 2,
    "added": "2026-11-01",
    "img": "img/daniel-regha-vdm-ratel-influence-business.jpg",
    "alt": "VeryDarkMan in RATEL Power gear and in front of RATEL power station boxes, beside screenshots of posts on X by Daniel Regha and other users",
@@ -326,7 +362,7 @@
     "Sales figures are not the same as profit.",
     "Could RATEL become one of Nigeria's biggest home-grown brands?"
    ],
-   "hot": 2,
+   "hot": 3,
    "added": "2026-10-31",
    "img": "img/vdm-ratel-90-million-one-day-v2.jpg",
    "alt": "VeryDarkMan in RATEL Power safety gear holding up a phone, beside a screenshot of bank credit alerts",
@@ -469,7 +505,7 @@
     "The underlying records case continues."
    ],
    "added": "2026-10-31",
-   "hot": 3,
+   "hot": 4,
    "img": "img/us-court-denies-greenspan-discovery-tinubu.jpg",
    "alt": "President Bola Tinubu",
    "credit": "Photo: Nosa Asemota / Wikimedia Commons, CC BY-SA 4.0",
@@ -496,7 +532,7 @@
     "VDM had not responded at the time of reporting."
    ],
    "added": "2026-10-31",
-   "hot": 7,
+   "hot": 8,
    "img": "img/de-peters-criticises-vdm-power-station-business.jpg",
    "alt": "VeryDarkMan",
    "credit": "Photo: CoreTechLogic / Wikimedia Commons, CC0",
@@ -582,7 +618,7 @@
    "alt": "Medics at work in an Ebola observation ward (stock image)",
    "credit": "Stock image: DFID - UK Department for International Development / Flickr, CC BY 2.0",
    "at": "2026-10-31T14:43Z",
-   "hot": 6
+   "hot": 7
   },
   {
    "id": "atiku-condemns-attacks-on-opposition-candidates",
@@ -611,7 +647,7 @@
    "alt": "Atiku Abubakar in a pinstripe suit",
    "credit": "Photo: Etauso / Wikimedia Commons, CC0",
    "at": "2026-10-31T14:43Z",
-   "hot": 8
+   "hot": 9
   },
   {
    "id": "efcc-icpc-fccpc-warn-celebrities-fraud-adverts",
@@ -702,8 +738,7 @@
    "credit": "Photo: VeryDarkMan / social media",
    "owner": true,
    "added": "2026-10-31",
-   "at": "2026-10-31T14:32Z",
-   "hot": 9
+   "at": "2026-10-31T14:32Z"
   },
   {
    "id": "okinbaloye-2027-election-already-rigged-claim",
@@ -736,7 +771,7 @@
    "owner": true,
    "added": "2026-10-31",
    "at": "2026-10-31T14:12Z",
-   "hot": 4
+   "hot": 5
   },
   {
    "id": "borno-christian-woman-jailed-14-years-conversion",
@@ -768,7 +803,7 @@
    "owner": true,
    "added": "2026-10-31",
    "at": "2026-10-31T14:05Z",
-   "hot": 5
+   "hot": 6
   },
   {
    "id": "burna-boy-for-everybody-film-w3-awards",
