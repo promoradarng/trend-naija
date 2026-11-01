@@ -1,6 +1,6 @@
 {
- "updated": "Updated 20:42 GMT",
- "date": "Saturday, 31 October 2026",
+ "updated": "Updated 06:42 GMT",
+ "date": "Sunday, 1 November 2026",
  "categories": {
   "all": "All gist",
   "elections": "2027 elections",
@@ -14,6 +14,84 @@
   "sport": "Sport"
  },
  "stories": [
+  {
+   "id": "us-appeals-court-blocks-dv-lottery-reopening",
+   "c": "world",
+   "n": 1,
+   "h": "US appeals court puts hold on order to reopen 2027 visa lottery",
+   "p": "A US appeals court has reportedly paused a lower court order that required the State Department to open registration for the 2027 Diversity Visa lottery. Tens of thousands of African hopefuls now have no confirmed date to apply while the appeal continues.",
+   "body": [
+    "Hopes of an imminent opening of the US Diversity Visa lottery for 2027 have been put on hold after a federal appeals court intervened, according to reports on Sunday, 1 November 2026.",
+    "## What happened",
+    "The US Court of Appeals for the Ninth Circuit reportedly granted an emergency stay on 29 October, pausing an order issued by District Judge Jinsook Ohta on 14 October. That order, made in a case brought by immigration law firm Red Eagle Law against Secretary of State Marco Rubio, had required the State Department to announce registration dates, open applications and notify selected entrants by 3 December. The lower court had set 29 October for publishing registration details and 1 November for opening the application window.",
+    "## Why it was paused",
+    "The appeals judges reportedly found that the law firm had not shown that its financial interest in representing lottery winners was closely enough linked to the programme's goal of increasing immigration from under-represented countries. The court said its decision was not an endorsement of the State Department's failure to open the programme.",
+    "## Who is affected",
+    "The lottery offers up to 55,000 US immigrant visas each year to people from countries with low rates of immigration to the United States, and African applicants have long made up a large share of winners. Tens of thousands of hopefuls across the continent now have no confirmed registration date. Nigeria has been excluded from the lottery for several years because of its high number of immigrants to the US, but many Nigerians follow the programme closely and some qualify through a spouse's or parent's country of birth.",
+    "## What happens next",
+    "The registration window will remain closed until the appeal is decided or the State Department announces its own dates."
+   ],
+   "more": [
+    "The Ninth Circuit paused an order to open the 2027 lottery.",
+    "The lower court had set 1 November for registration to open.",
+    "Applicants must wait for the appeal to be decided."
+   ],
+   "added": "2026-11-01",
+   "at": "2026-11-01T06:42Z"
+  },
+  {
+   "id": "chelsea-beat-man-united-carrick-pressure",
+   "c": "sport",
+   "n": 1,
+   "h": "Chelsea beat Manchester United 2-0 as Carrick insists he will stay in charge",
+   "p": "Manchester United lost 2-0 at Chelsea on Saturday, leaving them 17th in the Premier League, one point above the relegation zone. Manager Michael Carrick said he expects to remain in charge for Tuesday's Champions League game against Roma.",
+   "body": [
+    "Pressure on Manchester United manager Michael Carrick has grown after another defeat in the Premier League.",
+    "## The match",
+    "Chelsea beat United 2-0 on Saturday, 31 October 2026, with both goals coming in the second half from Morgan Rogers and Cole Palmer, according to reports. It was United's fourth league defeat of the season and leaves them 17th in the table, just one point above the relegation zone.",
+    "## What Carrick said",
+    "Speaking to TNT Sports after the game, Carrick was asked directly whether he expected to still be in charge for United's next match, the Champions League tie against Roma at Old Trafford on Tuesday. He reportedly answered simply that he did.",
+    "## Background",
+    "Carrick, a former United midfielder, has faced growing criticism after a poor start to the season. Reports earlier this week said the club's board had decided against sacking him for now. The club is also facing decisions over several senior defenders whose contracts expire at the end of the season, with Super Eagles defender Calvin Bassey among the players reportedly being considered as a replacement.",
+    "## What happens next",
+    "Tuesday's Champions League match against Roma is now seen as an important test for the manager. Fans are divided, with some calling for patience and others for an immediate change."
+   ],
+   "more": [
+    "Rogers and Palmer scored for Chelsea in the second half.",
+    "United are 17th, a point above the relegation zone.",
+    "Carrick says he expects to be in charge against Roma."
+   ],
+   "added": "2026-11-01",
+   "img": "img/chelsea-beat-man-united-carrick-pressure.jpg",
+   "alt": "Michael Carrick",
+   "credit": "Photo: Timmy96 / Wikimedia Commons (CC0)",
+   "at": "2026-11-01T06:42Z"
+  },
+  {
+   "id": "us-embassy-warns-moscow-museum-attack-threat",
+   "c": "world",
+   "n": 1,
+   "h": "US Embassy warns of credible threat of attack at Moscow museum",
+   "p": "The US Embassy in Moscow has warned Americans of a credible threat of a mass-casualty attack at the Tsaritsyno Museum Reserve. Russia's security service said it received the information from US partners and was taking action, and the site was reportedly closed.",
+   "body": [
+    "The United States Embassy in Moscow has issued an urgent warning about a possible attack at one of the Russian capital's best-known historic sites.",
+    "## What the embassy said",
+    "In a statement on Saturday, 31 October 2026, the embassy said it was aware of a credible threat of an event that could cause mass casualties at the Tsaritsyno Museum Reserve. It advised American citizens to avoid the site that day, stay alert and avoid crowds, and said the US government was coordinating with Russian authorities.",
+    "## Russia's response",
+    "Russia's Federal Security Service (FSB) confirmed it had received information from its American counterparts about possible preparations for a terrorist attack in Moscow and said it was taking appropriate action. Russian media reported that the museum reserve was temporarily closed and that police restricted access to the surrounding park.",
+    "## Background",
+    "Tsaritsyno is a large 18th-century palace and park complex in the south of Moscow, popular with tourists and families. The warning is reminiscent of March 2024, when the US Embassy warned of a possible attack on large gatherings in Moscow shortly before gunmen attacked the Crocus City Hall concert venue, killing more than 140 people. The rare cooperation between US and Russian security services comes at a time of high tension between Russia and the West over Ukraine and Europe.",
+    "## What happens next",
+    "No attack had been reported at the time of writing. Russian authorities are expected to give further updates on their security operation."
+   ],
+   "more": [
+    "The embassy says there is a credible threat at the Tsaritsyno Museum Reserve.",
+    "Russia's FSB says it received the warning from US partners.",
+    "The museum was reportedly closed temporarily."
+   ],
+   "added": "2026-11-01",
+   "at": "2026-11-01T06:42Z"
+  },
   {
    "id": "vdm-ratel-90-million-one-day",
    "c": "creators",
@@ -271,24 +349,26 @@
   {
    "id": "ncdc-two-suspected-ebola-cases-north-east",
    "c": "naija",
-   "n": 2,
-   "h": "NCDC reports two suspected Ebola cases in North-East, patients isolated",
-   "p": "The Nigeria Centre for Disease Control says two suspected Ebola cases have been identified in the North-East and both people have been isolated. Laboratory tests are under way and contacts are being traced; the cases have not been confirmed.",
+   "n": 3,
+   "h": "Two suspected Ebola cases in Adamawa test negative, NCDC says",
+   "p": "The NCDC says two suspected Ebola cases in Yola, Adamawa State, tested negative after two rounds of laboratory testing. Nigeria still has only one confirmed case, an imported case in the FCT, and the public has been urged to rely on official information.",
    "body": [
     "The Nigeria Centre for Disease Control and Prevention (NCDC) has announced two suspected cases of Ebola virus disease in the North-East of the country.",
     "## What the NCDC said",
     "In a social media post on Saturday, 31 October 2026, the NCDC said the two cases were suspected only and had not been confirmed. Both people have been isolated, laboratory tests are being carried out, and health workers have begun identifying and listing everyone who came into contact with them. The agency did not say which states the cases are in or give details about the patients, and said it would provide updates as verified information becomes available.",
     "## Advice to the public",
     "The NCDC urged Nigerians to wash their hands thoroughly and often, improve sanitation and follow guidance from health authorities. Health officials generally advise anyone with symptoms such as sudden fever, weakness, vomiting or unexplained bleeding, especially after contact with a sick person or recent travel to an affected country, to seek medical care quickly and avoid self-medication.",
+    "## Update: cases test negative",
+    "On Sunday, 1 November, the NCDC said the two suspected cases, in Yola, Adamawa State, had tested negative in two separate rounds of laboratory testing. The agency said it had worked with the Adamawa State Government on the investigation, that the index case in the Federal Capital Territory remains Nigeria's only laboratory-confirmed case, and that no further confirmed cases have been reported. It urged the public to stay calm and to rely only on official sources.",
     "## Background",
     "Nigeria recorded one confirmed imported Ebola case this month in a traveller who had recently been to Uganda. That patient was evacuated to Switzerland for treatment, and dozens of contacts were monitored. The wider outbreak, caused by the Bundibugyo strain, began in the Democratic Republic of Congo in May and has now passed 10,000 confirmed cases, with nearly 5,000 deaths. Africa CDC warned this week that the continent is not winning the fight against the virus.",
     "## What happens next",
-    "Test results are expected in the coming days. If the cases are confirmed, they would be the first locally detected cases in Nigeria during this outbreak."
+    "Health officials say surveillance will continue, and anyone with symptoms such as fever, severe weakness, vomiting or unexplained bleeding, especially after travel or contact with a sick person, should seek care quickly and tell health workers their history."
    ],
    "more": [
-    "Both suspected cases have been isolated.",
-    "Lab tests and contact tracing are under way.",
-    "The NCDC has not named the states involved."
+    "Both suspected cases in Yola tested negative twice.",
+    "Nigeria still has only one confirmed, imported case.",
+    "The NCDC urges people to rely on official information."
    ],
    "added": "2026-10-31",
    "img": "img/ncdc-two-suspected-ebola-cases-north-east.jpg",
@@ -1911,118 +1991,6 @@
    ],
    "added": "2026-10-29",
    "at": "2026-10-29T20:44Z"
-  },
-  {
-   "id": "makinde-enugu-obi-stronghold-tinubu-trip",
-   "c": "elections",
-   "n": 2,
-   "h": "Makinde takes campaign to Enugu despite warnings about Obi's stronghold, questions Tinubu's Saudi trip",
-   "p": "Oyo governor Seyi Makinde, who is running for president on the APM ticket, told a town hall in Enugu that his team was almost talked out of campaigning in the South East because it is seen as Peter Obi's territory. He also asked the Presidency to explain the real purpose of President Tinubu's trip to Saudi Arabia.",
-   "body": [
-    "Oyo State Governor Seyi Makinde, the presidential candidate of the Allied Peoples Movement (APM) for 2027, has taken his campaign to the South East, telling supporters in Enugu that his team was almost discouraged from coming to a region widely seen as Peter Obi's base. On the same day, he raised questions about President Bola Tinubu's trip to Saudi Arabia.",
-    "## What he said in Enugu",
-    "Speaking at an APM town hall meeting in Enugu on Thursday, 29 October 2026, Makinde said people had warned his team against campaigning in the South East because the zone was regarded as belonging completely to Obi, the Nigeria Democratic Congress (NDC) candidate. He said he decided to bring his message there anyway and urged Nigerians to reject politics that divides people along ethnic and tribal lines.",
-    "## His question about Tinubu's trip",
-    "In a video shared the same day by an Oyo affairs account on X, Makinde said he had read on social media that the President was travelling to Saudi Arabia to pray for Nigeria. He remarked that prayers can be answered from within Nigeria too, and asked the Presidency to tell Nigerians the true situation. He did not say what he believed the situation to be.",
-    "## How people reacted",
-    "Reactions online were divided. Some users backed his call for openness, while others accused him of politicising a religious trip, and one asked whether he was wishing the President ill because of the election. The Presidency has said the President is performing Umrah, and an aide has rejected claims that the trip is for medical treatment.",
-    "## Background",
-    "Obi won most of the South East in the 2023 presidential election and remains very popular there. Makinde, who is serving his second and final term as Oyo governor, is one of several candidates now trying to build support across regions. Tinubu left Abuja for Makkah this week, and Atiku Abubakar and activist Omoyele Sowore have also questioned the trip."
-   ],
-   "more": [
-    "Makinde says his team was warned against campaigning in the South East.",
-    "He asked the Presidency to explain the real purpose of Tinubu's trip.",
-    "Some users accused him of politicising the President's Umrah."
-   ],
-   "added": "2026-10-29",
-   "img": "img/makinde-enugu-obi-stronghold-tinubu-trip.jpg",
-   "alt": "Governor Seyi Makinde, right, in a blue cap and sunglasses, with Rotimi Babajide at a rally",
-   "credit": "Photo: LastBornOfTheGods / Wikimedia Commons, CC0",
-   "at": "2026-10-29T17:46Z"
-  },
-  {
-   "id": "tinubu-defends-loans-1-trillion-economy",
-   "c": "politics",
-   "n": 1,
-   "h": "Tinubu defends new loans, says debt should be judged by what it builds",
-   "p": "President Bola Tinubu has defended his government's borrowing in a new essay, arguing that loans should be judged by the roads, power and ports they deliver. He listed major projects and economic figures and said Nigeria cannot reach a $1 trillion economy by 2030 on old infrastructure. Atiku Abubakar has again criticised the borrowing plan.",
-   "body": [
-    "President Bola Tinubu has responded to criticism of his government's borrowing plans, saying the real test of debt is what it produces rather than how large it is. His essay, titled 'From Reforms to Delivery', was released in Abuja on Thursday, 29 October 2026, and shared on X by his adviser on information and strategy, Bayo Onanuga.",
-    "## What he said",
-    "Tinubu reportedly argued that the key question is not how much Nigeria borrows but what the country builds and leaves behind. He listed projects including the Lagos–Calabar Coastal Highway, the Sokoto–Badagry Superhighway, the Trans-Sahara Highway, upgrades to the electricity grid and the modernisation of ports in Lagos, as well as spending on health, education and skills. He said the coastal highway alone could cut logistics costs on the corridor by 15 to 20 per cent, add up to 2 per cent to GDP and create about 100,000 construction jobs.",
-    "## The figures he cited",
-    "The President pointed to growth of 4.43 per cent in the second quarter, inflation of 14.63 per cent in September compared with about 21 per cent a year earlier, external reserves of about $55 billion and a tax-to-GDP ratio of 12.5 per cent. He credited the removal of the petrol subsidy, the unification of exchange rates and tax reforms. He said a $1 trillion economy by 2030 cannot run on infrastructure built for a much smaller economy, and named food affordability and energy prices among his priorities for the next phase.",
-    "## The criticism",
-    "The essay follows the President's request to the Senate for approval to borrow about $20.5 billion and €1 billion. Atiku Abubakar, the ADC presidential candidate, said the request proved an earlier warning he gave, and has accused the government of piling up debt, which he says now stands at about ₦167 trillion. He has asked for details of how previous loans were spent.",
-    "## What happens next",
-    "The Senate is yet to approve the new borrowing plan, and the debate over debt is expected to be a major theme of the 2027 campaign."
-   ],
-   "more": [
-    "Tinubu says loans should be judged by what they build.",
-    "He cites inflation of 14.63% and reserves of about $55bn.",
-    "Atiku says debt has climbed to about ₦167 trillion."
-   ],
-   "added": "2026-10-29",
-   "img": "img/tinubu-defends-loans-1-trillion-economy.jpg",
-   "alt": "President Bola Tinubu",
-   "credit": "Photo: Nosa Asemota / Wikimedia Commons, CC BY-SA 4.0",
-   "at": "2026-10-29T17:46Z"
-  },
-  {
-   "id": "ajaero-n1m-minimum-wage-collapse-economy",
-   "c": "naija",
-   "n": 1,
-   "h": "NLC president Ajaero says a ₦1m minimum wage would collapse the economy",
-   "p": "NLC president Joe Ajaero has reportedly said a ₦1 million monthly minimum wage would collapse Nigeria's economy. He said the focus should be on bringing down living costs and strengthening the naira, as talks on wages continue.",
-   "body": [
-    "The president of the Nigeria Labour Congress (NLC), Joe Ajaero, has reportedly said that a minimum wage of ₦1 million a month would bring down the Nigerian economy, in comments that surprised many workers.",
-    "## What he said",
-    "Speaking in an interview on Channels Television, reported on Thursday, 29 October 2026, Ajaero is said to have argued that the priority should be lowering the cost of living and improving the value of the naira rather than chasing very large pay figures. He reportedly said that without tackling inflation, the weak currency and high living costs, bigger salaries on paper would not make workers better off, and that government must first take steps to stabilise the economy.",
-    "## Background",
-    "Labour unions and the Federal Government are still discussing a review of the national minimum wage, which was raised to ₦70,000 a month in 2024. Some workers and activists have called for a much higher figure because of rising prices. The government recently approved a ₦70,000 monthly transport allowance for public workers to ease the impact of high fuel prices, a move that the opposition criticised as too small.",
-    "## How people reacted",
-    "The comments drew mixed reactions online. Some users said the NLC leader was being realistic about what the economy can afford, while others said labour should be pressing for the highest possible increase at a time when food and transport costs have risen sharply.",
-    "## What happens next",
-    "Talks between labour and the government are expected to continue, with wages likely to become a major issue in the run-up to the 2027 elections."
-   ],
-   "more": [
-    "Ajaero says lower living costs matter more than a bigger pay figure.",
-    "The minimum wage review is still under discussion.",
-    "Some workers criticised his comments."
-   ],
-   "added": "2026-10-29",
-   "img": "img/ajaero-n1m-minimum-wage-collapse-economy.jpg",
-   "alt": "Nigeria Labour Congress members on a protest march",
-   "credit": "Photo: Altruistic2020 / Wikimedia Commons (CC0)",
-   "at": "2026-10-29T17:46Z"
-  },
-  {
-   "id": "cbn-payment-data-localisation-deadline",
-   "c": "naija",
-   "n": 1,
-   "h": "CBN warns banks to store payment data in Nigeria by January 2027",
-   "p": "The Central Bank of Nigeria says banks and other regulated firms must store critical payment data inside the country by 1 January 2027, and that the deadline will not move. Firms that fail to comply face sanctions.",
-   "body": [
-    "The Central Bank of Nigeria (CBN) has told banks and other financial institutions that the deadline for keeping critical payment transaction data inside Nigeria remains 1 January 2027.",
-    "## What happened",
-    "The CBN Deputy Governor for Financial System Stability, Lamido Abubakar Yuguda, gave the warning at a regulatory meeting in Lagos organised with the National Information Technology Development Agency (NITDA), reported on Thursday, 29 October 2026. He said the date had not changed and that institutions that break the rule would face sanctions. Deliberate attempts to frustrate the policy would not be tolerated, he added.",
-    "## Why the rule exists",
-    "The CBN says storing payment data in the country will improve supervision, make the financial system more resilient and protect sensitive customer information, as more Nigerians rely on mobile apps, online banking and fintech services. The meeting focused on the National Sovereign Cloud Initiative, which aims to keep government and critical data on infrastructure within Nigeria.",
-    "## What banks must do",
-    "Yuguda reportedly stressed that simply moving data into the country will not make it safe. Banks must also improve their cybersecurity, plans for keeping services running during outages, disaster recovery and risk management. They will remain responsible for risks linked to cloud providers and other technology partners.",
-    "## What it means for customers",
-    "For ordinary customers, the change should be mostly invisible, but the regulator says it should make it harder for sensitive financial data to be exposed and easier for authorities to investigate fraud."
-   ],
-   "more": [
-    "The deadline is 1 January 2027 and will not change.",
-    "Banks must also strengthen cybersecurity and backup plans.",
-    "Firms that break the rule face sanctions."
-   ],
-   "added": "2026-10-29",
-   "img": "img/cbn-payment-data-localisation-deadline.jpg",
-   "alt": "Central Bank of Nigeria headquarters in Abuja",
-   "credit": "Photo: GodwinPaya / Wikimedia Commons (CC BY-SA 4.0)",
-   "at": "2026-10-29T17:46Z"
   }
  ]
 }
