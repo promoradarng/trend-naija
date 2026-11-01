@@ -15,6 +15,40 @@
  },
  "stories": [
   {
+   "id": "vdm-cash-counting-machine-ratel-90-million-sales",
+   "c": "creators",
+   "n": 1,
+   "h": "VeryDarkMan brings out cash counting machine after claiming record ₦90 million sales in one day",
+   "p": "VeryDarkMan has brought out a cash counting machine to count money reportedly received from sales of his RATEL products, after saying the business made ₦90 million in a single day. He has also promised to make his bank statement public to clear any doubts.",
+   "body": [
+    "Social media activist and businessman VeryDarkMan (VDM) has once again got people talking, this time after bringing out a cash counting machine to count money reportedly received from the sale of his RATEL products.",
+    "Photos show him and a colleague surrounded by bundles of naira notes, with an open suitcase full of cash, stacks of money on cartons of RATEL power stations and a counting machine beside them.",
+    "## A record day",
+    "According to VDM, the business recorded about ₦90 million in sales in one day, the biggest single-day figure since the products were launched.",
+    "## Ready to show proof",
+    "VDM knows how Nigerians think. Once you mention ₦90 million in one day, some people will immediately start asking questions, while others will simply refuse to believe it.",
+    "To clear the doubts, he has promised to go a step further and make his bank account statement public so people can see the transactions for themselves. He appeared confident about the figures and made it clear he was ready to back up his claims with evidence.",
+    "## A fast-growing brand",
+    "What makes this development interesting is how quickly the RATEL business appears to be gaining attention. From importing products from China to demonstrating how they perform in public, VDM has continued to attract customers and supporters.",
+    "However, the ₦90 million figure has yet to be independently verified, and sales revenue should not be confused with profit.",
+    "## Over to you",
+    "If VDM can truly generate ₦90 million in sales in a single day, imagine what this business could become in the next few years.",
+    "What do you think about the speed at which VeryDarkMan is growing the RATEL brand?"
+   ],
+   "more": [
+    "VDM says RATEL made about ₦90 million in sales in one day.",
+    "He has promised to publish his bank statement.",
+    "The figure has not been independently verified."
+   ],
+   "hot": 1,
+   "added": "2026-11-01",
+   "img": "img/vdm-cash-counting-machine-ratel-90-million-sales.jpg",
+   "alt": "VeryDarkMan and a colleague counting bundles of naira notes beside a cash counting machine and an open suitcase of money",
+   "credit": "Photo: Trend Naija",
+   "owner": true,
+   "at": "2026-11-01T16:09Z"
+  },
+  {
    "id": "landlord-injured-tenant-dispute-rent-increase-1-million",
    "c": "naija",
    "n": 1,
@@ -39,7 +73,7 @@
     "The landlord was allegedly struck on the head.",
     "The details have not been independently verified."
    ],
-   "hot": 1,
+   "hot": 2,
    "added": "2026-11-01",
    "img": "img/landlord-injured-tenant-dispute-rent-increase-1-million.jpg",
    "alt": "A man with plasters on his head beside another man seated at an office desk, faces blurred",
@@ -151,7 +185,7 @@
     "Her explanation has not been independently verified.",
     "The story has sparked debate about professional boundaries."
    ],
-   "hot": 2,
+   "hot": 3,
    "added": "2026-11-01",
    "img": "img/bank-marketer-allegedly-caught-cheating-with-customer.jpg",
    "alt": "A woman wrapped in a bedsheet on a bed as two men stand in the bedroom, faces blurred",
@@ -187,7 +221,7 @@
     "The church was founded by his late parents, Taiwo and Bimbo Odukoya.",
     "The news has reopened debate about how churches handle divorce."
    ],
-   "hot": 3,
+   "hot": 4,
    "added": "2026-11-01",
    "img": "img/jimmy-odukoya-introduces-new-wife-fountain-of-life.jpg",
    "alt": "Pastor Jimmy Odukoya and his new wife in matching red outfits on a church stage",
@@ -392,7 +426,7 @@
     "Social media users were split in their replies.",
     "Influencers are tenants on platforms they do not own."
    ],
-   "hot": 4,
+   "hot": 5,
    "added": "2026-11-01",
    "img": "img/daniel-regha-vdm-ratel-influence-business.jpg",
    "alt": "VeryDarkMan in RATEL Power gear and in front of RATEL power station boxes, beside screenshots of posts on X by Daniel Regha and other users",
@@ -507,7 +541,7 @@
     "Sales figures are not the same as profit.",
     "Could RATEL become one of Nigeria's biggest home-grown brands?"
    ],
-   "hot": 5,
+   "hot": 6,
    "added": "2026-10-31",
    "img": "img/vdm-ratel-90-million-one-day-v2.jpg",
    "alt": "VeryDarkMan in RATEL Power safety gear holding up a phone, beside a screenshot of bank credit alerts",
@@ -650,7 +684,7 @@
     "The underlying records case continues."
    ],
    "added": "2026-10-31",
-   "hot": 6,
+   "hot": 7,
    "img": "img/us-court-denies-greenspan-discovery-tinubu.jpg",
    "alt": "President Bola Tinubu",
    "credit": "Photo: Nosa Asemota / Wikimedia Commons, CC BY-SA 4.0",
@@ -761,8 +795,7 @@
    "img": "img/ncdc-two-suspected-ebola-cases-north-east.jpg",
    "alt": "Medics at work in an Ebola observation ward (stock image)",
    "credit": "Stock image: DFID - UK Department for International Development / Flickr, CC BY 2.0",
-   "at": "2026-10-31T14:43Z",
-   "hot": 9
+   "at": "2026-10-31T14:43Z"
   },
   {
    "id": "atiku-condemns-attacks-on-opposition-candidates",
@@ -914,7 +947,7 @@
    "owner": true,
    "added": "2026-10-31",
    "at": "2026-10-31T14:12Z",
-   "hot": 7
+   "hot": 8
   },
   {
    "id": "borno-christian-woman-jailed-14-years-conversion",
@@ -946,7 +979,7 @@
    "owner": true,
    "added": "2026-10-31",
    "at": "2026-10-31T14:05Z",
-   "hot": 8
+   "hot": 9
   },
   {
    "id": "burna-boy-for-everybody-film-w3-awards",
