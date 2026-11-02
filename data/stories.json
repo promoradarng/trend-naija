@@ -15,6 +15,37 @@
  },
  "stories": [
   {
+   "id": "otti-opens-abia-facilities-to-opposition-parties",
+   "c": "politics",
+   "n": 1,
+   "h": "Governor Alex Otti opens Abia State facilities to opposition parties, says politics should not deny anyone access",
+   "p": "Abia State Governor Alex Otti says opposition parties should be allowed to use government-owned facilities in the state, including the stadium, as long as they follow due process and pay the required fees. He says he has already directed that no party be turned away because it is in opposition.",
+   "body": [
+    "Abia State Governor, Dr Alex Otti, has made it clear that opposition political parties should be allowed to use government-owned facilities in the state, provided they follow the proper procedures and pay the required fees.",
+    "## The directive",
+    "According to the governor, he has already given instructions that no political party should be prevented from using public facilities, including the stadium, simply because it belongs to the opposition.",
+    "## A message of political tolerance",
+    "Otti's position sends an important message about tolerance and fairness. Government facilities are maintained with public resources, and access to them should not depend on which party someone supports.",
+    "This is one area where Nigerian politicians need to learn to separate governance from party politics. You can disagree with your opponents and campaign against them, and still respect their right to operate within the law.",
+    "Governor Otti appears to be making that distinction clear in Abia State.",
+    "## The big question",
+    "How many Nigerian governors would willingly allow opposition parties to use government facilities for their political activities?",
+    "Politics should never be an excuse to deny citizens their rights."
+   ],
+   "more": [
+    "Opposition parties can use Abia facilities, including the stadium.",
+    "They must follow due process and pay the required fees.",
+    "Otti says he has already given the directive."
+   ],
+   "hot": 1,
+   "added": "2026-11-02",
+   "img": "img/otti-opens-abia-facilities-to-opposition-parties.jpg",
+   "alt": "Governor Alex Otti speaking at a podium bearing the seal of the Governor of Abia State",
+   "credit": "Photo: Trend Naija",
+   "owner": true,
+   "at": "2026-11-02T12:03Z"
+  },
+  {
    "id": "florida-learjet-crash-nine-dead-palm-beach",
    "c": "world",
    "n": 1,
@@ -36,7 +67,7 @@
     "The pilot reported ice and turbulence before a steep dive.",
     "No one on the ground was reported hurt."
    ],
-   "hot": 2,
+   "hot": 3,
    "img": "img/florida-learjet-crash-nine-dead-palm-beach.jpg",
    "alt": "A Learjet 60 business jet, the same model as the crashed plane (file photo)",
    "credit": "Photo: Lars Henseleit (Lhensele at de.wikipedia) / Wikimedia Commons, Public domain",
@@ -67,7 +98,7 @@
    "img": "img/peller-apologises-jesus-costume-livestream.jpg",
    "credit": "Photo: LuckGr8t / Wikimedia Commons (CC0)",
    "alt": "Streamer Peller",
-   "hot": 4,
+   "hot": 5,
    "at": "2026-11-02T11:45Z"
   },
   {
@@ -95,7 +126,7 @@
    "img": "img/toluwanising-burial-dispute-resolved-woli-arole.jpg",
    "credit": "Stock image: Zeetz Jones / Flickr, CC BY 2.0",
    "alt": "A church choir in red robes sings during a service (stock image)",
-   "hot": 5,
+   "hot": 6,
    "at": "2026-11-02T11:45Z"
   },
   {
@@ -123,7 +154,7 @@
    "img": "img/don-jazzy-wasted-first-earnings-champagne.jpg",
    "credit": "Photo: Unknown author / Wikimedia Commons, CC BY 4.0",
    "alt": "Don Jazzy",
-   "hot": 7,
+   "hot": 8,
    "at": "2026-11-02T11:45Z"
   },
   {
@@ -319,7 +350,7 @@
    "credit": "Photo: Trend Naija",
    "owner": true,
    "at": "2026-11-02T11:15Z",
-   "hot": 1
+   "hot": 2
   },
   {
    "id": "flamingos-beat-venezuela-u17-womens-world-cup-semi",
@@ -488,7 +519,7 @@
    "credit": "Photo: Trend Naija",
    "owner": true,
    "at": "2026-11-02T07:45Z",
-   "hot": 3
+   "hot": 4
   },
   {
    "id": "nathaniel-bassey-1-billion-youtube-views",
@@ -797,7 +828,7 @@
    "credit": "Photo: Trend Naija",
    "owner": true,
    "at": "2026-11-01T16:09Z",
-   "hot": 6
+   "hot": 7
   },
   {
    "id": "landlord-injured-tenant-dispute-rent-increase-1-million",
@@ -830,7 +861,7 @@
    "credit": "Photo: Trend Naija",
    "owner": true,
    "at": "2026-11-01T15:19Z",
-   "hot": 8
+   "hot": 9
   },
   {
    "id": "jimmy-odukoya-remarries-introduces-wife",
@@ -976,8 +1007,7 @@
    "alt": "Pastor Jimmy Odukoya and his new wife in matching red outfits on a church stage",
    "credit": "Photo: Trend Naija",
    "owner": true,
-   "at": "2026-11-01T13:10Z",
-   "hot": 9
+   "at": "2026-11-01T13:10Z"
   },
   {
    "id": "sanwo-olu-walks-runway-lagos-fashion-week",
