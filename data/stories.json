@@ -15,6 +15,38 @@
  },
  "stories": [
   {
+   "id": "imo-groom-walks-out-wedding-1-2-million-bride-price",
+   "c": "naija",
+   "n": 1,
+   "h": "Groom reportedly walks out of wedding in Imo State after bride's family demands ₦1.2 million bride price",
+   "p": "A groom in Mbaise, Imo State, has reportedly walked away from his traditional wedding after the bride's family allegedly demanded ₦1.2 million as bride price. The incident has reopened debate about the cost of traditional marriage in Nigeria.",
+   "body": [
+    "What was supposed to be a beautiful celebration of love reportedly took an unexpected turn in Mbaise, Imo State, after a groom allegedly walked away from his bride and their traditional wedding arrangements.",
+    "## What reportedly happened",
+    "According to reports circulating online, trouble began when the bride's family demanded ₦1.2 million as bride price, a sum that reportedly did not sit well with the groom.",
+    "Rather than go ahead with the marriage under those conditions, the man allegedly called everything off, leaving the bride and both families in an embarrassing situation.",
+    "## The cost of getting married",
+    "The incident has raised fresh questions about the financial demands sometimes placed on intending couples during traditional marriage ceremonies.",
+    "Some people believe families have every right to uphold their marriage customs. Others argue that excessive financial demands can discourage young people who genuinely want to settle down.",
+    "The full circumstances of the reported incident, including whether the ₦1.2 million covered only the bride price or other traditional marriage expenses as well, have not been independently confirmed, and the people involved have not been identified.",
+    "## Over to you",
+    "Should a man walk away from a marriage because of expensive traditional demands, or should both families find a way to reach an agreement?",
+    "What would you do if you were in his shoes?"
+   ],
+   "more": [
+    "The incident reportedly happened in Mbaise, Imo State.",
+    "The bride's family allegedly asked for ₦1.2 million.",
+    "The details have not been independently confirmed."
+   ],
+   "hot": 1,
+   "added": "2026-11-02",
+   "img": "img/imo-groom-walks-out-wedding-1-2-million-bride-price.jpg",
+   "alt": "A couple in matching black and gold traditional attire, faces blurred, beside a decorated wedding venue",
+   "credit": "Photo: Trend Naija",
+   "owner": true,
+   "at": "2026-11-02T07:45Z"
+  },
+  {
    "id": "nathaniel-bassey-1-billion-youtube-views",
    "c": "music",
    "n": 1,
@@ -315,7 +347,7 @@
     "He has promised to publish his bank statement.",
     "The figure has not been independently verified."
    ],
-   "hot": 1,
+   "hot": 2,
    "added": "2026-11-01",
    "img": "img/vdm-cash-counting-machine-ratel-90-million-sales.jpg",
    "alt": "VeryDarkMan and a colleague counting bundles of naira notes beside a cash counting machine and an open suitcase of money",
@@ -348,7 +380,7 @@
     "The landlord was allegedly struck on the head.",
     "The details have not been independently verified."
    ],
-   "hot": 2,
+   "hot": 3,
    "added": "2026-11-01",
    "img": "img/landlord-injured-tenant-dispute-rent-increase-1-million.jpg",
    "alt": "A man with plasters on his head beside another man seated at an office desk, faces blurred",
@@ -460,7 +492,7 @@
     "Her explanation has not been independently verified.",
     "The story has sparked debate about professional boundaries."
    ],
-   "hot": 3,
+   "hot": 4,
    "added": "2026-11-01",
    "img": "img/bank-marketer-allegedly-caught-cheating-with-customer.jpg",
    "alt": "A woman wrapped in a bedsheet on a bed as two men stand in the bedroom, faces blurred",
@@ -496,7 +528,7 @@
     "The church was founded by his late parents, Taiwo and Bimbo Odukoya.",
     "The news has reopened debate about how churches handle divorce."
    ],
-   "hot": 4,
+   "hot": 5,
    "added": "2026-11-01",
    "img": "img/jimmy-odukoya-introduces-new-wife-fountain-of-life.jpg",
    "alt": "Pastor Jimmy Odukoya and his new wife in matching red outfits on a church stage",
@@ -701,7 +733,7 @@
     "Social media users were split in their replies.",
     "Influencers are tenants on platforms they do not own."
    ],
-   "hot": 5,
+   "hot": 6,
    "added": "2026-11-01",
    "img": "img/daniel-regha-vdm-ratel-influence-business.jpg",
    "alt": "VeryDarkMan in RATEL Power gear and in front of RATEL power station boxes, beside screenshots of posts on X by Daniel Regha and other users",
@@ -816,7 +848,7 @@
     "Sales figures are not the same as profit.",
     "Could RATEL become one of Nigeria's biggest home-grown brands?"
    ],
-   "hot": 6,
+   "hot": 7,
    "added": "2026-10-31",
    "img": "img/vdm-ratel-90-million-one-day-v2.jpg",
    "alt": "VeryDarkMan in RATEL Power safety gear holding up a phone, beside a screenshot of bank credit alerts",
@@ -959,7 +991,7 @@
     "The underlying records case continues."
    ],
    "added": "2026-10-31",
-   "hot": 7,
+   "hot": 8,
    "img": "img/us-court-denies-greenspan-discovery-tinubu.jpg",
    "alt": "President Bola Tinubu",
    "credit": "Photo: Nosa Asemota / Wikimedia Commons, CC BY-SA 4.0",
@@ -1222,7 +1254,7 @@
    "owner": true,
    "added": "2026-10-31",
    "at": "2026-10-31T14:12Z",
-   "hot": 8
+   "hot": 9
   },
   {
    "id": "borno-christian-woman-jailed-14-years-conversion",
@@ -1253,8 +1285,7 @@
    "credit": "Photo: social media",
    "owner": true,
    "added": "2026-10-31",
-   "at": "2026-10-31T14:05Z",
-   "hot": 9
+   "at": "2026-10-31T14:05Z"
   },
   {
    "id": "burna-boy-for-everybody-film-w3-awards",
