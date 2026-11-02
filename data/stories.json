@@ -15,6 +15,40 @@
  },
  "stories": [
   {
+   "id": "javits-frimpong-bronx-shooting-suspect-arrested",
+   "c": "world",
+   "n": 3,
+   "h": "Police reportedly arrest suspect over shooting death of 15-year-old Ghanaian boy Javits Frimpong in New York",
+   "p": "Police have reportedly made an arrest in connection with the shooting of Javits Frimpong, a 15-year-old Ghanaian boy who was killed while walking to school in the Bronx, New York. Questions remain about what led to the shooting and whether others were involved.",
+   "body": [
+    "Police have reportedly made an arrest in connection with the tragic shooting of Javits Frimpong, a 15-year-old Ghanaian teenager who was killed in the Bronx, New York.",
+    "The development reportedly came after officers spent much of the afternoon searching for suspected gang members believed to have been involved in the incident.",
+    "## What happened",
+    "Javits was shot and killed while walking to school in the Bronx last week. He had moved from Ghana about a year earlier to live with his father, Thomas Frimpong, in New York.",
+    "His father has said he believes bullying may have been behind the attack, and police have been looking into it as a possible motive.",
+    "## Grief and calls for justice",
+    "The killing has caused deep grief in the Ghanaian community and beyond. Students in the Bronx staged a walkout after his death, a memorial in his honour has continued to grow, and the Ghanaian government has vowed to pursue justice for the boy.",
+    "## Questions remain",
+    "Although one suspect is now reportedly in custody, several questions remain unanswered, including what exactly led to the shooting and whether other people were involved. The identity of the person reportedly arrested has not been officially confirmed.",
+    "Police investigations are expected to continue as officers try to piece together what happened and establish who was responsible.",
+    "## A life cut short",
+    "For Javits Frimpong's family, no arrest can bring back the young life that has been lost. At just 15 years old, he had so much of his future ahead of him.",
+    "The hope now is that a thorough investigation will uncover the truth and ensure that anyone found responsible is brought to justice."
+   ],
+   "more": [
+    "Javits was shot while walking to school in the Bronx.",
+    "His father believes bullying may have been involved.",
+    "Ghana's government has vowed to pursue justice."
+   ],
+   "hot": 1,
+   "added": "2026-11-02",
+   "img": "img/javits-frimpong-bronx-shooting-suspect-arrested.jpg",
+   "alt": "A man in a white hoodie escorted by a plain-clothes officer, with an inset of a teenager in a green jacket, faces blurred",
+   "credit": "Photo: Trend Naija",
+   "owner": true,
+   "at": "2026-11-02T23:03Z"
+  },
+  {
    "id": "court-orders-arrest-lagos-nurtw-chairman-sego",
    "c": "naija",
    "n": 1,
@@ -36,7 +70,7 @@
     "Security agencies were told to hand the officials to Kirikiri.",
     "The union has not yet responded."
    ],
-   "hot": 4,
+   "hot": 5,
    "at": "2026-11-02T20:41Z"
   },
   {
@@ -61,7 +95,7 @@
     "It wants sanctions lifted and the naval blockade ended.",
     "Talks in Doha ended without a breakthrough."
    ],
-   "hot": 6,
+   "hot": 7,
    "at": "2026-11-02T20:41Z"
   },
   {
@@ -134,7 +168,6 @@
     "He accused Carter Efe of spoiling his name.",
     "Carter Efe has not responded."
    ],
-   "hot": 9,
    "at": "2026-11-02T20:41Z"
   },
   {
@@ -166,7 +199,7 @@
    "credit": "Photo: Trend Naija",
    "owner": true,
    "at": "2026-11-02T20:39Z",
-   "hot": 1
+   "hot": 2
   },
   {
    "id": "ned-nwoko-regina-death-rumours-legal-action",
@@ -191,7 +224,7 @@
     "He says their children are well cared for."
    ],
    "at": "2026-11-02T18:01Z",
-   "hot": 2
+   "hot": 3
   },
   {
    "id": "obi-camp-denies-broken-neck-gym-report",
@@ -219,7 +252,7 @@
    "credit": "Photo: VOA / Wikimedia Commons, Public domain",
    "alt": "Peter Obi",
    "at": "2026-11-02T18:01Z",
-   "hot": 5
+   "hot": 6
   },
   {
    "id": "wike-rainbow-coalition-critics-cannot-unite-families",
@@ -247,7 +280,7 @@
    "credit": "Photo: Nosa Asemota / Wikimedia Commons, CC BY-SA 4.0",
    "alt": "President Bola Tinubu",
    "at": "2026-11-02T18:01Z",
-   "hot": 7
+   "hot": 8
   },
   {
    "id": "atiku-retired-police-dignity-plan",
@@ -347,7 +380,7 @@
     "No wedding date has been announced."
    ],
    "at": "2026-11-02T18:01Z",
-   "hot": 8
+   "hot": 9
   },
   {
    "id": "francis-duru-burial-arrangements",
@@ -398,7 +431,7 @@
    "alt": "Pilgrims around the Kaaba at the Grand Mosque in Mecca",
    "credit": "Photo: مريم محمد الغلبان / Wikimedia Commons, CC0",
    "at": "2026-11-02T14:56Z",
-   "hot": 3
+   "hot": 4
   },
   {
    "id": "kimi-antonelli-youngest-f1-champion",
