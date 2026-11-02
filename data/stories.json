@@ -15,6 +15,39 @@
  },
  "stories": [
   {
+   "id": "soludo-son-ozonna-ndc-song-father-backs-tinubu",
+   "c": "elections",
+   "n": 1,
+   "h": "Politics will shock you: Soludo's son seen promoting NDC song while his father backs Tinubu",
+   "p": "A Facebook video reportedly showing Ozonna Soludo, son of Anambra State Governor Chukwuma Soludo, dancing to and promoting a song associated with the NDC has sparked reactions online. The NDC is linked in online discussions to Peter Obi and Rabiu Kwankwaso, while Governor Soludo has reportedly been mobilising support for President Bola Tinubu.",
+   "body": [
+    "Nigerian politics has taken another interesting turn, and this time the attention is on the family of Anambra State Governor, Professor Chukwuma Charles Soludo.",
+    "## The video",
+    "A Facebook video reportedly showing Ozonna Soludo, the governor's son, dancing to and promoting a song associated with the NDC has sparked reactions online. In online discussions, the NDC has been linked to Peter Obi and Rabiu Musa Kwankwaso.",
+    "## Father and son in different camps?",
+    "What makes the situation interesting is the apparent political contrast between father and son.",
+    "While Ozonna appears to be enjoying a song associated with a different political camp, his father, Governor Soludo, has reportedly been mobilising political stakeholders in Anambra State in support of President Bola Ahmed Tinubu.",
+    "## A dance is not a declaration",
+    "Dancing to a political song does not automatically mean someone has joined or endorsed a party. Ozonna has not made any confirmed political declaration through the video.",
+    "Even so, the moment has attracted attention because of his father's position. It is also a reminder that family ties do not necessarily decide political loyalty. A father may support one candidate while his son prefers another.",
+    "## The big question",
+    "If Governor Soludo is backing Tinubu while his son appears to be promoting a song associated with Obi and Kwankwaso, what does that say about the changing political atmosphere ahead of 2027?",
+    "Politics in Nigeria never stops surprising us."
+   ],
+   "more": [
+    "Ozonna Soludo was seen dancing to an NDC-associated song.",
+    "Governor Soludo is reportedly mobilising support for Tinubu.",
+    "Ozonna has made no confirmed political declaration."
+   ],
+   "hot": 1,
+   "added": "2026-11-02",
+   "img": "img/soludo-son-ozonna-ndc-song-father-backs-tinubu.jpg",
+   "alt": "Collage of the NDC logo, Peter Obi, Ozonna Soludo in a red cap and Governor Chukwuma Soludo",
+   "credit": "Photo: Trend Naija",
+   "owner": true,
+   "at": "2026-11-02T11:15Z"
+  },
+  {
    "id": "flamingos-beat-venezuela-u17-womens-world-cup-semi",
    "c": "sport",
    "n": 1,
@@ -175,7 +208,7 @@
     "The bride's family allegedly asked for ₦1.2 million.",
     "The details have not been independently confirmed."
    ],
-   "hot": 1,
+   "hot": 2,
    "added": "2026-11-02",
    "img": "img/imo-groom-walks-out-wedding-1-2-million-bride-price.jpg",
    "alt": "A couple in matching black and gold traditional attire, faces blurred, beside a decorated wedding venue",
@@ -484,7 +517,7 @@
     "He has promised to publish his bank statement.",
     "The figure has not been independently verified."
    ],
-   "hot": 2,
+   "hot": 3,
    "added": "2026-11-01",
    "img": "img/vdm-cash-counting-machine-ratel-90-million-sales.jpg",
    "alt": "VeryDarkMan and a colleague counting bundles of naira notes beside a cash counting machine and an open suitcase of money",
@@ -517,7 +550,7 @@
     "The landlord was allegedly struck on the head.",
     "The details have not been independently verified."
    ],
-   "hot": 3,
+   "hot": 4,
    "added": "2026-11-01",
    "img": "img/landlord-injured-tenant-dispute-rent-increase-1-million.jpg",
    "alt": "A man with plasters on his head beside another man seated at an office desk, faces blurred",
@@ -629,7 +662,7 @@
     "Her explanation has not been independently verified.",
     "The story has sparked debate about professional boundaries."
    ],
-   "hot": 4,
+   "hot": 5,
    "added": "2026-11-01",
    "img": "img/bank-marketer-allegedly-caught-cheating-with-customer.jpg",
    "alt": "A woman wrapped in a bedsheet on a bed as two men stand in the bedroom, faces blurred",
@@ -665,7 +698,7 @@
     "The church was founded by his late parents, Taiwo and Bimbo Odukoya.",
     "The news has reopened debate about how churches handle divorce."
    ],
-   "hot": 5,
+   "hot": 6,
    "added": "2026-11-01",
    "img": "img/jimmy-odukoya-introduces-new-wife-fountain-of-life.jpg",
    "alt": "Pastor Jimmy Odukoya and his new wife in matching red outfits on a church stage",
@@ -870,7 +903,7 @@
     "Social media users were split in their replies.",
     "Influencers are tenants on platforms they do not own."
    ],
-   "hot": 6,
+   "hot": 7,
    "added": "2026-11-01",
    "img": "img/daniel-regha-vdm-ratel-influence-business.jpg",
    "alt": "VeryDarkMan in RATEL Power gear and in front of RATEL power station boxes, beside screenshots of posts on X by Daniel Regha and other users",
@@ -987,7 +1020,7 @@
     "Sales figures are not the same as profit.",
     "Could RATEL become one of Nigeria's biggest home-grown brands?"
    ],
-   "hot": 7,
+   "hot": 8,
    "added": "2026-10-31",
    "img": "img/vdm-ratel-90-million-one-day-v2.jpg",
    "alt": "VeryDarkMan in RATEL Power safety gear holding up a phone, beside a screenshot of bank credit alerts",
@@ -1130,7 +1163,7 @@
     "The underlying records case continues."
    ],
    "added": "2026-10-31",
-   "hot": 8,
+   "hot": 9,
    "img": "img/us-court-denies-greenspan-discovery-tinubu.jpg",
    "alt": "President Bola Tinubu",
    "credit": "Photo: Nosa Asemota / Wikimedia Commons, CC BY-SA 4.0",
@@ -1392,8 +1425,7 @@
    "credit": "Image: Channels Television / social media",
    "owner": true,
    "added": "2026-10-31",
-   "at": "2026-10-31T14:12Z",
-   "hot": 9
+   "at": "2026-10-31T14:12Z"
   },
   {
    "id": "borno-christian-woman-jailed-14-years-conversion",
