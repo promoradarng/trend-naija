@@ -15,6 +15,37 @@
  },
  "stories": [
   {
+   "id": "tinubu-kisses-black-stone-umrah-makkah",
+   "c": "politics",
+   "n": 1,
+   "h": "President Tinubu seen kissing the sacred Black Stone during Umrah in Makkah",
+   "p": "President Bola Ahmed Tinubu has been seen kissing the Black Stone, known as Al-Hajar Al-Aswad, while performing Umrah in Makkah, Saudi Arabia. Photos show him at the eastern corner of the Kaaba, surrounded by security officials.",
+   "body": [
+    "President Bola Ahmed Tinubu has been seen kissing the sacred Black Stone, known as Al-Hajar Al-Aswad, while performing Umrah in the holy city of Makkah, Saudi Arabia.",
+    "Photos from the visit show the President, dressed in white, leaning into the silver frame that holds the stone as Saudi security officers stand by. Another photo shows him with members of his delegation in the courtyard of the Grand Mosque.",
+    "## About the Black Stone",
+    "The Black Stone sits at the eastern corner of the Kaaba, inside the Grand Mosque, and holds deep religious significance for Muslims around the world.",
+    "Kissing the stone is a practice associated with Prophet Muhammad (peace be upon him), and many pilgrims seek the chance to do so whenever they visit the holy site.",
+    "## A spiritual journey",
+    "For Muslims, Umrah is a spiritual journey marked by prayer, worship and personal reflection.",
+    "The moment has also drawn attention to the religious side of Nigeria's leader as he performs one of Islam's important acts of worship.",
+    "## Over to you",
+    "What are your thoughts on this moment from President Tinubu's visit to Makkah?"
+   ],
+   "more": [
+    "The Black Stone is at the eastern corner of the Kaaba.",
+    "Kissing it follows the practice of Prophet Muhammad (PBUH).",
+    "Tinubu was performing Umrah in Makkah."
+   ],
+   "hot": 1,
+   "added": "2026-11-02",
+   "img": "img/tinubu-kisses-black-stone-umrah-makkah.jpg",
+   "alt": "President Bola Tinubu, dressed in white, kissing the Black Stone at the Kaaba as Saudi security officers look on",
+   "credit": "Photo: Trend Naija",
+   "owner": true,
+   "at": "2026-11-02T20:39Z"
+  },
+  {
    "id": "ned-nwoko-regina-death-rumours-legal-action",
    "c": "celebs",
    "n": 2,
@@ -36,7 +67,7 @@
     "His team is documenting false reports for legal action.",
     "He says their children are well cared for."
    ],
-   "hot": 1,
+   "hot": 2,
    "at": "2026-11-02T18:01Z"
   },
   {
@@ -64,7 +95,7 @@
    "img": "img/obi-camp-denies-broken-neck-gym-report.jpg",
    "credit": "Photo: VOA / Wikimedia Commons, Public domain",
    "alt": "Peter Obi",
-   "hot": 3,
+   "hot": 4,
    "at": "2026-11-02T18:01Z"
   },
   {
@@ -92,7 +123,7 @@
    "img": "img/wike-rainbow-coalition-critics-cannot-unite-families.jpg",
    "credit": "Photo: Nosa Asemota / Wikimedia Commons, CC BY-SA 4.0",
    "alt": "President Bola Tinubu",
-   "hot": 5,
+   "hot": 6,
    "at": "2026-11-02T18:01Z"
   },
   {
@@ -168,7 +199,7 @@
     "Most other lower earners face a 10-year route.",
     "High earners above £125,000 can settle in three years."
    ],
-   "hot": 8,
+   "hot": 9,
    "at": "2026-11-02T18:01Z"
   },
   {
@@ -193,7 +224,7 @@
     "She is reportedly set to marry Chief Chukwudi Onuorah.",
     "No wedding date has been announced."
    ],
-   "hot": 6,
+   "hot": 7,
    "at": "2026-11-02T18:01Z"
   },
   {
@@ -245,7 +276,7 @@
    "alt": "Pilgrims around the Kaaba at the Grand Mosque in Mecca",
    "credit": "Photo: مريم محمد الغلبان / Wikimedia Commons, CC0",
    "at": "2026-11-02T14:56Z",
-   "hot": 2
+   "hot": 3
   },
   {
    "id": "kimi-antonelli-youngest-f1-champion",
@@ -272,7 +303,7 @@
     "He is Italy's first F1 champion since 1953."
    ],
    "at": "2026-11-02T14:56Z",
-   "hot": 7
+   "hot": 8
   },
   {
    "id": "nally-simson-namibian-singer-dies-crash",
@@ -298,8 +329,7 @@
     "His brother confirmed his death and asked for privacy.",
     "His last post promoted his song 'Untouchable'."
    ],
-   "at": "2026-11-02T14:56Z",
-   "hot": 9
+   "at": "2026-11-02T14:56Z"
   },
   {
    "id": "inec-amupitan-ai-not-enemy-democracy",
@@ -452,7 +482,7 @@
    "credit": "Photo: Trend Naija",
    "owner": true,
    "at": "2026-11-02T12:03Z",
-   "hot": 4
+   "hot": 5
   },
   {
    "id": "florida-learjet-crash-nine-dead-palm-beach",
