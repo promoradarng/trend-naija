@@ -15,6 +15,45 @@
  },
  "stories": [
   {
+   "id": "efcc-uncovers-illegal-refinery-ogere-ogun-chinese-nationals",
+   "c": "naija",
+   "n": 1,
+   "h": "EFCC uncovers suspected illegal oil refinery allegedly operated by Chinese nationals in Ogun State",
+   "p": "The EFCC has uncovered a suspected illegal oil refinery in Ogere, Ogun State, allegedly linked to Chinese nationals. No one was found on the premises during the raid, but investigators discovered underground tanks holding a substance suspected to be diesel.",
+   "body": [
+    "The Economic and Financial Crimes Commission (EFCC) has uncovered a suspected illegal oil refinery in Ogere, Ogun State, allegedly linked to Chinese nationals.",
+    "The discovery has raised fresh concerns about illegal petroleum processing in Nigeria, especially the possibility that some operations are running quietly in places far from the country's major oil-producing areas.",
+    "## The raid",
+    "According to reports, EFCC operatives raided the facility on Saturday, 31 October 2026, but nobody was found on the premises when they arrived.",
+    "During the operation, investigators discovered underground storage tanks holding substances suspected to be diesel, suggesting the site may have been used for petroleum processing and storage.",
+    "## Sludge oil from Warri and Port Harcourt",
+    "Preliminary investigations reportedly showed that sludge oil was transported from Warri in Delta State and Port Harcourt in Rivers State to the Ogun State facility, where it was allegedly processed into petroleum products.",
+    "That detail raises an important question: how was petroleum waste moved across several states to a facility allegedly operating outside the law without attracting the attention of the relevant authorities?",
+    "## Questions for investigators",
+    "Given the size and nature of such an operation, investigators will also need to establish how long the facility had been running, who financed it and whether other individuals or companies were involved.",
+    "The EFCC has reportedly taken control of the premises while investigations continue to identify those responsible, including the alleged owners and operators.",
+    "Although Chinese nationals have been linked to the facility, the identities of those involved have not been publicly established, and the allegations remain under investigation.",
+    "## A wider problem",
+    "For many Nigerians, the discovery points to a familiar and troubling issue. While the country continues to battle crude oil theft, illegal refining and lost revenue in the petroleum sector, questions remain about how such operations are set up and kept running.",
+    "The authorities are now expected to determine the full extent of what went on at the Ogere facility and whether any laws were broken.",
+    "## The big question",
+    "Who owns this refinery, how long has it been operating, and who has been supplying the materials used there?",
+    "As the EFCC investigation continues, Nigerians will be watching to see whether those behind the suspected operation are identified and brought before the law."
+   ],
+   "more": [
+    "The EFCC raided the Ogere facility on 31 October.",
+    "No one was found on the premises.",
+    "Sludge oil was reportedly brought in from Warri and Port Harcourt."
+   ],
+   "hot": 1,
+   "added": "2026-11-03",
+   "img": "img/efcc-uncovers-illegal-refinery-ogere-ogun-chinese-nationals.jpg",
+   "alt": "Red storage silos, a cooling tower, a lined water pit and processing equipment at the suspected illegal refinery in Ogere, Ogun State",
+   "credit": "Photo: Trend Naija",
+   "owner": true,
+   "at": "2026-11-03T20:28Z"
+  },
+  {
    "id": "sanusi-tells-tinubu-stop-attacking-poverty-critics",
    "c": "politics",
    "n": 1,
@@ -36,7 +75,7 @@
     "He says Nigeria was close to hyperinflation in 2023.",
     "The Presidency has not responded."
    ],
-   "hot": 1,
+   "hot": 2,
    "at": "2026-11-03T17:43Z"
   },
   {
@@ -61,7 +100,7 @@
     "It covers federal, state and local elections.",
     "An ally says El-Rufai's base remains strong."
    ],
-   "hot": 3,
+   "hot": 4,
    "at": "2026-11-03T17:43Z",
    "img": "img/el-rufai-tells-supporters-vote-adc-all-levels.jpg",
    "alt": "Nasir El-Rufai in a black cap and grey kaftan",
@@ -93,7 +132,7 @@
    "img": "img/soludo-obi-families-godparents-despite-rift.jpg",
    "credit": "Photo: VOA / Wikimedia Commons, Public domain",
    "alt": "Peter Obi",
-   "hot": 8,
+   "hot": 9,
    "at": "2026-11-03T17:43Z"
   },
   {
@@ -116,7 +155,7 @@
     "Many people said the comments were out of touch.",
     "The cost of living is a major 2027 issue."
    ],
-   "hot": 6,
+   "hot": 7,
    "at": "2026-11-03T17:43Z"
   },
   {
@@ -219,7 +258,7 @@
    "credit": "Photo: Etauso / Wikimedia Commons, CC0",
    "alt": "Portrait of Atiku Abubakar in a pinstripe suit",
    "at": "2026-11-03T14:43Z",
-   "hot": 2
+   "hot": 3
   },
   {
    "id": "doris-ogala-medical-report-health-concerns",
@@ -244,7 +283,7 @@
     "Her bail ruling is due on 6 November."
    ],
    "at": "2026-11-03T14:43Z",
-   "hot": 4
+   "hot": 5
   },
   {
    "id": "rufai-oseni-challenges-umahi-over-obi",
@@ -400,8 +439,7 @@
    "alt": "Rayven Tyler speaking to the camera in a selfie video",
    "credit": "Photo: Trend Naija",
    "owner": true,
-   "at": "2026-11-03T14:02Z",
-   "hot": 9
+   "at": "2026-11-03T14:02Z"
   },
   {
    "id": "regina-daniels-snapchat-video-doing-better",
@@ -430,7 +468,7 @@
    "credit": "Photo: Trend Naija",
    "owner": true,
    "at": "2026-11-03T13:25Z",
-   "hot": 5
+   "hot": 6
   },
   {
    "id": "blessing-ceo-apologises-broken-prodigal-son",
@@ -464,7 +502,7 @@
    "credit": "Photo: Trend Naija",
    "owner": true,
    "at": "2026-11-03T12:08Z",
-   "hot": 7
+   "hot": 8
   },
   {
    "id": "super-falcons-receive-100000-wafcon-reward",
