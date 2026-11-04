@@ -15,6 +15,42 @@
  },
  "stories": [
   {
+   "id": "dss-frees-four-cleared-ipob-n20m-compensation",
+   "c": "politics",
+   "n": 6,
+   "h": "DSS DG orders release of four men cleared of IPOB membership, approves ₦20 million compensation",
+   "p": "DSS Director-General Oluwatosin Adeola Ajayi has ordered the release of four men arrested in Bayelsa State in May 2022 over alleged IPOB membership, after they were cleared. He approved an initial ₦20 million compensation, ₦5 million for each of them.",
+   "body": [
+    "The Director-General of the Department of State Services (DSS), Oluwatosin Adeola Ajayi, has ordered the release of four men who had been accused of belonging to the proscribed Indigenous People of Biafra (IPOB).",
+    "## Who they are",
+    "The four men, Emele Uduma Ibe, Berefgagha Appah, Ondokeyilemi Aggry and Oyeinmokebebeton Aggry, were arrested in May 2022 in the Sampou and Akeddei communities of Kolokuma/Opokuma and Sagbama Local Government Areas of Bayelsa State. That means they spent about four and a half years in custody before their release.",
+    "## ₦5 million each",
+    "After they were cleared of the allegations, the DG approved an initial compensation package of ₦20 million, with each man receiving ₦5 million. The men are also expected to receive psychological and medical support and help returning to normal life.",
+    "Security sources said investigations showed the men had been lured by people claiming to be IPOB members, who promised them ₦100,000 a month under the Federal Government's Amnesty Programme.",
+    "\"Where we admit our mistakes, we offer compensation, and seek ways to improve operations in tandem with the rule of law,\" Ajayi said. One of the freed men, Emele Uduma Ibe, described the day as the happiest of his life.",
+    "## Not the first time",
+    "This is not the first such case under Ajayi. After he took office in 2024, he ordered a review of more than 300 inherited terrorism cases. Others who have since been compensated include a Jos businessman shot in error by DSS personnel, who received ₦20 million, and several people cleared of IPOB ties who received between ₦5 million and ₦10 million.",
+    "## Can money repair the damage?",
+    "For anyone who has spent years in detention over an allegation they did not commit, freedom alone may not be enough to repair the damage. There is the emotional suffering, the disruption of family life, the loss of income and the stigma that often follows such accusations.",
+    "The ₦5 million payment may provide some financial relief, but it cannot replace the time lost.",
+    "Still, the decision sends an important message about accountability within Nigeria's security system. Security agencies have a duty to investigate threats to national security and protect citizens, but that duty must be carried out within the law and with respect for the rights of people who have not been convicted of any offence.",
+    "Many Nigerians will be watching to see whether similar attention is given to other people who may have been wrongly accused or detained, especially given the controversies around IPOB-linked arrests in the South-East and South-South.",
+    "The bigger question remains: if someone is arrested, detained and later cleared of wrongdoing, should compensation automatically follow? What do you think about the DSS Director-General's decision?"
+   ],
+   "more": [
+    "The four men were arrested in Bayelsa State in May 2022.",
+    "Each will receive ₦5 million, described as an initial payment, plus medical and psychological support.",
+    "The DG has ordered compensation in several earlier wrongful-arrest cases."
+   ],
+   "hot": 1,
+   "img": "img/dss-frees-four-cleared-ipob-n20m-compensation.jpg",
+   "alt": "Four men standing side by side against a white background, one in a dark long-sleeved top and three in white long-sleeved tops",
+   "credit": "Photo: DSS / social media",
+   "owner": true,
+   "added": "2026-11-04",
+   "at": "2026-11-04T04:00Z"
+  },
+  {
    "id": "umahi-who-is-peter-obi-better-than-anyim",
    "c": "politics",
    "n": 1,
@@ -40,7 +76,7 @@
     "Anyim is a former Senate President and SGF.",
     "The remarks revived a long-running South-East debate."
    ],
-   "hot": 1,
+   "hot": 2,
    "added": "2026-11-03",
    "img": "img/umahi-who-is-peter-obi-better-than-anyim.jpg",
    "alt": "Collage of Peter Obi and Minister of Works David Umahi, one showing Umahi speaking into a microphone",
@@ -71,7 +107,7 @@
    "img": "img/jumoke-akinjide-returns-backs-tinubu-alli-oyo.jpg",
    "credit": "Photo: Nosa Asemota / Wikimedia Commons, CC BY-SA 4.0",
    "alt": "President Bola Tinubu",
-   "hot": 7,
+   "hot": 8,
    "at": "2026-11-03T20:42Z"
   },
   {
@@ -153,7 +189,7 @@
    "credit": "Photo: Trend Naija",
    "owner": true,
    "at": "2026-11-03T20:34Z",
-   "hot": 2
+   "hot": 3
   },
   {
    "id": "efcc-uncovers-illegal-refinery-ogere-ogun-chinese-nationals",
@@ -192,7 +228,7 @@
    "credit": "Photo: Trend Naija",
    "owner": true,
    "at": "2026-11-03T20:28Z",
-   "hot": 3
+   "hot": 4
   },
   {
    "id": "sanusi-tells-tinubu-stop-attacking-poverty-critics",
@@ -217,7 +253,7 @@
     "The Presidency has not responded."
    ],
    "at": "2026-11-03T17:43Z",
-   "hot": 4
+   "hot": 5
   },
   {
    "id": "el-rufai-tells-supporters-vote-adc-all-levels",
@@ -246,7 +282,7 @@
    "alt": "Nasir El-Rufai in a black cap and grey kaftan",
    "credit": "Photo: Trend Naija",
    "owner": true,
-   "hot": 6
+   "hot": 7
   },
   {
    "id": "soludo-obi-families-godparents-despite-rift",
@@ -373,7 +409,7 @@
    "credit": "Photo: Etauso / Wikimedia Commons, CC0",
    "alt": "Portrait of Atiku Abubakar in a pinstripe suit",
    "at": "2026-11-03T14:43Z",
-   "hot": 5
+   "hot": 6
   },
   {
    "id": "doris-ogala-medical-report-health-concerns",
@@ -398,7 +434,7 @@
     "Her bail ruling is due on 6 November."
    ],
    "at": "2026-11-03T14:43Z",
-   "hot": 8
+   "hot": 9
   },
   {
    "id": "rufai-oseni-challenges-umahi-over-obi",
@@ -1763,8 +1799,7 @@
    "img": "img/toluwanising-burial-dispute-resolved-woli-arole.jpg",
    "credit": "Stock image: Zeetz Jones / Flickr, CC BY 2.0",
    "alt": "A church choir in red robes sings during a service (stock image)",
-   "at": "2026-11-02T11:45Z",
-   "hot": 9
+   "at": "2026-11-02T11:45Z"
   },
   {
    "id": "don-jazzy-wasted-first-earnings-champagne",
