@@ -15,6 +15,41 @@
  },
  "stories": [
   {
+   "id": "obi-condemns-court-ruling-adc-chairman",
+   "c": "elections",
+   "n": 1,
+   "h": "Peter Obi condemns court ruling nullifying ADC chairman, says ruling party is engineering instability",
+   "p": "NDC presidential candidate Peter Obi has condemned a Federal High Court ruling in Abuja that nullified the emergence of the ADC national chairman and all his actions. Obi warned the ruling could create serious uncertainty for opposition parties ahead of 2027, and accused the ruling party of engineering it.",
+   "body": [
+    "NDC presidential candidate Peter Obi has condemned the Federal High Court ruling that nullified the emergence of the African Democratic Congress (ADC) national chairman and the actions taken under his leadership.",
+    "## \"Do not undermine democracy\"",
+    "In a statement on X titled \"Do not Undermine Democracy\", Obi said he received the news of the order by the Federal High Court in Abuja \"with shock\", describing it as \"unsettling and surprising\".",
+    "He was careful to say he was not challenging the court itself. \"I do not challenge the ruling of the court. The court of law is constituted to determine disputes according to the law,\" he wrote.",
+    "## Uncertainty before 2027",
+    "Obi's concern, he explained, is the timing. \"My concern is that three months before a general election, it is in the public interest to have certainty. It is not good to have too many uncertainties about candidates and parties a few weeks before a presidential election.\"",
+    "## Accusation against the ruling party",
+    "He went further, alleging that the instability was \"obviously engineered by the ruling party, just as they have done against me in the Labour Party\", and that the same approach was being used \"to close down civic space for a robust campaign\".",
+    "Obi also linked it to what he described as violence against opposition campaigns, saying it came \"from the same rulebook that manufactures violence against us in our campaigns.\"",
+    "These are Obi's allegations, and the ruling party has not been quoted responding to them in his statement.",
+    "## A call to the judiciary",
+    "Obi called on the judiciary to rise up and protect democracy by making sure opposition parties and their candidates are allowed to take part freely in the electoral process.",
+    "## Over to you",
+    "Is Obi right to worry about the timing of the ruling, or should the court's decision simply be allowed to take its course?"
+   ],
+   "more": [
+    "A Federal High Court nullified the ADC chairman's emergence.",
+    "Obi says the ruling creates uncertainty three months before the election.",
+    "He accused the ruling party of engineering instability."
+   ],
+   "hot": 1,
+   "added": "2026-11-05",
+   "img": "img/obi-condemns-court-ruling-adc-chairman.jpg",
+   "alt": "Peter Obi and Atiku Abubakar beside a screenshot of Obi's statement on X titled Do not Undermine Democracy",
+   "credit": "Photo: Trend Naija",
+   "owner": true,
+   "at": "2026-11-05T20:38Z"
+  },
+  {
    "id": "ndc-lagos-campaign-large-crowd",
    "c": "elections",
    "n": 1,
@@ -40,7 +75,7 @@
     "Lagos is a key battleground and Tinubu's stronghold.",
     "Crowds do not always translate into votes."
    ],
-   "hot": 1,
+   "hot": 2,
    "added": "2026-11-05",
    "img": "img/ndc-lagos-campaign-large-crowd.jpg",
    "alt": "NDC leaders addressing supporters with a microphone, above photos of a large cheering crowd, many wearing red caps",
@@ -76,7 +111,7 @@
     "Rudeboy reacted in disbelief on Instagram.",
     "The clip has sparked debate about money and marriage."
    ],
-   "hot": 2,
+   "hot": 3,
    "added": "2026-11-05",
    "img": "img/rudeboy-reacts-lady-blames-mother-marrying-broke-man.jpg",
    "alt": "Rudeboy Paul Okoye, a young lady speaking in a video, and a screenshot of Rudeboy's Instagram story reacting",
@@ -109,7 +144,7 @@
    "img": "img/vdm-explains-davido-rift-mohbad.jpg",
    "credit": "Photo: CoreTechLogic / Wikimedia Commons, CC0",
    "alt": "VeryDarkMan",
-   "hot": 4,
+   "hot": 5,
    "at": "2026-11-05T17:42Z"
   },
   {
@@ -137,7 +172,7 @@
    "img": "img/ndc-anambra-target-98-percent-obi.jpg",
    "credit": "Photo: VOA / Wikimedia Commons, Public domain",
    "alt": "Peter Obi",
-   "hot": 8,
+   "hot": 9,
    "at": "2026-11-05T17:42Z"
   },
   {
@@ -256,7 +291,7 @@
    "credit": "Photo: Flowrymz / Wikimedia Commons, CC BY-SA 4.0",
    "alt": "Rochas Okorocha",
    "at": "2026-11-05T14:42Z",
-   "hot": 7
+   "hot": 8
   },
   {
    "id": "christmas-airfares-surge-208-percent",
@@ -280,8 +315,7 @@
     "Lagos–Benin now costs about ₦310,500.",
     "The FCCPC previously accused airlines of price-fixing."
    ],
-   "at": "2026-11-05T14:42Z",
-   "hot": 9
+   "at": "2026-11-05T14:42Z"
   },
   {
    "id": "ambode-backs-tinubu-hamzat-epe-rally",
@@ -386,7 +420,7 @@
    "credit": "Photo: Etauso / Wikimedia Commons, CC0",
    "alt": "Portrait of Atiku Abubakar in a pinstripe suit",
    "at": "2026-11-05T11:43Z",
-   "hot": 3
+   "hot": 4
   },
   {
    "id": "ronaldo-retires-from-international-football",
@@ -411,7 +445,7 @@
     "He will keep playing for Al Nassr."
    ],
    "at": "2026-11-05T11:43Z",
-   "hot": 6
+   "hot": 7
   },
   {
    "id": "nnpc-cuts-petrol-price-abuja-lagos",
@@ -795,7 +829,7 @@
    "alt": "Nigeria Flamingos player wearing number 14 celebrating at the FIFA U-17 Women's World Cup Morocco 2026",
    "credit": "Photo: Trend Naija",
    "owner": true,
-   "hot": 5
+   "hot": 6
   },
   {
    "id": "njc-suspends-three-judges-misconduct",
