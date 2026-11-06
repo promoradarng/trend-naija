@@ -115,7 +115,13 @@ function head(title, desc, canonical, opt = {}) {
 <meta property="og:url" content="${SITE}${canonical}">
 <meta property="og:type" content="${opt.article ? "article" : "website"}">${opt.image ? `
 <meta property="og:image" content="${esc(opt.image)}">
-<meta name="twitter:image" content="${esc(opt.image)}">` : ""}${opt.article ? `
+<meta name="twitter:image" content="${esc(opt.image)}">` : `
+<meta property="og:image" content="${SITE}/og-image.jpg">
+<meta property="og:image:type" content="image/jpeg">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:image:alt" content="Trend Naija – The Gist Desk">
+<meta name="twitter:image" content="${SITE}/og-image.jpg">`}${opt.article ? `
 <meta property="article:published_time" content="${esc(opt.article)}">` : ""}
 <meta name="robots" content="max-image-preview:large">${opt.ld ? `
 <script type="application/ld+json">${JSON.stringify(opt.ld).replace(/</g, "\\u003c")}</script>` : ""}
