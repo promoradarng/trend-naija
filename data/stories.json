@@ -15,6 +15,39 @@
  },
  "stories": [
   {
+   "id": "stones-thrown-stage-nasarawa-governor-campaign-rally",
+   "c": "elections",
+   "n": 1,
+   "h": "Tension erupts as angry crowd throws stones towards stage while Nasarawa governor addresses presidential campaign rally",
+   "p": "A presidential campaign rally was disrupted when some angry youths in the crowd reportedly threw stones towards the stage as Nasarawa State Governor Abdullahi Sule addressed supporters. Photos show stones lying on the stage beside the governor and his team.",
+   "body": [
+    "What was supposed to be a peaceful political campaign reportedly took a dramatic turn when some angry youths in the crowd began throwing stones towards the stage while Nasarawa State Governor Abdullahi Sule was addressing supporters.",
+    "## What happened",
+    "The incident happened during a presidential campaign rally on Thursday, 5 November 2026, and created tension at the venue as the gathering was disrupted.",
+    "Photos from the event show large stones lying on the red carpet of the stage, close to the governor's feet. In one image, a man in a suit bends to pick up one of the stones as the governor, microphone in hand, points towards the crowd, with security officers standing beside him.",
+    "## Why the anger?",
+    "The exact reason for the crowd's anger remains unclear. The incident does, however, raise questions about growing frustration among sections of the population and how political leaders are being received at public gatherings.",
+    "For many Nigerians struggling with the rising cost of living, unemployment and insecurity, political promises are becoming harder to accept without visible results.",
+    "Even so, it would be premature to blame those grievances for the disturbance without hearing from the people involved.",
+    "## Violence is never the answer",
+    "Whatever the reason, throwing stones at a political gathering is dangerous and should never be encouraged. People have every right to express their dissatisfaction with their leaders, but political disagreement should never turn violent.",
+    "## Over to you",
+    "Are Nigerian politicians beginning to face the anger and frustration of the people they have been making promises to for years?"
+   ],
+   "more": [
+    "Stones were thrown towards the stage during the governor's speech.",
+    "The reason for the crowd's anger is unclear.",
+    "Photos show stones on the stage near the governor."
+   ],
+   "hot": 1,
+   "added": "2026-11-06",
+   "img": "img/stones-thrown-stage-nasarawa-governor-campaign-rally.jpg",
+   "alt": "Nasarawa State Governor Abdullahi Sule speaking on a campaign stage as a man picks up a stone thrown onto the red carpet",
+   "credit": "Photo: Trend Naija",
+   "owner": true,
+   "at": "2026-11-06T05:30Z"
+  },
+  {
    "id": "wike-amaechi-rivers-killed-obi-wave-fct",
    "c": "politics",
    "n": 1,
@@ -46,7 +79,7 @@
     "He claims the APC barely existed in Rivers before he backed it.",
     "He says he has 'killed the Obi wave' in the FCT."
    ],
-   "hot": 1,
+   "hot": 2,
    "added": "2026-11-06",
    "img": "img/wike-amaechi-rivers-killed-obi-wave-fct.jpg",
    "alt": "FCT Minister Nyesom Wike speaking at a press briefing in front of microphones",
@@ -85,7 +118,7 @@
     "She spoke from China.",
     "She first came to public attention during the Nedu controversy."
    ],
-   "hot": 2,
+   "hot": 3,
    "added": "2026-11-05",
    "img": "img/jojooflele-ratel-princess-thanks-vdm-from-china.jpg",
    "alt": "VeryDarkMan speaking in a video beside Jojooflele, the Ratel Princess, speaking on a street in China",
@@ -122,7 +155,7 @@
     "He says those who told VDM otherwise lied.",
     "He says Davido and Naira Marley are on good terms."
    ],
-   "hot": 3,
+   "hot": 4,
    "added": "2026-11-05",
    "img": "img/israel-dmw-defends-davido-vdm-arrest-plot.jpg",
    "alt": "Israel DMW seated on a private jet, with a screenshot of his post defending Davido",
@@ -152,7 +185,7 @@
     "The teacher says 15 children were taken.",
     "He is calling for military action."
    ],
-   "hot": 7,
+   "hot": 8,
    "at": "2026-11-05T20:43Z"
   },
   {
@@ -304,7 +337,7 @@
    "credit": "Photo: Trend Naija",
    "owner": true,
    "at": "2026-11-05T20:38Z",
-   "hot": 4
+   "hot": 5
   },
   {
    "id": "ndc-lagos-campaign-large-crowd",
@@ -338,7 +371,7 @@
    "credit": "Photo: Trend Naija",
    "owner": true,
    "at": "2026-11-05T20:05Z",
-   "hot": 6
+   "hot": 7
   },
   {
    "id": "rudeboy-reacts-lady-blames-mother-marrying-broke-man",
@@ -401,7 +434,7 @@
    "credit": "Photo: CoreTechLogic / Wikimedia Commons, CC0",
    "alt": "VeryDarkMan",
    "at": "2026-11-05T17:42Z",
-   "hot": 8
+   "hot": 9
   },
   {
    "id": "ndc-anambra-target-98-percent-obi",
@@ -678,7 +711,7 @@
    "credit": "Photo: Etauso / Wikimedia Commons, CC0",
    "alt": "Portrait of Atiku Abubakar in a pinstripe suit",
    "at": "2026-11-05T11:43Z",
-   "hot": 5
+   "hot": 6
   },
   {
    "id": "ronaldo-retires-from-international-football",
@@ -1085,8 +1118,7 @@
    "img": "img/flamingos-beat-brazil-reach-u17-world-cup-final.jpg",
    "alt": "Nigeria Flamingos player wearing number 14 celebrating at the FIFA U-17 Women's World Cup Morocco 2026",
    "credit": "Photo: Trend Naija",
-   "owner": true,
-   "hot": 9
+   "owner": true
   },
   {
    "id": "njc-suspends-three-judges-misconduct",
