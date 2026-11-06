@@ -15,6 +15,43 @@
  },
  "stories": [
   {
+   "id": "tinubu-approves-ibom-deep-seaport-request-akwa-ibom-campaign",
+   "c": "elections",
+   "n": 1,
+   "h": "Tinubu approves Ibom Deep Seaport request during Akwa Ibom campaign, promises jobs and economic development",
+   "p": "At his campaign rally in Uyo, President Bola Tinubu announced on the spot that he had approved a request from Akwa Ibom's leadership for international export status for the Ibom Deep Seaport. He also promised jobs, skills development and investment in the state's palm economy.",
+   "body": [
+    "President Bola Ahmed Tinubu has approved a request linked to the long-awaited Ibom Deep Seaport, announcing the decision while addressing supporters at his presidential campaign rally in Uyo, Akwa Ibom State.",
+    "## \"I look, and I approve it\"",
+    "Speaking from the podium, flanked by party leaders and security officials, Tinubu told the crowd that the state's leadership had brought a request to him.",
+    "\"Now your leader makes a request, for international export status. I look, and I approve it,\" he said, to cheers from supporters.",
+    "The Ibom Deep Seaport has been one of Akwa Ibom's biggest ambitions for years, with successive state governments pushing for it as a way to open the state to international trade and create jobs.",
+    "## Promises of jobs and skills",
+    "Tinubu also used the occasion to make several promises about the state's economic future.",
+    "\"I promise you skill development. I promise you jobs,\" he said. \"We are going to plant a lot of economic trees.\"",
+    "He pointed to the palm tree, a major part of the region's economy, as an opportunity. \"There is no reason why we cannot use the value of palm trees and the palm here,\" he said, adding that there was no reason the country could not create skills development that is \"everlasting\".",
+    "## \"Development must be even\"",
+    "The President said growth must reach every part of the country. \"Development must be even, inclusive and reasonable. It must bring progress and create economic value,\" he said.",
+    "## What it means",
+    "If the approval leads to real progress on the seaport, it could be a major boost for Akwa Ibom's economy, bringing shipping, logistics and related businesses to the state.",
+    "But campaign promises are easy to make at rallies. Nigerians will be watching to see whether the approval is followed by funding, construction and the jobs that have been promised.",
+    "## Over to you",
+    "Is Tinubu's approval of the Ibom Deep Seaport request a genuine step forward for Akwa Ibom, or just another campaign promise ahead of 2027?"
+   ],
+   "more": [
+    "Tinubu said he approved international export status at the rally.",
+    "He promised jobs and skills development.",
+    "He highlighted the value of Akwa Ibom's palm economy."
+   ],
+   "hot": 1,
+   "added": "2026-11-06",
+   "img": "img/tinubu-approves-ibom-deep-seaport-request-akwa-ibom-campaign.jpg",
+   "alt": "President Bola Tinubu speaking at a podium at his campaign rally in Uyo, flanked by party leaders",
+   "credit": "Photo: Trend Naija",
+   "owner": true,
+   "at": "2026-11-06T20:21Z"
+  },
+  {
    "id": "obi-lagos-trade-fair-funeral-okey-ezibe-omeluora",
    "c": "elections",
    "n": 1,
@@ -46,7 +83,7 @@
     "Omeluora is regarded as a founding father of Balogun Market.",
     "Traders mobbed Obi, chanting 'My leader!'"
    ],
-   "hot": 1,
+   "hot": 2,
    "added": "2026-11-06",
    "img": "img/obi-lagos-trade-fair-funeral-okey-ezibe-omeluora.jpg",
    "alt": "A large crowd of traders surrounding Peter Obi's car at Lagos Trade Fair, with an inset photo of Peter Obi",
@@ -74,7 +111,7 @@
     "He mocked Obi's comparisons with Bangladesh.",
     "Tinubu inaugurated a new airport terminal in Uyo."
    ],
-   "hot": 4,
+   "hot": 5,
    "at": "2026-11-06T17:43Z"
   },
   {
@@ -99,7 +136,7 @@
     "Amupitan warned officials against political bias.",
     "More than 103 million voters are expected to be registered."
    ],
-   "hot": 5,
+   "hot": 6,
    "at": "2026-11-06T17:43Z"
   },
   {
@@ -127,7 +164,6 @@
    "img": "img/nigeria-external-debt-145bn-world-bank.jpg",
    "credit": "Photo: CBN / Wikimedia Commons (Public domain)",
    "alt": "A Nigerian 500 naira note",
-   "hot": 9,
    "at": "2026-11-06T17:43Z"
   },
   {
@@ -176,7 +212,7 @@
     "A former corps member is among those held.",
     "The kidnappers want ₦25 million."
    ],
-   "hot": 8,
+   "hot": 9,
    "at": "2026-11-06T17:43Z"
   },
   {
@@ -309,7 +345,7 @@
    "credit": "Photo: Trend Naija",
    "owner": true,
    "at": "2026-11-06T16:47Z",
-   "hot": 2
+   "hot": 3
   },
   {
    "id": "atiku-fires-back-tinubu-on-ballot-courts-2027",
@@ -341,7 +377,7 @@
    "credit": "Photo: Trend Naija",
    "owner": true,
    "at": "2026-11-06T16:30Z",
-   "hot": 3
+   "hot": 4
   },
   {
    "id": "ibiyeomie-hand-of-god-auditorium-factory-jobs",
@@ -456,7 +492,7 @@
    "credit": "Photo: Kaizenify / Wikimedia Commons, CC BY-SA 4.0",
    "alt": "Davido performing on stage in Lagos",
    "at": "2026-11-06T14:43Z",
-   "hot": 7
+   "hot": 8
   },
   {
    "id": "sola-sobowale-slap-toyin-abraham-movie-set",
@@ -1680,7 +1716,7 @@
    "credit": "Photo: Etauso / Wikimedia Commons, CC0",
    "alt": "Portrait of Atiku Abubakar in a pinstripe suit",
    "at": "2026-11-05T11:43Z",
-   "hot": 6
+   "hot": 7
   },
   {
    "id": "man-five-years-prison-child-support-dna-not-father",
