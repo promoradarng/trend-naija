@@ -1,0 +1,21 @@
+name: Post owner stories to Facebook
+on:
+  push:
+    branches: [main]
+    paths: [data/stories.json]
+concurrency: facebook-post
+jobs:
+  post:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - run: node tools/facebook-post.js
+        env:
+          FB_PAGE_ID: ${{ secrets.FB_PAGE_ID }}
+          FB_PAGE_TOKEN: ${{ secrets.FB_PAGE_TOKEN }}
+          BEFORE_SHA: ${{ github.event.before }}
