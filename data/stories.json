@@ -15,6 +15,46 @@
  },
  "stories": [
   {
+   "id": "obi-lagos-trade-fair-funeral-okey-ezibe-omeluora",
+   "c": "elections",
+   "n": 1,
+   "h": "Lagos Trade Fair erupts as Peter Obi attends funeral of popular market leader Chief Okey Ezibe (Omeluora)",
+   "p": "Peter Obi drew a huge, cheering crowd at the Trade Fair International Market in Lagos as he came to pay his last respects to the late Chief Sir Okey Ezibe, popularly known as Omeluora, regarded as one of the founding fathers of Balogun Market.",
+   "body": [
+    "It was an emotional scene at the Trade Fair International Market in Lagos as former Anambra State Governor Peter Obi, the NDC presidential candidate and Labour Party candidate in the 2023 election, arrived to pay his last respects to the late Chief Sir Okey Ezibe, popularly known as Omeluora.",
+    "Chief Ezibe, widely regarded as one of the founding fathers of the famous Balogun Market in Lagos, was honoured by traders, associates, friends and well-wishers who gathered to celebrate his life and his contribution to commerce.",
+    "## \"My leader! My leader!\"",
+    "Something remarkable happened when Obi arrived. The atmosphere suddenly changed. Traders stepped away from their businesses, and a large crowd gathered around him, cheering and calling out, \"My leader! My leader!\"",
+    "Many raised their phones to capture the moment, while members of his team, wearing T-shirts printed with \"Rest in Peace Omeluora\", waved to the crowd from his car.",
+    "For those watching, the reception was another reminder of the strong support Obi continues to enjoy among sections of the trading community, particularly in Lagos. He had come for a solemn occasion, yet his presence drew the kind of attention usually seen at major political gatherings.",
+    "## Who was Chief Okey Ezibe (Omeluora)?",
+    "To many traders, the late Chief Sir Okey Ezibe was more than a successful businessman. He was a respected figure whose contributions helped shape the business community around Balogun Market, one of Nigeria's busiest commercial centres.",
+    "For years, Balogun Market has provided opportunities for thousands of traders, importers, wholesalers and small business owners. People like Omeluora are remembered for building business networks, encouraging younger entrepreneurs and strengthening the trading community. His passing marks the loss of a respected figure in that community.",
+    "## Obi's reception gets people talking",
+    "Despite the disagreements and controversies that surround Nigerian politics, Obi still draws enthusiastic crowds in parts of the country, and the scenes at Trade Fair appeared to reflect that connection.",
+    "Some will see the reception as a sign of his political popularity ahead of the 2027 general election. Others may simply see it as a warm welcome for a familiar public figure attending the funeral of a respected businessman.",
+    "Whatever the interpretation, the excitement around his arrival became one of the memorable moments of the day.",
+    "## Remembering Omeluora",
+    "Beyond the cheers and the political talk, the gathering was ultimately about remembering Chief Okey Ezibe and the legacy he left behind.",
+    "A man can build wealth, businesses and influence in his lifetime, but what people say about him after his death often tells another story. For Omeluora, the respect shown by the trading community speaks to the place he held in their lives.",
+    "Rest in peace, Omeluora. A great iroko has fallen. His name will continue to be remembered among those who helped commerce grow in Lagos.",
+    "## Over to you",
+    "Is the reception Peter Obi received at Lagos Trade Fair another sign of his political strength ahead of 2027, or was it simply a show of respect from traders? Share your thoughts."
+   ],
+   "more": [
+    "Obi attended the funeral of Chief Okey Ezibe (Omeluora) at Trade Fair.",
+    "Omeluora is regarded as a founding father of Balogun Market.",
+    "Traders mobbed Obi, chanting 'My leader!'"
+   ],
+   "hot": 1,
+   "added": "2026-11-06",
+   "img": "img/obi-lagos-trade-fair-funeral-okey-ezibe-omeluora.jpg",
+   "alt": "A large crowd of traders surrounding Peter Obi's car at Lagos Trade Fair, with an inset photo of Peter Obi",
+   "credit": "Photo: Trend Naija",
+   "owner": true,
+   "at": "2026-11-06T18:48Z"
+  },
+  {
    "id": "shettima-obi-ran-himself-out-uyo-rally",
    "c": "elections",
    "n": 1,
@@ -34,7 +74,7 @@
     "He mocked Obi's comparisons with Bangladesh.",
     "Tinubu inaugurated a new airport terminal in Uyo."
    ],
-   "hot": 3,
+   "hot": 4,
    "at": "2026-11-06T17:43Z"
   },
   {
@@ -59,7 +99,7 @@
     "Amupitan warned officials against political bias.",
     "More than 103 million voters are expected to be registered."
    ],
-   "hot": 4,
+   "hot": 5,
    "at": "2026-11-06T17:43Z"
   },
   {
@@ -87,7 +127,7 @@
    "img": "img/nigeria-external-debt-145bn-world-bank.jpg",
    "credit": "Photo: CBN / Wikimedia Commons (Public domain)",
    "alt": "A Nigerian 500 naira note",
-   "hot": 8,
+   "hot": 9,
    "at": "2026-11-06T17:43Z"
   },
   {
@@ -136,7 +176,7 @@
     "A former corps member is among those held.",
     "The kidnappers want ₦25 million."
    ],
-   "hot": 7,
+   "hot": 8,
    "at": "2026-11-06T17:43Z"
   },
   {
@@ -269,7 +309,7 @@
    "credit": "Photo: Trend Naija",
    "owner": true,
    "at": "2026-11-06T16:47Z",
-   "hot": 1
+   "hot": 2
   },
   {
    "id": "atiku-fires-back-tinubu-on-ballot-courts-2027",
@@ -301,7 +341,7 @@
    "credit": "Photo: Trend Naija",
    "owner": true,
    "at": "2026-11-06T16:30Z",
-   "hot": 2
+   "hot": 3
   },
   {
    "id": "ibiyeomie-hand-of-god-auditorium-factory-jobs",
@@ -416,7 +456,7 @@
    "credit": "Photo: Kaizenify / Wikimedia Commons, CC BY-SA 4.0",
    "alt": "Davido performing on stage in Lagos",
    "at": "2026-11-06T14:43Z",
-   "hot": 6
+   "hot": 7
   },
   {
    "id": "sola-sobowale-slap-toyin-abraham-movie-set",
@@ -961,8 +1001,7 @@
    "img": "img/power-outages-five-states-fg-blames-gas.jpg",
    "credit": "Stock image: Ron Clausen / Wikimedia Commons, CC0",
    "alt": "A high-voltage transmission tower and power lines",
-   "at": "2026-11-06T06:43Z",
-   "hot": 9
+   "at": "2026-11-06T06:43Z"
   },
   {
    "id": "funke-akindele-the-four-london-premiere-sold-out",
@@ -1641,7 +1680,7 @@
    "credit": "Photo: Etauso / Wikimedia Commons, CC0",
    "alt": "Portrait of Atiku Abubakar in a pinstripe suit",
    "at": "2026-11-05T11:43Z",
-   "hot": 5
+   "hot": 6
   },
   {
    "id": "man-five-years-prison-child-support-dna-not-father",
