@@ -15,6 +15,41 @@
  },
  "stories": [
   {
+   "id": "kenneth-okonkwo-atiku-on-ballot-ndc-bigger-problems",
+   "c": "elections",
+   "n": 1,
+   "h": "Kenneth Okonkwo predicts Atiku will be on 2027 ballot, claims NDC faces bigger problems than ADC",
+   "p": "Nollywood actor and politician Kenneth Okonkwo says the NDC is facing more serious problems than the ADC, and insists Atiku Abubakar will be on the ballot in 2027. He spoke days after a Federal High Court ruling nullified the emergence of the ADC's national chairman.",
+   "body": [
+    "Nigeria's opposition politics is getting more interesting as the battle for relevance ahead of the 2027 general elections continues.",
+    "## What Okonkwo said",
+    "Veteran Nollywood actor and politician Kenneth Okonkwo has stirred another round of debate after claiming that the NDC is facing more serious problems than the African Democratic Congress (ADC).",
+    "According to Okonkwo, former Vice President Atiku Abubakar will still be on the ballot in the 2027 presidential election.",
+    "\"NDC is facing more problems than ADC. Atiku Abubakar will be on the ballot,\" he said.",
+    "## An interesting twist",
+    "Okonkwo is making this prediction at a time when the leadership of his own party, the ADC, is facing a major legal setback after a Federal High Court in Abuja nullified the emergence of its national chairman and the actions taken under his leadership.",
+    "That raises an obvious question. If his own party is battling a leadership crisis in court, how certain can anyone be about what will happen to other opposition parties before 2027?",
+    "## Politics full of surprises",
+    "Nigerian politics has a way of surprising even those who believe they understand the game. Alliances can change overnight, party leaders can fall out, and court judgments can completely change the direction of an election.",
+    "For Atiku, who has contested the presidency several times, whether he will appear on the ballot again remains a major subject of discussion. Okonkwo's prediction should be understood as his political opinion rather than confirmation of Atiku's candidacy.",
+    "As 2027 approaches, Nigerians are watching closely to see whether opposition politicians will eventually unite behind a common candidate or continue to pursue separate presidential ambitions.",
+    "## Over to you",
+    "Why is Kenneth Okonkwo so confident about Atiku's political future when his own party is struggling with a leadership crisis? Is he seeing something other Nigerians have not noticed, or is this another round of political calculation ahead of 2027?"
+   ],
+   "more": [
+    "Okonkwo says the NDC has bigger problems than the ADC.",
+    "He insists Atiku will be on the 2027 ballot.",
+    "A court recently nullified the ADC chairman's emergence."
+   ],
+   "hot": 1,
+   "added": "2026-11-06",
+   "img": "img/kenneth-okonkwo-atiku-on-ballot-ndc-bigger-problems.jpg",
+   "alt": "Kenneth Okonkwo shaking hands with Atiku Abubakar in an office with a Nigerian flag",
+   "credit": "Photo: Trend Naija",
+   "owner": true,
+   "at": "2026-11-06T10:38Z"
+  },
+  {
    "id": "oyedepo-dedicates-ibiyeomie-hand-of-god-cathedral",
    "c": "naija",
    "n": 1,
@@ -36,7 +71,7 @@
     "Oyedepo was received by Ibiyeomie on Thursday evening.",
     "The dedication was set for Friday morning in Igwuruta."
    ],
-   "hot": 1,
+   "hot": 2,
    "at": "2026-11-06T09:45Z"
   },
   {
@@ -62,7 +97,7 @@
    "img": "img/wike-obi-president-of-social-media-abonnema-v2.jpg",
    "credit": "Photo: Trend Naija",
    "alt": "Side-by-side photos of Peter Obi in glasses and a black shirt, and Nyesom Wike in a white hat and white attire",
-   "hot": 2,
+   "hot": 3,
    "at": "2026-11-06T09:45Z",
    "owner": true
   },
@@ -88,7 +123,7 @@
     "Osaze-Uzzi said it should not have been possible.",
     "He wants INEC to explain how they got in."
    ],
-   "hot": 5,
+   "hot": 6,
    "at": "2026-11-06T09:45Z"
   },
   {
@@ -111,7 +146,7 @@
     "He says he sold one of his cars to settle debts.",
     "Outages have hit several states this week."
    ],
-   "hot": 7,
+   "hot": 8,
    "at": "2026-11-06T09:45Z",
    "img": "img/cute-abiola-sold-car-solar-off-appeals-tinubu.jpg",
    "alt": "Close-up of Cute Abiola speaking emotionally to the camera in a dimly lit room",
@@ -143,7 +178,7 @@
    "img": "img/crayon-mavin-rema-friendship-ended.jpg",
    "credit": "Photo: Osaym / Wikimedia Commons (CC BY-SA 4.0)",
    "alt": "Rema performing live",
-   "hot": 8,
+   "hot": 9,
    "at": "2026-11-06T09:45Z"
   },
   {
@@ -288,7 +323,7 @@
    "credit": "Stock image: Ron Clausen / Wikimedia Commons, CC0",
    "alt": "A high-voltage transmission tower and power lines",
    "at": "2026-11-06T06:43Z",
-   "hot": 3
+   "hot": 4
   },
   {
    "id": "funke-akindele-the-four-london-premiere-sold-out",
@@ -486,7 +521,7 @@
    "credit": "Photo: Trend Naija",
    "owner": true,
    "at": "2026-11-06T05:30Z",
-   "hot": 4
+   "hot": 5
   },
   {
    "id": "wike-amaechi-rivers-killed-obi-wave-fct",
@@ -1089,8 +1124,7 @@
    "img": "img/akwa-ibom-work-free-day-tinubu-visit.jpg",
    "credit": "Photo: Nosa Asemota / Wikimedia Commons, CC BY-SA 4.0",
    "alt": "President Bola Tinubu",
-   "at": "2026-11-05T14:42Z",
-   "hot": 9
+   "at": "2026-11-05T14:42Z"
   },
   {
    "id": "kunle-afod-speaks-separation-desola",
@@ -1148,7 +1182,7 @@
    "credit": "Photo: Etauso / Wikimedia Commons, CC0",
    "alt": "Portrait of Atiku Abubakar in a pinstripe suit",
    "at": "2026-11-05T11:43Z",
-   "hot": 6
+   "hot": 7
   },
   {
    "id": "ronaldo-retires-from-international-football",
