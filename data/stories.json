@@ -15,6 +15,41 @@
  },
  "stories": [
   {
+   "id": "tinubu-swipe-obi-erosion-anambra-atlantic-ocean",
+   "c": "elections",
+   "n": 1,
+   "h": "Tinubu takes swipe at Peter Obi in Akwa Ibom, says he confronted the Atlantic Ocean while Obi ran away from erosion in Anambra",
+   "p": "Speaking in Akwa Ibom, President Bola Tinubu accused NDC presidential candidate Peter Obi of failing to tackle erosion in Anambra State, while claiming he himself \"tamed\" the Atlantic Ocean, an apparent reference to the Eko Atlantic project in Lagos.",
+   "body": [
+    "President Bola Ahmed Tinubu has taken a swipe at former Anambra State Governor Peter Obi, comparing their records on tackling environmental challenges.",
+    "## What Tinubu said",
+    "Speaking in Akwa Ibom State, Tinubu accused Obi of failing to confront the serious erosion problems affecting Anambra State during his time as governor, and pointed out that Obi is now running for president under the NDC.",
+    "\"Peter Obi is in one party they call NDC where he's running for president. He ran away from erosion in Anambra. He couldn't confront erosion. I, Bola Ahmed Tinubu, confronted the Atlantic Ocean. I tamed it for you,\" Tinubu said.",
+    "The President appeared to be referring to efforts to reclaim and protect land along the Lagos coastline, particularly the Eko Atlantic project, which began during his time as Lagos State governor.",
+    "## Can the two really be compared?",
+    "Anambra has struggled with severe gully erosion for decades, with communities losing farmland, roads and homes. Tackling it requires substantial funding, engineering work and cooperation between different levels of government.",
+    "The Eko Atlantic project, on the other hand, involved major private investment and extensive coastal engineering to reclaim land from the Atlantic Ocean.",
+    "Both involve serious environmental challenges, but their circumstances, funding arrangements and engineering requirements are quite different.",
+    "## The road to 2027",
+    "As the 2027 presidential election draws closer, exchanges like this are likely to become more common, with leaders publicly questioning one another's records in office.",
+    "Nigerians may also want to look closely at the actual results of these projects and the roles played by the leaders involved.",
+    "## Over to you",
+    "Does Tinubu's role in the Eko Atlantic project give him the right to question Peter Obi's record on erosion in Anambra State, or should Nigerians judge both men by their overall performance in public office?"
+   ],
+   "more": [
+    "Tinubu spoke at a campaign event in Akwa Ibom.",
+    "He said Obi 'ran away from erosion' in Anambra.",
+    "He appeared to refer to the Eko Atlantic project in Lagos."
+   ],
+   "hot": 1,
+   "added": "2026-11-06",
+   "img": "img/tinubu-swipe-obi-erosion-anambra-atlantic-ocean.jpg",
+   "alt": "President Bola Tinubu speaking at a podium in Akwa Ibom, beside a photo of Peter Obi",
+   "credit": "Photo: Trend Naija",
+   "owner": true,
+   "at": "2026-11-06T16:47Z"
+  },
+  {
    "id": "atiku-fires-back-tinubu-on-ballot-courts-2027",
    "c": "elections",
    "n": 1,
@@ -38,7 +73,7 @@
     "He says courts cannot be used to escape the verdict of Nigerians.",
     "His candidacy still faces legal and nomination hurdles."
    ],
-   "hot": 1,
+   "hot": 2,
    "added": "2026-11-06",
    "img": "img/atiku-fires-back-tinubu-on-ballot-courts-2027.jpg",
    "alt": "Side-by-side photos of Atiku Abubakar speaking at a lectern in a white cap and Bola Tinubu smiling with two thumbs up in a blue cap",
@@ -77,7 +112,7 @@
     "Could the same investment have created thousands of factory jobs?",
     "Nigeria still imports billions in goods it could produce."
    ],
-   "hot": 2,
+   "hot": 3,
    "added": "2026-11-06",
    "img": "img/ibiyeomie-hand-of-god-auditorium-factory-jobs.jpg",
    "alt": "Pastor David Ibiyeomie preaching, beside images of the Hand of God Auditorium's seating and aerial views of the complex",
@@ -107,7 +142,6 @@
     "2% of salt samples also fell short.",
     "The FCCPC has not named the brands."
    ],
-   "hot": 9,
    "at": "2026-11-06T14:43Z"
   },
   {
@@ -135,7 +169,7 @@
    "img": "img/doris-ogala-hospitalised-detention-bail-ruling.jpg",
    "credit": "Stock image: Joe Gratz / Wikimedia Commons, CC0",
    "alt": "A judge's gavel on a courtroom bench",
-   "hot": 6,
+   "hot": 7,
    "at": "2026-11-06T14:43Z"
   },
   {
@@ -161,7 +195,7 @@
    "img": "img/davido-prays-zlatan-wife-morocco-white-wedding.jpg",
    "credit": "Photo: Kaizenify / Wikimedia Commons, CC BY-SA 4.0",
    "alt": "Davido performing on stage in Lagos",
-   "hot": 4,
+   "hot": 5,
    "at": "2026-11-06T14:43Z"
   },
   {
@@ -184,7 +218,7 @@
     "It reportedly left a mark on Toyin's cheek.",
     "Toyin is said to have insisted on a retake."
    ],
-   "hot": 5,
+   "hot": 6,
    "at": "2026-11-06T14:43Z"
   },
   {
@@ -207,7 +241,7 @@
     "She demanded accountability for spending on the sector.",
     "Outages have hit several states this week."
    ],
-   "hot": 8,
+   "hot": 9,
    "at": "2026-11-06T14:43Z"
   },
   {
@@ -282,7 +316,7 @@
    "credit": "Photo: LuckGr8t / Wikimedia Commons (CC0)",
    "alt": "Streamer Peller",
    "at": "2026-11-06T11:43Z",
-   "hot": 7
+   "hot": 8
   },
   {
    "id": "odumodublvck-peter-obi-airport-encounter",
@@ -1570,7 +1604,7 @@
    "credit": "Photo: Etauso / Wikimedia Commons, CC0",
    "alt": "Portrait of Atiku Abubakar in a pinstripe suit",
    "at": "2026-11-05T11:43Z",
-   "hot": 3
+   "hot": 4
   },
   {
    "id": "ronaldo-retires-from-international-football",
