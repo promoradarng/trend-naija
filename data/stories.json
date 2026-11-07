@@ -1,5 +1,5 @@
 {
- "updated": "Updated 09:42 GMT",
+ "updated": "Updated 11:43 GMT",
  "date": "Saturday, 7 November 2026",
  "categories": {
   "all": "All gist",
@@ -14,6 +14,57 @@
   "sport": "Sport"
  },
  "stories": [
+  {
+   "id": "osimhen-knee-surgery-miss-tanzania-qualifiers",
+   "c": "sport",
+   "n": 1,
+   "h": "Osimhen to have knee surgery, ruled out of Super Eagles' Tanzania qualifiers",
+   "p": "Galatasaray say Victor Osimhen needs arthroscopic surgery after a loose body was found in his left knee. He is expected to be out for two to four weeks, missing Nigeria's AFCON qualifiers against Tanzania.",
+   "body": [
+    "Super Eagles striker Victor Osimhen is set to undergo knee surgery, ruling him out of Nigeria's upcoming Africa Cup of Nations qualifiers against Tanzania.",
+    "## What happened",
+    "Galatasaray announced on Friday, 6 November 2026, that the 27-year-old needs arthroscopic surgery after medical checks found a loose body in his left knee. The problem was discovered after he played the full 90 minutes of the Turkish club's 2-0 Champions League win over VfB Stuttgart on Tuesday. The club said its doctor, Yener İnce, would carry out the operation at Maslak Acıbadem Hospital in Istanbul on Saturday, 7 November.",
+    "## How long he could be out",
+    "Arthroscopic surgery is a minimally invasive procedure that uses small cuts and a camera to treat problems inside a joint. According to reports, Osimhen is expected to be out for two to four weeks, which could mean a return in early to mid-December if there are no setbacks. Galatasaray have not given an official timeline and say they will assess his recovery in stages.",
+    "## Blow for the Super Eagles",
+    "The injury is a major blow for Nigeria, who face Tanzania twice in AFCON qualifying, including the match in Uyo on 13 November. Osimhen is the Super Eagles' main striker and one of Africa's most prolific forwards and was African Player of the Year in 2023. He was recently left off the shortlist for this year's CAF Player of the Year award.",
+    "## Background",
+    "Osimhen joined Galatasaray from Napoli and has been in strong form, with reports this week suggesting that a top Italian club is interested in signing him. His absence means the Super Eagles coaching staff will have to rely on other forwards for the Tanzania double-header."
+   ],
+   "more": [
+    "A loose body was found in Osimhen's left knee.",
+    "He could be out for two to four weeks.",
+    "He will miss the AFCON qualifiers against Tanzania."
+   ],
+   "img": "img/osimhen-knee-surgery-miss-tanzania-qualifiers.jpg",
+   "credit": "Photo: Fédération Guinéenne Football / Wikimedia Commons (Public domain)",
+   "alt": "Victor Osimhen",
+   "hot": 2,
+   "at": "2026-11-07T11:43Z"
+  },
+  {
+   "id": "jerry-eze-protocol-officer-outrage-church-dedication",
+   "c": "viral",
+   "n": 1,
+   "h": "Jerry Eze's protocol officer sparks outrage at Ibiyeomie's church dedication",
+   "p": "A video of a member of Pastor Jerry Eze's security team reacting roughly to a man who knelt to greet the cleric at the Hand of God Cathedral dedication in Port Harcourt has drawn criticism online.",
+   "body": [
+    "A video from the dedication of Pastor David Ibiyeomie's 120,000-seat Hand of God Cathedral in Port Harcourt has sparked debate online, after a member of Pastor Jerry Eze's security team was seen reacting roughly to a worshipper.",
+    "## What the video shows",
+    "The footage, shared on Facebook on Friday, 6 November 2026, shows the founder of Streams of Joy International arriving at the event. A man dropped to his knees as a sign of respect as the cleric walked past, and Pastor Eze briefly acknowledged him. However, one of his protocol officers then reportedly acted towards the man in a way many viewers felt was unnecessarily aggressive and disrespectful.",
+    "## Background",
+    "The dedication of the Hand of God Cathedral, led by Bishop David Oyedepo, drew many of Nigeria's best-known pastors. Another widely shared video from the same event showed Jerry Eze kneeling to greet Oyedepo, Ibiyeomie and other senior ministers. Eze is known for his popular online prayer programme, 'New Season Prophetic Prayers and Declarations', which draws large audiences on YouTube and social media.",
+    "## How people reacted",
+    "Many Nigerians criticised the protocol officer's behaviour, saying it was out of place at a celebratory religious event and that church leaders' security teams should treat members of the public with respect. Pastor Eze had not publicly commented at the time of writing."
+   ],
+   "more": [
+    "A man knelt to greet Jerry Eze at the dedication.",
+    "His protocol officer's reaction drew criticism.",
+    "Eze has not commented."
+   ],
+   "hot": 5,
+   "at": "2026-11-07T11:43Z"
+  },
   {
    "id": "flamingos-japan-u17-world-cup-final-preview",
    "c": "sport",
@@ -38,8 +89,8 @@
     "Nigeria are the first African team to reach the final.",
     "CAF president Motsepe will attend."
    ],
-   "hot": 1,
-   "at": "2026-11-07T09:42Z"
+   "at": "2026-11-07T09:42Z",
+   "hot": 1
   },
   {
    "id": "middle-belt-youths-back-tinubu-balami",
@@ -66,8 +117,8 @@
    "img": "img/middle-belt-youths-back-tinubu-balami.jpg",
    "credit": "Photo: Nosa Asemota / Wikimedia Commons, CC BY-SA 4.0",
    "alt": "President Bola Tinubu",
-   "hot": 4,
-   "at": "2026-11-07T09:42Z"
+   "at": "2026-11-07T09:42Z",
+   "hot": 6
   },
   {
    "id": "germany-more-visa-slots-nigeria",
@@ -142,8 +193,8 @@
     "The crash happened on the Ibadan–Sagamu Expressway.",
     "He wants better emergency response on highways."
    ],
-   "hot": 7,
-   "at": "2026-11-07T09:42Z"
+   "at": "2026-11-07T09:42Z",
+   "hot": 9
   },
   {
    "id": "trump-names-stephen-miller-chief-of-staff",
@@ -171,7 +222,7 @@
    "credit": "Photo: Daniel Torok / Wikimedia Commons, Public domain",
    "alt": "Donald Trump official portrait",
    "at": "2026-11-07T06:43Z",
-   "hot": 3
+   "hot": 4
   },
   {
    "id": "usher-chris-brown-backstage-argument-atlanta",
@@ -195,8 +246,7 @@
     "The row was reportedly about when to start.",
     "Sources say the tour will continue."
    ],
-   "at": "2026-11-07T06:43Z",
-   "hot": 8
+   "at": "2026-11-07T06:43Z"
   },
   {
    "id": "adp-suspends-national-chairman-yabagi-sani",
@@ -264,8 +314,7 @@
     "Colleagues including Erica Nlewedim praised the look.",
     "She has kept a low profile in recent years."
    ],
-   "at": "2026-11-07T06:43Z",
-   "hot": 9
+   "at": "2026-11-07T06:43Z"
   },
   {
    "id": "kenyan-pastor-mackenzie-200-years-shakahola",
@@ -306,7 +355,7 @@
    "credit": "Photo: Trend Naija",
    "owner": true,
    "at": "2026-11-07T05:40Z",
-   "hot": 6
+   "hot": 8
   },
   {
    "id": "enugu-governor-wife-nkechinyere-mbah-visits-ukehe-woman",
@@ -368,12 +417,12 @@
    "credit": "Photo: Chinedueri / Wikimedia Commons (CC BY 4.0)",
    "alt": "Anambra governor Charles Soludo in a red cap",
    "at": "2026-11-06T20:42Z",
-   "hot": 5
+   "hot": 7
   },
   {
    "id": "diewait-ikpechukwu-dies-at-71",
    "c": "celebs",
-   "n": 1,
+   "n": 3,
    "h": "Veteran Nollywood actor Diewait Ikpechukwu dies at 71",
    "p": "Veteran Nollywood actor and former footballer Diewait Ikpechukwu has died at the age of 71 after a long illness, according to family sources. He was known for roles in classic films including August Meeting and Royal Palace.",
    "body": [
@@ -382,6 +431,8 @@
     "According to family sources, the actor died on Thursday, 5 November 2026, after a prolonged illness. News of his death was reported on Friday. Further details about the circumstances of his death had not been made public at the time of writing, and the family had not announced funeral arrangements.",
     "## His career",
     "Before becoming an actor, Ikpechukwu was a professional footballer. He went on to have a long career in Nollywood and became a familiar face in classic Nigerian films. His film credits include 'August Meeting', 'Royal Palace', 'The Guilty', 'Across the River', 'Python King' and 'Ìjé Love', among many others.",
+    "## Family asks for privacy",
+    "On Saturday, 7 November, his daughter, lifestyle influencer Chiamaka Yusuf, asked the public, the media and the Actors Guild of Nigeria to allow the family to grieve privately, saying the family wanted to make any formal announcement about his death themselves. She asked for a burial poster circulating online to be taken down.",
     "## Background",
     "His death adds to a run of losses for Nollywood. The family of the late actor Francis Duru also recently announced burial arrangements for him."
    ],
@@ -1484,7 +1535,7 @@
    "credit": "Stock image: Ron Clausen / Wikimedia Commons, CC0",
    "alt": "A high-voltage transmission tower and power lines",
    "at": "2026-11-06T06:43Z",
-   "hot": 2
+   "hot": 3
   },
   {
    "id": "funke-akindele-the-four-london-premiere-sold-out",
@@ -1798,79 +1849,6 @@
    "credit": "Photo: Etauso / Wikimedia Commons, CC0",
    "alt": "Portrait of Atiku Abubakar in a pinstripe suit",
    "at": "2026-11-05T11:43Z"
-  },
-  {
-   "id": "man-five-years-prison-child-support-dna-not-father",
-   "c": "viral",
-   "n": 1,
-   "h": "Man reportedly spends five years in prison over child support, only to discover through DNA test that he is not the father",
-   "p": "A man identified as Mr Mensar reportedly spent five years in prison for failing to pay child support, only for a DNA test after his release to show the child was not his. When questioned by the judge, the child's mother accepted responsibility.",
-   "body": [
-    "Imagine spending five years behind bars for failing to pay child support, only to come out and discover that the child you were punished for not supporting is not even yours.",
-    "That is the heartbreaking story being told online about a man identified as Mr Mensar.",
-    "## Five years behind bars",
-    "According to the account circulating online, Mr Mensar was imprisoned for failing to meet his child support obligations. For five years, he reportedly lived with the consequences of a responsibility he believed was his.",
-    "## The mother's admission",
-    "What makes the story even more disturbing is that the child's mother knew all along that Mr Mensar was not the biological father of her son.",
-    "She allowed him to face imprisonment without revealing the truth, and the account claims she remained in contact with the child's real biological father throughout the ordeal. When questioned by the judge, she accepted responsibility.",
-    "## The DNA test",
-    "After serving his sentence, Mr Mensar reportedly demanded a DNA test to establish whether the child was biologically his. According to the account, the result confirmed his worst fear: he was not the father.",
-    "Five years gone. Five years he can never get back, all over a paternity question that could have been settled much earlier.",
-    "## Questions that need answers",
-    "Serious questions must now be asked about the mother's conduct and about how the child support case was handled.",
-    "How does a man end up spending five years in prison over a child who is not biologically his? What happens to the years he lost? And if someone deliberately concealed the child's paternity, should there be legal consequences?",
-    "The full court records and DNA findings have not been made public.",
-    "Still, the story raises an important issue about paternity disputes, child support enforcement and fairness in the justice system.",
-    "## Over to you",
-    "If a woman knowingly allows a man to go to prison over child support while hiding the fact that he is not the father, should she face criminal charges and be made to compensate him for the years he lost?"
-   ],
-   "more": [
-    "Mr Mensar reportedly spent five years in prison over child support.",
-    "A DNA test showed he was not the father.",
-    "The mother accepted responsibility before the judge."
-   ],
-   "added": "2026-11-05",
-   "img": "img/man-five-years-prison-child-support-dna-not-father.jpg",
-   "alt": "A man in a grey jacket and a woman in a pink blazer seated in a courtroom",
-   "credit": "Photo: Trend Naija",
-   "owner": true,
-   "at": "2026-11-05T11:01Z"
-  },
-  {
-   "id": "blessing-ceo-ivd-no-longer-together",
-   "c": "celebs",
-   "n": 1,
-   "h": "\"IVD and I are no longer together. I've left him to pick up the pieces of my life\": Blessing CEO reveals",
-   "p": "Relationship therapist and social media personality Blessing CEO says her relationship with businessman IVD has ended, and that she has walked away to focus on rebuilding her life. She has not explained what led to the split, and IVD has not responded.",
-   "body": [
-    "Controversial Nigerian relationship therapist and social media personality Blessing CEO has got people talking again after saying her relationship with businessman IVD has come to an end.",
-    "## \"We are no longer together\"",
-    "According to Blessing, she and IVD are no longer together, and she has decided to walk away from the relationship to concentrate on rebuilding her life.",
-    "\"IVD and I are no longer together. I've left him to pick up the pieces of my life,\" she said.",
-    "## A difficult period",
-    "The revelation comes during a difficult time in Blessing CEO's personal life. Only days ago she shared an emotional apology, describing herself as broken and comparing her journey to the biblical story of the prodigal son.",
-    "For someone who has spent years advising people about love, relationships and marriage, her own romantic life has often drawn public attention. With this latest news, many people are wondering what went wrong between her and IVD.",
-    "Their relationship had already generated considerable discussion on social media, with supporters and critics holding very different opinions about it.",
-    "## What we don't know",
-    "Blessing has not given a detailed explanation of what led to the decision, and IVD has yet to respond publicly to her statement.",
-    "What seems clear from her words is that she wants to focus on herself and find a way forward after everything she says she has been through.",
-    "## The relationship adviser's own relationship",
-    "Blessing CEO has built much of her public identity on relationship advice, sometimes making controversial statements about how men and women should handle love. Now that her own relationship has ended, social media users are likely to revisit some of those statements.",
-    "Relationships can end for many reasons, and the public may never know the full story behind this one.",
-    "## Over to you",
-    "Is Blessing CEO finally choosing her peace, or is there more to this story than she has revealed?"
-   ],
-   "more": [
-    "Blessing CEO says she and IVD have split.",
-    "She says she is focusing on rebuilding her life.",
-    "IVD has not responded publicly."
-   ],
-   "added": "2026-11-05",
-   "img": "img/blessing-ceo-ivd-no-longer-together.jpg",
-   "alt": "Photos of Blessing CEO with IVD, and Blessing CEO speaking in a video from her car",
-   "credit": "Photo: Trend Naija",
-   "owner": true,
-   "at": "2026-11-05T10:05Z"
   },
   {
    "id": "tinubu-seeks-senate-approval-7-7bn-borrowing",
