@@ -15,6 +15,38 @@
  },
  "stories": [
   {
+   "id": "amnesty-condemns-zamfara-killings-12-family-members-burned",
+   "c": "naija",
+   "n": 1,
+   "h": "Amnesty International condemns Zamfara killings, says burning of 12 family members alive exposes failure of Nigerian authorities",
+   "p": "Amnesty International has condemned the reported killing of 12 members of one family in Zamfara State, who were said to have been burned alive, calling it another sign of the authorities' failure to protect communities from armed attacks.",
+   "body": [
+    "Amnesty International has strongly condemned the reported killing of 12 members of a family in Zamfara State, describing the horrifying incident as another painful reminder of the Nigerian authorities' failure to protect innocent citizens from violent attacks.",
+    "## An entire family wiped out",
+    "Imagine an entire family wiped out in such a cruel way. Twelve human beings, reportedly burned alive. People who had their own dreams, responsibilities and hopes for tomorrow, only to have their lives cut short in circumstances no family should ever experience.",
+    "The tragedy has once again raised serious questions about the worsening security situation in parts of northern Nigeria, where many families live under the constant threat of armed attacks, kidnappings and killings.",
+    "## A failure to protect",
+    "For Amnesty International, the incident reflects a much bigger problem: the continued inability of the authorities to guarantee the safety of communities that have suffered attack after attack.",
+    "For years, residents of Zamfara and neighbouring states have endured violence from armed groups. Villages have been raided, homes destroyed, residents abducted and families forced to abandon communities where they have lived for generations.",
+    "Despite repeated assurances from government officials and security agencies, reports of fresh atrocities keep emerging.",
+    "## Every citizen deserves protection",
+    "The Nigerian government has a constitutional duty to protect lives and property. That duty extends to every citizen, whether they live in Abuja, Lagos, Zamfara or a remote village far from the attention of the national media.",
+    "The victims deserve justice, and their surviving relatives deserve more than another round of official condolences. There must be a thorough investigation, those responsible must be brought to justice, and the authorities must take meaningful steps to prevent similar tragedies.",
+    "A country cannot claim to be making progress when families are being burned alive in their homes and communities are left wondering who will be attacked next.",
+    "## Over to you",
+    "How many more innocent lives must be lost before protecting ordinary citizens becomes the government's most urgent priority?"
+   ],
+   "more": [
+    "12 members of one family were reportedly burned alive in Zamfara.",
+    "Amnesty International blamed the authorities' failure to protect them.",
+    "Calls are growing for investigation and justice."
+   ],
+   "hot": 1,
+   "added": "2026-11-08",
+   "owner": true,
+   "at": "2026-11-08T21:28Z"
+  },
+  {
    "id": "okowa-dumped-atiku-for-tinubu-seen-the-light",
    "c": "elections",
    "n": 1,
@@ -34,7 +66,7 @@
     "He says Tinubu's reforms have boosted state revenues.",
     "He spoke at an APC rally in Port Harcourt."
    ],
-   "hot": 5,
+   "hot": 6,
    "at": "2026-11-08T20:42Z",
    "img": "img/okowa-dumped-atiku-for-tinubu-seen-the-light.jpg",
    "alt": "Composite photo of Ifeanyi Okowa in a red cap, Atiku Abubakar speaking into a microphone, and President Bola Tinubu smiling in the centre",
@@ -61,7 +93,6 @@
     "They arrived in Lagos on 4 November.",
     "NEMA says it is helping them resettle."
    ],
-   "hot": 9,
    "at": "2026-11-08T20:42Z"
   },
   {
@@ -97,7 +128,7 @@
    "credit": "Photo: Trend Naija",
    "owner": true,
    "at": "2026-11-08T18:52Z",
-   "hot": 2
+   "hot": 3
   },
   {
    "id": "flamingos-50000-reward-no-fifa-prize-money",
@@ -124,7 +155,7 @@
    "alt": "Nigeria's Flamingos celebrate with the U-17 Women's World Cup trophy on the champions podium as confetti falls",
    "credit": "Photo: Trend Naija",
    "owner": true,
-   "hot": 6
+   "hot": 7
   },
   {
    "id": "tinubu-kaduna-kano-railway-inauguration-december-3",
@@ -210,7 +241,7 @@
    "credit": "Photo: Trend Naija",
    "owner": true,
    "at": "2026-11-08T17:19Z",
-   "hot": 3
+   "hot": 4
   },
   {
    "id": "umahi-fires-back-cubana-chief-priest-money-na-water",
@@ -245,7 +276,7 @@
    "credit": "Photo: Trend Naija",
    "owner": true,
    "at": "2026-11-08T17:03Z",
-   "hot": 7
+   "hot": 8
   },
   {
    "id": "zamfara-maradun-bandits-kill-12-family-members",
@@ -268,7 +299,7 @@
     "The attack happened in Maradun LGA."
    ],
    "at": "2026-11-08T14:42Z",
-   "hot": 8
+   "hot": 9
   },
   {
    "id": "amaechi-warns-adc-ruling-could-cause-unrest",
@@ -723,7 +754,7 @@
    "alt": "A Nigeria Flamingos player challenges a Japan player for the ball during the U-17 Women's World Cup final",
    "credit": "Photo: Trend Naija",
    "owner": true,
-   "hot": 1
+   "hot": 2
   },
   {
    "id": "adeboye-returned-donations-proceeds-of-crime-efcc",
@@ -1826,7 +1857,7 @@
    "credit": "Photo: Etauso / Wikimedia Commons, CC0",
    "alt": "Portrait of Atiku Abubakar in a pinstripe suit",
    "at": "2026-11-05T11:43Z",
-   "hot": 4
+   "hot": 5
   },
   {
    "id": "tinubu-seeks-senate-approval-7-7bn-borrowing",
