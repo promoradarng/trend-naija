@@ -1,6 +1,6 @@
 {
- "updated": "Updated 20:41 GMT",
- "date": "Saturday, 7 November 2026",
+ "updated": "Updated 06:42 GMT",
+ "date": "Sunday, 8 November 2026",
  "categories": {
   "all": "All gist",
   "elections": "2027 elections",
@@ -43,13 +43,13 @@
     "He compared it with South-West leaders' silence on Makinde.",
     "Umahi and Soludo are not contesting against Obi."
    ],
-   "hot": 1,
    "added": "2026-11-08",
    "img": "img/ogene-questions-umahi-soludo-attacks-on-obi.jpg",
    "alt": "Oyo Governor Seyi Makinde in an APM cap above photos of Peter Obi, Charles Soludo, David Umahi and another politician",
    "credit": "Photo: Trend Naija",
    "owner": true,
-   "at": "2026-11-08T04:33Z"
+   "at": "2026-11-08T04:33Z",
+   "hot": 3
   },
   {
    "id": "atiku-university-before-vice-president-fires-back-tinubu",
@@ -82,13 +82,13 @@
     "Tinubu had questioned how he built a university while in office.",
     "Atiku says his business record is open to scrutiny."
    ],
-   "hot": 2,
    "added": "2026-11-08",
    "img": "img/atiku-university-before-vice-president-fires-back-tinubu.jpg",
    "alt": "Collage of Atiku Abubakar speaking at an ADC event and President Bola Tinubu",
    "credit": "Photo: Trend Naija",
    "owner": true,
-   "at": "2026-11-08T03:13Z"
+   "at": "2026-11-08T03:13Z",
+   "hot": 4
   },
   {
    "id": "amaechi-buhari-promised-apc-ticket-2022-regret",
@@ -121,13 +121,13 @@
     "He lost the APC primary to Bola Tinubu.",
     "Buhari died in July 2025 and cannot respond."
    ],
-   "hot": 3,
    "added": "2026-11-08",
    "img": "img/amaechi-buhari-promised-apc-ticket-2022-regret.jpg",
    "alt": "Rotimi Amaechi speaking into a microphone in a dark jacket and thick-rimmed glasses",
    "credit": "Photo: Trend Naija",
    "owner": true,
-   "at": "2026-11-08T00:05Z"
+   "at": "2026-11-08T00:05Z",
+   "hot": 5
   },
   {
    "id": "obi-chants-ben-kalu-tinubu-item-okpi-festival-aba",
@@ -156,13 +156,13 @@
     "Sections of the crowd chanted 'Obi! Obi! Obi!'",
     "The event was the Item Okpi cultural festival."
    ],
-   "hot": 4,
    "added": "2026-11-07",
    "img": "img/obi-chants-ben-kalu-tinubu-item-okpi-festival-aba.jpg",
    "alt": "Deputy Speaker Benjamin Kalu speaking into a microphone at the Item Okpi festival in Aba, with inset photos including Peter Obi",
    "credit": "Photo: Trend Naija",
    "owner": true,
-   "at": "2026-11-07T20:53Z"
+   "at": "2026-11-07T20:53Z",
+   "hot": 6
   },
   {
    "id": "flamingos-beat-japan-win-u17-world-cup",
@@ -186,12 +186,12 @@
     "Bashiru and Umejiaku scored for the Flamingos.",
     "Nigeria are the first African winners of the tournament."
    ],
-   "hot": 5,
    "at": "2026-11-07T20:41Z",
    "img": "img/flamingos-beat-japan-win-u17-world-cup.jpg",
    "alt": "A Nigeria Flamingos player challenges a Japan player for the ball during the U-17 Women's World Cup final",
    "credit": "Photo: Trend Naija",
-   "owner": true
+   "owner": true,
+   "hot": 1
   },
   {
    "id": "adeboye-returned-donations-proceeds-of-crime-efcc",
@@ -213,12 +213,12 @@
     "The EFCC did not name the donor or project.",
     "Olukoyede spoke ahead of the Holy Ghost Congress."
    ],
-   "hot": 7,
    "at": "2026-11-07T20:41Z",
    "img": "img/adeboye-returned-donations-proceeds-of-crime-efcc.jpg",
    "alt": "Side-by-side photos of Pastor Enoch Adeboye speaking into a microphone and EFCC chairman Ola Olukoyede at a press briefing",
    "credit": "Photo: Trend Naija",
-   "owner": true
+   "owner": true,
+   "hot": 7
   },
   {
    "id": "ebonyi-women-parade-man-wheelbarrow-wife-beating",
@@ -252,7 +252,7 @@
    "credit": "Photo: Trend Naija",
    "owner": true,
    "at": "2026-11-07T18:58Z",
-   "hot": 8
+   "hot": 9
   },
   {
    "id": "tinubu-port-harcourt-atiku-university-vp",
@@ -280,18 +280,20 @@
    "credit": "Photo: Nosa Asemota / Wikimedia Commons, CC BY-SA 4.0",
    "alt": "President Bola Tinubu",
    "at": "2026-11-07T17:42Z",
-   "hot": 6
+   "hot": 8
   },
   {
    "id": "ndc-delta-rally-supporters-vehicles-destroyed",
    "c": "elections",
-   "n": 1,
-   "h": "Thugs reportedly destroy vehicles of NDC supporters at Delta rally",
-   "p": "Videos from a Nigeria Democratic Congress rally in Delta State reportedly show suspected thugs smashing vehicles belonging to party supporters, with some supporters said to have fought back. Police have not commented.",
+   "n": 2,
+   "h": "One dead, five injured as violence hits NDC rally in Asaba",
+   "p": "Delta police say one person died and five were injured in a clash during an NDC rally in Asaba on Saturday, after suspected thugs were filmed smashing supporters' vehicles. Police say organisers ignored advice to avoid a road procession.",
    "body": [
     "Tension broke out at a rally of the Nigeria Democratic Congress (NDC) in Delta State on Saturday, 7 November 2026, after suspected thugs were reportedly filmed destroying vehicles belonging to party supporters.",
     "## What happened",
     "Footage shared on social media appears to show a group of men vandalising vehicles at or near the rally venue. According to reports, some NDC supporters retaliated after the attack, raising tensions further. It is not clear who the attackers were, how many vehicles were damaged or whether anyone was hurt. The police had not publicly commented on the incident at the time of writing.",
+    "## Police confirm one death",
+    "The Delta State Police Command later confirmed that one person died and five others were injured in a violent clash during the rally in Asaba, which was held in support of the NDC presidential candidate. Police spokesman SP Bright Edafe said the violence happened on Nnebisi Road at about 12.15pm. The command said it had received intelligence before the event that violence was possible, briefed the organisers and advised them to hold the rally at an approved venue rather than on the road, but that the procession went ahead. The injured were taken to hospital and an investigation has begun. Police Commissioner Samuel Erale condemned the violence and urged all parties to avoid road processions and inform the police before political gatherings. The identities of the victims had not been released.",
     "## Background",
     "The NDC is the party of presidential candidate Peter Obi and his running mate, Rabiu Kwankwaso. Delta is governed by Sheriff Oborevwori, who joined the APC and has backed President Bola Tinubu's re-election. Political violence has already been reported on several sides ahead of the January 2027 elections: Obi's convoy was attacked in Calabar earlier this week, stones were thrown at a stage during a governor's campaign rally in Nasarawa, and APC supporters were attacked and a campaign vehicle burnt ahead of a rally in Katsina State last week. INEC has also warned of a plot to threaten and kidnap election workers.",
     "## How people reacted",
@@ -302,7 +304,8 @@
     "Some supporters were said to have fought back.",
     "Police have not commented."
    ],
-   "at": "2026-11-07T17:42Z"
+   "at": "2026-11-07T17:42Z",
+   "hot": 2
   },
   {
    "id": "oyedepo-warns-government-insecurity-islamisation",
@@ -379,8 +382,7 @@
    "alt": "Nyesom Wike in a black and red hat and rainbow Coalition sash, talking with aides at a stadium campaign ground",
    "credit": "Photo: Trend Naija",
    "owner": true,
-   "at": "2026-11-07T17:19Z",
-   "hot": 9
+   "at": "2026-11-07T17:19Z"
   },
   {
    "id": "tinubu-assures-fubara-will-not-regret",
@@ -521,32 +523,6 @@
    "credit": "Stock image: theglobalpanorama / Flickr, CC BY-SA 2.0",
    "alt": "A Nigeria Police armoured vehicle",
    "at": "2026-11-07T14:42Z"
-  },
-  {
-   "id": "amaechi-buhari-promised-to-back-him-2022",
-   "c": "politics",
-   "n": 1,
-   "h": "Amaechi says Buhari promised in writing to back him at 2022 APC primary",
-   "p": "ADC vice-presidential candidate Rotimi Amaechi says former President Buhari assured him in writing that he would name him as his preferred successor in 2022, and that relying on the promise was his biggest mistake. He lost the APC ticket to Tinubu.",
-   "body": [
-    "Rotimi Amaechi, the vice-presidential candidate of the African Democratic Congress (ADC) for 2027, says former President Muhammadu Buhari promised to back him as his preferred candidate at the 2022 All Progressives Congress (APC) presidential primary.",
-    "## What he said",
-    "Speaking in a radio interview in Lagos on Friday, 6 November 2026, Amaechi said Buhari had given him the assurance in writing. Because of it, he said, he held back from campaigning, lobbying delegates or making political deals before the primary, which he now considers his biggest mistake. He said his refusal to promise positions such as the vice-presidency and the post of Secretary to the Government of the Federation to governors cost him support.",
-    "## Claims about religion",
-    "Amaechi also accused President Bola Tinubu's camp of appealing to religious identity to win Northern delegates, alleging that a delegation of Muslim politicians from the South-West urged governors in the North-West to back Tinubu on religious grounds. He said he would never use religion to win an election. Tinubu's camp had not responded to the claims at the time of writing.",
-    "## Background",
-    "Tinubu won the June 2022 APC primary at Eagle Square in Abuja with 1,271 votes to Amaechi's 316, and went on to win the 2023 presidential election. Amaechi, a former Rivers governor, directed Buhari's successful 2015 campaign and served as his Minister of Transportation. Buhari, who died in 2025, did not publicly endorse any aspirant at the primary. Amaechi is now Atiku Abubakar's running mate, though a recent court judgment voided Atiku's nomination, a ruling the ADC has appealed."
-   ],
-   "more": [
-    "Amaechi says Buhari's promise was in writing.",
-    "He says relying on it was his biggest mistake.",
-    "Tinubu beat him 1,271 votes to 316 in 2022."
-   ],
-   "at": "2026-11-07T14:42Z",
-   "img": "img/amaechi-buhari-promised-to-back-him-2022.jpg",
-   "alt": "Rotimi Amaechi smiling in a white agbada and a patterned cap",
-   "credit": "Photo: Trend Naija",
-   "owner": true
   },
   {
    "id": "tinubu-uyo-naira-worthless-no-subsidy-return",
@@ -1856,119 +1832,6 @@
    "credit": "Photo: Trend Naija",
    "owner": true,
    "at": "2026-11-06T05:30Z"
-  },
-  {
-   "id": "wike-amaechi-rivers-killed-obi-wave-fct",
-   "c": "politics",
-   "n": 1,
-   "h": "\"I would have been worried if Amaechi stood a chance in Rivers State\": Wike fires back at political rivals",
-   "p": "FCT Minister Nyesom Wike has dismissed Rotimi Amaechi's chances in Rivers State, insisting he remains a major force there even though he is no longer governor. He also claimed the APC barely existed in Rivers before he backed it, and that he has \"killed the Obi wave\" in the FCT.",
-   "body": [
-    "The Minister of the Federal Capital Territory (FCT), Nyesom Wike, has once again spoken boldly about his political influence in Rivers State, dismissing the chances of former Minister of Transportation Rotimi Amaechi and insisting he remains a major force in the state.",
-    "## \"You cannot wish me away\"",
-    "According to Wike, he would only have reason to worry if Amaechi stood a realistic chance of a significant political comeback in Rivers State.",
-    "The former Rivers governor made it clear that leaving Government House in Port Harcourt has not reduced his influence or weakened the structures he built over the years.",
-    "\"I am not a governor, I am a minister, but you cannot wish me away in Rivers State, because the people know what I stand for and because of the people I have raised,\" Wike said.",
-    "His statement appears to be a direct message to those who believe his appointment as FCT Minister has taken him away from the centre of Rivers politics.",
-    "## Claims about the APC",
-    "Wike also claimed that the All Progressives Congress (APC) had little political strength in Rivers State before he decided to support the party.",
-    "\"Before I decided to support the APC, the party did not exist in Rivers State,\" he said.",
-    "That is a bold claim, given the long rivalry between Wike and Amaechi, who both served as governors of Rivers State at different times.",
-    "## \"I have killed the Obi wave\"",
-    "Wike did not limit his remarks to Rivers. He also turned his attention to the movement around NDC presidential candidate Peter Obi, claiming he had already weakened its influence in the FCT.",
-    "\"As for the NDC, I have killed the Obi wave in the FCT,\" he said.",
-    "The remarks reflect Wike's confidence in his political strength, although his claims about the APC and about Obi's support remain his own assessment.",
-    "## The road to 2027",
-    "With the 2027 general elections approaching, the political battle in Rivers State is expected to draw even more attention. Wike, Amaechi and other influential figures may once again find themselves on opposing sides as parties prepare for another contest.",
-    "For now, Wike is making one thing clear to his opponents: he may no longer be governor, but he has no intention of surrendering his influence in Rivers State.",
-    "## Over to you",
-    "Is Wike still as politically powerful in Rivers State as he believes, or will the 2027 elections reveal a different picture?"
-   ],
-   "more": [
-    "Wike says Amaechi stands no real chance in Rivers.",
-    "He claims the APC barely existed in Rivers before he backed it.",
-    "He says he has 'killed the Obi wave' in the FCT."
-   ],
-   "added": "2026-11-06",
-   "img": "img/wike-amaechi-rivers-killed-obi-wave-fct.jpg",
-   "alt": "FCT Minister Nyesom Wike speaking at a press briefing in front of microphones",
-   "credit": "Photo: Trend Naija",
-   "owner": true,
-   "at": "2026-11-06T00:05Z"
-  },
-  {
-   "id": "jojooflele-ratel-princess-thanks-vdm-from-china",
-   "c": "creators",
-   "n": 1,
-   "h": "\"If not for VeryDarkMan, I wouldn't be where I am today\": Ratel Princess Jojooflele expresses gratitude from China",
-   "p": "Social media personality Jojooflele, known as the Ratel Princess, has publicly thanked VeryDarkMan for changing her life, saying her following and opportunities grew after she met him. She spoke from China, a long way from the Nedu controversy that first brought her into the spotlight.",
-   "body": [
-    "Popular social media personality Jojooflele, widely known as the Ratel Princess, has openly expressed her appreciation for VeryDarkMan (VDM), acknowledging the role he has played in changing her life.",
-    "## \"If not for VDM\"",
-    "Speaking from China, Jojooflele reflected on how far she has come and how her association with VDM opened doors she probably never imagined would open so soon.",
-    "\"If not for VDM, I wouldn't be where I am today,\" she said.",
-    "According to her, things took a completely different turn after she met VeryDarkMan. Her social media pages began attracting more attention, her followers increased, and opportunities started coming her way.",
-    "## How it all started",
-    "What makes her story even more interesting is how it began. Many will remember the controversy involving Nedu, when Jojooflele found herself at the centre of public attention, with people discussing her personal life and questioning her actions.",
-    "For someone else, that kind of controversy could have been enough to damage their confidence or push them off social media completely.",
-    "Instead, Jojooflele turned the attention into something positive. Rather than letting the controversy define her future, she kept building her presence online and eventually became a familiar face among supporters of the Ratel Movement.",
-    "## A lesson in gratitude",
-    "Today, she is in China, reflecting on her journey and publicly appreciating someone she believes contributed greatly to her success.",
-    "Jojooflele deserves credit for how she has handled her growing popularity. The right connections can open doors, but what you do with those opportunities matters just as much.",
-    "Her appreciation for VDM is also worth acknowledging. In a society where people sometimes forget those who supported them once they start to succeed, publicly recognising someone's contribution says a lot about gratitude.",
-    "## Setbacks are not the end",
-    "Perhaps the biggest lesson here is never to be too quick to conclude that your present difficulties will decide your future. The situation people expect to destroy you can end up introducing you to opportunities you never knew existed.",
-    "What looks like a setback today may become part of the story you proudly tell tomorrow.",
-    "## Over to you",
-    "What do you think about Jojooflele's journey from the Nedu controversy to her growing popularity and opportunities abroad?"
-   ],
-   "more": [
-    "Jojooflele credits VDM for changing her life.",
-    "She spoke from China.",
-    "She first came to public attention during the Nedu controversy."
-   ],
-   "added": "2026-11-05",
-   "img": "img/jojooflele-ratel-princess-thanks-vdm-from-china.jpg",
-   "alt": "VeryDarkMan speaking in a video beside Jojooflele, the Ratel Princess, speaking on a street in China",
-   "credit": "Photo: Trend Naija",
-   "owner": true,
-   "at": "2026-11-05T21:44Z"
-  },
-  {
-   "id": "israel-dmw-defends-davido-vdm-arrest-plot",
-   "c": "music",
-   "n": 1,
-   "h": "\"My oga had nothing to do with any plot to arrest VeryDarkMan\": Israel DMW defends Davido amid controversy",
-   "p": "Davido's aide Israel DMW has denied that the singer had any hand in an alleged plot to have VeryDarkMan arrested, or in Naira Marley's troubles during the Mohbad case. He says those who told VDM otherwise lied.",
-   "body": [
-    "Davido's loyal aide, Israel DMW, has come out to defend his boss following speculation linking the Afrobeats superstar to an alleged plot to get social media activist VeryDarkMan (VDM) arrested.",
-    "## \"Oga had no hands in it\"",
-    "In a post addressed to \"Dearest Nigerians\", Israel said Davido had no hand in Naira Marley's ordeal during the Mohbad case, nor in any plot to see VDM arrested.",
-    "He said those who were in the WhatsApp group linked to the matter got there without Davido's instructions or approval, and that those who told VDM otherwise \"fully lied\".",
-    "## Sam Klef, Mohbad's catalogue and Zino",
-    "Israel also asked why Davido would have any issue with Sam Klef, and denied that the singer ever asked for Mohbad's music catalogue or tried to sign Zino.",
-    "## \"Naira and oga are cool\"",
-    "According to Israel, there was serious pressure on Davido at the time to unfollow Naira Marley on Instagram, but he categorically refused, saying he wanted the police to do their job and did not want to act on hearsay.",
-    "\"Naira and oga are cool,\" he wrote, adding that the two even made a hit song together.",
-    "On an incident at Naira Marley's house, Israel said it involved Tolu 30BG, who had a disagreement with one of Naira's boys, and insisted that nobody was beaten or attacked.",
-    "## Why the denial matters",
-    "VDM is known for speaking openly about controversial issues and challenging influential people, which has earned him both strong supporters and fierce critics. Whenever the names Davido and VeryDarkMan appear in the same controversy, Nigerians are bound to have plenty to say.",
-    "Israel's message is straightforward: whatever controversy surrounds VDM, his boss should not be accused of involvement without proof.",
-    "It is important to note that the allegations remain unverified. Israel's denial is his own position, and there is no established evidence that Davido took part in any plot to have VDM arrested.",
-    "## Over to you",
-    "Who is actually behind the alleged move to arrest VeryDarkMan, and why is Davido's name being mentioned? Until credible evidence emerges, the public should be careful about turning social media speculation into fact."
-   ],
-   "more": [
-    "Israel DMW says Davido had no role in any plot to arrest VDM.",
-    "He says those who told VDM otherwise lied.",
-    "He says Davido and Naira Marley are on good terms."
-   ],
-   "added": "2026-11-05",
-   "img": "img/israel-dmw-defends-davido-vdm-arrest-plot.jpg",
-   "alt": "Israel DMW seated on a private jet, with a screenshot of his post defending Davido",
-   "credit": "Photo: Trend Naija",
-   "owner": true,
-   "at": "2026-11-05T21:02Z"
   },
   {
    "id": "court-sacks-adc-mark-leadership-voids-atiku-nomination",
