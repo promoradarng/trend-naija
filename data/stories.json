@@ -1,5 +1,5 @@
 {
- "updated": "Updated 17:42 GMT",
+ "updated": "Updated 20:42 GMT",
  "date": "Sunday, 8 November 2026",
  "categories": {
   "all": "All gist",
@@ -14,6 +14,52 @@
   "sport": "Sport"
  },
  "stories": [
+  {
+   "id": "okowa-dumped-atiku-for-tinubu-seen-the-light",
+   "c": "elections",
+   "n": 1,
+   "h": "Okowa says he left Atiku for Tinubu because he has 'seen the light'",
+   "p": "Former Delta governor Ifeanyi Okowa, Atiku Abubakar's running mate in 2023, told an APC rally in Port Harcourt that he switched to backing President Tinubu because he has seen the light, crediting the government's fiscal reforms.",
+   "body": [
+    "Former Delta State governor Ifeanyi Okowa has explained why he abandoned former Vice-President Atiku Abubakar to support President Bola Tinubu ahead of the 2027 election.",
+    "## What he said",
+    "Speaking at an All Progressives Congress (APC) presidential campaign rally in Port Harcourt, Rivers State, on Saturday, 7 November 2026, Okowa reportedly said he had 'seen the light'. He argued that Tinubu inherited a country with foundations weakened by decades of mismanagement, and that the current administration was making tough but necessary decisions to fix them. He credited the government's fiscal reforms with increasing the revenue shared with states and local governments, saying the results could be seen in better project delivery and salary payments. He also compared Tinubu's record as Lagos governor with his performance as President, saying the same transformation was now happening across the country.",
+    "## Background",
+    "Okowa was Atiku's vice-presidential running mate on the Peoples Democratic Party (PDP) ticket in the 2023 election, which Tinubu won. He later left the PDP for the APC, following his successor in Delta, Governor Sheriff Oborevwori. Atiku is now the candidate of the African Democratic Congress (ADC), although a Federal High Court ruling last week voided his nomination, a decision the party has appealed. At the same rally, Tinubu questioned how Atiku built a university while he was vice-president, prompting a sharp reply from Atiku's campaign.",
+    "## What happens next",
+    "Atiku's campaign had not publicly responded to Okowa's remarks at the time of writing. The presidential election is scheduled for 16 January 2027."
+   ],
+   "more": [
+    "Okowa was Atiku's running mate in 2023.",
+    "He says Tinubu's reforms have boosted state revenues.",
+    "He spoke at an APC rally in Port Harcourt."
+   ],
+   "hot": 5,
+   "at": "2026-11-08T20:42Z"
+  },
+  {
+   "id": "us-deports-six-nigerians-nema-lagos",
+   "c": "naija",
+   "n": 1,
+   "h": "Six Nigerians deported from the US arrive in Lagos",
+   "p": "The National Emergency Management Agency says it received six Nigerians deported from the United States at Lagos airport on 4 November. The five men and one woman were profiled by immigration officers and given resettlement support.",
+   "body": [
+    "Six Nigerians deported from the United States have arrived in Lagos, the National Emergency Management Agency (NEMA) says.",
+    "## What happened",
+    "In a statement on its X account on Sunday, 8 November 2026, NEMA said the five men and one woman, all adults, landed at the cargo terminal of Murtala Muhammed International Airport in Ikeja at about 10.13pm on Wednesday, 4 November, aboard a small chartered aircraft. NEMA's Lagos office received them in partnership with the US Consulate, the Federal Ministry of Foreign Affairs, the Nigeria Immigration Service and an aviation services company. Immigration officers documented and profiled each returnee before clearing them, and NEMA said it coordinated support to help them resettle.",
+    "## Background",
+    "The deportations are part of the United States' wider crackdown on undocumented migrants under President Donald Trump, whose administration has carried out mass removals, often on chartered flights. Groups of Nigerians have been returned on several occasions over the past year. The agency did not give the reasons for the individual deportations. Trump this week named Stephen Miller, the architect of his deportation programme, as White House chief of staff.",
+    "## What happens next",
+    "NEMA said the federal government would continue to work with other agencies to manage the return of Nigerians from abroad in an orderly and dignified way."
+   ],
+   "more": [
+    "Five men and one woman were deported.",
+    "They arrived in Lagos on 4 November.",
+    "NEMA says it is helping them resettle."
+   ],
+   "hot": 9,
+   "at": "2026-11-08T20:42Z"
+  },
   {
    "id": "ogun-10-bus-passengers-freed-orita-fufu-awa-ijebu",
    "c": "naija",
@@ -41,13 +87,13 @@
     "One suspected kidnapper was killed; an AK-47 and ₦1.37m were recovered.",
     "Police have not said whether a ransom was paid."
    ],
-   "hot": 1,
    "added": "2026-11-08",
    "img": "img/ogun-10-bus-passengers-freed-orita-fufu-awa-ijebu.jpg",
    "alt": "Bundles of naira notes, an AK-47 magazine and a mobile phone recovered by police in the bush in Ogun State",
    "credit": "Photo: Trend Naija",
    "owner": true,
-   "at": "2026-11-08T18:52Z"
+   "at": "2026-11-08T18:52Z",
+   "hot": 2
   },
   {
    "id": "flamingos-50000-reward-no-fifa-prize-money",
@@ -69,12 +115,12 @@
     "FIFA pays no prize money for the U-17 Women's World Cup.",
     "Nigeria beat Japan 2-1 in the final."
    ],
-   "hot": 5,
    "at": "2026-11-08T17:42Z",
    "img": "img/flamingos-50000-reward-no-fifa-prize-money.jpg",
    "alt": "Nigeria's Flamingos celebrate with the U-17 Women's World Cup trophy on the champions podium as confetti falls",
    "credit": "Photo: Trend Naija",
-   "owner": true
+   "owner": true,
+   "hot": 6
   },
   {
    "id": "tinubu-kaduna-kano-railway-inauguration-december-3",
@@ -123,7 +169,6 @@
     "A resident had complained on X.",
     "Commissioner Wahab says there will be no exceptions."
    ],
-   "hot": 9,
    "at": "2026-11-08T17:42Z",
    "img": "img/lagos-seals-surulere-church-noise-pollution.jpg",
    "alt": "Lagos environment officials in uniform chaining and sealing the brown doors of a church building",
@@ -196,7 +241,7 @@
    "credit": "Photo: Trend Naija",
    "owner": true,
    "at": "2026-11-08T17:03Z",
-   "hot": 4
+   "hot": 7
   },
   {
    "id": "zamfara-maradun-bandits-kill-12-family-members",
@@ -219,7 +264,7 @@
     "The attack happened in Maradun LGA."
    ],
    "at": "2026-11-08T14:42Z",
-   "hot": 6
+   "hot": 8
   },
   {
    "id": "amaechi-warns-adc-ruling-could-cause-unrest",
@@ -358,7 +403,7 @@
   {
    "id": "cbn-stablecoin-crypto-capital-requirements",
    "c": "naija",
-   "n": 1,
+   "n": 2,
    "h": "CBN sets ₦15bn capital rule for dollar-backed stablecoins in new crypto rules",
    "p": "The Central Bank of Nigeria has set minimum capital of ₦10 billion for naira-backed stablecoin issuers and ₦15 billion for those offering dollar or other foreign-currency tokens, under new rules for crypto operators. Other crypto service providers will need ₦1 billion.",
    "body": [
@@ -367,6 +412,8 @@
     "Under the regulations, reported on Sunday, 8 November 2026, issuers of naira-backed stablecoins must have at least ₦10 billion in paid-up capital, while operators offering tokens backed by foreign currencies, such as dollar-pegged stablecoins, will need ₦15 billion. Other virtual asset service providers, including digital wallet, payment, transfer and custody businesses, must have at least ₦1 billion. The CBN said it may demand more capital from larger or riskier operators.",
     "## Licensing and foreign firms",
     "The rules make it illegal for individuals or companies to issue, exchange, distribute or facilitate regulated virtual assets in Nigeria without CBN approval. Foreign operators targeting Nigerian customers must incorporate and obtain licences locally, regardless of approvals elsewhere. Companies already licensed by the Securities and Exchange Commission (SEC) will face extra capital requirements if they offer services under the CBN's oversight, while digital assets classed as securities will remain under SEC supervision. The rules also set standards for reserve management and consumer protection.",
+    "## Deadlines and fines",
+    "The regulations, released on Friday, give existing operators 30 days to register with the CBN, 60 days to begin submitting supervisory reports and 180 days to complete licence applications. Operators can continue at their current scale during the transition, but those who miss the deadline must suspend operations until licensed. Firms operating without approval face fines starting at ₦100 million.",
     "## Background",
     "Nigeria has one of the world's largest communities of cryptocurrency users. The CBN banned banks from dealing with crypto firms in 2021 before lifting the restriction in 2023, and the SEC has since moved to register and regulate crypto exchanges. Stablecoins, which are designed to keep a steady value linked to a currency such as the dollar, are widely used by Nigerians for savings and payments."
    ],
@@ -497,8 +544,7 @@
     "Diesel prices fell during the week.",
     "Global crude prices dropped."
    ],
-   "at": "2026-11-08T09:42Z",
-   "hot": 8
+   "at": "2026-11-08T09:42Z"
   },
   {
    "id": "ogene-questions-umahi-soludo-attacks-on-obi",
@@ -673,7 +719,7 @@
    "alt": "A Nigeria Flamingos player challenges a Japan player for the ball during the U-17 Women's World Cup final",
    "credit": "Photo: Trend Naija",
    "owner": true,
-   "hot": 2
+   "hot": 1
   },
   {
    "id": "adeboye-returned-donations-proceeds-of-crime-efcc",
@@ -1673,89 +1719,10 @@
    "at": "2026-11-06T17:43Z"
   },
   {
-   "id": "inec-plot-kidnap-electoral-workers-2027",
-   "c": "elections",
-   "n": 1,
-   "h": "INEC warns of plot to threaten and kidnap election workers ahead of 2027",
-   "p": "INEC chairman Joash Amupitan says intelligence operations with the DSS uncovered a plot to intimidate and abduct ad hoc election staff, and that suspects have been arrested and charged. He warned officials against bias and negligence.",
-   "body": [
-    "The Independent National Electoral Commission (INEC) has warned of an alleged plot to threaten, intimidate and abduct temporary election workers ahead of the 2027 general elections.",
-    "## What INEC said",
-    "Speaking in Lokoja, Kogi State, on Friday, 6 November 2026, during a North Central zonal readiness assessment, INEC chairman Professor Joash Amupitan said intelligence-led operations carried out with the Department of State Services (DSS) had led to the arrest of key suspects, who have since been charged in court. He warned that anyone who interferes with or harms election workers will be prosecuted to the full extent of the law. He did not give details of the suspects or the charges.",
-    "## Warning to staff",
-    "Amupitan also warned electoral officers against negligence and political bias, saying neutrality at local level would directly affect public trust in the elections. He said credible elections cannot be achieved through last-minute arrangements, and that INEC is working with security agencies through the Inter-Agency Consultative Committee on Election Security to tackle threats early.",
-    "## Background",
-    "INEC expects to manage more than 103 million registered voters across 176,846 polling units in 2027. The commission relies on hundreds of thousands of ad hoc staff, many of them members of the National Youth Service Corps, to run polling units, and attacks on election workers and offices have been a concern in past elections. This week INEC has also faced questions about about 1.5 million questionable entries found in the voter register, and disowned a fake poster about the ADC's leadership.",
-    "## What happens next",
-    "The presidential and National Assembly elections are scheduled for 16 January 2027."
-   ],
-   "more": [
-    "INEC says suspects have been arrested and charged.",
-    "Amupitan warned officials against political bias.",
-    "More than 103 million voters are expected to be registered."
-   ],
-   "at": "2026-11-06T17:43Z",
-   "img": "img/inec-plot-kidnap-electoral-workers-2027-v2.jpg",
-   "alt": "An INEC official speaking into a microphone at a desk, beside the Independent National Electoral Commission logo",
-   "credit": "Photo: Trend Naija",
-   "owner": true
-  },
-  {
-   "id": "nigeria-external-debt-145bn-world-bank",
-   "c": "naija",
-   "n": 1,
-   "h": "Nigeria's external debt rises to $145 billion, World Bank report says",
-   "p": "Nigeria's external debt rose 6.6% to about $145 billion in 2025, according to the World Bank's latest International Debt Report. Some debt ratios improved, but repayments took a bigger share of export earnings.",
-   "body": [
-    "Nigeria's external debt reached about $145.0 billion in 2025, according to the World Bank's International Debt Report 2026.",
-    "## The figures",
-    "According to reports on Friday, 6 November 2026, the total was 6.6 per cent higher than the year before and about 74 per cent higher than the $83.2 billion recorded in 2015. Public and publicly guaranteed debt made up about $62.4 billion of the total, private debt without government guarantees about $54.5 billion, and short-term debt about $28.1 billion. Multilateral lenders were the biggest creditors of the government, at about $31.4 billion, including about $18.5 billion owed to the World Bank's International Development Association. China remained Nigeria's largest single-country lender, owed about $5.7 billion.",
-    "## Burden of repayments",
-    "Some measures of the debt burden improved: external debt fell to 212 per cent of export earnings and to 51 per cent of gross national income. But debt service took a bigger share of income, rising to 19 per cent of exports and 5 per cent of gross national income.",
-    "## The global picture",
-    "The World Bank said debt service payments by low- and middle-income countries reached $1.4 trillion in 2025, the fifth yearly rise in a row, driven largely by payments to private lenders such as bondholders. It noted that loans from official lenders carried an average interest rate of 1.9 per cent, compared with 9.6 per cent from private creditors.",
-    "## Why it matters",
-    "The figures come as President Bola Tinubu seeks Senate approval for new external borrowing of about $7.7 billion, a request opposition figures, including Atiku Abubakar, have urged lawmakers to reject. The government says borrowing is needed to fund infrastructure and that its reforms are improving the economy."
-   ],
-   "more": [
-    "External debt rose 6.6% to about $145 billion.",
-    "China is the largest single-country lender.",
-    "Debt service took a bigger share of export earnings."
-   ],
-   "img": "img/nigeria-external-debt-145bn-world-bank.jpg",
-   "credit": "Photo: CBN / Wikimedia Commons (Public domain)",
-   "alt": "A Nigerian 500 naira note",
-   "at": "2026-11-06T17:43Z"
-  },
-  {
-   "id": "uzbekistan-visa-restrictions-nigerians",
-   "c": "naija",
-   "n": 1,
-   "h": "Uzbekistan reportedly suspends visas and entry for Nigerians",
-   "p": "Uzbekistan has reportedly introduced temporary restrictions on issuing visas to Nigerians and on their entry into the country, according to a notice on an exhibition website. Ghana, Kenya, Egypt, Iraq and Bangladesh are said to be affected too.",
-   "body": [
-    "Uzbekistan has reportedly introduced temporary restrictions on visas and entry for Nigerian citizens.",
-    "## What was announced",
-    "The restrictions came to light through a notice published on the website of the Green Energy Technologies Central Asia exhibition, reported on Friday, 6 November 2026. The notice said temporary restrictions had been introduced on issuing visas and on entry into Uzbekistan for citizens of the affected countries. It advised Nigerians who need to travel in exceptional circumstances to contact the consular section of the Uzbek embassy. Similar measures were reportedly listed for citizens of Ghana, Kenya, Egypt, Iraq and Bangladesh.",
-    "## No official explanation",
-    "Uzbekistan's Ministry of Foreign Affairs has not issued a public statement explaining the reasons for the restrictions or how long they will last, and its main visa portal does not mention them. The Nigerian government had not publicly reacted at the time of writing.",
-    "## Background",
-    "Uzbekistan, a former Soviet republic in Central Asia, has been trying to attract more tourists and investors in recent years. Nigerians already face strict visa requirements for many countries, and travel restrictions affecting Nigerian passport holders often spark debate at home about the country's image abroad.",
-    "## What it means for travellers",
-    "Nigerians planning trips to Uzbekistan, including for business events, are advised to check with the Uzbek embassy before making travel arrangements."
-   ],
-   "more": [
-    "The notice appeared on an exhibition website.",
-    "Ghana, Kenya, Egypt, Iraq and Bangladesh are also listed.",
-    "Uzbekistan has not explained the move."
-   ],
-   "at": "2026-11-06T17:43Z"
-  },
-  {
    "id": "ijebu-ode-ibadan-road-10-passengers-abducted",
    "c": "naija",
-   "n": 1,
-   "h": "Gunmen abduct 10 bus passengers on Ijebu-Ode–Ibadan road, demand ₦25m",
+   "n": 2,
+   "h": "All 10 bus passengers kidnapped on Ijebu-Ode road freed, police say",
    "p": "Gunmen have reportedly kidnapped 10 passengers travelling in a commercial bus on the Ijebu-Ode–Ibadan road in Ogun State, including a recently discharged corps member. The kidnappers are said to be demanding ₦25 million.",
    "body": [
     "Gunmen have reportedly abducted 10 passengers travelling on the Ijebu-Ode–Ibadan road in Ogun State and are demanding ₦25 million for their release.",
@@ -1763,6 +1730,8 @@
     "The passengers were travelling in a commercial bus when armed men stopped the vehicle shortly after it passed through Ijebu-Ode on Tuesday, 3 November 2026, and took them into a nearby forest, according to reports on Friday. Two recently discharged members of the National Youth Service Corps (NYSC) were said to be among the passengers; one escaped, while the other remains in captivity.",
     "## Ransom demand",
     "A relative of one of the victims said the incident was reported at a police station in Ijebu-Ode. She said the kidnappers later contacted the family using her brother's phone, first demanding ₦20 million and then raising it to ₦25 million. The Ogun State Police Command had not publicly commented at the time of writing.",
+    "## All passengers freed",
+    "Police later said all 10 passengers were released unharmed on the night of Saturday, 7 November, and that one suspected kidnapper was killed in a follow-up operation in which a rifle, ammunition and cash were recovered. Police did not say whether a ransom was paid.",
     "## Background",
     "Kidnapping on highways in the South-West has become a growing concern, with travellers on roads linking Ogun, Oyo and neighbouring states reporting attacks in recent years. Earlier this week, a court heard that suspects arrested over the abduction of corps members had admitted making confessional statements. Paying ransom is illegal in Nigeria, though families often say they feel they have no other choice.",
     "## What happens next",
@@ -1814,7 +1783,7 @@
   {
    "id": "court-sacks-adc-mark-leadership-voids-atiku-nomination",
    "c": "elections",
-   "n": 8,
+   "n": 9,
    "h": "Court sacks ADC's David Mark-led leadership, voids Atiku's presidential nomination",
    "p": "A Federal High Court in Abuja has reportedly removed the David Mark-led caretaker leadership of the ADC and nullified its decisions, including the nomination of Atiku Abubakar as presidential candidate. The ruling came a day after Atiku's Sokoto rally.",
    "body": [
@@ -1839,6 +1808,8 @@
     "Later on Friday, the ADC said it had filed an appeal at the Court of Appeal against the judgment, together with an application for a stay of execution to halt any action based on it while the appeal is heard. The party said INEC was formally notified of both filings on 6 November. In a statement by Phrank Shaibu, the party urged the commission not to take any action on the judgment until the stay application is decided, and asked its members and supporters to remain calm.",
     "## Keyamo: ADC will be on the ballot",
     "On Sunday, 8 November, Aviation Minister Festus Keyamo said on X that the ADC as a party would take part in the 2027 elections, arguing that the judgment affected only the faction led by David Mark, under which Atiku emerged as candidate, and not the party itself. He questioned why critics described the ruling as an attack on democracy, saying candidates who won primaries under the party's original leadership also had rights. Amaechi, Atiku's running mate, has warned that the ruling could cause unrest if it is not properly managed.",
+    "## INEC waits for judgment",
+    "INEC National Commissioner Mohammed Haruna said on Sunday that the commission would not act on the ruling until it had obtained and reviewed a certified true copy of the judgment, as it could not rely on media reports. He said the matter would be discussed at the commission's meeting next week, and that INEC would obey any court order arising from an appeal.",
     "## What happens next",
     "The ADC and Atiku are widely expected to appeal. Until the appeal is decided, it is not clear how the ruling will affect his candidacy or the party's campaign. "
    ],
@@ -1851,7 +1822,7 @@
    "credit": "Photo: Etauso / Wikimedia Commons, CC0",
    "alt": "Portrait of Atiku Abubakar in a pinstripe suit",
    "at": "2026-11-05T11:43Z",
-   "hot": 7
+   "hot": 4
   },
   {
    "id": "tinubu-seeks-senate-approval-7-7bn-borrowing",
