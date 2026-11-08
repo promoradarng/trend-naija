@@ -15,6 +15,43 @@
  },
  "stories": [
   {
+   "id": "ogene-questions-umahi-soludo-attacks-on-obi",
+   "c": "elections",
+   "n": 1,
+   "h": "\"Political immaturity\": Why attack Peter Obi when you are not contesting against him? Rep Ogene questions Umahi, Soludo",
+   "p": "Rep Afam Victor Ogene has accused Works Minister David Umahi and Anambra Governor Charles Soludo of \"political immaturity\" for repeatedly attacking Peter Obi, pointing out that South-West leaders are not attacking Governor Seyi Makinde over his own presidential ambition.",
+   "body": [
+    "A member of the House of Representatives, Hon. Afam Victor Ogene, has questioned what he sees as growing political hostility towards Peter Obi, the NDC presidential candidate and Labour Party candidate in 2023, particularly from prominent politicians in the South-East.",
+    "## A tale of two regions",
+    "Ogene drew attention to what he described as a striking difference between the political atmosphere in the South-West and the South-East ahead of the 2027 general elections.",
+    "According to him, governors and ministers from the South-West are not publicly attacking Oyo State Governor Seyi Makinde over his perceived presidential ambition, even though he could challenge President Bola Tinubu in 2027.",
+    "In the South-East, however, he questioned why Minister of Works David Umahi and Anambra State Governor Charles Soludo keep directing criticism at Obi, even though neither of them is contesting the presidency against him.",
+    "\"Southwest governors and ministers are not attacking Seyi Makinde for contesting against Tinubu, but Umahi and Soludo keep attacking Peter Obi even when none of them is contesting. That's political immaturity,\" Ogene said.",
+    "## Rivalry or genuine criticism?",
+    "His remarks raise a wider question about the nature of political rivalry in Nigeria, particularly in the South-East, where disagreements among prominent figures often attract public attention.",
+    "Why should politicians who are not directly competing against Obi appear more concerned about his political future than those who may eventually face him at the ballot box?",
+    "For Ogene, the issue goes beyond ordinary disagreement. His criticism suggests some leaders may be letting personal rivalry and party differences overshadow mutual respect.",
+    "The comparison with the South-West is particularly interesting. Despite belonging to different parties and having different presidential interests, leaders in that region have often managed their disagreements while keeping working relationships.",
+    "## Obi is not above scrutiny",
+    "Every politician has the right to criticise another, and Obi, as an active national figure, is equally open to public scrutiny. Umahi has recently questioned whether Obi is better than him or Pius Anyim, while Soludo has backed President Tinubu. Ogene's argument raises the question of whether such criticism is based on genuine policy differences or unnecessary rivalry.",
+    "Political disagreements are unavoidable in a democracy, but how leaders handle them says a great deal about their political maturity.",
+    "## Over to you",
+    "Do you agree with Hon. Ogene that South-East leaders are unnecessarily attacking Peter Obi, or are Umahi and Soludo simply exercising their right to criticise a fellow politician?"
+   ],
+   "more": [
+    "Ogene called the attacks on Obi 'political immaturity'.",
+    "He compared it with South-West leaders' silence on Makinde.",
+    "Umahi and Soludo are not contesting against Obi."
+   ],
+   "hot": 1,
+   "added": "2026-11-08",
+   "img": "img/ogene-questions-umahi-soludo-attacks-on-obi.jpg",
+   "alt": "Oyo Governor Seyi Makinde in an APM cap above photos of Peter Obi, Charles Soludo, David Umahi and another politician",
+   "credit": "Photo: Trend Naija",
+   "owner": true,
+   "at": "2026-11-08T04:33Z"
+  },
+  {
    "id": "atiku-university-before-vice-president-fires-back-tinubu",
    "c": "elections",
    "n": 1,
@@ -45,7 +82,7 @@
     "Tinubu had questioned how he built a university while in office.",
     "Atiku says his business record is open to scrutiny."
    ],
-   "hot": 1,
+   "hot": 2,
    "added": "2026-11-08",
    "img": "img/atiku-university-before-vice-president-fires-back-tinubu.jpg",
    "alt": "Collage of Atiku Abubakar speaking at an ADC event and President Bola Tinubu",
@@ -84,7 +121,7 @@
     "He lost the APC primary to Bola Tinubu.",
     "Buhari died in July 2025 and cannot respond."
    ],
-   "hot": 2,
+   "hot": 3,
    "added": "2026-11-08",
    "img": "img/amaechi-buhari-promised-apc-ticket-2022-regret.jpg",
    "alt": "Rotimi Amaechi speaking into a microphone in a dark jacket and thick-rimmed glasses",
@@ -119,7 +156,7 @@
     "Sections of the crowd chanted 'Obi! Obi! Obi!'",
     "The event was the Item Okpi cultural festival."
    ],
-   "hot": 3,
+   "hot": 4,
    "added": "2026-11-07",
    "img": "img/obi-chants-ben-kalu-tinubu-item-okpi-festival-aba.jpg",
    "alt": "Deputy Speaker Benjamin Kalu speaking into a microphone at the Item Okpi festival in Aba, with inset photos including Peter Obi",
@@ -149,7 +186,7 @@
     "Bashiru and Umejiaku scored for the Flamingos.",
     "Nigeria are the first African winners of the tournament."
    ],
-   "hot": 4,
+   "hot": 5,
    "at": "2026-11-07T20:41Z",
    "img": "img/flamingos-beat-japan-win-u17-world-cup.jpg",
    "alt": "A Nigeria Flamingos player challenges a Japan player for the ball during the U-17 Women's World Cup final",
@@ -176,7 +213,7 @@
     "The EFCC did not name the donor or project.",
     "Olukoyede spoke ahead of the Holy Ghost Congress."
    ],
-   "hot": 6,
+   "hot": 7,
    "at": "2026-11-07T20:41Z",
    "img": "img/adeboye-returned-donations-proceeds-of-crime-efcc.jpg",
    "alt": "Side-by-side photos of Pastor Enoch Adeboye speaking into a microphone and EFCC chairman Ola Olukoyede at a press briefing",
@@ -215,7 +252,7 @@
    "credit": "Photo: Trend Naija",
    "owner": true,
    "at": "2026-11-07T18:58Z",
-   "hot": 7
+   "hot": 8
   },
   {
    "id": "tinubu-port-harcourt-atiku-university-vp",
@@ -243,7 +280,7 @@
    "credit": "Photo: Nosa Asemota / Wikimedia Commons, CC BY-SA 4.0",
    "alt": "President Bola Tinubu",
    "at": "2026-11-07T17:42Z",
-   "hot": 5
+   "hot": 6
   },
   {
    "id": "ndc-delta-rally-supporters-vehicles-destroyed",
@@ -343,7 +380,7 @@
    "credit": "Photo: Trend Naija",
    "owner": true,
    "at": "2026-11-07T17:19Z",
-   "hot": 8
+   "hot": 9
   },
   {
    "id": "tinubu-assures-fubara-will-not-regret",
@@ -375,8 +412,7 @@
    "alt": "President Bola Tinubu speaking at the Rivers rally, beside a photo of Nyesom Wike and Governor Siminalayi Fubara smiling in red caps",
    "credit": "Photo: Trend Naija",
    "owner": true,
-   "at": "2026-11-07T16:46Z",
-   "hot": 9
+   "at": "2026-11-07T16:46Z"
   },
   {
    "id": "mohbad-dna-samples-liam-paternity-test",
