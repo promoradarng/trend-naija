@@ -15,6 +15,45 @@
  },
  "stories": [
   {
+   "id": "amaechi-buhari-promised-apc-ticket-2022-regret",
+   "c": "politics",
+   "n": 1,
+   "h": "\"Buhari promised me APC presidential ticket in 2022, I regret listening to him\": Rotimi Amaechi",
+   "p": "Former Rivers governor and ex-Transport Minister Rotimi Amaechi has reportedly said the late President Muhammadu Buhari promised him the APC presidential ticket in 2022, a promise he now regrets believing. Amaechi went on to lose the primary to Bola Tinubu.",
+   "body": [
+    "Former Rivers State Governor and ex-Minister of Transportation Rotimi Amaechi has reportedly expressed regret over his decision to trust former President Muhammadu Buhari during the race for the All Progressives Congress (APC) presidential ticket in 2022.",
+    "## The promise",
+    "According to the statement attributed to Amaechi, Buhari had promised him the party's presidential ticket, a promise he now regrets believing.",
+    "The claim raises fresh questions about the political arrangements and behind-the-scenes discussions that took place before the APC primary that eventually produced Bola Ahmed Tinubu as the party's candidate.",
+    "Buhari died in July 2025, so he is no longer able to respond to Amaechi's account.",
+    "## How the 2022 race played out",
+    "Amaechi was among the prominent politicians who contested the ticket in 2022. Despite being a serving minister in Buhari's government and a close associate of the President, he lost the primary to Tinubu.",
+    "As the sitting President and leader of the ruling party at the time, Buhari's influence was considerable, although the final decision rested with the party's delegates.",
+    "## Loyalty without reward",
+    "For Amaechi, the disappointment appears to go beyond losing an election. His comments suggest he believed he had received an assurance from someone whose word carried enormous political weight.",
+    "That points to one of the oldest lessons in Nigerian politics: loyalty does not always guarantee reward.",
+    "Amaechi served under Buhari for nearly seven years as Minister of Transportation, and he was one of the key figures who helped build the coalition that brought the APC to power in 2015. Yet when his chance came to seek the presidency, things did not turn out as he had apparently expected.",
+    "## The questions that remain",
+    "Did Buhari actually make such a commitment, and if he did, what happened between that promise and the primary?",
+    "Was Amaechi politically outplayed, or did he place too much confidence in a promise that was never guaranteed?",
+    "Whatever the answer, his regret offers another glimpse into the complicated world of Nigerian party politics, where today's allies can have very different interests when power is at stake.",
+    "## Over to you",
+    "Do you believe Buhari promised Amaechi the ticket, and was he right to trust him?"
+   ],
+   "more": [
+    "Amaechi says Buhari promised him the APC ticket in 2022.",
+    "He lost the APC primary to Bola Tinubu.",
+    "Buhari died in July 2025 and cannot respond."
+   ],
+   "hot": 1,
+   "added": "2026-11-08",
+   "img": "img/amaechi-buhari-promised-apc-ticket-2022-regret.jpg",
+   "alt": "Rotimi Amaechi speaking into a microphone in a dark jacket and thick-rimmed glasses",
+   "credit": "Photo: Trend Naija",
+   "owner": true,
+   "at": "2026-11-08T00:05Z"
+  },
+  {
    "id": "obi-chants-ben-kalu-tinubu-item-okpi-festival-aba",
    "c": "elections",
    "n": 1,
@@ -41,7 +80,7 @@
     "Sections of the crowd chanted 'Obi! Obi! Obi!'",
     "The event was the Item Okpi cultural festival."
    ],
-   "hot": 1,
+   "hot": 2,
    "added": "2026-11-07",
    "img": "img/obi-chants-ben-kalu-tinubu-item-okpi-festival-aba.jpg",
    "alt": "Deputy Speaker Benjamin Kalu speaking into a microphone at the Item Okpi festival in Aba, with inset photos including Peter Obi",
@@ -71,7 +110,7 @@
     "Bashiru and Umejiaku scored for the Flamingos.",
     "Nigeria are the first African winners of the tournament."
    ],
-   "hot": 2,
+   "hot": 3,
    "at": "2026-11-07T20:41Z",
    "img": "img/flamingos-beat-japan-win-u17-world-cup.jpg",
    "alt": "A Nigeria Flamingos player challenges a Japan player for the ball during the U-17 Women's World Cup final",
@@ -98,7 +137,7 @@
     "The EFCC did not name the donor or project.",
     "Olukoyede spoke ahead of the Holy Ghost Congress."
    ],
-   "hot": 4,
+   "hot": 5,
    "at": "2026-11-07T20:41Z"
   },
   {
@@ -133,7 +172,7 @@
    "credit": "Photo: Trend Naija",
    "owner": true,
    "at": "2026-11-07T18:58Z",
-   "hot": 5
+   "hot": 6
   },
   {
    "id": "tinubu-port-harcourt-atiku-university-vp",
@@ -161,7 +200,7 @@
    "credit": "Photo: Nosa Asemota / Wikimedia Commons, CC BY-SA 4.0",
    "alt": "President Bola Tinubu",
    "at": "2026-11-07T17:42Z",
-   "hot": 3
+   "hot": 4
   },
   {
    "id": "ndc-delta-rally-supporters-vehicles-destroyed",
@@ -205,8 +244,7 @@
     "He warned that unchecked evil will stop politicians.",
     "He told anyone planning to Islamise Nigeria to drop it."
    ],
-   "at": "2026-11-07T17:42Z",
-   "hot": 9
+   "at": "2026-11-07T17:42Z"
   },
   {
    "id": "bobrisky-leaving-nigeria-best-decision",
@@ -258,7 +296,7 @@
    "credit": "Photo: Trend Naija",
    "owner": true,
    "at": "2026-11-07T17:19Z",
-   "hot": 6
+   "hot": 7
   },
   {
    "id": "tinubu-assures-fubara-will-not-regret",
@@ -291,7 +329,7 @@
    "credit": "Photo: Trend Naija",
    "owner": true,
    "at": "2026-11-07T16:46Z",
-   "hot": 7
+   "hot": 8
   },
   {
    "id": "mohbad-dna-samples-liam-paternity-test",
@@ -316,7 +354,7 @@
     "The results have not been made public."
    ],
    "at": "2026-11-07T14:42Z",
-   "hot": 8
+   "hot": 9
   },
   {
    "id": "us-strikes-iran-air-defence-qeshm",
