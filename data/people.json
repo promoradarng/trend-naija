@@ -46,12 +46,24 @@
     "odumodu",
     "odumodu blvck"
    ]
+  },
+  "francis nwifuru": {
+   "img": "people/francis-nwifuru.jpg",
+   "alt": "Governor Francis Nwifuru in a grey suit and red tie in front of the Nigerian flag",
+   "aliases": [
+    "nwifuru",
+    "governor nwifuru"
+   ]
   }
  },
  "pairs": {
   "peter obi + bola tinubu": {
    "img": "people/peter-obi-and-bola-tinubu.jpg",
    "alt": "Peter Obi and President Bola Tinubu side by side"
+  },
+  "francis nwifuru + bola tinubu": {
+   "img": "people/francis-nwifuru-and-bola-tinubu.jpg",
+   "alt": "Ebonyi Governor Francis Nwifuru and President Bola Tinubu side by side"
   }
  }
 }
