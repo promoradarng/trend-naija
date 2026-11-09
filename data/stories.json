@@ -1,5 +1,5 @@
 {
- "updated": "Updated 17:42 GMT",
+ "updated": "Updated 20:41 GMT",
  "date": "Monday, 9 November 2026",
  "categories": {
   "all": "All gist",
@@ -14,6 +14,110 @@
   "sport": "Sport"
  },
  "stories": [
+  {
+   "id": "inec-removes-1-6m-invalid-registrants",
+   "c": "elections",
+   "n": 2,
+   "h": "INEC removes over 1.6 million invalid registrants from voter register",
+   "p": "INEC says it has removed 1,608,660 invalid registrants and 876 dead voters from the register after a public review of the preliminary list. The cleaned-up register will be published on 16 December.",
+   "body": [
+    "The Independent National Electoral Commission (INEC) has removed 1,608,660 invalid registrants from Nigeria's voter register.",
+    "## What INEC announced",
+    "The commission said on Monday, 9 November 2026, that the removals followed complaints, objections and claims submitted by the public after it displayed the preliminary voter register in October. It also deleted the records of 876 voters confirmed to have died, after verifying claims submitted during the review. INEC said the display of the preliminary register was meant to allow citizens and civil society groups to flag errors, duplicates and other irregularities.",
+    "## What happens next",
+    "INEC said it will publish the final, cleaned-up register on 16 December 2026, as required by the Electoral Act. The commission expects more than 103 million registered voters for the 2027 elections.",
+    "## Background",
+    "The figure is in line with the roughly 1.5 million questionable records INEC said earlier it had identified. A former INEC director, Oluwole Osaze-Uzzi, questioned last week how so many invalid entries could have entered the register despite biometric safeguards, and called on the commission to explain how they were detected. Opposition parties have also raised concerns about alleged AI-generated photographs in the register.",
+    "## Why it matters",
+    "A credible voter register is key to public confidence in the 16 January 2027 presidential election."
+   ],
+   "more": [
+    "1,608,660 invalid registrants were removed.",
+    "876 dead voters were also deleted.",
+    "The final register will be published on 16 December."
+   ],
+   "hot": 1,
+   "at": "2026-11-09T20:41Z"
+  },
+  {
+   "id": "cjn-swears-in-375-election-tribunal-judges",
+   "c": "elections",
+   "n": 1,
+   "h": "Chief Justice swears in 375 judges for 2027 election tribunals",
+   "p": "Chief Justice Kudirat Kekere-Ekun has sworn in 375 judges to serve on election petition tribunals for 2027, warning them to resist political pressure and cautioning politicians and lawyers against abusing ex parte applications.",
+   "body": [
+    "The Chief Justice of Nigeria, Justice Kudirat Kekere-Ekun, has sworn in 375 judges who will serve on the election petition tribunals for the 2027 general elections.",
+    "## The ceremony",
+    "The swearing-in took place on Monday, 9 November 2026, at the Body of Benchers auditorium in Abuja, alongside the launch of the second edition of the Judicial Electoral Manual and a training workshop for judicial officers.",
+    "## The CJN's warning",
+    "Justice Kekere-Ekun charged the judges to uphold judicial independence, resist political pressure and deliver justice without fear or favour, in line with the Constitution, judicial ethics and the rule of law. She also warned political parties, lawyers, the media and the public against behaviour aimed at undermining the judicial process, and specifically cautioned against the abuse of ex parte applications, which are orders granted without hearing the other side.",
+    "## Background",
+    "Election petition tribunals hear challenges to the results of governorship, National Assembly and state assembly elections. Courts have played a major role in recent Nigerian elections, and pre-election cases are already shaping the 2027 contest, including a Federal High Court ruling that voided Atiku Abubakar's ADC nomination, which the party has appealed, and a ruling on the Imo West Senate ticket. Concerns about conflicting court orders, especially ex parte orders, have been raised repeatedly in recent years."
+   ],
+   "more": [
+    "375 judges were sworn in for election tribunals.",
+    "The CJN warned against abuse of ex parte orders.",
+    "A new Judicial Electoral Manual was launched."
+   ],
+   "hot": 8,
+   "at": "2026-11-09T20:41Z"
+  },
+  {
+   "id": "umeh-igbo-against-obi-enemy-of-ndigbo",
+   "c": "elections",
+   "n": 1,
+   "h": "Victor Umeh: Any Igbo person against Peter Obi is an enemy of the Igbo",
+   "p": "Senator Victor Umeh of the NDC has said any Igbo person who campaigns against Peter Obi's presidential bid is an enemy of the Igbo people, and urged the South-East to unite behind him. He also cautioned the Anambra government.",
+   "body": [
+    "Senator Victor Umeh, who represents Anambra Central, has warned that any Igbo person working against Peter Obi's presidential ambition is an enemy of the Igbo people.",
+    "## What he said",
+    "In a video that circulated on Monday, 9 November 2026, Umeh, a member of the Nigeria Democratic Congress (NDC), described Obi as the conscience of the Igbo people in the 2027 election and urged South-East residents to unite behind his bid. He cautioned political leaders in the region, particularly the Anambra State Government, against actions that could undermine Obi's campaign.",
+    "## Background",
+    "Obi, a former Anambra governor, is the NDC's presidential candidate, with Rabiu Kwankwaso as his running mate. While he remains popular in the South-East, several of the region's governors have declared support for President Bola Tinubu. Anambra Governor Charles Soludo's APGA last week adopted Tinubu as its candidate and promised him half of the state's votes, while Ebonyi Governor Francis Nwifuru on Monday promised Tinubu 80 per cent of Ebonyi's votes. The NDC in Anambra has set a target of 98 per cent of the state's votes for Obi.",
+    "## Reactions",
+    "The Anambra government had not publicly responded at the time of writing.",
+    "## What happens next",
+    "The presidential election is scheduled for 16 January 2027."
+   ],
+   "more": [
+    "Umeh says Obi is the conscience of the Igbo.",
+    "He cautioned the Anambra government.",
+    "Several South-East governors back Tinubu."
+   ],
+   "img": "img/umeh-igbo-against-obi-enemy-of-ndigbo.jpg",
+   "credit": "Photo: VOA / Wikimedia Commons, Public domain",
+   "alt": "Peter Obi",
+   "hot": 4,
+   "at": "2026-11-09T20:41Z"
+  },
+  {
+   "id": "obi-hospitalised-image-ai-generated-fact-check",
+   "c": "elections",
+   "n": 1,
+   "h": "Viral image of Peter Obi in hospital after gym injury is AI-generated, checks show",
+   "p": "A viral image claiming NDC candidate Peter Obi was admitted to hospital after a treadmill injury has been found to be AI-generated, according to a fact-check using several detection tools. Obi's camp had earlier denied the report.",
+   "body": [
+    "A viral image claiming that Peter Obi, presidential candidate of the Nigeria Democratic Congress (NDC), was in hospital after a gym injury has been found to be fake.",
+    "## The claim",
+    "The image was posted on X on Sunday, 1 November 2026, with a caption claiming Obi had injured his neck on a treadmill and been admitted to hospital. By Monday, 9 November, the post had been viewed more than 67,000 times, and similar posts had spread on other platforms.",
+    "## The fact-check",
+    "According to a fact-check published on Monday, a reverse image search linked the picture to similar claims on other platforms, suggesting a wider effort to spread it. Several AI-detection tools found a high probability that the image was AI-generated, and a further check indicated it had been created with an AI image tool.",
+    "## Background",
+    "Obi's campaign had earlier denied reports that he broke his neck in a gym accident, and the former Anambra governor has continued to campaign publicly, including at airports and rallies in recent days. Opposition parties have raised concerns about alleged AI-generated images in the voter register.",
+    "## Why it matters",
+    "Fake images and videos of candidates are expected to be a growing problem in the 2027 campaign."
+   ],
+   "more": [
+    "The image claimed Obi was hospitalised after a gym injury.",
+    "Detection tools found it was AI-generated.",
+    "Obi's camp had earlier denied the report."
+   ],
+   "img": "img/obi-hospitalised-image-ai-generated-fact-check.jpg",
+   "credit": "Photo: VOA / Wikimedia Commons, Public domain",
+   "alt": "Peter Obi",
+   "hot": 9,
+   "at": "2026-11-09T20:41Z"
+  },
   {
    "id": "inec-condemns-rig-and-die-slogan",
    "c": "elections",
@@ -41,7 +145,6 @@
     "Many Nigerians fear their votes will not count.",
     "Electoral offenders must face real consequences."
    ],
-   "hot": 1,
    "at": "2026-11-09T17:42Z",
    "img": "img/inec-condemns-rig-and-die-slogan.jpg",
    "alt": "A man in a cap and glasses beside the INEC logo",
@@ -71,13 +174,13 @@
     "The family gathered to celebrate the milestone.",
     "Chidoka is a former Minister of Aviation."
    ],
-   "hot": 2,
    "added": "2026-11-09",
    "img": "img/osita-chidoka-father-100th-birthday.jpg",
    "alt": "Former Aviation Minister Osita Chidoka beside his 100-year-old father seated in white traditional attire, with a 100th birthday cake",
    "credit": "Photo: Trend Naija",
    "owner": true,
-   "at": "2026-11-09T20:00Z"
+   "at": "2026-11-09T20:00Z",
+   "hot": 5
   },
   {
    "id": "vdm-davido-gone-too-far-late-friends",
@@ -107,13 +210,13 @@
     "Rumours about those deaths were never proven.",
     "Is personal tragedy fair game in a public feud?"
    ],
-   "hot": 3,
    "added": "2026-11-09",
    "img": "img/vdm-davido-gone-too-far-late-friends-v2.jpg",
    "alt": "VeryDarkMan and Davido smiling together in a restaurant in happier times",
    "credit": "Photo: Trend Naija",
    "owner": true,
-   "at": "2026-11-09T17:57Z"
+   "at": "2026-11-09T17:57Z",
+   "hot": 2
   },
   {
    "id": "wike-n10m-councillors-deliver-wards-tinubu",
@@ -140,9 +243,9 @@
    "img": "img/wike-n10m-councillors-deliver-wards-tinubu-v2.jpg",
    "credit": "Photo: Trend Naija",
    "alt": "Nyesom Wike in a dark cap, glasses and black outfit speaking at a desk in front of the Nigerian flag",
-   "hot": 4,
    "at": "2026-11-09T17:42Z",
-   "owner": true
+   "owner": true,
+   "hot": 3
   },
   {
    "id": "tunde-bakare-turned-down-tinubu-minister-offer",
@@ -162,7 +265,6 @@
     "He declined, saying he was too old.",
     "He says he is not in the opposition."
    ],
-   "hot": 9,
    "at": "2026-11-09T17:42Z"
   },
   {
@@ -185,12 +287,12 @@
     "He was convicted of rape and three sexual assaults.",
     "He was cleared of three other counts."
    ],
-   "hot": 6,
    "at": "2026-11-09T17:42Z",
    "img": "img/russell-brand-sentenced-10-years.jpg",
    "alt": "Russell Brand with long curly hair, a grey beard and aviator sunglasses",
    "credit": "Photo: Trend Naija",
-   "owner": true
+   "owner": true,
+   "hot": 7
   },
   {
    "id": "egypt-train-collision-giza-seven-dead",
@@ -235,7 +337,6 @@
    "img": "img/funke-akindele-influencer-turned-down-jenifa-offer.jpg",
    "credit": "Photo: Kaizenify / Wikimedia Commons, CC BY-SA 4.0",
    "alt": "Funke Akindele at the AMVCA 2020",
-   "hot": 8,
    "at": "2026-11-09T17:42Z"
   },
   {
@@ -290,7 +391,7 @@
    "credit": "Photo: VOA / Wikimedia Commons, Public domain",
    "alt": "Peter Obi",
    "at": "2026-11-09T14:42Z",
-   "hot": 5
+   "hot": 6
   },
   {
    "id": "nwifuru-promises-tinubu-80-percent-ebonyi",
@@ -1186,28 +1287,6 @@
    "at": "2026-11-08T17:03Z"
   },
   {
-   "id": "zamfara-maradun-bandits-kill-12-family-members",
-   "c": "naija",
-   "n": 1,
-   "h": "Bandits reportedly kill 12 members of one family in Zamfara village attack",
-   "p": "Twelve members of the same family were reportedly killed when bandits set fire to the building where they had taken refuge during an attack on Gidan Taba village in Maradun LGA, Zamfara State. Other residents were said to have been kidnapped.",
-   "body": [
-    "Twelve members of one family have reportedly been killed in an attack by bandits on a village in Zamfara State.",
-    "## What happened",
-    "The attack took place late on Saturday, 7 November 2026, in Gidan Taba village, Dosara Birnin Kaya ward, in Maradun Local Government Area, according to residents. A resident said the head of the family had gathered his relatives into a single room to try to stop them from being kidnapped. When the attackers found the family and they refused to come out, the bandits reportedly set the building on fire, and all 12 people inside died. An unknown number of other residents were reportedly abducted during the raid. The victims were buried according to Islamic rites on Sunday morning.",
-    "## Official response",
-    "The police and the Zamfara State Government had not publicly commented on the attack at the time of writing.",
-    "## Background",
-    "Zamfara is one of the states worst affected by banditry in Nigeria's North-West, with armed groups carrying out killings, mass kidnappings and attacks on farming communities. Last week, bandits ambushed a bus carrying police officers on the Sokoto–Gusau road, reportedly killing and abducting some of them. Security forces have carried out repeated operations in the state's forests, but attacks on villages continue."
-   ],
-   "more": [
-    "Twelve family members were reportedly killed.",
-    "Other residents were reportedly abducted.",
-    "The attack happened in Maradun LGA."
-   ],
-   "at": "2026-11-08T14:42Z"
-  },
-  {
    "id": "amaechi-warns-adc-ruling-could-cause-unrest",
    "c": "elections",
    "n": 1,
@@ -1234,72 +1313,6 @@
    "alt": "Rotimi Amaechi speaking into a microphone in a dark jacket and thick-rimmed glasses",
    "credit": "Photo: Trend Naija",
    "owner": true
-  },
-  {
-   "id": "gift-orban-overtakes-osimhen-turkish-golden-boot",
-   "c": "sport",
-   "n": 1,
-   "h": "Gift Orban overtakes injured Osimhen in Turkish league scoring race",
-   "p": "Super Eagles striker Gift Orban scored his 10th Turkish Süper Lig goal of the season for Amedspor, moving one ahead of the injured Victor Osimhen in the race for the Golden Boot, though Amedspor lost 4-3 to Galatasaray.",
-   "body": [
-    "Nigerian striker Gift Orban has moved ahead of Victor Osimhen in the race to be top scorer in Turkey's Süper Lig.",
-    "## The goal",
-    "Orban scored his 10th league goal of the season for Amedspor in their 4-3 defeat away to Galatasaray, reported on Sunday, 8 November 2026. After a quiet first half, the former Lyon striker headed home from close range from a cross by substitute Furkan Soyalp. Another Nigerian, Yira Sor, also scored for Amedspor after coming off the bench, but Galatasaray held on to win.",
-    "## The scoring race",
-    "The goal took Orban to 10 goals and five assists in 11 league appearances, one more goal than Osimhen, who has nine goals and three assists in eight league games. Osimhen missed the match after having knee surgery on Saturday to remove a loose body from his left knee, and is expected to be out for at least three weeks.",
-    "## Background",
-    "Orban joined Amedspor on loan in the summer transfer window. He made his name at Belgian club Gent, where he scored freely, before moving to Lyon. Osimhen, the 2023 African Player of the Year, has been out of action since the Champions League win over Stuttgart. Both are Super Eagles strikers, and with Osimhen ruled out of the AFCON qualifiers against Tanzania this month, Orban's form will interest Nigeria's coaching staff."
-   ],
-   "more": [
-    "Orban has 10 league goals this season.",
-    "Osimhen has nine but is injured.",
-    "Amedspor lost 4-3 to Galatasaray."
-   ],
-   "at": "2026-11-08T14:42Z"
-  },
-  {
-   "id": "hormuz-two-tankers-hit-mines-fire",
-   "c": "world",
-   "n": 1,
-   "h": "Iran says two oil tankers caught fire after hitting mines in Strait of Hormuz",
-   "p": "Iran's Revolutionary Guards say two oil tankers caught fire after striking naval mines while using unauthorised routes through the Strait of Hormuz. The vessels were not named. The incident comes days after US strikes on Iranian targets.",
-   "body": [
-    "Iran's Islamic Revolutionary Guard Corps says two oil tankers caught fire after hitting naval mines in the Strait of Hormuz.",
-    "## What Iran said",
-    "In a statement carried by Iran's state news agency on Sunday, 8 November 2026, the Guards said one tanker struck a mine in the eastern part of the strait and the other elsewhere in the waterway, while trying to cross using routes not authorised by Tehran. The statement did not name the vessels or give their nationalities, and accused them of violations including switching off their navigation and tracking systems. There was no independent confirmation of the incidents or of any casualties.",
-    "## Background",
-    "Iran has sharply restricted shipping through the strait since a war began in late February, requiring ships to follow routes it has approved. The United States responded with a naval blockade of Iranian ports and has helped tankers pass through the waterway, which normally carries about a fifth of the world's oil. Iran has reported several ships catching fire in the strait in recent weeks. The incident comes days after US forces struck an Iranian air defence site on Qeshm Island, an operation President Donald Trump described as minor.",
-    "## Why it matters",
-    "Disruption in the Strait of Hormuz affects global oil supply and prices, which in turn affect Nigeria's oil revenue and the cost of imported fuel."
-   ],
-   "more": [
-    "Two tankers reportedly hit mines in the strait.",
-    "Iran says they used unauthorised routes.",
-    "The vessels have not been named."
-   ],
-   "at": "2026-11-08T14:42Z"
-  },
-  {
-   "id": "saidi-balogun-hits-back-tinubu-campaign-critics",
-   "c": "celebs",
-   "n": 1,
-   "h": "Saidi Balogun hits back at critics over his campaigning for Tinubu",
-   "p": "Nollywood actor Saidi Balogun has responded to online attacks over videos of him hosting campaign rallies for President Tinubu, urging people to respect others' political choices.",
-   "body": [
-    "Nollywood actor Saidi Balogun has responded to criticism over his open support for President Bola Tinubu's re-election bid.",
-    "## What happened",
-    "The actor had shared videos on social media showing him hosting campaign rallies for the President in different parts of the country, which drew strong criticism from some social media users. In a response reported on Sunday, 8 November 2026, Balogun refused to back down, urging critics to allow people to hold different political views without being attacked.",
-    "## Background",
-    "Balogun is a veteran actor, producer and director in the Yoruba film industry. He is one of several entertainers who have appeared at Tinubu's campaign events in recent weeks, alongside others such as actress Eniola Badmus, who also posted a video this week explaining why she believes the President deserves a second term.",
-    "## The wider debate",
-    "The involvement of entertainers in the 2027 campaigns has divided opinion online. Some argue that public figures have every right to back the candidates they choose, while others say supporting the government amounts to endorsing economic hardship. The presidential election is scheduled for 16 January 2027."
-   ],
-   "more": [
-    "Balogun has hosted rallies for Tinubu.",
-    "He urged critics to respect political differences.",
-    "Other celebrities have also joined campaigns."
-   ],
-   "at": "2026-11-08T14:42Z"
   },
   {
    "id": "cbn-stablecoin-crypto-capital-requirements",
@@ -1557,65 +1570,6 @@
    "alt": "A Nigeria Flamingos player challenges a Japan player for the ball during the U-17 Women's World Cup final",
    "credit": "Photo: Trend Naija",
    "owner": true
-  },
-  {
-   "id": "adeboye-returned-donations-proceeds-of-crime-efcc",
-   "c": "naija",
-   "n": 1,
-   "h": "EFCC chairman says Adeboye ordered return of billions donated to RCCG project",
-   "p": "EFCC chairman Ola Olukoyede says RCCG General Overseer Enoch Adeboye ordered the refund of billions of naira donated to a church project within 24 hours of learning the money was proceeds of crime. He did not name the donor or the project.",
-   "body": [
-    "The chairman of the Economic and Financial Crimes Commission (EFCC), Ola Olukoyede, says Pastor Enoch Adeboye, General Overseer of the Redeemed Christian Church of God (RCCG), ordered the return of billions of naira donated to a church project after learning that the money came from crime.",
-    "## What he said",
-    "Speaking to RCCG workers early on Saturday, 7 November 2026, at a meeting held ahead of the church's annual Holy Ghost Congress, Olukoyede said Adeboye directed that the money be refunded within 24 hours of being told where it came from. He praised the pastor for acting quickly. According to reports, he did not name the donor, say which project the money was meant for, or give the exact amount.",
-    "## Warning to churches",
-    "Olukoyede, who is himself an ordained pastor, said Adeboye had invited him to speak to the workers about financial accountability and keeping transparent records. He expressed concern about a growing number of cases involving church leaders in financial crimes and about allegations linked to contract awards for church projects.",
-    "## Background",
-    "The RCCG is one of Nigeria's largest churches, and its Holy Ghost Congress draws huge crowds to the Redemption Camp on the Lagos–Ibadan Expressway every December."
-   ],
-   "more": [
-    "Adeboye reportedly ordered a refund within 24 hours.",
-    "The EFCC did not name the donor or project.",
-    "Olukoyede spoke ahead of the Holy Ghost Congress."
-   ],
-   "at": "2026-11-07T20:41Z",
-   "img": "img/adeboye-returned-donations-proceeds-of-crime-efcc.jpg",
-   "alt": "Side-by-side photos of Pastor Enoch Adeboye speaking into a microphone and EFCC chairman Ola Olukoyede at a press briefing",
-   "credit": "Photo: Trend Naija",
-   "owner": true
-  },
-  {
-   "id": "ebonyi-women-parade-man-wheelbarrow-wife-beating",
-   "c": "viral",
-   "n": 1,
-   "h": "Ebonyi women parade man in wheelbarrow over alleged repeated beating of his wife",
-   "p": "Women in Ishiagu, Ivo Local Government Area of Ebonyi State, have reportedly paraded a man around the community in a wheelbarrow over claims that he repeatedly beat his wife. The unusual punishment has sparked debate about domestic violence and community justice.",
-   "body": [
-    "Women in Ishiagu community, Ivo Local Government Area of Ebonyi State, have reportedly taken an unusual step to show their anger over domestic violence, publicly parading a man accused of repeatedly beating his wife.",
-    "## Pushed around in a wheelbarrow",
-    "According to reports circulating online, the women placed the man in a wheelbarrow and pushed him around the community, apparently determined to make an example of him over his alleged treatment of his wife.",
-    "Photos show a large group of women surrounding the man, who sits in the wheelbarrow in a yellow T-shirt as several women push and guide it along a dirt path, with one carrying a calabash.",
-    "## \"Enough is enough\"",
-    "The incident has drawn attention because of the unusual punishment the women chose. They appeared to have reached a point where they could no longer tolerate the alleged abuse.",
-    "In many communities, domestic violence is still treated as a private family matter, and victims are sometimes encouraged to endure abuse for the sake of their marriage. The women of Ishiagu reportedly decided that enough was enough.",
-    "## Justice or humiliation?",
-    "Their action raises an important question about how communities should respond when a woman is repeatedly subjected to violence in her own home.",
-    "Many people may applaud the women for standing up against domestic abuse. Others may question whether publicly humiliating an accused person, who has not been tried, is the right approach.",
-    "The full circumstances of the incident, including the man's side of the story and whether the authorities have stepped in, remain unclear.",
-    "## Over to you",
-    "Do you support what the women of Ishiagu reportedly did, or should they have handed the man over to the police instead? Was this community justice, or public humiliation taken too far?"
-   ],
-   "more": [
-    "The incident reportedly happened in Ishiagu, Ebonyi State.",
-    "The man is accused of repeatedly beating his wife.",
-    "It is unclear whether the police have intervened."
-   ],
-   "added": "2026-11-07",
-   "img": "img/ebonyi-women-parade-man-wheelbarrow-wife-beating.jpg",
-   "alt": "A group of women pushing a man seated in a wheelbarrow along a dirt path in Ishiagu, Ebonyi State",
-   "credit": "Photo: Trend Naija",
-   "owner": true,
-   "at": "2026-11-07T18:58Z"
   },
   {
    "id": "tinubu-port-harcourt-atiku-university-vp",

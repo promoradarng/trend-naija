@@ -1,0 +1,27 @@
+{
+ "id": "obi-hospitalised-image-ai-generated-fact-check",
+ "c": "elections",
+ "n": 1,
+ "h": "Viral image of Peter Obi in hospital after gym injury is AI-generated, checks show",
+ "p": "A viral image claiming NDC candidate Peter Obi was admitted to hospital after a treadmill injury has been found to be AI-generated, according to a fact-check using several detection tools. Obi's camp had earlier denied the report.",
+ "body": [
+  "A viral image claiming that Peter Obi, presidential candidate of the Nigeria Democratic Congress (NDC), was in hospital after a gym injury has been found to be fake.",
+  "## The claim",
+  "The image was posted on X on Sunday, 1 November 2026, with a caption claiming Obi had injured his neck on a treadmill and been admitted to hospital. By Monday, 9 November, the post had been viewed more than 67,000 times, and similar posts had spread on other platforms.",
+  "## The fact-check",
+  "According to a fact-check published on Monday, a reverse image search linked the picture to similar claims on other platforms, suggesting a wider effort to spread it. Several AI-detection tools found a high probability that the image was AI-generated, and a further check indicated it had been created with an AI image tool.",
+  "## Background",
+  "Obi's campaign had earlier denied reports that he broke his neck in a gym accident, and the former Anambra governor has continued to campaign publicly, including at airports and rallies in recent days. Opposition parties have raised concerns about alleged AI-generated images in the voter register.",
+  "## Why it matters",
+  "Fake images and videos of candidates are expected to be a growing problem in the 2027 campaign."
+ ],
+ "more": [
+  "The image claimed Obi was hospitalised after a gym injury.",
+  "Detection tools found it was AI-generated.",
+  "Obi's camp had earlier denied the report."
+ ],
+ "img": "img/obi-hospitalised-image-ai-generated-fact-check.jpg",
+ "credit": "Photo: VOA / Wikimedia Commons, Public domain",
+ "alt": "Peter Obi",
+ "at": "2026-11-09T20:41Z"
+}
