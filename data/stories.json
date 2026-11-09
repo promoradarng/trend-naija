@@ -15,6 +15,42 @@
  },
  "stories": [
   {
+   "id": "vdm-davido-gone-too-far-late-friends",
+   "c": "creators",
+   "n": 1,
+   "h": "All is fair in war, but has VeryDarkMan gone too far with Davido?",
+   "p": "Amid his ongoing disagreement with Davido, VeryDarkMan has reportedly brought up the deaths of the singer's late friends, a painful chapter long surrounded by unproven rumours. Criticism is fair, but should personal tragedy ever be used as ammunition?",
+   "body": [
+    "VeryDarkMan (VDM) does not seem to believe in fighting fairly. When he has a disagreement with someone, he appears willing to go to any length to make his point, even if it means bringing up some of the most painful moments in that person's life.",
+    "## A painful chapter",
+    "Over the years, Davido has lost several close friends and associates in tragic circumstances. Their deaths set off all kinds of rumours and conspiracy theories online.",
+    "Some people even claimed the deaths were connected to rituals or sacrifices for fame and success. None of those claims was ever proven, and there is no credible evidence linking Davido to any of their deaths.",
+    "Imagine losing people who were very close to you, only to have strangers turn their deaths into accusations against you. Davido has lived with those memories for years. He has carried on with his music career, built his family and moved forward with his life, but moving forward does not mean the pain has disappeared.",
+    "## Reopening old wounds",
+    "Now, amid his ongoing disagreement with Davido, VDM has reportedly brought those painful memories back into public discussion. This is where things appear to be getting out of hand.",
+    "You can criticise Davido's music, lifestyle, public statements or behaviour. You can disagree with him and challenge his opinions. That is perfectly normal. But bringing up the deaths of his close friends because of a disagreement raises serious questions.",
+    "What exactly is the intention? Is it to expose wrongdoing, to make a legitimate point, or simply to hurt someone where he is most vulnerable?",
+    "## Where are the limits?",
+    "VDM has built a reputation for confronting people without holding back, and his supporters may argue he is only giving his opponents the same treatment they give others. But surely there should be limits.",
+    "Davido is not above criticism, and neither is VeryDarkMan. Both are public figures who should be held accountable for their actions. Using someone's personal tragedies as ammunition in a public quarrel, however, is something else entirely.",
+    "There are some experiences people never fully recover from. They may laugh and smile in public, but that does not mean they have forgotten. If winning an argument requires reopening another person's deepest wounds, perhaps the argument has already gone too far.",
+    "## Over to you",
+    "People say all is fair in love and war, but does that mean we should abandon all compassion when we disagree with someone? Has VDM crossed the line with Davido, or is this just two public figures fighting without limits?"
+   ],
+   "more": [
+    "VDM has reportedly raised the deaths of Davido's late friends.",
+    "Rumours about those deaths were never proven.",
+    "Is personal tragedy fair game in a public feud?"
+   ],
+   "hot": 1,
+   "added": "2026-11-09",
+   "img": "img/vdm-davido-gone-too-far-late-friends.jpg",
+   "alt": "VeryDarkMan and Davido smiling together in a restaurant in happier times",
+   "credit": "Photo: Trend Naija",
+   "owner": true,
+   "at": "2026-11-09T17:57Z"
+  },
+  {
    "id": "wike-n10m-councillors-deliver-wards-tinubu",
    "c": "elections",
    "n": 1,
@@ -39,7 +75,7 @@
    "img": "img/wike-n10m-councillors-deliver-wards-tinubu.jpg",
    "credit": "Photo: Hygist / Wikimedia Commons (CC BY 4.0)",
    "alt": "Nyesom Wike",
-   "hot": 1,
+   "hot": 2,
    "at": "2026-11-09T17:42Z"
   },
   {
@@ -62,7 +98,7 @@
     "It urged people to use lawful channels for disputes.",
     "Officials who compromise the process face sanctions."
    ],
-   "hot": 4,
+   "hot": 5,
    "at": "2026-11-09T17:42Z"
   },
   {
@@ -83,7 +119,7 @@
     "He declined, saying he was too old.",
     "He says he is not in the opposition."
    ],
-   "hot": 6,
+   "hot": 7,
    "at": "2026-11-09T17:42Z"
   },
   {
@@ -106,7 +142,7 @@
     "He was convicted of rape and three sexual assaults.",
     "He was cleared of three other counts."
    ],
-   "hot": 3,
+   "hot": 4,
    "at": "2026-11-09T17:42Z"
   },
   {
@@ -152,7 +188,7 @@
    "img": "img/funke-akindele-influencer-turned-down-jenifa-offer.jpg",
    "credit": "Photo: Kaizenify / Wikimedia Commons, CC BY-SA 4.0",
    "alt": "Funke Akindele at the AMVCA 2020",
-   "hot": 5,
+   "hot": 6,
    "at": "2026-11-09T17:42Z"
   },
   {
@@ -175,7 +211,7 @@
     "The rapper says the man filmed him without consent.",
     "He rejected advice to settle out of court."
    ],
-   "hot": 8,
+   "hot": 9,
    "at": "2026-11-09T17:42Z"
   },
   {
@@ -204,7 +240,7 @@
    "credit": "Photo: VOA / Wikimedia Commons, Public domain",
    "alt": "Peter Obi",
    "at": "2026-11-09T14:42Z",
-   "hot": 2
+   "hot": 3
   },
   {
    "id": "nwifuru-promises-tinubu-80-percent-ebonyi",
@@ -232,7 +268,7 @@
    "credit": "Photo: Nosa Asemota / Wikimedia Commons, CC BY-SA 4.0",
    "alt": "President Bola Tinubu",
    "at": "2026-11-09T14:42Z",
-   "hot": 7
+   "hot": 8
   },
   {
    "id": "osun-nlc-strike-local-government-allocations",
@@ -1768,8 +1804,7 @@
    "img": "img/court-sacks-adc-mark-leadership-voids-atiku-nomination.jpg",
    "credit": "Photo: Etauso / Wikimedia Commons, CC0",
    "alt": "Portrait of Atiku Abubakar in a pinstripe suit",
-   "at": "2026-11-05T11:43Z",
-   "hot": 9
+   "at": "2026-11-05T11:43Z"
   },
   {
    "id": "tinubu-seeks-senate-approval-7-7bn-borrowing",
