@@ -14,6 +14,8 @@ Static site for trendnaija.com, hosted on Cloudflare Pages.
 
 ## Photos and social media embeds
 
+**OWNER'S PEOPLE PHOTO REGISTER (9 Nov 2026) — check this FIRST, before any photo search.** `data/people.json` lists the owner's chosen photo for each person (in `img/people/`). Whenever a story names a person in the register, copy their photo to `img/<id>.jpg` and use it (credit "Photo: Trend Naija"), so the same face is used every time. If two listed people are named (e.g. Obi and Tinubu), use their pair photo if listed, otherwise put both photos side by side. Never replace a register photo with a Wikimedia or stock photo. When the owner sends a new photo of someone, add or update their entry.
+
 **PHOTO RULES (updated 26 Oct 2026 — the owner has complained twice about stories without pictures):**
 - `tools/photos.py find` now searches Wikimedia Commons directly (about 1 second) and retries automatically when rate-limited. Openverse is too slow from the cloud and times out — do not use it.
 - Run photo searches ONE AT A TIME, never in parallel (Wikimedia blocks parallel requests with HTTP 429).

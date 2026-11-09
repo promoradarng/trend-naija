@@ -1,0 +1,11 @@
+{
+ "_note": "Owner's chosen photo for each person. ALWAYS use these first whenever the person is named in a story. Two people named: use their pair photo if listed, otherwise put both photos side by side. Never replace these with Wikimedia or stock photos.",
+ "people": {
+  "peter obi": {"img": "img/people/peter-obi.jpg", "alt": "Peter Obi in glasses and a black top in front of the Nigerian flag", "aliases": ["obi"]},
+  "bola tinubu": {"img": "img/people/bola-tinubu.jpg", "alt": "President Bola Tinubu in a green cap and glasses at a meeting", "aliases": ["tinubu", "president tinubu"]},
+  "rotimi amaechi": {"img": "img/people/rotimi-amaechi.jpg", "alt": "Rotimi Amaechi speaking into a microphone in a dark jacket and thick-rimmed glasses", "aliases": ["amaechi"]}
+ },
+ "pairs": {
+  "peter obi + bola tinubu": {"img": "img/people/peter-obi-and-bola-tinubu.jpg", "alt": "Peter Obi and President Bola Tinubu side by side"}
+ }
+}
