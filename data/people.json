@@ -30,6 +30,13 @@
     "wike",
     "fct minister wike"
    ]
+  },
+  "russell brand": {
+   "img": "people/russell-brand.jpg",
+   "alt": "Russell Brand with long curly hair, a grey beard and aviator sunglasses",
+   "aliases": [
+    "brand"
+   ]
   }
  },
  "pairs": {
