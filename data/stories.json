@@ -15,6 +15,37 @@
  },
  "stories": [
   {
+   "id": "osita-chidoka-father-100th-birthday",
+   "c": "naija",
+   "n": 1,
+   "h": "Beautiful moment as former Aviation Minister Osita Chidoka celebrates his father's 100th birthday with family",
+   "p": "Former Aviation Minister Osita Chidoka's father has reached the remarkable age of 100, with family members coming together to celebrate his birthday and the gift of long life.",
+   "body": [
+    "Reaching 100 years of age is no small blessing, and for the family of former Aviation Minister Osita Chidoka, it is a moment truly worth celebrating.",
+    "## A century of life",
+    "The former minister's father has reached the remarkable age of 100, and family members have come together to celebrate his birthday and the gift of long life.",
+    "Photos from the celebration show the centenarian seated on an ornate chair in flowing white traditional attire, with coral beads around his neck, a red cap resting on his lap and a walking stick in hand.",
+    "Just imagine living for an entire century. The things he must have witnessed, the changes Nigeria has gone through, the generations he has watched grow, and the countless memories gathered along the way.",
+    "## A special blessing",
+    "For his children, grandchildren and other loved ones, having their father around at 100 is something truly special. Many families would give anything for such an opportunity.",
+    "Happy 100th birthday to Papa Chidoka! May his remaining years be filled with peace, good health and happiness.",
+    "## Over to you",
+    "Are you fortunate enough to have a parent or grandparent who has reached 90 or even 100 years? Share your story."
+   ],
+   "more": [
+    "Osita Chidoka's father has turned 100.",
+    "The family gathered to celebrate the milestone.",
+    "Chidoka is a former Minister of Aviation."
+   ],
+   "hot": 1,
+   "added": "2026-11-09",
+   "img": "img/osita-chidoka-father-100th-birthday.jpg",
+   "alt": "Former Aviation Minister Osita Chidoka beside his 100-year-old father seated in white traditional attire, with a 100th birthday cake",
+   "credit": "Photo: Trend Naija",
+   "owner": true,
+   "at": "2026-11-09T20:00Z"
+  },
+  {
    "id": "vdm-davido-gone-too-far-late-friends",
    "c": "creators",
    "n": 1,
@@ -42,7 +73,7 @@
     "Rumours about those deaths were never proven.",
     "Is personal tragedy fair game in a public feud?"
    ],
-   "hot": 1,
+   "hot": 2,
    "added": "2026-11-09",
    "img": "img/vdm-davido-gone-too-far-late-friends-v2.jpg",
    "alt": "VeryDarkMan and Davido smiling together in a restaurant in happier times",
@@ -75,7 +106,7 @@
    "img": "img/wike-n10m-councillors-deliver-wards-tinubu-v2.jpg",
    "credit": "Photo: Trend Naija",
    "alt": "Nyesom Wike in a dark cap, glasses and black outfit speaking at a desk in front of the Nigerian flag",
-   "hot": 2,
+   "hot": 3,
    "at": "2026-11-09T17:42Z",
    "owner": true
   },
@@ -99,7 +130,7 @@
     "It urged people to use lawful channels for disputes.",
     "Officials who compromise the process face sanctions."
    ],
-   "hot": 5,
+   "hot": 6,
    "at": "2026-11-09T17:42Z"
   },
   {
@@ -120,7 +151,7 @@
     "He declined, saying he was too old.",
     "He says he is not in the opposition."
    ],
-   "hot": 7,
+   "hot": 8,
    "at": "2026-11-09T17:42Z"
   },
   {
@@ -143,7 +174,7 @@
     "He was convicted of rape and three sexual assaults.",
     "He was cleared of three other counts."
    ],
-   "hot": 4,
+   "hot": 5,
    "at": "2026-11-09T17:42Z",
    "img": "img/russell-brand-sentenced-10-years.jpg",
    "alt": "Russell Brand with long curly hair, a grey beard and aviator sunglasses",
@@ -193,7 +224,7 @@
    "img": "img/funke-akindele-influencer-turned-down-jenifa-offer.jpg",
    "credit": "Photo: Kaizenify / Wikimedia Commons, CC BY-SA 4.0",
    "alt": "Funke Akindele at the AMVCA 2020",
-   "hot": 6,
+   "hot": 7,
    "at": "2026-11-09T17:42Z"
   },
   {
@@ -216,7 +247,6 @@
     "The rapper says the man filmed him without consent.",
     "He rejected advice to settle out of court."
    ],
-   "hot": 9,
    "at": "2026-11-09T17:42Z",
    "img": "img/odumodu-sued-by-man-who-filmed-him.jpg",
    "alt": "Odumodublvck in a red knitted bucket hat, oval sunglasses and a leopard-print fur jacket",
@@ -249,7 +279,7 @@
    "credit": "Photo: VOA / Wikimedia Commons, Public domain",
    "alt": "Peter Obi",
    "at": "2026-11-09T14:42Z",
-   "hot": 3
+   "hot": 4
   },
   {
    "id": "nwifuru-promises-tinubu-80-percent-ebonyi",
@@ -277,7 +307,7 @@
    "credit": "Photo: Trend Naija",
    "alt": "Ebonyi Governor Francis Nwifuru and President Bola Tinubu side by side",
    "at": "2026-11-09T14:42Z",
-   "hot": 8,
+   "hot": 9,
    "owner": true
   },
   {
