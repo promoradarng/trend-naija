@@ -15,6 +15,40 @@
  },
  "stories": [
   {
+   "id": "cubana-chief-priest-replies-umahi-pharaoh",
+   "c": "politics",
+   "n": 1,
+   "h": "\"Pharaoh, let my people go!\": Cubana Chief Priest replies Umahi, accuses him of giving Tinubu fake promises on South-East votes",
+   "p": "Cubana Chief Priest has fired back at Works Minister David Umahi, nicknaming him \"Pharaoh\" and accusing him of making empty promises to President Tinubu about South-East votes. He also claimed Umahi is preparing his son to become Ebonyi governor, and mocked him with his own \"money na water\" catchphrase.",
+   "body": [
+    "Socialite and businessman Cubana Chief Priest has replied Minister of Works David Umahi, a day after the minister mocked his famous \"money na water\" catchphrase and asked how many people he has given scholarships.",
+    "## \"Pharaoh, let my people go\"",
+    "Borrowing from the Bible story of Moses and Pharaoh, Cubana Chief Priest gave the minister a new nickname, and accused him of making promises to President Bola Tinubu that he cannot deliver.",
+    "\"Pharaoh, let my people go. Stop giving Tinubu fake promises on votes. What project are you using to convince South-East people to vote for him?\" he said.",
+    "## The governorship claim",
+    "He went further, claiming that Umahi is preparing his son to become governor of Ebonyi State after the current governor, Francis Nwifuru.",
+    "Speaking partly in Pidgin, he said, in effect: \"You're busy preparing your son to be governor after Nwifuru. God won't let that happen. You want to use Ebonyi State to settle your child. Let the young man come and meet us on the street so we can teach him how to make 'money na water'.\"",
+    "This is Cubana Chief Priest's claim. Umahi has not publicly declared any plan for his son to contest the Ebonyi governorship, and he has not yet responded to this latest attack.",
+    "## How it started",
+    "The exchange began weeks ago when Cubana Chief Priest described Umahi as the second-worst minister from the South-East. Umahi hit back by telling him he was \"becoming very noisy\", comparing him unfavourably with Dangote and Otedola, and asking, \"How many people have you given scholarships?\"",
+    "Now the socialite has turned the argument back to politics, questioning what Umahi has done to win South-East votes for the President.",
+    "## Over to you",
+    "Who is winning this war of words: the minister or the socialite? And is Cubana Chief Priest right to question what the South-East has to show for supporting Tinubu?"
+   ],
+   "more": [
+    "Cubana Chief Priest nicknamed Umahi 'Pharaoh'.",
+    "He accused Umahi of fake promises to Tinubu on South-East votes.",
+    "He claimed Umahi is preparing his son for Ebonyi governor."
+   ],
+   "hot": 1,
+   "added": "2026-11-09",
+   "img": "img/cubana-chief-priest-replies-umahi-pharaoh.jpg",
+   "alt": "Collage of Cubana Chief Priest speaking into a microphone, Works Minister David Umahi in a white cap, and Cubana Chief Priest",
+   "credit": "Photo: Trend Naija",
+   "owner": true,
+   "at": "2026-11-09T11:14Z"
+  },
+  {
    "id": "trump-immigration-crackdown-too-tough",
    "c": "world",
    "n": 1,
@@ -37,7 +71,7 @@
    "img": "img/trump-immigration-crackdown-too-tough.jpg",
    "credit": "Photo: Daniel Torok / Wikimedia Commons, Public domain",
    "alt": "Donald Trump official portrait",
-   "hot": 1,
+   "hot": 2,
    "at": "2026-11-09T09:43Z"
   },
   {
@@ -60,7 +94,7 @@
     "The NSIA would run the platform.",
     "Borrowing is a major campaign issue."
    ],
-   "hot": 5,
+   "hot": 6,
    "at": "2026-11-09T09:43Z"
   },
   {
@@ -83,7 +117,7 @@
     "It says small gains do not help struggling Nigerians.",
     "Tinubu said the naira would have been worthless without reforms."
    ],
-   "hot": 6,
+   "hot": 7,
    "at": "2026-11-09T09:43Z"
   },
   {
@@ -106,7 +140,7 @@
     "He called some youths lazy.",
     "Seyi Tinubu told him to behave."
    ],
-   "hot": 2,
+   "hot": 3,
    "at": "2026-11-09T09:43Z"
   },
   {
@@ -129,7 +163,7 @@
     "She set a cooking marathon record in 2023.",
     "Fans had mixed reactions."
    ],
-   "hot": 7,
+   "hot": 8,
    "at": "2026-11-09T09:43Z"
   },
   {
@@ -150,7 +184,7 @@
     "Poco Lee received 30%.",
     "Portable kept 30% for himself."
    ],
-   "hot": 8,
+   "hot": 9,
    "at": "2026-11-09T09:43Z"
   },
   {
@@ -176,7 +210,7 @@
    "img": "img/funke-akindele-toyosi-adesanya-priscilla-store.jpg",
    "credit": "Photo: Kaizenify / Wikimedia Commons, CC BY-SA 4.0",
    "alt": "Funke Akindele at the AMVCA 2020",
-   "hot": 4,
+   "hot": 5,
    "at": "2026-11-09T09:43Z"
   },
   {
@@ -222,7 +256,7 @@
     "Davido liked the announcement."
    ],
    "at": "2026-11-09T06:44Z",
-   "hot": 3
+   "hot": 4
   },
   {
    "id": "destiny-etiko-enugu-government-appointment",
@@ -317,8 +351,7 @@
     "Estate agents must register with the state.",
     "He spoke at a televised governorship debate."
    ],
-   "at": "2026-11-09T06:44Z",
-   "hot": 9
+   "at": "2026-11-09T06:44Z"
   },
   {
    "id": "kano-house-fire-linked-to-solar-installation",
