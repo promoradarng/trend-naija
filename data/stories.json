@@ -15,6 +15,37 @@
  },
  "stories": [
   {
+   "id": "kano-house-fire-linked-to-solar-installation",
+   "c": "naija",
+   "n": 1,
+   "h": "House in Kano State catches fire, blaze linked to solar panel installation",
+   "p": "A house in Kano State has caught fire, with the blaze linked to its solar power installation. Photos show flames bursting through the roof beside the solar panels as neighbours try to help. The exact cause has not yet been confirmed.",
+   "body": [
+    "A house in Kano State has caught fire, with the incident being linked to its solar power installation.",
+    "## Flames on the roof",
+    "Photos from the scene show thick smoke rising from the roof of a two-storey building, with flames breaking through beside a row of solar panels. A man can be seen climbing up to an upper-floor balcony as a crowd of neighbours gathers below, some filming on their phones and others watching in shock.",
+    "## A growing safety concern",
+    "The incident raises serious concerns about the safety of solar installations, especially as more Nigerians turn to solar energy because of unreliable electricity supply.",
+    "Poor wiring, faulty batteries, overloaded inverters and improper installation can all create fire hazards. Experts often advise homeowners to use qualified installers, buy certified equipment and have their systems checked regularly.",
+    "## Cause not yet confirmed",
+    "The exact cause of this particular fire has not yet been independently confirmed, and there are no reports so far of anyone being injured.",
+    "## Over to you",
+    "As more Nigerians embrace solar power, are we paying enough attention to proper installation and safety checks?"
+   ],
+   "more": [
+    "A house in Kano caught fire near its solar panels.",
+    "Faulty wiring, batteries and inverters can all cause fires.",
+    "The exact cause has not been confirmed."
+   ],
+   "hot": 1,
+   "added": "2026-11-09",
+   "img": "img/kano-house-fire-linked-to-solar-installation.jpg",
+   "alt": "Smoke and flames rising from the roof of a house beside solar panels in Kano as neighbours watch",
+   "credit": "Photo: Trend Naija",
+   "owner": true,
+   "at": "2026-11-09T06:43Z"
+  },
+  {
    "id": "joseph-owusu-ghanaian-organist-found-dead-bag-new-york",
    "c": "world",
    "n": 3,
@@ -40,7 +71,7 @@
     "CCTV shows two people dumping the bag from a white car.",
     "Ghana's government has demanded justice."
    ],
-   "hot": 1,
+   "hot": 2,
    "added": "2026-11-09",
    "img": "img/joseph-owusu-ghanaian-organist-found-dead-bag-new-york.jpg",
    "alt": "Joseph Owusu in a bow tie and at a keyboard, beside CCTV stills of two people leaving a bag by a white car on a New York street",
@@ -72,7 +103,7 @@
     "The video has gone viral on social media.",
     "The circumstances have not been verified."
    ],
-   "hot": 2,
+   "hot": 3,
    "added": "2026-11-09",
    "img": "img/south-africa-suspected-thieves-public-humiliation-viral-video.jpg",
    "alt": "A line of suspected thieves lying face down by a roadside in South Africa with their hands tied behind them",
@@ -107,7 +138,7 @@
     "Amnesty International blamed the authorities' failure to protect them.",
     "Calls are growing for investigation and justice."
    ],
-   "hot": 3,
+   "hot": 4,
    "added": "2026-11-08",
    "owner": true,
    "at": "2026-11-08T21:28Z"
@@ -132,7 +163,7 @@
     "He says Tinubu's reforms have boosted state revenues.",
     "He spoke at an APC rally in Port Harcourt."
    ],
-   "hot": 8,
+   "hot": 9,
    "at": "2026-11-08T20:42Z",
    "img": "img/okowa-dumped-atiku-for-tinubu-seen-the-light.jpg",
    "alt": "Composite photo of Ifeanyi Okowa in a red cap, Atiku Abubakar speaking into a microphone, and President Bola Tinubu smiling in the centre",
@@ -194,7 +225,7 @@
    "credit": "Photo: Trend Naija",
    "owner": true,
    "at": "2026-11-08T18:52Z",
-   "hot": 5
+   "hot": 6
   },
   {
    "id": "flamingos-50000-reward-no-fifa-prize-money",
@@ -220,8 +251,7 @@
    "img": "img/flamingos-50000-reward-no-fifa-prize-money.jpg",
    "alt": "Nigeria's Flamingos celebrate with the U-17 Women's World Cup trophy on the champions podium as confetti falls",
    "credit": "Photo: Trend Naija",
-   "owner": true,
-   "hot": 9
+   "owner": true
   },
   {
    "id": "tinubu-kaduna-kano-railway-inauguration-december-3",
@@ -307,7 +337,7 @@
    "credit": "Photo: Trend Naija",
    "owner": true,
    "at": "2026-11-08T17:19Z",
-   "hot": 6
+   "hot": 7
   },
   {
    "id": "umahi-fires-back-cubana-chief-priest-money-na-water",
@@ -823,7 +853,7 @@
    "alt": "A Nigeria Flamingos player challenges a Japan player for the ball during the U-17 Women's World Cup final",
    "credit": "Photo: Trend Naija",
    "owner": true,
-   "hot": 4
+   "hot": 5
   },
   {
    "id": "adeboye-returned-donations-proceeds-of-crime-efcc",
@@ -1926,7 +1956,7 @@
    "credit": "Photo: Etauso / Wikimedia Commons, CC0",
    "alt": "Portrait of Atiku Abubakar in a pinstripe suit",
    "at": "2026-11-05T11:43Z",
-   "hot": 7
+   "hot": 8
   },
   {
    "id": "tinubu-seeks-senate-approval-7-7bn-borrowing",
