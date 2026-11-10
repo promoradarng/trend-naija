@@ -15,6 +15,45 @@
  },
  "stories": [
   {
+   "id": "orji-kalu-senate-president-cannot-reject-tinubu-choice",
+   "c": "elections",
+   "n": 1,
+   "h": "2027 Senate presidency: Orji Uzor Kalu says he cannot reject Tinubu's choice as political battle begins",
+   "p": "Senator Orji Uzor Kalu says he would accept the Senate presidency if President Tinubu backed him, adding his name to talk of the post going to the South-East after 2027, where Imo Governor Hope Uzodimma has also been linked to it.",
+   "body": [
+    "Senator Orji Uzor Kalu has openly said he would be willing to become Nigeria's next Senate President, and would have no reason to turn down the position if President Bola Ahmed Tinubu backed him for it.",
+    "## \"I can't say no\"",
+    "The former Abia State governor, who represents Abia North Senatorial District, made the statement in a television interview, as talk about the leadership of the next National Assembly begins to gather pace ahead of the 2027 general elections.",
+    "\"If Tinubu chooses me as the next Senate President, I can't say no,\" Kalu said.",
+    "Brief as it was, the statement has added another twist to the political calculations already taking shape within the ruling All Progressives Congress (APC).",
+    "## Zoning to the South-East?",
+    "For some time, there has been talk of zoning the next Senate presidency to the South-East. Nothing has been officially agreed, but that has not stopped political figures from being linked to the position.",
+    "One of the names being mentioned is Imo State Governor Hope Uzodimma, who served as senator for Imo West before becoming governor. His reported interest has sparked political conversation, given his influence within the APC and his relationship with the party's national leadership.",
+    "There have also been reports of reactions involving FCT Minister Nyesom Wike, although the extent of any disagreement over the position remains unclear.",
+    "## Kalu versus Uzodimma",
+    "Both Kalu and Uzodimma are experienced politicians from the South-East. Both have served in the Senate, and both have strong relationships within the ruling party.",
+    "The big question is whether the APC will actually zone the Senate presidency to the South-East in 2027, and if so, who will win the party's backing. For now, there is no official confirmation that the position has been reserved for the region.",
+    "## The senators decide",
+    "It is worth remembering that the President has no constitutional power to appoint the Senate President. Senators elect their presiding officer themselves when a new National Assembly is inaugurated.",
+    "Even so, presidential support and internal party negotiations often play a major role in deciding who eventually emerges.",
+    "Whether Kalu's remarks signal serious ambition or simply a willingness to serve if called upon remains to be seen. What is clear is that the race for the leadership of the next National Assembly is already attracting attention, even before Nigerians go to the polls.",
+    "## Over to you",
+    "If the Senate presidency is zoned to the South-East, who would be the better choice: Orji Uzor Kalu or Hope Uzodimma?"
+   ],
+   "more": [
+    "Kalu says he would accept the Senate presidency if Tinubu backed him.",
+    "Hope Uzodimma has also been linked to the position.",
+    "Senators, not the President, elect the Senate President."
+   ],
+   "hot": 1,
+   "added": "2026-11-10",
+   "img": "img/orji-kalu-senate-president-cannot-reject-tinubu-choice.jpg",
+   "alt": "President Bola Tinubu embracing a politician in red, and standing beside Senator Orji Uzor Kalu in a red cap",
+   "credit": "Photo: Trend Naija",
+   "owner": true,
+   "at": "2026-11-10T01:13Z"
+  },
+  {
    "id": "sharon-adeleke-hair-costs-more-than-clothes",
    "c": "celebs",
    "n": 1,
@@ -42,7 +81,7 @@
     "Her own wedding dress reportedly cost $2,000.",
     "She paid for all 13 of her bridesmaids' dresses."
    ],
-   "hot": 1,
+   "hot": 2,
    "added": "2026-11-10",
    "img": "img/sharon-adeleke-hair-costs-more-than-clothes.jpg",
    "alt": "Sharon Adeleke speaking into a microphone during a podcast interview",
@@ -75,7 +114,7 @@
     "The incident happened in Nasarawa State.",
     "Who should pay for the farmer's losses?"
    ],
-   "hot": 2,
+   "hot": 3,
    "added": "2026-11-10",
    "owner": true,
    "at": "2026-11-10T00:44Z",
@@ -110,7 +149,7 @@
     "Her role will focus on young creatives in Enugu."
    ],
    "at": "2026-11-09T06:44Z",
-   "hot": 3,
+   "hot": 4,
    "added": "2026-11-09",
    "img": "img/destiny-etiko-enugu-government-appointment.jpg",
    "alt": "Nollywood actress Destiny Etiko in sunglasses and a white shirt, beside Enugu State Governor Peter Mbah",
@@ -139,7 +178,7 @@
     "876 dead voters were also deleted.",
     "The final register will be published on 16 December."
    ],
-   "hot": 4,
+   "hot": 5,
    "at": "2026-11-09T20:41Z"
   },
   {
@@ -189,7 +228,7 @@
    "img": "img/umeh-igbo-against-obi-enemy-of-ndigbo.jpg",
    "credit": "Photo: VOA / Wikimedia Commons, Public domain",
    "alt": "Peter Obi",
-   "hot": 7,
+   "hot": 8,
    "at": "2026-11-09T20:41Z"
   },
   {
@@ -281,7 +320,7 @@
    "credit": "Photo: Trend Naija",
    "owner": true,
    "at": "2026-11-09T20:00Z",
-   "hot": 8
+   "hot": 9
   },
   {
    "id": "vdm-davido-gone-too-far-late-friends",
@@ -317,7 +356,7 @@
    "credit": "Photo: Trend Naija",
    "owner": true,
    "at": "2026-11-09T17:57Z",
-   "hot": 5
+   "hot": 6
   },
   {
    "id": "wike-n10m-councillors-deliver-wards-tinubu",
@@ -346,7 +385,7 @@
    "alt": "Nyesom Wike in a dark cap, glasses and black outfit speaking at a desk in front of the Nigerian flag",
    "at": "2026-11-09T17:42Z",
    "owner": true,
-   "hot": 6
+   "hot": 7
   },
   {
    "id": "tunde-bakare-turned-down-tinubu-minister-offer",
@@ -490,8 +529,7 @@
    "img": "img/obi-says-nff-blocked-him-greeting-flamingos.jpg",
    "credit": "Photo: VOA / Wikimedia Commons, Public domain",
    "alt": "Peter Obi",
-   "at": "2026-11-09T14:42Z",
-   "hot": 9
+   "at": "2026-11-09T14:42Z"
   },
   {
    "id": "nwifuru-promises-tinubu-80-percent-ebonyi",
