@@ -15,6 +15,42 @@
  },
  "stories": [
   {
+   "id": "sharon-adeleke-hair-costs-more-than-clothes",
+   "c": "celebs",
+   "n": 1,
+   "h": "\"My hair costs more than my clothes\": Davido's elder sister, Sharon Adeleke, says she doesn't believe in spending big on outfits",
+   "p": "Davido's elder sister, Sharon Adeleke, says she would rather spend good money on her hair than on expensive designer clothes. She also revealed that her own wedding dress cost just $2,000, and that her outfit for Davido and Chioma's white wedding was a last-minute rescue.",
+   "body": [
+    "Davido's elder sister, Sharon Adeleke, has opened up about her fashion choices, revealing that she would rather spend good money on her hair than buy expensive designer clothes.",
+    "## \"My hair costs more than my clothes\"",
+    "Speaking on a podcast, Sharon said she has never really believed in spending a fortune on clothing, no matter how much money a person has.",
+    "She enjoys looking good, especially when it comes to her hair, but she does not see the need to attach an expensive price tag to every outfit.",
+    "## The wedding outfit drama",
+    "Sharon also spoke about her appearance at Davido and Chioma's white wedding, revealing that things did not go as smoothly as she had planned.",
+    "She said she had hired a stylist and a fashion designer to handle her outfit, but they failed to deliver as expected. Everything ended up as a last-minute arrangement, leaving her with little choice but to hope it worked out. At some point, she said, it was simply a case of \"God abeg!\"",
+    "## A $2,000 wedding dress",
+    "She also shared an interesting detail about her own wedding. Despite coming from one of Nigeria's wealthiest and best-known families, she said her husband spent just $2,000 on her wedding dress.",
+    "She added that she personally paid for the dresses worn by all 13 of her bridesmaids.",
+    "## Not what people expect",
+    "Her revelations are interesting because many people assume wealthy families spend outrageous amounts on everything they wear.",
+    "Now imagine Davido's own elder sister saying she doesn't believe in buying expensive clothes, while some people borrow money just to wear designer labels and impress strangers.",
+    "## Over to you",
+    "Do you agree with Sharon that expensive clothes are unnecessary, even when you can comfortably afford them?"
+   ],
+   "more": [
+    "Sharon Adeleke says her hair costs more than her clothes.",
+    "Her own wedding dress reportedly cost $2,000.",
+    "She paid for all 13 of her bridesmaids' dresses."
+   ],
+   "hot": 1,
+   "added": "2026-11-10",
+   "img": "img/sharon-adeleke-hair-costs-more-than-clothes.jpg",
+   "alt": "Sharon Adeleke speaking into a microphone during a podcast interview",
+   "credit": "Photo: Trend Naija",
+   "owner": true,
+   "at": "2026-11-10T01:10Z"
+  },
+  {
    "id": "nasarawa-woman-confronts-herder-cattle-destroy-farm",
    "c": "naija",
    "n": 1,
@@ -39,7 +75,7 @@
     "The incident happened in Nasarawa State.",
     "Who should pay for the farmer's losses?"
    ],
-   "hot": 1,
+   "hot": 2,
    "added": "2026-11-10",
    "owner": true,
    "at": "2026-11-10T00:44Z",
@@ -74,7 +110,7 @@
     "Her role will focus on young creatives in Enugu."
    ],
    "at": "2026-11-09T06:44Z",
-   "hot": 2,
+   "hot": 3,
    "added": "2026-11-09",
    "img": "img/destiny-etiko-enugu-government-appointment.jpg",
    "alt": "Nollywood actress Destiny Etiko in sunglasses and a white shirt, beside Enugu State Governor Peter Mbah",
@@ -103,7 +139,7 @@
     "876 dead voters were also deleted.",
     "The final register will be published on 16 December."
    ],
-   "hot": 3,
+   "hot": 4,
    "at": "2026-11-09T20:41Z"
   },
   {
@@ -153,7 +189,7 @@
    "img": "img/umeh-igbo-against-obi-enemy-of-ndigbo.jpg",
    "credit": "Photo: VOA / Wikimedia Commons, Public domain",
    "alt": "Peter Obi",
-   "hot": 6,
+   "hot": 7,
    "at": "2026-11-09T20:41Z"
   },
   {
@@ -245,7 +281,7 @@
    "credit": "Photo: Trend Naija",
    "owner": true,
    "at": "2026-11-09T20:00Z",
-   "hot": 7
+   "hot": 8
   },
   {
    "id": "vdm-davido-gone-too-far-late-friends",
@@ -281,7 +317,7 @@
    "credit": "Photo: Trend Naija",
    "owner": true,
    "at": "2026-11-09T17:57Z",
-   "hot": 4
+   "hot": 5
   },
   {
    "id": "wike-n10m-councillors-deliver-wards-tinubu",
@@ -310,7 +346,7 @@
    "alt": "Nyesom Wike in a dark cap, glasses and black outfit speaking at a desk in front of the Nigerian flag",
    "at": "2026-11-09T17:42Z",
    "owner": true,
-   "hot": 5
+   "hot": 6
   },
   {
    "id": "tunde-bakare-turned-down-tinubu-minister-offer",
@@ -356,8 +392,7 @@
    "img": "img/russell-brand-sentenced-10-years.jpg",
    "alt": "Russell Brand with long curly hair, a grey beard and aviator sunglasses",
    "credit": "Photo: Trend Naija",
-   "owner": true,
-   "hot": 9
+   "owner": true
   },
   {
    "id": "egypt-train-collision-giza-seven-dead",
@@ -456,7 +491,7 @@
    "credit": "Photo: VOA / Wikimedia Commons, Public domain",
    "alt": "Peter Obi",
    "at": "2026-11-09T14:42Z",
-   "hot": 8
+   "hot": 9
   },
   {
    "id": "nwifuru-promises-tinubu-80-percent-ebonyi",
