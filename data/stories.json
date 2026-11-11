@@ -15,6 +15,45 @@
  },
  "stories": [
   {
+   "id": "apc-campaign-sacks-spokespersons-112-emergency-number",
+   "c": "elections",
+   "n": 1,
+   "h": "APC campaign council reportedly sacks spokespersons after embarrassing 112 emergency number incident on live TV",
+   "p": "The APC Presidential Campaign Council has reportedly removed its spokespersons after APC official Alwan Hassan's attempt to demonstrate the 112 emergency number on live television failed twice. Only three officials are now authorised to speak for the council.",
+   "body": [
+    "The All Progressives Congress (APC) Presidential Campaign Council has reportedly removed some of its spokespersons following the controversy over a failed attempt to demonstrate Nigeria's 112 emergency number on live television.",
+    "## Only three can now speak",
+    "According to reports, President Bola Tinubu's Chief of Staff, Femi Gbajabiamila, announced on Wednesday that the spokespersons earlier named by the campaign council had been removed.",
+    "He said only three officials are now authorised to speak on behalf of the council: Senator Abdulaziz Yari, the Director General; Minister of Solid Minerals Dele Alake; and Minister of Information Mohammed Idris.",
+    "## What happened on live TV",
+    "It all started on Tuesday, when APC official Alwan Hassan appeared as a guest on a live television politics programme.",
+    "While discussing the achievements of the APC-led government, Hassan pointed to the 112 emergency number as an example of a working public service. He explained that Nigerians could dial it whenever they needed urgent help, whether in a medical emergency, a security threat or a road accident.",
+    "To prove his point, he challenged the host to dial 112 right there in the studio.",
+    "That was where things took an unexpected turn. The host tried the number, but the call failed to connect. He tried again, with the same result.",
+    "Hassan insisted the line was working and suggested network problems might have stopped the calls going through. His explanation did little to stop the criticism that followed.",
+    "## The backlash",
+    "Clips of the interview spread quickly online, with Nigerians questioning the reliability of a service people are meant to depend on in life-threatening situations. Opposition figures also seized on the incident to challenge the government's claims about improved public services.",
+    "## The real question",
+    "Is removing spokespersons really the answer, or should the government be more concerned about finding out why the emergency calls failed?",
+    "Someone calling 112 during an armed robbery, a serious accident or a medical emergency may not have the luxury of trying again and again until the network connects.",
+    "One failed demonstration does not prove the whole emergency system is broken. But it raises questions that deserve proper answers, and for many Nigerians, those answers matter far more than who is allowed to speak for a political campaign.",
+    "## Over to you",
+    "Was removing the spokespersons necessary, or should the priority be investigating and improving the 112 emergency response system?"
+   ],
+   "more": [
+    "The 112 emergency call failed twice on live TV.",
+    "Only Yari, Alake and Idris can now speak for the council.",
+    "Nigerians are questioning the reliability of the 112 line."
+   ],
+   "hot": 1,
+   "added": "2026-11-11",
+   "img": "img/apc-campaign-sacks-spokespersons-112-emergency-number.jpg",
+   "alt": "APC party flags above a photo of APC official Alwan Hassan in a black cap during a television interview",
+   "credit": "Photo: Trend Naija",
+   "owner": true,
+   "at": "2026-11-11T20:22Z"
+  },
+  {
    "id": "obi-kwankwaso-visit-yelewata-benue-support-children",
    "c": "elections",
    "n": 1,
@@ -40,7 +79,7 @@
     "Obi and Kwankwaso donated ₦10 million for vulnerable children.",
     "They promised a motorised borehole for the community."
    ],
-   "hot": 1,
+   "hot": 2,
    "added": "2026-11-11",
    "img": "img/obi-kwankwaso-visit-yelewata-benue-support-children.jpg",
    "alt": "Peter Obi kneeling to lay a wreath at the Yelewata memorial, and Obi and Rabiu Kwankwaso addressing a large crowd in Benue State",
@@ -68,7 +107,7 @@
     "She will also serve as Secretary of State.",
     "She moved from Nigeria to the US as a child."
    ],
-   "hot": 3,
+   "hot": 4,
    "at": "2026-11-11T17:46Z"
   },
   {
@@ -93,7 +132,7 @@
     "A suspect is in custody over false reports.",
     "Police say lawful debate will not be targeted."
    ],
-   "hot": 4,
+   "hot": 5,
    "at": "2026-11-11T17:46Z"
   },
   {
@@ -116,7 +155,7 @@
     "SZA headlines the Sunday shows.",
     "She told fans: 'See you in the desert.'"
    ],
-   "hot": 5,
+   "hot": 6,
    "at": "2026-11-11T17:46Z"
   },
   {
@@ -139,7 +178,7 @@
     "Fans are reportedly being refunded.",
     "The 15 November show is still on."
    ],
-   "hot": 8,
+   "hot": 9,
    "at": "2026-11-11T17:46Z"
   },
   {
@@ -183,7 +222,7 @@
     "Disciplinary action is planned."
    ],
    "at": "2026-11-11T14:42Z",
-   "hot": 6,
+   "hot": 7,
    "img": "img/inec-staff-10-states-ai-photos-voter-register.jpg",
    "alt": "A man in a white agbada and patterned cap seated in an office chair",
    "credit": "Photo: Trend Naija",
@@ -212,7 +251,7 @@
     "The head coach gets ₦100m; officials ₦50m each."
    ],
    "at": "2026-11-11T14:42Z",
-   "hot": 2
+   "hot": 3
   },
   {
    "id": "uzodimma-vows-keep-imo-west-ticket",
@@ -612,7 +651,7 @@
     "Enioluwa and others also defended the outfits."
    ],
    "at": "2026-11-11T09:43Z",
-   "hot": 7
+   "hot": 8
   },
   {
    "id": "inec-asks-court-set-aside-subpoena-tinubu-records",
@@ -1730,8 +1769,7 @@
    "img": "img/court-sacks-adc-mark-leadership-voids-atiku-nomination.jpg",
    "credit": "Photo: Etauso / Wikimedia Commons, CC0",
    "alt": "Portrait of Atiku Abubakar in a pinstripe suit",
-   "at": "2026-11-05T11:43Z",
-   "hot": 9
+   "at": "2026-11-05T11:43Z"
   },
   {
    "id": "tinubu-seeks-senate-approval-7-7bn-borrowing",
