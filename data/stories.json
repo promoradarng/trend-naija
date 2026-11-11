@@ -15,6 +15,38 @@
  },
  "stories": [
   {
+   "id": "salvadoran-troops-haiti-gang-operation-20-dead",
+   "c": "world",
+   "n": 1,
+   "h": "Salvadoran troops reportedly launch deadly operation against Haitian gang, leaving 20 dead",
+   "p": "At least 20 people have reportedly been killed in an operation involving troops from El Salvador against suspected gang members in Haiti, where armed groups have taken control of large areas and forced thousands from their homes.",
+   "body": [
+    "At least 20 people have reportedly been killed in an operation involving Salvadoran troops targeting suspected gang members in Haiti.",
+    "## A country held hostage",
+    "The reported incident comes as Haiti continues to struggle with widespread gang violence, kidnappings and insecurity, particularly in areas where armed groups have taken control of communities and forced thousands of residents to flee.",
+    "For years, ordinary Haitians have lived under the constant threat of armed gangs, with many families unable to go about their daily lives without fear.",
+    "## Foreign forces on the ground",
+    "Soldiers from El Salvador have been in Haiti since early 2025 as part of an internationally backed mission to help the Haitian police fight the gangs, alongside forces from other countries.",
+    "The reported operation has raised fresh questions about the growing role of foreign security forces in efforts to restore order in the troubled Caribbean nation.",
+    "## What we don't know",
+    "The circumstances of the reported deaths, including the identities of those killed and the exact role played by the Salvadoran troops, have not been independently confirmed.",
+    "## Over to you",
+    "Can foreign military intervention finally help Haiti regain control from armed gangs, or will it only lead to more bloodshed?"
+   ],
+   "more": [
+    "At least 20 people were reportedly killed.",
+    "Salvadoran troops are part of a mission to fight Haiti's gangs.",
+    "The details have not been independently confirmed."
+   ],
+   "hot": 1,
+   "added": "2026-11-11",
+   "img": "img/salvadoran-troops-haiti-gang-operation-20-dead.jpg",
+   "alt": "A man in a gold chain seated in an ornate chair, above armoured vehicles on a street in Haiti",
+   "credit": "Photo: Trend Naija",
+   "owner": true,
+   "at": "2026-11-11T12:50Z"
+  },
+  {
    "id": "tinubu-n52500-minimum-pension-retirees",
    "c": "naija",
    "n": 1,
@@ -39,7 +71,7 @@
    "img": "img/tinubu-n52500-minimum-pension-retirees.jpg",
    "credit": "Photo: Nosa Asemota / Wikimedia Commons, CC BY-SA 4.0",
    "alt": "President Bola Tinubu",
-   "hot": 1,
+   "hot": 2,
    "at": "2026-11-11T11:42Z"
   },
   {
@@ -62,7 +94,7 @@
     "An investigation has begun.",
     "Blord has not yet responded."
    ],
-   "hot": 2,
+   "hot": 3,
    "at": "2026-11-11T11:42Z"
   },
   {
@@ -88,7 +120,7 @@
    "img": "img/dangote-cuts-petrol-price-n1250-new-pricing.jpg",
    "credit": "Photo: Saba Dubai / Wikimedia Commons (CC BY 3.0)",
    "alt": "Aliko Dangote in a dark suit",
-   "hot": 3,
+   "hot": 4,
    "at": "2026-11-11T11:42Z"
   },
   {
@@ -111,7 +143,7 @@
     "It demanded a retraction and an apology.",
     "Legal action has been threatened."
    ],
-   "hot": 8,
+   "hot": 9,
    "at": "2026-11-11T11:42Z"
   },
   {
@@ -137,7 +169,7 @@
    "img": "img/bbnaija-faith-funke-akindele-the-four-game.jpg",
    "credit": "Photo: Kaizenify / Wikimedia Commons, CC BY-SA 4.0",
    "alt": "Funke Akindele at the AMVCA 2020",
-   "hot": 7,
+   "hot": 8,
    "at": "2026-11-11T11:42Z"
   },
   {
@@ -166,7 +198,7 @@
    "credit": "Stock image: DFID - UK Department for International Development / Flickr, CC BY 2.0",
    "alt": "Medics at work in an Ebola observation ward",
    "at": "2026-11-11T09:43Z",
-   "hot": 4
+   "hot": 5
   },
   {
    "id": "us-bars-travellers-from-drc-ebola",
@@ -209,7 +241,7 @@
     "He wants a credible collective process."
    ],
    "at": "2026-11-11T09:43Z",
-   "hot": 5
+   "hot": 6
   },
   {
    "id": "lamido-denies-shettima-claim-backing-apc",
@@ -252,7 +284,7 @@
     "Executions are rare in Nigeria."
    ],
    "at": "2026-11-11T09:43Z",
-   "hot": 6
+   "hot": 7
   },
   {
    "id": "seun-kuti-criticises-obi-anambra-education-record",
@@ -272,8 +304,7 @@
     "He questioned the meaning of Anambra's WAEC results.",
     "Obi's supporters dispute the claim."
    ],
-   "at": "2026-11-11T09:43Z",
-   "hot": 9
+   "at": "2026-11-11T09:43Z"
   },
   {
    "id": "bobrisky-hits-back-tboss-men-fashion",
