@@ -15,6 +15,40 @@
  },
  "stories": [
   {
+   "id": "obi-kwankwaso-visit-yelewata-benue-support-children",
+   "c": "elections",
+   "n": 1,
+   "h": "Peter Obi and Rabiu Kwankwaso visit Yelewata community in Benue State, offer support to vulnerable children",
+   "p": "Peter Obi and Rabiu Kwankwaso have visited Yelewata in Benue State, where Obi laid a wreath at the memorial to victims of the community's deadly 2025 attack. The two leaders donated ₦10 million for vulnerable children and promised a motorised borehole.",
+   "body": [
+    "Peter Obi and Rabiu Kwankwaso have visited Yelewata community in Benue State, bringing some hope to residents who have endured years of hardship and neglect.",
+    "## A moment of remembrance",
+    "Yelewata was the scene of a deadly attack in June 2025 that left many residents dead and shocked the nation. During the visit, Obi knelt to lay a wreath at the memorial bearing the names of the victims, as a large crowd looked on.",
+    "## Donations and promises",
+    "The two political leaders promised to provide a motorised borehole to help address the community's water needs. They also donated ₦10 million to support vulnerable children, while Professor Shija contributed another ₦2 million towards the education of orphans.",
+    "## The people speak",
+    "Beyond the donations, the people of Yelewata had their own stories to tell. They spoke about years of neglect, the difficulties they face every day and the lack of meaningful government support.",
+    "Imagine living for years without some of the basic things that should make life easier, while those elected to serve appear distant from your suffering. For residents, the visit was a chance to make their voices heard and draw attention to their situation.",
+    "## Action, not just visits",
+    "Promises must be followed by action. The community needs lasting solutions, not just occasional visits.",
+    "Leadership should be about compassion, listening to the people and doing something practical to improve their lives.",
+    "## Over to you",
+    "What do you think of this visit by Peter Obi and Rabiu Kwankwaso to Yelewata?"
+   ],
+   "more": [
+    "Obi laid a wreath at the Yelewata memorial.",
+    "Obi and Kwankwaso donated ₦10 million for vulnerable children.",
+    "They promised a motorised borehole for the community."
+   ],
+   "hot": 1,
+   "added": "2026-11-11",
+   "img": "img/obi-kwankwaso-visit-yelewata-benue-support-children.jpg",
+   "alt": "Peter Obi kneeling to lay a wreath at the Yelewata memorial, and Obi and Rabiu Kwankwaso addressing a large crowd in Benue State",
+   "credit": "Photo: Trend Naija",
+   "owner": true,
+   "at": "2026-11-11T19:53Z"
+  },
+  {
    "id": "shirley-emehelu-new-jersey-lieutenant-governor",
    "c": "world",
    "n": 1,
@@ -34,7 +68,7 @@
     "She will also serve as Secretary of State.",
     "She moved from Nigeria to the US as a child."
    ],
-   "hot": 2,
+   "hot": 3,
    "at": "2026-11-11T17:46Z"
   },
   {
@@ -59,7 +93,7 @@
     "A suspect is in custody over false reports.",
     "Police say lawful debate will not be targeted."
    ],
-   "hot": 3,
+   "hot": 4,
    "at": "2026-11-11T17:46Z"
   },
   {
@@ -82,7 +116,7 @@
     "SZA headlines the Sunday shows.",
     "She told fans: 'See you in the desert.'"
    ],
-   "hot": 4,
+   "hot": 5,
    "at": "2026-11-11T17:46Z"
   },
   {
@@ -105,7 +139,7 @@
     "Fans are reportedly being refunded.",
     "The 15 November show is still on."
    ],
-   "hot": 7,
+   "hot": 8,
    "at": "2026-11-11T17:46Z"
   },
   {
@@ -126,7 +160,6 @@
     "He was best known as detective Mike Hammer.",
     "He also starred in Prison Break."
    ],
-   "hot": 9,
    "at": "2026-11-11T17:46Z"
   },
   {
@@ -150,7 +183,7 @@
     "Disciplinary action is planned."
    ],
    "at": "2026-11-11T14:42Z",
-   "hot": 5
+   "hot": 6
   },
   {
    "id": "remi-tinubu-receives-flamingos-villa",
@@ -175,7 +208,7 @@
     "The head coach gets ₦100m; officials ₦50m each."
    ],
    "at": "2026-11-11T14:42Z",
-   "hot": 1
+   "hot": 2
   },
   {
    "id": "uzodimma-vows-keep-imo-west-ticket",
@@ -575,7 +608,7 @@
     "Enioluwa and others also defended the outfits."
    ],
    "at": "2026-11-11T09:43Z",
-   "hot": 6
+   "hot": 7
   },
   {
    "id": "inec-asks-court-set-aside-subpoena-tinubu-records",
@@ -1694,7 +1727,7 @@
    "credit": "Photo: Etauso / Wikimedia Commons, CC0",
    "alt": "Portrait of Atiku Abubakar in a pinstripe suit",
    "at": "2026-11-05T11:43Z",
-   "hot": 8
+   "hot": 9
   },
   {
    "id": "tinubu-seeks-senate-approval-7-7bn-borrowing",
