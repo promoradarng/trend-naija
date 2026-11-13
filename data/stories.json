@@ -68,7 +68,10 @@
     "The change was signed into law in May 2024."
    ],
    "hot": 2,
-   "at": "2026-11-13T11:42Z"
+   "at": "2026-11-13T11:42Z",
+   "img": "img/obi-recites-old-national-anthem-lagos-town-hall-tn.jpg",
+   "alt": "Peter Obi in glasses and a black top in front of the Nigerian flag",
+   "credit": "Photo: Trend Naija"
   },
   {
    "id": "bruno-fernandes-rejects-second-man-utd-offer",
@@ -183,7 +186,10 @@
     "Fans can unlock a Davido 'King Set'."
    ],
    "at": "2026-11-13T09:42Z",
-   "hot": 6
+   "hot": 6,
+   "img": "img/davido-face-of-pubg-mobile-africa-tn.jpg",
+   "alt": "Davido in a dark beanie and grey jacket",
+   "credit": "Photo: Trend Naija"
   },
   {
    "id": "carter-efe-peller-lose-streamer-award",
@@ -208,7 +214,10 @@
     "Neither has reacted publicly."
    ],
    "at": "2026-11-13T09:42Z",
-   "hot": 3
+   "hot": 3,
+   "img": "img/carter-efe-peller-lose-streamer-award-tn.jpg",
+   "alt": "Peller in a red and white star top",
+   "credit": "Photo: Trend Naija"
   },
   {
    "id": "boniface-gifts-cancer-patient-n1m-tiktok-live",
@@ -362,7 +371,10 @@
     "Non-sensitive materials are moving to the states.",
     "PVC production is complete."
    ],
-   "at": "2026-11-12T20:43Z"
+   "at": "2026-11-12T20:43Z",
+   "img": "img/inec-will-obey-final-court-ruling-atiku-materials-tn.jpg",
+   "alt": "Atiku Abubakar in a blue cap and agbada speaking into a microphone",
+   "credit": "Photo: Trend Naija"
   },
   {
    "id": "obi-pledges-10000mw-electricity-four-years",
@@ -382,7 +394,10 @@
     "He would declare emergencies on security, education and power.",
     "He spoke at the Lagos town hall attacked by thugs."
    ],
-   "at": "2026-11-12T20:43Z"
+   "at": "2026-11-12T20:43Z",
+   "img": "img/obi-pledges-10000mw-electricity-four-years-tn.jpg",
+   "alt": "Peter Obi in glasses and a black top in front of the Nigerian flag",
+   "credit": "Photo: Trend Naija"
   },
   {
    "id": "atiku-blames-tinubu-638-deaths-october",
@@ -404,7 +419,10 @@
     "About 64,000 have fled to Niger, the UN says.",
     "The Presidency has not responded."
    ],
-   "at": "2026-11-12T20:43Z"
+   "at": "2026-11-12T20:43Z",
+   "img": "img/atiku-blames-tinubu-638-deaths-october-tn.jpg",
+   "alt": "Atiku Abubakar and President Bola Tinubu side by side",
+   "credit": "Photo: Trend Naija"
   },
   {
    "id": "blessing-ceo-admits-no-breast-cancer-vdm",
@@ -427,7 +445,17 @@
     "Donations stopped after VDM questioned her."
    ],
    "at": "2026-11-12T20:43Z",
-   "hot": 9
+   "hot": 9,
+   "imgs": [
+    "img/blessing-ceo-admits-no-breast-cancer-vdm-tn.jpg",
+    "img/blessing-ceo-admits-no-breast-cancer-vdm-tn2.jpg"
+   ],
+   "alts": [
+    "Blessing CEO with long wavy hair, resting her chin on her hand",
+    "VeryDarkMan with braided hair and a cowrie-shell necklace"
+   ],
+   "alt": "Blessing CEO with long wavy hair, resting her chin on her hand and VeryDarkMan with braided hair and a cowrie-shell necklace",
+   "credit": "Photo: Trend Naija"
   },
   {
    "id": "unn-four-students-die-after-party-nsukka",
@@ -473,7 +501,10 @@
     "He says reforms lacked cushions for citizens.",
     "He is the APM presidential candidate."
    ],
-   "at": "2026-11-12T17:42Z"
+   "at": "2026-11-12T17:42Z",
+   "img": "img/makinde-four-reasons-challenging-tinubu-tn.jpg",
+   "alt": "President Bola Tinubu in a green cap and glasses at a meeting",
+   "credit": "Photo: Trend Naija"
   },
   {
    "id": "thugs-attack-ndc-town-hall-oregun-lagos",
@@ -738,7 +769,10 @@
     "They bore APC branding.",
     "Reactions online were mostly mocking."
    ],
-   "at": "2026-11-12T06:42Z"
+   "at": "2026-11-12T06:42Z",
+   "img": "img/apc-n200-recharge-cards-rivers-rally-tn.jpg",
+   "alt": "President Bola Tinubu in a green cap and glasses at a meeting",
+   "credit": "Photo: Trend Naija"
   },
   {
    "id": "yunusa-tanko-leaves-obi-joins-sdp-campaign",
@@ -782,7 +816,10 @@
     "Atiku had planned a consultation there on Thursday.",
     "Kaduna's government had not responded."
    ],
-   "at": "2026-11-11T20:42Z"
+   "at": "2026-11-11T20:42Z",
+   "img": "img/adc-says-kaduna-sealed-arewa-house-atiku-tn.jpg",
+   "alt": "Atiku Abubakar in a blue cap and agbada speaking into a microphone",
+   "credit": "Photo: Trend Naija"
   },
   {
    "id": "apc-campaign-sacks-spokespersons-112-emergency-number",
@@ -1053,9 +1090,9 @@
     "Free healthcare for low-income pensioners was also launched.",
     "A ₦758bn bond will clear pension arrears."
    ],
-   "img": "img/tinubu-n52500-minimum-pension-retirees.jpg",
-   "credit": "Photo: Nosa Asemota / Wikimedia Commons, CC BY-SA 4.0",
-   "alt": "President Bola Tinubu",
+   "img": "img/tinubu-n52500-minimum-pension-retirees-tn.jpg",
+   "credit": "Photo: Trend Naija",
+   "alt": "President Bola Tinubu in a green cap and glasses at a meeting",
    "at": "2026-11-11T11:42Z"
   },
   {
@@ -1200,9 +1237,9 @@
     "He has not announced any change of allegiance."
    ],
    "at": "2026-11-10T14:43Z",
-   "img": "img/blord-gifts-employee-car.jpg",
-   "alt": "Blord, in a black waistcoat and tie, holds open the door of a black car as the employee sits inside",
-   "credit": "Image: social media"
+   "img": "img/blord-kwankwaso-cap-kano-sowore-tn.jpg",
+   "alt": "Blord in a waistcoat stepping out of a car",
+   "credit": "Photo: Trend Naija"
   },
   {
    "id": "tinubu-jigawa-visit-public-holiday",
@@ -1226,9 +1263,9 @@
     "Tinubu will commission four projects.",
     "The package includes 400 tractors."
    ],
-   "img": "img/tinubu-jigawa-visit-public-holiday.jpg",
-   "credit": "Photo: Nosa Asemota / Wikimedia Commons, CC BY-SA 4.0",
-   "alt": "President Bola Tinubu",
+   "img": "img/tinubu-jigawa-visit-public-holiday-tn.jpg",
+   "credit": "Photo: Trend Naija",
+   "alt": "President Bola Tinubu in a green cap and glasses at a meeting",
    "at": "2026-11-10T06:42Z"
   },
   {
@@ -1255,9 +1292,9 @@
     "He cautioned the Anambra government.",
     "Several South-East governors back Tinubu."
    ],
-   "img": "img/umeh-igbo-against-obi-enemy-of-ndigbo.jpg",
-   "credit": "Photo: VOA / Wikimedia Commons, Public domain",
-   "alt": "Peter Obi",
+   "img": "img/umeh-igbo-against-obi-enemy-of-ndigbo-tn.jpg",
+   "credit": "Photo: Trend Naija",
+   "alt": "Peter Obi in glasses and a black top in front of the Nigerian flag",
    "at": "2026-11-09T20:41Z"
   },
   {
@@ -1282,10 +1319,17 @@
     "He says NFF officials refused his request to greet them.",
     "The NFF has not responded."
    ],
-   "img": "img/obi-says-nff-blocked-him-greeting-flamingos.jpg",
-   "credit": "Photo: VOA / Wikimedia Commons, Public domain",
-   "alt": "Peter Obi",
-   "at": "2026-11-09T14:42Z"
+   "credit": "Photo: Trend Naija",
+   "alt": "Peter Obi in glasses and a black top in front of the Nigerian flag and Nigeria Flamingos player in action at the U-17 Women's World Cup",
+   "at": "2026-11-09T14:42Z",
+   "imgs": [
+    "img/obi-says-nff-blocked-him-greeting-flamingos-tn.jpg",
+    "img/obi-says-nff-blocked-him-greeting-flamingos-tn2.jpg"
+   ],
+   "alts": [
+    "Peter Obi in glasses and a black top in front of the Nigerian flag",
+    "Nigeria Flamingos player in action at the U-17 Women's World Cup"
+   ]
   },
   {
    "id": "toluwanisings-burial-ibadan-today",
@@ -1495,9 +1539,9 @@
     "He said he was cleaning up a mess left by Atiku and others.",
     "Atiku founded the American University of Nigeria in Yola."
    ],
-   "img": "img/tinubu-port-harcourt-atiku-university-vp.jpg",
-   "credit": "Photo: Nosa Asemota / Wikimedia Commons, CC BY-SA 4.0",
-   "alt": "President Bola Tinubu",
+   "img": "img/tinubu-port-harcourt-atiku-university-vp-tn.jpg",
+   "credit": "Photo: Trend Naija",
+   "alt": "Atiku Abubakar and President Bola Tinubu side by side",
    "at": "2026-11-07T17:42Z"
   },
   {
@@ -1716,9 +1760,9 @@
     "That includes Atiku's nomination as presidential candidate.",
     "An appeal is widely expected."
    ],
-   "img": "img/court-sacks-adc-mark-leadership-voids-atiku-nomination.jpg",
-   "credit": "Photo: Etauso / Wikimedia Commons, CC0",
-   "alt": "Portrait of Atiku Abubakar in a pinstripe suit",
+   "img": "img/court-sacks-adc-mark-leadership-voids-atiku-nomination-tn.jpg",
+   "credit": "Photo: Trend Naija",
+   "alt": "Atiku Abubakar in a blue cap and agbada speaking into a microphone",
    "at": "2026-11-05T11:43Z"
   },
   {
@@ -1745,9 +1789,9 @@
     "Funds would come mainly from Eurobonds and international loans.",
     "The Senate referred it to its debt committee."
    ],
-   "img": "img/tinubu-seeks-senate-approval-7-7bn-borrowing.jpg",
-   "credit": "Photo: CBN / Wikimedia Commons (Public domain)",
-   "alt": "A Nigerian 500 naira note",
+   "img": "img/tinubu-seeks-senate-approval-7-7bn-borrowing-tn.jpg",
+   "credit": "Photo: Trend Naija",
+   "alt": "President Bola Tinubu in a green cap and glasses at a meeting",
    "at": "2026-11-04T14:42Z"
   },
   {
@@ -1774,9 +1818,9 @@
     "He warned Zlatan after Davido sang 'Inferno' lyrics.",
     "The feud has run for months."
    ],
-   "img": "img/vdm-challenges-davido-receipts-warns-zlatan.jpg",
-   "credit": "Photo: CoreTechLogic / Wikimedia Commons, CC0",
-   "alt": "VeryDarkMan",
+   "img": "img/vdm-challenges-davido-receipts-warns-zlatan-tn.jpg",
+   "credit": "Photo: Trend Naija",
+   "alt": "VeryDarkMan and Davido together",
    "at": "2026-11-04T14:42Z"
   },
   {
@@ -1805,9 +1849,9 @@
     "Zlatan's white wedding takes place this weekend.",
     "Fans praised his father-in-law's enthusiasm."
    ],
-   "img": "img/zlatan-teaches-father-in-law-legwork-marrakesh.jpg",
-   "credit": "Photo: WALINTEEN PRO / Wikimedia Commons, CC BY 3.0",
-   "alt": "Zlatan Ibile",
+   "img": "img/zlatan-teaches-father-in-law-legwork-marrakesh-tn.jpg",
+   "credit": "Photo: Trend Naija",
+   "alt": "Zlatan Ibile and Davita Lamai seated on thrones at their traditional wedding",
    "at": "2026-11-04T09:42Z"
   },
   {

@@ -34,9 +34,7 @@
   "russell brand": {
    "img": "people/russell-brand.jpg",
    "alt": "Russell Brand with long curly hair, a grey beard and aviator sunglasses",
-   "aliases": [
-    "brand"
-   ]
+   "aliases": []
   },
   "odumodublvck": {
    "img": "people/odumodublvck.jpg",
@@ -54,6 +52,187 @@
     "nwifuru",
     "governor nwifuru"
    ]
+  },
+  "atiku abubakar": {
+   "img": "people/atiku-abubakar.jpg",
+   "alt": "Atiku Abubakar in a blue cap and agbada speaking into a microphone",
+   "aliases": [
+    "atiku"
+   ]
+  },
+  "verydarkman": {
+   "img": "people/verydarkman.jpg",
+   "alt": "VeryDarkMan with braided hair and a cowrie-shell necklace",
+   "aliases": [
+    "vdm",
+    "very dark man",
+    "verydarkblackman"
+   ]
+  },
+  "davido": {
+   "img": "people/davido.jpg",
+   "alt": "Davido in a dark beanie and grey jacket",
+   "aliases": []
+  },
+  "zlatan": {
+   "img": "people/zlatan.jpg",
+   "alt": "Zlatan Ibile in a green knitted cardigan and glasses",
+   "aliases": [
+    "zlatan ibile"
+   ]
+  },
+  "peller": {
+   "img": "people/peller.jpg",
+   "alt": "Peller in a red and white star top",
+   "aliases": []
+  },
+  "jarvis": {
+   "img": "people/jarvis.jpg",
+   "alt": "Jarvis in a sleeveless green top",
+   "aliases": []
+  },
+  "blessing ceo": {
+   "img": "people/blessing-ceo.jpg",
+   "alt": "Blessing CEO with long wavy hair, resting her chin on her hand",
+   "aliases": [
+    "blessing okoro"
+   ]
+  },
+  "dave umahi": {
+   "img": "people/dave-umahi.jpg",
+   "alt": "Dave Umahi in a red cap and white agbada speaking into a microphone",
+   "aliases": [
+    "umahi",
+    "david umahi"
+   ]
+  },
+  "hope uzodimma": {
+   "img": "people/hope-uzodimma.jpg",
+   "alt": "Governor Hope Uzodimma in a red cap and glasses",
+   "aliases": [
+    "uzodimma",
+    "uzodinma",
+    "hope uzodinma"
+   ]
+  },
+  "nasir el-rufai": {
+   "img": "people/nasir-el-rufai.jpg",
+   "alt": "Nasir El-Rufai in a black cap and grey kaftan",
+   "aliases": [
+    "el-rufai",
+    "el rufai",
+    "elrufai"
+   ]
+  },
+  "regina daniels": {
+   "img": "people/regina-daniels.jpg",
+   "alt": "Regina Daniels in a red sequinned gown",
+   "aliases": []
+  },
+  "burna boy": {
+   "img": "people/burna-boy.jpg",
+   "alt": "Burna Boy in tinted glasses and a patterned cardigan",
+   "aliases": []
+  },
+  "siminalayi fubara": {
+   "img": "people/siminalayi-fubara.jpg",
+   "alt": "Governor Siminalayi Fubara in a red cap speaking at a podium",
+   "aliases": [
+    "fubara"
+   ]
+  },
+  "enoch adeboye": {
+   "img": "people/enoch-adeboye.jpg",
+   "alt": "Pastor Enoch Adeboye speaking into a microphone",
+   "aliases": [
+    "adeboye"
+   ]
+  },
+  "david ibiyeomie": {
+   "img": "people/david-ibiyeomie.jpg",
+   "alt": "Pastor David Ibiyeomie smiling in a dark suit",
+   "aliases": [
+    "ibiyeomie"
+   ]
+  },
+  "bobrisky": {
+   "img": "people/bobrisky.jpg",
+   "alt": "Bobrisky in a gold gele and embellished outfit",
+   "aliases": []
+  },
+  "blord": {
+   "img": "people/blord.jpg",
+   "alt": "Blord in a waistcoat stepping out of a car",
+   "aliases": []
+  },
+  "kenneth okonkwo": {
+   "img": "people/kenneth-okonkwo.jpg",
+   "alt": "Kenneth Okonkwo in a blue kaftan and cap, smiling",
+   "aliases": []
+  },
+  "ifeanyi okowa": {
+   "img": "people/ifeanyi-okowa.jpg",
+   "alt": "Ifeanyi Okowa in a red cap and glasses",
+   "aliases": [
+    "okowa"
+   ]
+  },
+  "alex otti": {
+   "img": "people/alex-otti.jpg",
+   "alt": "Governor Alex Otti speaking at a podium",
+   "aliases": [
+    "otti"
+   ]
+  },
+  "flamingos": {
+   "img": "people/flamingos.jpg",
+   "alt": "Nigeria Flamingos player in action at the U-17 Women's World Cup",
+   "aliases": [
+    "flamingoes"
+   ]
+  },
+  "nicki minaj": {
+   "img": "people/nicki-minaj.jpg",
+   "alt": "Nicki Minaj taking a selfie",
+   "aliases": []
+  },
+  "chris brown": {
+   "img": "people/chris-brown.jpg",
+   "alt": "Chris Brown in a black cap",
+   "aliases": []
+  },
+  "lula": {
+   "img": "people/lula.jpg",
+   "alt": "Luiz Inácio Lula da Silva in a straw hat and suit",
+   "aliases": [
+    "lula da silva"
+   ]
+  },
+  "cubana chief priest": {
+   "img": "people/cubana-chief-priest.jpg",
+   "alt": "Cubana Chief Priest wearing a gold chain",
+   "aliases": [
+    "chief priest"
+   ]
+  },
+  "seun okinbaloye": {
+   "img": "people/seun-okinbaloye.jpg",
+   "alt": "Seun Okinbaloye presenting on a television set",
+   "aliases": [
+    "okinbaloye"
+   ]
+  },
+  "destiny etiko": {
+   "img": "people/destiny-etiko.jpg",
+   "alt": "Destiny Etiko in sunglasses and a white shirt",
+   "aliases": []
+  },
+  "peter mbah": {
+   "img": "people/peter-mbah.jpg",
+   "alt": "Enugu Governor Peter Mbah in a pinstripe suit and red tie",
+   "aliases": [
+    "governor mbah"
+   ]
   }
  },
  "pairs": {
@@ -64,6 +243,61 @@
   "francis nwifuru + bola tinubu": {
    "img": "people/francis-nwifuru-and-bola-tinubu.jpg",
    "alt": "Ebonyi Governor Francis Nwifuru and President Bola Tinubu side by side"
+  },
+  "verydarkman + zlatan": {
+   "img": "people/verydarkman-and-zlatan.jpg",
+   "alt": "VeryDarkMan and Zlatan Ibile side by side"
+  },
+  "verydarkman + davido": {
+   "img": "people/verydarkman-and-davido.jpg",
+   "alt": "VeryDarkMan and Davido together"
+  },
+  "peller + jarvis": {
+   "img": "people/peller-and-jarvis.jpg",
+   "alt": "Peller and Jarvis together"
+  },
+  "hope uzodimma + nyesom wike": {
+   "img": "people/hope-uzodimma-and-nyesom-wike.jpg",
+   "alt": "Hope Uzodimma and Nyesom Wike side by side"
+  },
+  "hope uzodimma + rochas okorocha": {
+   "img": "people/hope-uzodimma-and-rochas-okorocha.jpg",
+   "alt": "Hope Uzodimma and Rochas Okorocha side by side"
+  },
+  "siminalayi fubara + nyesom wike": {
+   "img": "people/siminalayi-fubara-and-nyesom-wike.jpg",
+   "alt": "Nyesom Wike and Siminalayi Fubara"
+  },
+  "burna boy + speed darlington": {
+   "img": "people/burna-boy-and-speed-darlington.jpg",
+   "alt": "Burna Boy and Speed Darlington side by side"
+  },
+  "remi tinubu + tompolo": {
+   "img": "people/remi-tinubu-and-tompolo.jpg",
+   "alt": "Remi Tinubu and Tompolo at an APC rally"
+  },
+  "atiku abubakar + bola tinubu": {
+   "img": "people/atiku-abubakar-and-bola-tinubu.jpg",
+   "alt": "Atiku Abubakar and President Bola Tinubu side by side"
+  },
+  "dave umahi + cubana chief priest": {
+   "img": "people/dave-umahi-and-cubana-chief-priest.jpg",
+   "alt": "Cubana Chief Priest and Dave Umahi side by side"
+  },
+  "kenneth okonkwo + atiku abubakar": {
+   "img": "people/kenneth-okonkwo-and-atiku-abubakar.jpg",
+   "alt": "Kenneth Okonkwo and Atiku Abubakar shaking hands"
+  },
+  "destiny etiko + peter mbah": {
+   "img": "people/destiny-etiko-and-peter-mbah.jpg",
+   "alt": "Destiny Etiko and Governor Peter Mbah side by side"
+  }
+ },
+ "special": {
+  "zlatan + wedding": {
+   "img": "people/zlatan-wedding.jpg",
+   "alt": "Zlatan Ibile and Davita Lamai seated on thrones at their traditional wedding",
+   "when": "headline names Zlatan and mentions his wedding"
   }
  }
 }

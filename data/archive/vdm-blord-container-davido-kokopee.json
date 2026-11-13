@@ -21,8 +21,15 @@
   "Kokopee says betrayal was at the heart of the VDM-Davido rift."
  ],
  "added": "2026-10-29",
- "img": "img/vdm-blord-container-davido-kokopee.jpg",
- "alt": "VeryDarkMan",
- "credit": "Photo: CoreTechLogic / Wikimedia Commons, CC0",
- "at": "2026-10-29T15:04Z"
+ "alt": "VeryDarkMan with braided hair and a cowrie-shell necklace and Blord in a waistcoat stepping out of a car",
+ "credit": "Photo: Trend Naija",
+ "at": "2026-10-29T15:04Z",
+ "imgs": [
+  "img/vdm-blord-container-davido-kokopee-tn.jpg",
+  "img/vdm-blord-container-davido-kokopee-tn2.jpg"
+ ],
+ "alts": [
+  "VeryDarkMan with braided hair and a cowrie-shell necklace",
+  "Blord in a waistcoat stepping out of a car"
+ ]
 }
