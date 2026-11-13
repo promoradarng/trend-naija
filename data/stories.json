@@ -1,6 +1,6 @@
 {
- "updated": "Updated 20:43 GMT",
- "date": "Thursday, 12 November 2026",
+ "updated": "Updated 06:43 GMT",
+ "date": "Friday, 13 November 2026",
  "categories": {
   "all": "All gist",
   "elections": "2027 elections",
@@ -15,9 +15,103 @@
  },
  "stories": [
   {
+   "id": "reps-probe-attacks-political-rallies",
+   "c": "elections",
+   "n": 1,
+   "h": "Reps order probe into attacks on political rallies ahead of 2027 polls",
+   "p": "The House of Representatives has ordered an investigation into violence at political rallies and meetings across the country, citing deaths and injuries in Delta, Nasarawa, Katsina and Enugu. Committees are to report back within three weeks.",
+   "body": [
+    "The House of Representatives has resolved to investigate violence at political rallies, meetings and processions ahead of the 2027 general elections.",
+    "## The motion",
+    "On Thursday, 12 November 2026, the House adopted a motion of urgent public importance sponsored by Minority Leader Frederick Agbedi and 16 other lawmakers. It directed its committees on Police Affairs and on National Security and Intelligence to examine the causes of the violence and recommend ways to prevent further attacks. A principal officer of the House will lead the inquiry, and the committees are to report within three weeks.",
+    "## Incidents cited",
+    "Presenting the motion, Agbedi pointed to an attack during a political procession in Asaba, Delta State, on 7 November, which police said left one person dead and five injured; violence at an APC rally in Lafia, Nasarawa State, on 4 November; an attack on APC supporters travelling to a rally in Katsina State on 28 October, after which police reportedly arrested 14 suspects; and the disruption of political meetings in Enugu State in September.",
+    "## Background",
+    "The motion came on the same day suspected thugs stormed a Nigeria Democratic Congress town hall in Lagos. The APC presidential campaign council condemned that attack and other recent attacks on supporters across party lines, and urged security agencies to arrest those responsible. The Inspector-General of Police and the European Union have also raised concerns about rising political violence. The presidential election is scheduled for 16 January 2027."
+   ],
+   "more": [
+    "Two committees will investigate rally violence.",
+    "They must report within three weeks.",
+    "Attacks in four states were cited."
+   ],
+   "hot": 2,
+   "at": "2026-11-13T06:43Z"
+  },
+  {
+   "id": "inec-chairman-amupitan-heckled-london",
+   "c": "elections",
+   "n": 1,
+   "h": "Protesters heckle INEC chairman Amupitan in London; he denies running pro-APC X account",
+   "p": "Diaspora protesters surrounded INEC chairman Joash Amupitan's car outside Chatham House in London, accusing the commission of bias. Amupitan, who pledged to refuse any political appointment after his tenure, has again denied operating an X account that once backed the APC.",
+   "body": [
+    "Protesters confronted the chairman of the Independent National Electoral Commission (INEC), Professor Joash Amupitan, in London on Thursday, 12 November 2026.",
+    "## What happened",
+    "Amupitan was in London to speak at a panel on Nigeria's preparations for the 2027 elections, hosted by Chatham House and the Kimpact Development Initiative. Nigerian diaspora activists who had mobilised on social media gathered outside the venue and reportedly surrounded his vehicle, accusing the commission of favouring President Bola Tinubu and the ruling All Progressives Congress (APC) and demanding his resignation. They cited duplicate entries and AI-generated images in the preliminary voters' register and alleged fake polling units.",
+    "## Amupitan's response",
+    "At the panel, Amupitan pledged to turn down any political or diplomatic appointment after leaving INEC, saying he wanted to demonstrate his impartiality, and said the commission was introducing technical safeguards. INEC has said it removed 1.6 million invalid records from the register, including entries with manipulated images, and flagged officials in 10 states. Amupitan also again denied operating an X account that had allegedly posted support for the APC during the 2023 elections, saying he had never had an X account and that it was never linked to his email. INEC said in April that the claims were fabricated and that fake accounts had been created in his name.",
+    "## Background",
+    "At the same event, Amupitan said INEC would obey the final court ruling on Atiku Abubakar's candidacy. The presidential election is scheduled for 16 January 2027."
+   ],
+   "more": [
+    "Protesters demanded Amupitan's resignation.",
+    "He pledged to refuse post-tenure appointments.",
+    "He denies running a pro-APC X account."
+   ],
+   "hot": 1,
+   "at": "2026-11-13T06:43Z"
+  },
+  {
+   "id": "senior-civil-servants-demand-n300000-minimum-wage",
+   "c": "naija",
+   "n": 1,
+   "h": "Senior civil servants demand ₦300,000 minimum wage and state police",
+   "p": "The Association of Senior Civil Servants of Nigeria has called for the minimum wage to be raised from ₦70,000 to ₦300,000, prompt payment of gratuities and the creation of state police.",
+   "body": [
+    "Nigeria's senior civil servants have called for a new national minimum wage of ₦300,000.",
+    "## The demands",
+    "At a National Executive Council meeting of the Association of Senior Civil Servants of Nigeria (ASCSN) in Abuja, reported on Thursday, 12 November 2026, union president Shehu Mohammed said the current ₦70,000 minimum wage had steadily lost value amid economic pressures and could no longer meet workers' basic needs. The union also demanded prompt payment of outstanding gratuities and the creation of state police, saying insecurity continues to put workers and their families at risk.",
+    "## Collaboration call",
+    "Senior lawyer Femi Falana addressed delegates under the theme 'From Confrontation to Collaboration', arguing that lasting progress between labour and government depends on how the authorities treat workers.",
+    "## Background",
+    "The ₦70,000 minimum wage was signed into law in 2024 after months of negotiations and strike threats by organised labour. The federal government had not responded to the new demand at the time of writing."
+   ],
+   "more": [
+    "The union wants ₦300,000, up from ₦70,000.",
+    "It also wants gratuities paid promptly.",
+    "It backs the creation of state police."
+   ],
+   "hot": 5,
+   "at": "2026-11-13T06:43Z"
+  },
+  {
+   "id": "seriake-dickson-swims-river-forcados",
+   "c": "viral",
+   "n": 1,
+   "h": "Senator Seriake Dickson dives into River Forcados, urges youths to learn to swim",
+   "p": "Former Bayelsa governor Seriake Dickson has shared a video of himself diving into the River Forcados near the community where he grew up, encouraging young people in riverine areas to learn to swim as a life skill.",
+   "body": [
+    "Senator Henry Seriake Dickson has drawn reactions online after sharing a video of himself swimming in the River Forcados in Bayelsa State.",
+    "## The video",
+    "In the post, shared on Thursday, 12 November 2026, the former Bayelsa governor said he had returned to the river near the community where he grew up until the age of 20, and that swimming there is something he does from time to time. He said his children also know how to swim.",
+    "## His message",
+    "Dickson urged young people, especially young men in riverine communities, to learn to swim, describing it as an essential life skill rather than just a pastime.",
+    "## How people reacted",
+    "Many social media users praised the senator, with some calling him a lifesaver for promoting the skill.",
+    "## Background",
+    "Dickson represents Bayelsa West in the Senate and is the national leader of the Nigeria Democratic Congress (NDC), the party of presidential candidate Peter Obi."
+   ],
+   "more": [
+    "Dickson swam in the River Forcados.",
+    "He urged youths to learn to swim.",
+    "He is the NDC's national leader."
+   ],
+   "hot": 8,
+   "at": "2026-11-13T06:43Z"
+  },
+  {
    "id": "inec-will-obey-final-court-ruling-atiku-materials",
    "c": "elections",
-   "n": 2,
+   "n": 3,
    "h": "INEC says it will obey final court ruling on Atiku, begins moving election materials",
    "p": "INEC chairman Joash Amupitan says the commission will abide by the final court decision on Atiku Abubakar's candidacy. The commission has also started moving non-sensitive election materials to states and says PVC production is complete.",
    "body": [
@@ -34,8 +128,8 @@
     "Non-sensitive materials are moving to the states.",
     "PVC production is complete."
    ],
-   "hot": 1,
-   "at": "2026-11-12T20:43Z"
+   "at": "2026-11-12T20:43Z",
+   "hot": 6
   },
   {
    "id": "obi-pledges-10000mw-electricity-four-years",
@@ -55,8 +149,8 @@
     "He would declare emergencies on security, education and power.",
     "He spoke at the Lagos town hall attacked by thugs."
    ],
-   "hot": 3,
-   "at": "2026-11-12T20:43Z"
+   "at": "2026-11-12T20:43Z",
+   "hot": 7
   },
   {
    "id": "atiku-blames-tinubu-638-deaths-october",
@@ -78,7 +172,6 @@
     "About 64,000 have fled to Niger, the UN says.",
     "The Presidency has not responded."
    ],
-   "hot": 5,
    "at": "2026-11-12T20:43Z"
   },
   {
@@ -101,8 +194,8 @@
     "He praised roads into Ikenne and easier fuel access.",
     "He urged Nigerians to acknowledge improvements."
    ],
-   "hot": 6,
-   "at": "2026-11-12T20:43Z"
+   "at": "2026-11-12T20:43Z",
+   "hot": 9
   },
   {
    "id": "blessing-ceo-admits-no-breast-cancer-vdm",
@@ -122,8 +215,8 @@
     "She says she wanted financial support.",
     "Donations stopped after VDM questioned her."
    ],
-   "hot": 2,
-   "at": "2026-11-12T20:43Z"
+   "at": "2026-11-12T20:43Z",
+   "hot": 4
   },
   {
    "id": "kushner-witkoff-meet-putin-ukraine-talks",
@@ -145,7 +238,6 @@
     "No breakthrough was announced.",
     "The envoys will brief Zelensky in Dublin."
    ],
-   "hot": 9,
    "at": "2026-11-12T20:43Z"
   },
   {
@@ -170,8 +262,7 @@
     "They allegedly took a mix of alcohol and drugs.",
     "UNN has declared three days of mourning."
    ],
-   "at": "2026-11-12T17:42Z",
-   "hot": 4
+   "at": "2026-11-12T17:42Z"
   },
   {
    "id": "makinde-four-reasons-challenging-tinubu",
@@ -193,8 +284,7 @@
     "He says reforms lacked cushions for citizens.",
     "He is the APM presidential candidate."
    ],
-   "at": "2026-11-12T17:42Z",
-   "hot": 8
+   "at": "2026-11-12T17:42Z"
   },
   {
    "id": "asake-money-in-lagos-concert-december-20",
@@ -288,7 +378,7 @@
   {
    "id": "thugs-attack-ndc-town-hall-oregun-lagos",
    "c": "elections",
-   "n": 2,
+   "n": 3,
    "h": "Armed thugs storm NDC town hall in Lagos; supporters fight back",
    "p": "Suspected thugs armed with cutlasses, cudgels and stones stormed a Nigeria Democratic Congress town hall meeting at Oregun, Lagos, on Thursday morning, scattering attendees before party supporters regrouped and drove them out.",
    "body": [
@@ -299,6 +389,8 @@
     "Many people inside the hall fled when the attackers forced their way in, while motorists on Kudirat Abiola Way turned back to avoid the area. NDC supporters then regrouped, reportedly chased the attackers out of the hall and caught one of them in the car park. It is not clear how many people were injured, who sent the attackers, or whether anyone has been arrested. The police had not publicly commented at the time of writing.",
     "## Meeting goes ahead",
     "Despite the attack, the town hall went ahead later in the day, with Obi addressing supporters and pledging to deliver at least 10,000 megawatts of electricity within four years if elected.",
+    "## APC condemns attack",
+    "The All Progressives Congress (APC) presidential campaign council condemned the attack in a statement by its spokesperson Dele Alake, as well as other recent attacks on political gatherings in Edo, Cross River and Gombe, and called on security agencies to arrest and prosecute those responsible. The House of Representatives also ordered an investigation into attacks on political rallies across the country.",
     "## Background",
     "Obi won Lagos in the 2023 presidential election as the Labour Party candidate, with more than 580,000 votes, in a state seen as a stronghold of the ruling All Progressives Congress (APC). Campaign-related violence has been reported against several parties in recent weeks, and on Wednesday the Inspector-General of Police warned officers not to aid thuggery, while the European Union raised concerns about violence ahead of the 16 January 2027 election."
    ],
@@ -308,7 +400,7 @@
     "Police have not commented."
    ],
    "at": "2026-11-12T14:42Z",
-   "hot": 7
+   "hot": 3
   },
   {
    "id": "ik-ogbonna-slams-okpebholo-edo-roads",
@@ -367,70 +459,6 @@
     "US Soccer cited a Level 3 travel advisory.",
     "The tournament starts on 19 November.",
     "FIFA has not said how the US will be replaced."
-   ],
-   "at": "2026-11-12T14:42Z"
-  },
-  {
-   "id": "tinubu-interest-free-loans-farmers-apc-manifesto",
-   "c": "elections",
-   "n": 1,
-   "h": "Tinubu promises interest-free loans for small farmers, unveils APC manifesto",
-   "p": "President Tinubu has promised interest-free loans for small-scale farmers and unveiled the APC's 2027 manifesto, 'From Reforms to Prosperity', at a rally in Jigawa, where he also defended fuel subsidy removal.",
-   "body": [
-    "President Bola Tinubu has promised interest-free loans for small-scale farmers as part of his re-election pitch.",
-    "## What he announced",
-    "Speaking at Dutse Township Stadium in Jigawa State on Tuesday, 10 November 2026, where he also commissioned 400 tractors and other farm machinery bought by the state government, the President said the loans would help boost food production and food security. He also unveiled the All Progressives Congress (APC) campaign manifesto, titled 'From Reforms to Prosperity', which he described as a plan to build on his economic reforms and spread prosperity. He promised better welfare and pay for the armed forces and police.",
-    "## Defending subsidy removal",
-    "Tinubu defended his decision to end the petrol subsidy in May 2023, saying the money saved had been freed up for infrastructure and other investments, and questioned how opposition politicians who promise to restore the subsidy would pay for it. The removal led to sharp rises in fuel, transport and food prices, which remain a major concern for households ahead of the election.",
-    "## Background",
-    "The President urged Jigawa residents to vote for the APC in the 16 January 2027 election. During the same visit, former Jigawa governor Sule Lamido denied a claim by Vice-President Kashim Shettima that he supports the APC."
-   ],
-   "more": [
-    "Tinubu promised interest-free loans for farmers.",
-    "The APC manifesto is called 'From Reforms to Prosperity'.",
-    "He defended the removal of the fuel subsidy."
-   ],
-   "at": "2026-11-12T14:42Z"
-  },
-  {
-   "id": "seyi-tinubu-dan-zaki-gwandu-title",
-   "c": "politics",
-   "n": 1,
-   "h": "Seyi Tinubu turbaned Dan Zaki Gwandu; President congratulates son",
-   "p": "President Tinubu has congratulated his son Seyi after the Emir of Gwandu gave him the title Dan Zaki Gwandu in Birnin Kebbi, a title the Emir said was the first of its kind in the emirate's history.",
-   "body": [
-    "Seyi Tinubu, son of President Bola Tinubu, has been given a traditional title by the Emir of Gwandu in Kebbi State.",
-    "## The title",
-    "The Emir of Gwandu, Alhaji Muhammadu Iliyasu Bashar, turbaned Seyi as Dan Zaki Gwandu, which translates as 'Son of the Lion of Gwandu', at the palace in Birnin Kebbi on Wednesday, 11 November 2026. The Emir said the conferment was the first of its kind in the history of the emirate.",
-    "## The President's message",
-    "In a statement issued on Thursday by his special adviser on information and strategy, Bayo Onanuga, the President thanked the Emir and the emirate council, saying the honour reflected friendship, mutual respect and unity among Nigeria's peoples. He praised Seyi's work on youth engagement and community development, including through the City Boy Movement, and urged him to deepen his commitment to young people, peaceful coexistence and service to the country.",
-    "## Background",
-    "Seyi Tinubu has become increasingly visible in his father's re-election campaign, and recently received a Middle Belt youth group that pledged support for the President."
-   ],
-   "more": [
-    "The Emir of Gwandu gave Seyi the title.",
-    "It means 'Son of the Lion of Gwandu'.",
-    "The President praised his youth work."
-   ],
-   "at": "2026-11-12T14:42Z"
-  },
-  {
-   "id": "veekee-james-pregnancy-speculation",
-   "c": "celebs",
-   "n": 3,
-   "h": "Veekee James sparks pregnancy buzz months after welcoming daughter",
-   "p": "Fashion designer Veekee James has set off pregnancy speculation with an Instagram photo many fans believe shows a baby bump, captioned 'The beginning of a beautiful bond', six months after welcoming her first child.",
-   "body": [
-    "Celebrity fashion designer Veekee James has sparked talk of a second pregnancy after sharing a new photo on Instagram.",
-    "## The post",
-    "The photo, shared on Thursday, 12 November 2026, with the caption 'The beginning of a beautiful bond', appears to many fans to show a baby bump. Veekee did not directly confirm a pregnancy. Social media personality Enioluwa, comedian Broda Shaggi and reality star Tacha were among the celebrities who left congratulatory messages, while some fans were left confused.",
-    "## Background",
-    "Veekee James, whose full name is Victoria Atere James, and her husband Femi Atere welcomed their first daughter, Eliana, on 2 May 2026 in the United States. Earlier this week, she went viral after recounting an unusual test she set her husband to prove his love."
-   ],
-   "more": [
-    "Veekee's new photo appears to show a baby bump.",
-    "She welcomed her first daughter in May.",
-    "She has not confirmed a pregnancy."
    ],
    "at": "2026-11-12T14:42Z"
   },
@@ -532,24 +560,6 @@
     "Abdulsalami says he was sidelined.",
     "He is stepping back from politics.",
     "His exit follows Yunusa Tanko's move to the SDP."
-   ],
-   "at": "2026-11-12T11:42Z"
-  },
-  {
-   "id": "justin-ug-joins-us-air-force",
-   "c": "celebs",
-   "n": 1,
-   "h": "Nollywood actor Justin UG joins the US Air Force",
-   "p": "Actor and content creator Justin UG has graduated from training and joined the United States Air Force, sharing photos from his graduation and saying the experience tested him like nothing before.",
-   "body": [
-    "Nigerian actor and content creator Justin Chukwudi Ugonna, popularly known as Justin UG, has joined the United States Air Force.",
-    "## What he shared",
-    "In an Instagram post on Wednesday, 11 November 2026, the entertainer shared photos and videos from his military graduation ceremony, showing him in uniform alongside fellow graduates. He said he had never imagined himself pursuing a military career, and described the training as physically and mentally demanding, saying it had tested him in ways he had never experienced. He said the experience showed him how much the human mind can endure."
-   ],
-   "more": [
-    "Justin UG completed US Air Force training.",
-    "He called the training physically and mentally tough.",
-    "He says he never imagined a military career."
    ],
    "at": "2026-11-12T11:42Z"
   },
