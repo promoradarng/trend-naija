@@ -1,5 +1,5 @@
 {
- "updated": "Updated 06:43 GMT",
+ "updated": "Updated 09:42 GMT",
  "date": "Friday, 13 November 2026",
  "categories": {
   "all": "All gist",
@@ -14,6 +14,119 @@
   "sport": "Sport"
  },
  "stories": [
+  {
+   "id": "microsoft-outlook-teams-global-outage",
+   "c": "world",
+   "n": 1,
+   "h": "Microsoft outage disrupts Outlook, Teams and Copilot in 74 countries",
+   "p": "A global Microsoft 365 outage that began on Thursday has disrupted Outlook, Teams and Copilot for users in 74 countries and territories, with nearly 140,000 problem reports logged at its peak. Microsoft says it is working to restore services.",
+   "body": [
+    "Microsoft is working to restore its services after a global outage disrupted Outlook email, Teams and its Copilot AI assistant for users around the world.",
+    "## What happened",
+    "The outage began on Thursday, 12 November 2026, and affected Microsoft 365 services in 74 countries and territories, according to reports on Friday. Many users were unable to load their inboxes or send and receive emails, while others had trouble with Teams calls and Copilot. Reports of Outlook problems on an outage-tracking website peaked at nearly 140,000 worldwide.",
+    "## Microsoft's explanation",
+    "Microsoft initially blamed the problem on unusually high traffic across parts of its infrastructure, which caused connection errors. The company said it had paused some deployments while it worked on a fix.",
+    "## Why it matters",
+    "Outlook and Teams are widely used by businesses and organisations around the world, including in Nigeria."
+   ],
+   "more": [
+    "The outage hit Outlook, Teams and Copilot.",
+    "It affected 74 countries and territories.",
+    "Microsoft blamed high traffic loads."
+   ],
+   "hot": 1,
+   "at": "2026-11-13T09:42Z"
+  },
+  {
+   "id": "davido-face-of-pubg-mobile-africa",
+   "c": "music",
+   "n": 1,
+   "h": "Davido becomes face of PUBG Mobile's new 'Flash' game across Africa",
+   "p": "Davido has been unveiled as the face of PUBG Mobile's Flash campaign in Africa, promoting a lighter version of the popular game that works on less powerful phones and includes an exclusive Davido outfit set.",
+   "body": [
+    "Davido has signed on as the face of PUBG Mobile's new campaign across Africa, taking his brand into the continent's fast-growing gaming market.",
+    "## The deal",
+    "The singer announced the partnership on Instagram on Thursday, 12 November 2026, sharing a promotional video in which he tells fans he is joining the battle royale game and that they do not need an expensive phone to play. He also invited fans to unlock an exclusive in-game 'King Set' outfit inspired by him.",
+    "## The game",
+    "PUBG Mobile Flash, which launched on Friday, 13 November, is a lighter edition of the popular shooting game with a smaller download size, designed to run on a wider range of phones while keeping the main maps and gameplay. The campaign is aimed at expanding the game's audience in Africa, where many players use budget smartphones.",
+    "## Background",
+    "Davido is one of Africa's biggest music stars and has a long list of brand partnerships. He has been in Tanzania this week, where he shot a project with Tanzanian star Diamond Platnumz."
+   ],
+   "more": [
+    "Davido is the face of PUBG Mobile Flash in Africa.",
+    "The lighter game works on budget phones.",
+    "Fans can unlock a Davido 'King Set'."
+   ],
+   "hot": 3,
+   "at": "2026-11-13T09:42Z"
+  },
+  {
+   "id": "carter-efe-peller-lose-streamer-award",
+   "c": "creators",
+   "n": 1,
+   "h": "Carter Efe and Peller miss out as India's Ashswag wins international streamer award",
+   "p": "Nigerian streamers Carter Efe and Peller lost out on the Best International Streamer prize at the 2026 Streamer Awards, which went to Indian streamer Ashswag.",
+   "body": [
+    "Nigerian content creators Carter Efe and Peller have missed out on an international award at the 2026 Streamer Awards.",
+    "## The result",
+    "The two were nominated for Best International Streamer after the organisers released the shortlist in October. At the ceremony, reported on Friday, 13 November 2026, the prize went to Indian streamer Ashswag, who beat the Nigerian pair and other nominees from around the world.",
+    "## Why it mattered",
+    "The nominations put the Nigerian duo among creators from around the world competing for the category.",
+    "## Background",
+    "Peller rose to prominence as one of Nigeria's biggest TikTok live streamers, while Carter Efe, a skit maker and musician, has also built a large streaming following."
+   ],
+   "more": [
+    "They were nominated for Best International Streamer.",
+    "India's Ashswag won the award.",
+    "Neither has reacted publicly."
+   ],
+   "hot": 5,
+   "at": "2026-11-13T09:42Z"
+  },
+  {
+   "id": "boniface-gifts-cancer-patient-n1m-tiktok-live",
+   "c": "sport",
+   "n": 1,
+   "h": "Victor Boniface sends ₦1m to cancer patient during TikTok livestream",
+   "p": "Super Eagles striker Victor Boniface has been praised after sending ₦1 million to a woman battling cancer who told him on his TikTok livestream that she needed about ₦4 million for treatment.",
+   "body": [
+    "Super Eagles striker Victor Boniface has won praise online after donating ₦1 million to a woman with cancer during a TikTok livestream.",
+    "## What happened",
+    "In a clip that spread widely on Friday, 13 November 2026, the woman joined Boniface's livestream and told him she needed about ₦4 million for her treatment. After listening to her, the Bayer Leverkusen forward asked for her account details and sent the money immediately, leaving her visibly emotional. Many Nigerians commended him for his generosity.",
+    "## His career",
+    "Away from the gesture, Boniface is going through a difficult spell. Injuries have held back his progress at Leverkusen, and a loan spell at Werder Bremen last season did not revive his form. He has played only a few minutes of Bundesliga football this season and is reportedly keen to leave in the January transfer window. Leverkusen, where he is under contract until 2028, are said to be open to a sale or a loan."
+   ],
+   "more": [
+    "Boniface sent ₦1m during a TikTok live.",
+    "The woman needs about ₦4m for treatment.",
+    "He is reportedly looking to leave Leverkusen in January."
+   ],
+   "hot": 6,
+   "at": "2026-11-13T09:42Z"
+  },
+  {
+   "id": "trcn-uncovers-250-fake-teaching-certificates",
+   "c": "naija",
+   "n": 1,
+   "h": "TRCN uncovers 250 fake teaching certificates in one state's recruitment",
+   "p": "The Teachers Registration Council of Nigeria says it found 250 fake teaching certificates during a state's recruitment of about 1,000 teachers, and is now issuing certificates with QR codes for instant checks.",
+   "body": [
+    "The Teachers Registration Council of Nigeria (TRCN) says it uncovered 250 fake teaching certificates during a single recruitment exercise.",
+    "## What was found",
+    "TRCN Registrar Dr Ronke Soyombo disclosed this on Thursday, 12 November 2026, while monitoring the council's Professional Qualifying Examination in Abuja. She said the discovery was made when an unnamed state was recruiting about 1,000 teachers.",
+    "## New safeguards",
+    "Soyombo said the council now issues certificates with QR codes that allow employers to verify them instantly on its portal before hiring. She said the council had also tightened exam security by giving candidates with different qualifications different, randomised questions, so that people sitting next to each other cannot copy.",
+    "## Background",
+    "The TRCN regulates the teaching profession and requires teachers to pass its qualifying examination before they can be registered and licensed."
+   ],
+   "more": [
+    "250 fake certificates were found in one exercise.",
+    "The state was hiring about 1,000 teachers.",
+    "New certificates carry QR codes."
+   ],
+   "hot": 8,
+   "at": "2026-11-13T09:42Z"
+  },
   {
    "id": "reps-probe-attacks-political-rallies",
    "c": "elections",
@@ -34,8 +147,8 @@
     "They must report within three weeks.",
     "Attacks in four states were cited."
    ],
-   "hot": 2,
-   "at": "2026-11-13T06:43Z"
+   "at": "2026-11-13T06:43Z",
+   "hot": 7
   },
   {
    "id": "inec-chairman-amupitan-heckled-london",
@@ -57,8 +170,8 @@
     "He pledged to refuse post-tenure appointments.",
     "He denies running a pro-APC X account."
    ],
-   "hot": 1,
-   "at": "2026-11-13T06:43Z"
+   "at": "2026-11-13T06:43Z",
+   "hot": 4
   },
   {
    "id": "senior-civil-servants-demand-n300000-minimum-wage",
@@ -80,8 +193,8 @@
     "It also wants gratuities paid promptly.",
     "It backs the creation of state police."
    ],
-   "hot": 5,
-   "at": "2026-11-13T06:43Z"
+   "at": "2026-11-13T06:43Z",
+   "hot": 9
   },
   {
    "id": "seriake-dickson-swims-river-forcados",
@@ -105,7 +218,6 @@
     "He urged youths to learn to swim.",
     "He is the NDC's national leader."
    ],
-   "hot": 8,
    "at": "2026-11-13T06:43Z"
   },
   {
@@ -128,8 +240,7 @@
     "Non-sensitive materials are moving to the states.",
     "PVC production is complete."
    ],
-   "at": "2026-11-12T20:43Z",
-   "hot": 6
+   "at": "2026-11-12T20:43Z"
   },
   {
    "id": "obi-pledges-10000mw-electricity-four-years",
@@ -149,8 +260,7 @@
     "He would declare emergencies on security, education and power.",
     "He spoke at the Lagos town hall attacked by thugs."
    ],
-   "at": "2026-11-12T20:43Z",
-   "hot": 7
+   "at": "2026-11-12T20:43Z"
   },
   {
    "id": "atiku-blames-tinubu-638-deaths-october",
@@ -194,13 +304,12 @@
     "He praised roads into Ikenne and easier fuel access.",
     "He urged Nigerians to acknowledge improvements."
    ],
-   "at": "2026-11-12T20:43Z",
-   "hot": 9
+   "at": "2026-11-12T20:43Z"
   },
   {
    "id": "blessing-ceo-admits-no-breast-cancer-vdm",
    "c": "creators",
-   "n": 1,
+   "n": 2,
    "h": "Blessing CEO admits she did not have breast cancer in interview with VeryDarkMan",
    "p": "Relationship coach Blessing CEO has admitted in an interview with VeryDarkMan that she did not have breast cancer, months after announcing that she was battling the illness and receiving donations from the public.",
    "body": [
@@ -208,7 +317,9 @@
     "## What she said",
     "In an interview with activist VeryDarkMan (VDM), reported on Thursday, 12 November 2026, she said a medical check-up had found a lump in her breast, but that it was not cancerous. She admitted that she used the discovery to tell people it was cancer because she wanted financial support. She said she first gave the impression that she was thinking of selling her car and house, before fans encouraged her to share her account details so they could donate.",
     "## How the donations ended",
-    "She said money started coming in from members of the public until VeryDarkMan questioned the fundraising and demanded proof of her diagnosis, after which the donations stopped."
+    "She said money started coming in from members of the public until VeryDarkMan questioned the fundraising and demanded proof of her diagnosis, after which the donations stopped.",
+    "## VeryDarkMan criticised",
+    "VeryDarkMan later asked Nigerians to forgive her, drawing criticism from some social media users. Commentator Japhman, in a video on 12 November, accused him of a double standard, saying the activist's 'Ratel' movement is built on demanding accountability from others."
    ],
    "more": [
     "She admitted the lump was not cancerous.",
@@ -216,7 +327,7 @@
     "Donations stopped after VDM questioned her."
    ],
    "at": "2026-11-12T20:43Z",
-   "hot": 4
+   "hot": 2
   },
   {
    "id": "kushner-witkoff-meet-putin-ukraine-talks",
@@ -310,72 +421,6 @@
    "at": "2026-11-12T17:42Z"
   },
   {
-   "id": "barcelona-real-madrid-eye-flamingos-adegbuyi",
-   "c": "sport",
-   "n": 1,
-   "h": "Barcelona and Real Madrid reportedly eye Flamingos star Oluwakemi Adegbuyi",
-   "p": "Barcelona and Real Madrid are reportedly interested in 16-year-old Flamingos forward Oluwakemi Adegbuyi after her performances in Nigeria's U-17 Women's World Cup win.",
-   "body": [
-    "Spanish giants Barcelona and Real Madrid are reportedly interested in Nigerian teenager Oluwakemi Adegbuyi after her performances for the Flamingos at the FIFA U-17 Women's World Cup.",
-    "## Her tournament",
-    "The 16-year-old forward played in all seven of Nigeria's matches in Morocco, scoring two goals and providing one assist as the Flamingos became the first African team to win the competition. Scouts from both clubs are said to see her as a candidate for an early move to European football, according to reports on Thursday, 12 November 2026. Neither club has commented.",
-    "## Her rise",
-    "Adegbuyi plays for FC Robo Queens in the Nigeria Women Football League and was named the league's Player of the Season for 2025/26 after scoring 11 goals. She was also named Player of the Tournament at the WAFU B Girls' Cup and at the WAFU B Champions League qualifiers, where she played for Edo Queens.",
-    "## Background",
-    "If a move to Barcelona happens, she would follow Super Falcons legend Asisat Oshoala. The Flamingos have been showered with rewards since their win, including ₦100 million savings certificates for each player from President Tinubu."
-   ],
-   "more": [
-    "Adegbuyi scored twice at the U-17 World Cup.",
-    "She was Player of the Season in Nigeria's league.",
-    "Neither club has commented."
-   ],
-   "at": "2026-11-12T17:42Z"
-  },
-  {
-   "id": "petrol-prices-drop-mrs-n1399-depots",
-   "c": "naija",
-   "n": 1,
-   "h": "Petrol prices ease as MRS cuts pump price to ₦1,399 and depots lower rates",
-   "p": "MRS filling stations in Abuja have reportedly cut petrol from ₦1,408 to ₦1,399 per litre, while some depot owners have reduced wholesale prices to as low as ₦1,215, following lower crude oil prices.",
-   "body": [
-    "Motorists may see some relief at the pump as petrol prices begin to fall.",
-    "## The cuts",
-    "A manager at an MRS filling station in Abuja told reporters on Thursday, 12 November 2026, that the company had reduced its pump price from ₦1,408 to ₦1,399 per litre, a cut of ₦9. It is not yet clear whether the new price applies across the company's whole network. Some depot owners who buy from Dangote Refinery have also reportedly lowered their wholesale prices from as high as ₦1,290 to ₦1,215 per litre.",
-    "## Why prices are falling",
-    "The reductions follow a fall in global crude oil prices, which recently dropped to their lowest level since August, and Dangote Refinery's switch to a pricing system linked to international petrol prices, which reportedly cut its loading price to ₦1,250 per litre.",
-    "## Background",
-    "MRS is a major retail partner of Dangote Refinery. The industry regulator has also given the refinery and marketers a deadline of 9 December to comply with a new pricing framework. Meanwhile, cooking gas prices have risen sharply in some states."
-   ],
-   "more": [
-    "MRS cut its Abuja pump price to ₦1,399.",
-    "Some depots now sell at ₦1,215 per litre.",
-    "Lower crude prices are driving the cuts."
-   ],
-   "at": "2026-11-12T17:42Z"
-  },
-  {
-   "id": "ghana-new-cedi-notes-december",
-   "c": "world",
-   "n": 1,
-   "h": "Ghana unveils new smaller cedi notes, to circulate from 1 December",
-   "p": "The Bank of Ghana has launched a redesigned series of cedi banknotes with better security features, smaller sizes and Adinkra symbols, which will enter circulation on 1 December.",
-   "body": [
-    "Ghana has unveiled a new series of banknotes as part of efforts to modernise its currency.",
-    "## The new notes",
-    "The Bank of Ghana launched the Ghana Cedi Heritage Series on Thursday, 12 November 2026, with the notes due to enter circulation on 1 December. The bank says they have improved security features, last longer and are smaller and easier to carry. The designs feature historical figures, national heroes, historic sites and monuments, and include traditional Adinkra symbols on Ghanaian banknotes for the first time.",
-    "## What the governor said",
-    "Bank of Ghana Governor Dr Johnson Pandit Asiama said a currency is more than a means of exchange and reflects a country's ability to manage its own monetary affairs. He said confidence in a currency depends on sound economic policy, strong institutions and public trust.",
-    "## Background",
-    "Nigeria's own attempt to redesign the naira in late 2022 caused severe cash shortages in early 2023."
-   ],
-   "more": [
-    "The new notes circulate from 1 December.",
-    "They feature Adinkra symbols for the first time.",
-    "They are smaller and more secure."
-   ],
-   "at": "2026-11-12T17:42Z"
-  },
-  {
    "id": "thugs-attack-ndc-town-hall-oregun-lagos",
    "c": "elections",
    "n": 3,
@@ -399,8 +444,7 @@
     "NDC supporters reportedly drove them out.",
     "Police have not commented."
    ],
-   "at": "2026-11-12T14:42Z",
-   "hot": 3
+   "at": "2026-11-12T14:42Z"
   },
   {
    "id": "ik-ogbonna-slams-okpebholo-edo-roads",
@@ -419,46 +463,6 @@
     "IK Ogbonna says Edo roads are dangerous.",
     "He tagged Governor Okpebholo.",
     "The state government has not responded."
-   ],
-   "at": "2026-11-12T14:42Z"
-  },
-  {
-   "id": "sabinus-criticises-fubara-rivers-roads",
-   "c": "celebs",
-   "n": 1,
-   "h": "Sabinus criticises Rivers government over bad roads and refuse",
-   "p": "Comedian Sabinus has criticised Rivers State governor Siminalayi Fubara and other officials over bad roads, refuse dumps and a poorly maintained stadium in the state, questioning how public funds are being used.",
-   "body": [
-    "Comedian and skit maker Sabinus, also known as Mr Funny, has criticised the Rivers State government over the condition of roads and public facilities in the state.",
-    "## What he said",
-    "In a video shared on Instagram on Thursday, 12 November 2026, the comedian said his home state of Rivers had some of the worst roads he had seen, with refuse dumps everywhere. He said the state has a governor, council chairmen and lawmakers who drive past the problems with sirens every day, yet nothing changes. He also asked officials in charge of sports how money meant for the state stadium was being spent, given its condition.",
-    "## Background",
-    "Siminalayi Fubara has governed Rivers since 2023 and has declared support for President Bola Tinubu's re-election. Sabinus's comments came on the same day actor IK Ogbonna criticised Edo State's governor over bad roads. The Rivers State government had not publicly responded at the time of writing."
-   ],
-   "more": [
-    "Sabinus says Rivers roads are among the worst.",
-    "He questioned how stadium funds are used.",
-    "The government has not responded."
-   ],
-   "at": "2026-11-12T14:42Z"
-  },
-  {
-   "id": "us-withdraws-u17-world-cup-qatar-security",
-   "c": "sport",
-   "n": 1,
-   "h": "US withdraws from U-17 World Cup in Qatar over security concerns",
-   "p": "The United States has pulled its team out of the FIFA U-17 World Cup in Qatar, citing a State Department travel advisory linked to the situation in the Middle East. The tournament starts on 19 November.",
-   "body": [
-    "The United States has withdrawn from the FIFA Under-17 World Cup in Qatar because of security concerns.",
-    "## What happened",
-    "In a letter to players and staff, reported on Wednesday, 11 November 2026, US Soccer said it had cancelled the team's pre-tournament camp and would no longer take part, citing a State Department travel advisory that places Qatar at Level 3, urging Americans to reconsider travel because of the risk of armed conflict in the region. The federation said the well-being of its players and staff was its top priority.",
-    "## Background",
-    "The tournament is due to begin on 19 November, just over a week after the announcement. It was not immediately clear how FIFA would replace the US team. Nigeria's under-17 women's team, the Flamingos, recently won the women's edition of the tournament in Morocco."
-   ],
-   "more": [
-    "US Soccer cited a Level 3 travel advisory.",
-    "The tournament starts on 19 November.",
-    "FIFA has not said how the US will be replaced."
    ],
    "at": "2026-11-12T14:42Z"
   },

@@ -1,0 +1,22 @@
+{
+ "id": "microsoft-outlook-teams-global-outage",
+ "c": "world",
+ "n": 1,
+ "h": "Microsoft outage disrupts Outlook, Teams and Copilot in 74 countries",
+ "p": "A global Microsoft 365 outage that began on Thursday has disrupted Outlook, Teams and Copilot for users in 74 countries and territories, with nearly 140,000 problem reports logged at its peak. Microsoft says it is working to restore services.",
+ "body": [
+  "Microsoft is working to restore its services after a global outage disrupted Outlook email, Teams and its Copilot AI assistant for users around the world.",
+  "## What happened",
+  "The outage began on Thursday, 12 November 2026, and affected Microsoft 365 services in 74 countries and territories, according to reports on Friday. Many users were unable to load their inboxes or send and receive emails, while others had trouble with Teams calls and Copilot. Reports of Outlook problems on an outage-tracking website peaked at nearly 140,000 worldwide.",
+  "## Microsoft's explanation",
+  "Microsoft initially blamed the problem on unusually high traffic across parts of its infrastructure, which caused connection errors. The company said it had paused some deployments while it worked on a fix.",
+  "## Why it matters",
+  "Outlook and Teams are widely used by businesses and organisations around the world, including in Nigeria."
+ ],
+ "more": [
+  "The outage hit Outlook, Teams and Copilot.",
+  "It affected 74 countries and territories.",
+  "Microsoft blamed high traffic loads."
+ ],
+ "at": "2026-11-13T09:42Z"
+}
