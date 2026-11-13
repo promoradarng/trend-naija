@@ -1,5 +1,5 @@
 {
- "updated": "Updated 15:50 GMT",
+ "updated": "Updated 17:42 GMT",
  "date": "Friday, 13 November 2026",
  "categories": {
   "all": "All gist",
@@ -14,6 +14,52 @@
   "sport": "Sport"
  },
  "stories": [
+  {
+   "id": "jd-vance-reconsidering-2028-run",
+   "c": "world",
+   "n": 1,
+   "h": "JD Vance reportedly reconsidering 2028 presidential run after midterm losses",
+   "p": "US Vice-President JD Vance is reportedly rethinking whether to run for president in 2028, after the Republicans' heavy defeat in this month's midterm elections led allies and donors to question the party's chances.",
+   "body": [
+    "US Vice-President JD Vance is reportedly reconsidering whether to run for president in 2028.",
+    "## What is reported",
+    "According to reports on Friday, 13 November 2026, citing people close to him, Vance has not made a final decision about entering the race after the Republican Party's poor performance in the midterm elections earlier this month. Allies and donors are said to be questioning whether the party can hold on to the White House. People close to him say he remains committed to the political movement that returned Donald Trump to power, but is increasingly asking whether he should be the one to lead it.",
+    "## A bigger question",
+    "One ally reportedly said Vance has been wrestling with whether any Republican can win the presidency in the current political climate. Another noted that at 42, he could afford to wait for a better opportunity.",
+    "## Background",
+    "Vance had been widely seen as the leading contender for the 2028 Republican nomination. In the 3 November midterms, the Democrats were projected to win control of both the House of Representatives and the Senate, and Trump has since replaced his chief of staff. Vance has not publicly commented on the reports."
+   ],
+   "more": [
+    "Vance has not decided on a 2028 run.",
+    "Republicans lost heavily in the midterms.",
+    "He is 42 and could wait."
+   ],
+   "hot": 5,
+   "at": "2026-11-13T17:42Z"
+  },
+  {
+   "id": "ooni-attends-olori-naomi-convocation",
+   "c": "celebs",
+   "n": 2,
+   "h": "Ooni of Ife attends ex-wife Olori Naomi's university convocation",
+   "p": "A video of the Ooni of Ife, Oba Adeyeye Ogunwusi, chatting warmly with his former wife Olori Naomi at her graduation from Elizade University has gone viral, drawing admiring reactions online.",
+   "body": [
+    "The Ooni of Ife, Oba Adeyeye Enitan Ogunwusi, has drawn attention online after attending the university graduation of his former wife, Olori Naomi Silekunola.",
+    "## What happened",
+    "Olori Naomi graduated from Elizade University in Ondo State, and a video from the convocation ceremony, shared by gospel singer Dare Justified on Friday, 13 November 2026, quickly went viral. It shows the former couple together with their son, chatting easily, with Naomi at one point leaning in to speak to the monarch over the noise of the venue. Photos also show them posing together.",
+    "## How people reacted",
+    "Many social media users praised the pair for maintaining a cordial relationship for the sake of their son, describing the moment as a good example of co-parenting.",
+    "## Background",
+    "Olori Naomi and the Ooni have a son together and later separated. Earlier this week drew attention for her entrance at a celebrity naming ceremony in Lagos."
+   ],
+   "more": [
+    "The Ooni attended Naomi's convocation.",
+    "They were filmed chatting with their son.",
+    "Fans praised their co-parenting."
+   ],
+   "hot": 2,
+   "at": "2026-11-13T17:42Z"
+  },
   {
    "id": "sweden-returns-39-benin-bronzes",
    "c": "naija",
@@ -34,8 +80,8 @@
     "Six will stay in Sweden on a 10-year loan.",
     "They were looted from Benin in 1897."
    ],
-   "hot": 1,
-   "at": "2026-11-13T15:50Z"
+   "at": "2026-11-13T15:50Z",
+   "hot": 3
   },
   {
    "id": "ecowas-akufo-addo-lead-observers-nigeria-2027",
@@ -57,8 +103,8 @@
     "The elections are on 16 January 2027.",
     "He was Ghana's president from 2017 to 2025."
    ],
-   "hot": 5,
-   "at": "2026-11-13T15:50Z"
+   "at": "2026-11-13T15:50Z",
+   "hot": 7
   },
   {
    "id": "us-official-warns-nigeria-election-violence",
@@ -80,29 +126,8 @@
     "Congressman Riley Moore urged close attention.",
     "The hearing focused on violence in Nigeria."
    ],
-   "hot": 4,
-   "at": "2026-11-13T15:50Z"
-  },
-  {
-   "id": "makinde-open-to-alliance-atiku-obi",
-   "c": "elections",
-   "n": 1,
-   "h": "Makinde says talks with Atiku and Obi are still open ahead of 2027",
-   "p": "Oyo governor and APM presidential candidate Seyi Makinde says discussions with Atiku Abubakar and Peter Obi are ongoing and could lead to different political arrangements before the election, but that any choice of partner must be based on evidence and public opinion.",
-   "body": [
-    "Oyo State governor Seyi Makinde, the presidential candidate of the Allied Peoples Movement (APM), says he is still open to working with Atiku Abubakar and Peter Obi before the 2027 elections.",
-    "## What he said",
-    "In a television interview aired on Friday, 13 November 2026, Makinde said discussions with both men were still active and that no option had been ruled out. He said the talks could lead to a range of political arrangements before the election, and that any decision would be guided by the goal of changing the country's direction. Asked whether he preferred Atiku or Obi as a partner, he said the choice should be based on evidence and public opinion rather than sentiment. He has also said he is willing to work with any Nigerian except President Bola Tinubu.",
-    "## Background",
-    "Atiku is the presidential candidate of the African Democratic Congress (ADC) and Obi of the Nigeria Democratic Congress (NDC). Efforts to agree a single opposition candidate have repeatedly stalled, with each insisting on running. Earlier this week, Makinde gave four reasons for challenging Tinubu, whom he supported in 2023, and PRP candidate Donald Duke said he was willing to step down for a consensus candidate. The presidential election is scheduled for 16 January 2027."
-   ],
-   "more": [
-    "Makinde says talks with Atiku and Obi continue.",
-    "He says any choice must rest on evidence.",
-    "He backed Tinubu in 2023."
-   ],
-   "hot": 7,
-   "at": "2026-11-13T15:50Z"
+   "at": "2026-11-13T15:50Z",
+   "hot": 8
   },
   {
    "id": "tems-children-of-blood-and-bone-soundtrack",
@@ -124,8 +149,8 @@
     "Burna Boy, Ayra Starr and Fireboy are featured.",
     "The album is out on 20 November."
    ],
-   "hot": 6,
-   "at": "2026-11-13T15:50Z"
+   "at": "2026-11-13T15:50Z",
+   "hot": 9
   },
   {
    "id": "tinubu-campaign-balloon-lagos-lagoon",
@@ -145,8 +170,8 @@
     "Carter Efe's reaction went viral.",
     "It is unclear how it got into the lagoon."
    ],
-   "hot": 3,
-   "at": "2026-11-13T15:50Z"
+   "at": "2026-11-13T15:50Z",
+   "hot": 6
   },
   {
    "id": "dr-mo-peter-obi-one-in-a-million-travel",
@@ -176,13 +201,12 @@
    "alt": "Peter Obi beside a photo of Dr. Mo speaking into a microphone",
    "credit": "Photo: Trend Naija",
    "owner": true,
-   "at": "2026-11-13T12:29Z",
-   "hot": 9
+   "at": "2026-11-13T12:29Z"
   },
   {
    "id": "obi-recites-old-national-anthem-lagos-town-hall",
    "c": "elections",
-   "n": 1,
+   "n": 2,
    "h": "Obi and NDC supporters recite old national anthem instead of new one at Lagos town hall",
    "p": "A video from the NDC town hall in Lagos shows Peter Obi and Lagos governorship candidate Funso Doherty leading supporters in reciting the old national anthem, 'Arise O Compatriots', instead of the new one adopted in 2024.",
    "body": [
@@ -193,6 +217,8 @@
     "Nigeria replaced 'Arise O Compatriots', which had been in use since 1978, with its original post-independence anthem, 'Nigeria We Hail Thee', in May 2024. President Bola Tinubu signed the change into law after the bill passed quickly through the National Assembly. The speed of the change drew criticism at the time.",
     "## Response",
     "Neither Obi's campaign nor the APC had commented on the video at the time of writing.",
+    "## Wike criticises Obi",
+    "FCT Minister Nyesom Wike criticised Obi over the incident on Friday, 13 November, at a town hall meeting of the pro-Tinubu Rainbow Coalition in Ogu-Bolo, Rivers State. He accused the NDC candidate of lawlessness, saying a man who wants to be president should not refuse to stand for the national anthem while standing for one that is no longer in use, and argued that anyone who disregards national symbols cannot be trusted to lead the country. Obi's campaign had not responded to Wike's remarks at the time of writing.",
     "## Background",
     "The same town hall meeting was disrupted earlier in the day by suspected thugs, before it went ahead. The presidential election is scheduled for 16 January 2027."
    ],
@@ -205,29 +231,7 @@
    "img": "img/obi-recites-old-national-anthem-lagos-town-hall-tn.jpg",
    "alt": "Peter Obi in glasses and a black top in front of the Nigerian flag",
    "credit": "Photo: Trend Naija",
-   "hot": 8
-  },
-  {
-   "id": "bruno-fernandes-rejects-second-man-utd-offer",
-   "c": "sport",
-   "n": 1,
-   "h": "Bruno Fernandes reportedly rejects second Man United contract offer",
-   "p": "Manchester United captain Bruno Fernandes has reportedly turned down a second contract offer, with his current deal running out at the end of the season, adding to the turmoil after Michael Carrick's sacking.",
-   "body": [
-    "Manchester United captain Bruno Fernandes has reportedly rejected a second contract offer from the club.",
-    "## The talks",
-    "According to reports on Friday, 13 November 2026, United first offered Fernandes a new deal in the summer, which he turned down, and talks between his representatives and the club have continued since then without agreement. His current contract expires at the end of the season.",
-    "## His record",
-    "The Portugal international had an outstanding 2025/26 season, helping United finish third and return to the Champions League after two years away. He set a new Premier League record of 21 assists in a season, breaking the mark previously shared by Thierry Henry and Kevin De Bruyne, and won both the FWA Footballer of the Year and PFA Player of the Year awards.",
-    "## Background",
-    "The news adds to a difficult period at Old Trafford. The club sacked head coach Michael Carrick this week after one league win in 10 games left them in the relegation zone, and Mauricio Pochettino has reportedly agreed to take over."
-   ],
-   "more": [
-    "Fernandes has reportedly rejected two offers.",
-    "His contract ends at the end of the season.",
-    "United sacked Carrick this week."
-   ],
-   "at": "2026-11-13T11:42Z"
+   "hot": 1
   },
   {
    "id": "microsoft-outlook-teams-global-outage",
@@ -573,7 +577,7 @@
    "img": "img/carrick.jpg",
    "alt": "Michael Carrick",
    "credit": "Photo: Timmy96 / Wikimedia Commons (CC0)",
-   "hot": 2
+   "hot": 4
   },
   {
    "id": "speed-darlington-apologises-burna-boy",
