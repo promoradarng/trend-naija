@@ -1,8 +1,8 @@
 {
  "id": "faa-grounds-all-us-departing-flights",
  "c": "world",
- "n": 1,
- "h": "US grounds all departing flights nationwide after telecom outage",
+ "n": 2,
+ "h": "US flights resume after five-hour nationwide ground stop caused by telecom outage",
  "p": "The US Federal Aviation Administration ordered a nationwide ground stop on all departing flights on Friday, citing safety. More than 2,000 flights were cancelled and over 10,000 delayed, and officials blamed a telecommunications outage.",
  "body": [
   "The United States briefly halted all departing flights across the country on Friday, 13 November 2026, causing widespread disruption.",
@@ -11,7 +11,9 @@
   "## The impact",
   "Within hours, more than 2,000 flights had been cancelled and more than 10,000 delayed, according to flight-tracking figures, and lawmakers demanded an explanation.",
   "## The cause",
-  "Homeland Security Secretary Markwayne Mullin said there was no indication so far of anything malicious, and that the problem appeared to be a telecommunications outage. He said President Donald Trump had been briefed."
+  "Homeland Security Secretary Markwayne Mullin said there was no indication so far of anything malicious, and that the problem appeared to be a telecommunications outage. He said President Donald Trump had been briefed.",
+  "## Ground stop lifted",
+  "The FAA lifted the ground stop after about five hours, with Transportation Secretary Sean Duffy saying airspace reopened at 8.15pm Eastern time, although operations would resume gradually. He said the outage was caused by overloaded switches and routers that led to gaps in communications and radar, and officials admitted that new technology added to the air traffic control network had overwhelmed older parts of the system. Officials confirmed it was not a cyberattack. More than 1.5 million passengers were affected, in the longest nationwide ground stop in 25 years."
  ],
  "more": [
   "The FAA halted all departing flights.",
