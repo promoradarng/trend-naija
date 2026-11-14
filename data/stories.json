@@ -15,6 +15,38 @@
  },
  "stories": [
   {
+   "id": "kano-drug-task-force-seals-pharma-company-pregabalin",
+   "c": "naija",
+   "n": 1,
+   "h": "Kano drug task force seals pharmaceutical company after major pregabalin seizure",
+   "p": "The Kano State Multi-Agency Task Force on Drug Abuse has sealed a pharmaceutical company after recovering about 3.18 million capsules suspected to be pregabalin, worth more than ₦900 million. Allegations of regulatory failures are still under investigation.",
+   "body": [
+    "The Kano State Multi-Agency Task Force on Drug Abuse and Illicit Trafficking has sealed a pharmaceutical company following the earlier recovery of about 3.18 million capsules suspected to be pregabalin.",
+    "## A ₦900 million haul",
+    "The task force estimates the value of the seized stock at more than ₦900 million. Photos of the seizure show cartons packed with boxes and blister packs of red-and-white capsules.",
+    "Pregabalin is a prescription medicine used to treat nerve pain and some other conditions. It is widely misused in parts of northern Nigeria, where it is taken in large doses for its sedating effects, and is a growing concern for health and security authorities.",
+    "## Questions for the regulators",
+    "The task force has also raised allegations of possible regulatory failures that may have allowed such a large quantity of the drug to circulate.",
+    "The Pharmacists Council of Nigeria (PCN) and the National Agency for Food and Drug Administration and Control (NAFDAC) had not responded to the allegations at the time of reporting.",
+    "## What is confirmed",
+    "The sealing of the company is confirmed. The allegations against the company and against regulatory officials remain under investigation and should not be treated as established facts.",
+    "## Over to you",
+    "How could controlled medicines reach illegal distribution networks on this scale, and what should regulators do to stop it?"
+   ],
+   "more": [
+    "About 3.18 million suspected pregabalin capsules were recovered.",
+    "The stock is valued at over ₦900 million.",
+    "Allegations against the company remain under investigation."
+   ],
+   "hot": 1,
+   "added": "2026-11-14",
+   "img": "img/kano-drug-task-force-seals-pharma-company-pregabalin.jpg",
+   "alt": "Cartons packed with boxes and blister packs of red and white capsules seized in Kano",
+   "credit": "Photo: Trend Naija",
+   "owner": true,
+   "at": "2026-11-14T15:45Z"
+  },
+  {
    "id": "atiku-bakers-lost-40-percent-members",
    "c": "elections",
    "n": 1,
@@ -34,7 +66,7 @@
     "He blamed energy and financing costs.",
     "The Presidency has not responded."
    ],
-   "hot": 2,
+   "hot": 3,
    "at": "2026-11-14T14:43Z"
   },
   {
@@ -79,7 +111,7 @@
     "Many users defended Umahi's road projects.",
     "Umahi has not responded."
    ],
-   "hot": 4,
+   "hot": 5,
    "at": "2026-11-14T14:43Z"
   },
   {
@@ -100,7 +132,7 @@
     "He wrote more than 70 books.",
     "'Eat That Frog!' was his best-known title."
    ],
-   "hot": 7,
+   "hot": 8,
    "at": "2026-11-14T14:43Z"
   },
   {
@@ -123,7 +155,6 @@
     "Tiwa Savage congratulated her.",
     "She previously dated Burna Boy."
    ],
-   "hot": 9,
    "at": "2026-11-14T14:43Z"
   },
   {
@@ -231,7 +262,7 @@
    "credit": "Photo: Trend Naija",
    "owner": true,
    "at": "2026-11-14T13:25Z",
-   "hot": 3
+   "hot": 4
   },
   {
    "id": "inec-denies-amupitan-planning-to-resign",
@@ -260,7 +291,7 @@
    "credit": "Photo: Trend Naija",
    "owner": true,
    "at": "2026-11-14T12:22Z",
-   "hot": 1
+   "hot": 2
   },
   {
    "id": "ncc-prosecution-netnaija-moviebox-piracy",
@@ -283,7 +314,7 @@
     "The platforms have not responded."
    ],
    "at": "2026-11-14T11:42Z",
-   "hot": 8
+   "hot": 9
   },
   {
    "id": "nkechi-blessing-bathtub-fall-uk",
@@ -334,7 +365,7 @@
    "credit": "Photo: Trend Naija",
    "owner": true,
    "at": "2026-11-14T10:02Z",
-   "hot": 5
+   "hot": 6
   },
   {
    "id": "presidency-denies-tinubu-convoy-attacked-abuja",
@@ -362,7 +393,7 @@
    "credit": "Photo: Trend Naija",
    "owner": true,
    "added": "2026-11-14",
-   "hot": 6
+   "hot": 7
   },
   {
    "id": "portable-says-received-n100m-after-apc-campaign",
