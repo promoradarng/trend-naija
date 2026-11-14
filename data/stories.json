@@ -15,6 +15,35 @@
  },
  "stories": [
   {
+   "id": "inec-denies-amupitan-planning-to-resign",
+   "c": "elections",
+   "n": 1,
+   "h": "BREAKING: INEC denies claims chairman Amupitan is planning to resign",
+   "p": "The Independent National Electoral Commission has denied claims that its chairman, Professor Joash Amupitan, is planning to resign, dismissing the reports ahead of the 2027 general elections.",
+   "body": [
+    "The Independent National Electoral Commission (INEC) has denied claims that its chairman, Professor Joash Amupitan, is planning to resign.",
+    "## Reports dismissed",
+    "The commission dismissed the reports, which had been circulating ahead of the 2027 general elections, and maintained that the chairman is not stepping down.",
+    "## Why it matters",
+    "Any change at the top of the electoral body this close to a general election would raise serious concerns about preparations for the polls. INEC has faced intense scrutiny in recent weeks, including controversy over AI-generated images in the voter register and growing tension around the \"Rig and Die\" slogan.",
+    "More details are expected as the story develops.",
+    "## Over to you",
+    "Do you believe the INEC chairman will remain in office until the 2027 elections?"
+   ],
+   "more": [
+    "INEC says its chairman is not planning to resign.",
+    "Professor Joash Amupitan heads the commission.",
+    "The 2027 general elections are approaching."
+   ],
+   "hot": 1,
+   "added": "2026-11-14",
+   "img": "img/inec-denies-amupitan-planning-to-resign.jpg",
+   "alt": "The logo of the Independent National Electoral Commission (INEC)",
+   "credit": "Photo: Trend Naija",
+   "owner": true,
+   "at": "2026-11-14T12:22Z"
+  },
+  {
    "id": "ncc-prosecution-netnaija-moviebox-piracy",
    "c": "naija",
    "n": 1,
@@ -34,7 +63,7 @@
     "The NCC can now seek to shut down entire sites.",
     "The platforms have not responded."
    ],
-   "hot": 3,
+   "hot": 4,
    "at": "2026-11-14T11:42Z"
   },
   {
@@ -57,7 +86,7 @@
     "She says the fall could have been far worse.",
     "Fans sent messages of relief."
    ],
-   "hot": 7,
+   "hot": 8,
    "at": "2026-11-14T11:42Z"
   },
   {
@@ -87,7 +116,7 @@
    "credit": "Photo: Trend Naija",
    "owner": true,
    "at": "2026-11-14T10:02Z",
-   "hot": 1
+   "hot": 2
   },
   {
    "id": "presidency-denies-tinubu-convoy-attacked-abuja",
@@ -115,7 +144,7 @@
    "credit": "Photo: Trend Naija",
    "owner": true,
    "added": "2026-11-14",
-   "hot": 2
+   "hot": 3
   },
   {
    "id": "portable-says-received-n100m-after-apc-campaign",
@@ -138,7 +167,7 @@
     "Reactions online were largely critical."
    ],
    "at": "2026-11-14T09:41Z",
-   "hot": 4
+   "hot": 5
   },
   {
    "id": "south-african-presidency-fires-back-fani-kayode-livestream",
@@ -171,7 +200,7 @@
    "credit": "Photo: Trend Naija",
    "owner": true,
    "at": "2026-11-14T09:27Z",
-   "hot": 8
+   "hot": 9
   },
   {
    "id": "2baba-birthday-message-annie-idibia",
@@ -199,8 +228,7 @@
    "credit": "Photo: Trend Naija",
    "owner": true,
    "added": "2026-11-14",
-   "at": "2026-11-14T08:55Z",
-   "hot": 9
+   "at": "2026-11-14T08:55Z"
   },
   {
    "id": "faa-grounds-all-us-departing-flights",
@@ -225,7 +253,7 @@
     "Officials blamed a telecoms outage."
    ],
    "at": "2026-11-14T06:42Z",
-   "hot": 6
+   "hot": 7
   },
   {
    "id": "iran-targets-us-base-bahrain-drones",
@@ -340,7 +368,7 @@
     "Lookman went off injured."
    ],
    "at": "2026-11-13T20:42Z",
-   "hot": 5
+   "hot": 6
   },
   {
    "id": "plateau-leaders-lalong-dariye-back-tinubu",
