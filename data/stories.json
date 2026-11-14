@@ -1,5 +1,5 @@
 {
- "updated": "Updated 14:43 GMT",
+ "updated": "Updated 17:42 GMT",
  "date": "Saturday, 14 November 2026",
  "categories": {
   "all": "All gist",
@@ -14,6 +14,73 @@
   "sport": "Sport"
  },
  "stories": [
+  {
+   "id": "ronaldinho-comeback-ravenna-aged-46",
+   "c": "sport",
+   "n": 1,
+   "h": "Ronaldinho set for competitive comeback at 46 with Italian club Ravenna",
+   "p": "Brazilian legend Ronaldinho is set to start for Serie C club Ravenna against Forli on Sunday, his first competitive match in more than a decade, the club's manager has confirmed.",
+   "body": [
+    "Former Barcelona, PSG and AC Milan star Ronaldinho is set to return to competitive football at the age of 46.",
+    "## The comeback",
+    "Ravenna manager Andrea Mandorlini confirmed on Friday, 13 November 2026, that the Brazilian will start for the Italian Serie C club in a local derby against Forli on Sunday, 15 November, as one of three forwards. Mandorlini described him as one of the greatest players of the modern era, adding that the coaching staff would decide together how long he plays.",
+    "## A long wait",
+    "Ronaldinho joined Ravenna as an investor in August. His last competitive appearance was for Brazilian club Fluminense in September 2015, making Sunday's match his first in more than ten years.",
+    "## Background",
+    "Ronaldinho won the Ballon d'Or in 2005 and the World Cup with Brazil in 2002, and is remembered as one of the most gifted and entertaining players of his generation."
+   ],
+   "more": [
+    "Ronaldinho will start against Forli on Sunday.",
+    "It is his first competitive match since 2015.",
+    "He joined Ravenna as an investor in August."
+   ],
+   "hot": 5,
+   "at": "2026-11-14T17:42Z"
+  },
+  {
+   "id": "portugal-honours-ronaldo-number-7-shirt",
+   "c": "sport",
+   "n": 1,
+   "h": "Portugal retires Ronaldo's number 7 shirt design after end of his international career",
+   "p": "Portugal's football federation has permanently changed the design of the number 7 on the national team shirt in honour of Cristiano Ronaldo, whose international career has ended, and players will all wear 7 during their walk-out against Denmark.",
+   "body": [
+    "Portugal's football federation has honoured Cristiano Ronaldo by permanently changing the design of the number 7 on the national team shirt.",
+    "## The tribute",
+    "The Portuguese Football Federation announced on X that the style of number 7 worn by Ronaldo will not be used by any other player, and a new version will appear on future shirts. According to reports on Saturday, 14 November 2026, every Portugal player will wear a number 7 shirt during the walk-out before their Nations League match against Denmark as a collective farewell.",
+    "## How it ended",
+    "Ronaldo's international career reportedly came to an end after a public disagreement with Jorge Jesus over a substitution during a match in September.",
+    "## Background",
+    "Ronaldo is Portugal's all-time record goalscorer and most-capped player and led the country to the Euro 2016 title. The gesture mirrors the honour Argentina gave Lionel Messi after his international retirement."
+   ],
+   "more": [
+    "Ronaldo's number 7 design will not be reused.",
+    "All players will wear 7 in the walk-out against Denmark.",
+    "His international career ended after a dispute in September."
+   ],
+   "hot": 3,
+   "at": "2026-11-14T17:42Z"
+  },
+  {
+   "id": "oriyomi-hamzat-backs-tinubu-2027",
+   "c": "elections",
+   "n": 1,
+   "h": "Oyo governorship candidate Oriyomi Hamzat says he backs Tinubu for 2027",
+   "p": "Broadcaster Oriyomi Hamzat, the Accord Party's governorship candidate in Oyo State, says he will support President Tinubu in 2027 rather than Governor Seyi Makinde or Peter Obi.",
+   "body": [
+    "Oriyomi Hamzat, the Accord Party's governorship candidate in Oyo State, has declared support for President Bola Tinubu's re-election in 2027.",
+    "## What he said",
+    "Speaking to journalists on Saturday, 14 November 2026, on the sidelines of the University of Ibadan's convocation, where he received a master's degree in peace and conflict resolution, the Ibadan-based broadcaster said he would not act against the President, citing loyalty. His comments came as voters in the South-West weigh three prominent southern presidential candidates: Tinubu, Oyo governor Seyi Makinde of the APM and Peter Obi of the NDC.",
+    "## Background",
+    "Hamzat is a popular radio presenter in Ibadan. He is running to succeed Makinde, who is in his second and final term and is now challenging Tinubu for the presidency. The presidential election is scheduled for 16 January 2027."
+   ],
+   "more": [
+    "Hamzat says he backs Tinubu.",
+    "He is the Accord Party's Oyo governorship candidate.",
+    "Makinde is also running for president."
+   ],
+   "hot": 6,
+   "at": "2026-11-14T17:42Z"
+  },
   {
    "id": "kano-drug-task-force-seals-pharma-company-pregabalin",
    "c": "naija",
@@ -38,18 +105,18 @@
     "The stock is valued at over ₦900 million.",
     "Allegations against the company remain under investigation."
    ],
-   "hot": 1,
    "added": "2026-11-14",
    "img": "img/kano-drug-task-force-seals-pharma-company-pregabalin.jpg",
    "alt": "Cartons packed with boxes and blister packs of red and white capsules seized in Kano",
    "credit": "Photo: Trend Naija",
    "owner": true,
-   "at": "2026-11-14T15:45Z"
+   "at": "2026-11-14T15:45Z",
+   "hot": 1
   },
   {
    "id": "atiku-bakers-lost-40-percent-members",
    "c": "elections",
-   "n": 1,
+   "n": 2,
    "h": "Atiku says nearly 40% of bread makers have shut down under Tinubu",
    "p": "Campaigning in Bauchi, ADC candidate Atiku Abubakar said the Premium Breadmakers Association of Nigeria has lost close to 40 per cent of its members in two years, blaming soaring energy and financing costs under President Tinubu.",
    "body": [
@@ -58,6 +125,8 @@
     "In a statement released in Bauchi on Saturday, 14 November 2026, by Phrank Shaibu, director of strategic communication for his campaign, Atiku said the Premium Breadmakers Association of Nigeria had lost close to 40 per cent of its members in two years. He was in the state as part of what his campaign calls its 'affordable life' tour.",
     "## Rising costs",
     "According to the statement, energy accounts for roughly half of most bakeries' production costs. It said one operator's monthly diesel bill had risen from ₦9 million to ₦19 million, and that switching to alternative power could cost a small bakery ₦40 million to ₦50 million, money most cannot raise. The statement blamed high energy prices and expensive financing for the closures.",
+    "## Bakers confirm",
+    "The Premium Breadmakers Association of Nigeria itself said at an exhibition in Lagos that about 40 per cent of its members had shut down in the past two years because of rising energy costs, expensive loans and economic conditions. Its president, Emmanuel Onuorah, called on the federal government to provide grants and single-digit interest loans to businesses in the real sector, warning that more closures could threaten jobs.",
     "## Background",
     "Atiku, the presidential candidate of the African Democratic Congress (ADC), has made the cost of living a central theme of his campaign. The government says its reforms, including the removal of fuel subsidy, were necessary to stabilise the economy and free up money for infrastructure. The Presidency had not responded to the statement at the time of writing. The presidential election is scheduled for 16 January 2027."
    ],
@@ -66,8 +135,8 @@
     "He blamed energy and financing costs.",
     "The Presidency has not responded."
    ],
-   "hot": 3,
-   "at": "2026-11-14T14:43Z"
+   "at": "2026-11-14T14:43Z",
+   "hot": 4
   },
   {
    "id": "fg-signs-port-harcourt-airport-concession",
@@ -111,8 +180,8 @@
     "Many users defended Umahi's road projects.",
     "Umahi has not responded."
    ],
-   "hot": 5,
-   "at": "2026-11-14T14:43Z"
+   "at": "2026-11-14T14:43Z",
+   "hot": 8
   },
   {
    "id": "brian-tracy-dies-at-82",
@@ -132,7 +201,6 @@
     "He wrote more than 70 books.",
     "'Eat That Frog!' was his best-known title."
    ],
-   "hot": 8,
    "at": "2026-11-14T14:43Z"
   },
   {
@@ -262,7 +330,7 @@
    "credit": "Photo: Trend Naija",
    "owner": true,
    "at": "2026-11-14T13:25Z",
-   "hot": 4
+   "hot": 9
   },
   {
    "id": "inec-denies-amupitan-planning-to-resign",
@@ -291,7 +359,7 @@
    "credit": "Photo: Trend Naija",
    "owner": true,
    "at": "2026-11-14T12:22Z",
-   "hot": 2
+   "hot": 7
   },
   {
    "id": "ncc-prosecution-netnaija-moviebox-piracy",
@@ -313,8 +381,7 @@
     "The NCC can now seek to shut down entire sites.",
     "The platforms have not responded."
    ],
-   "at": "2026-11-14T11:42Z",
-   "hot": 9
+   "at": "2026-11-14T11:42Z"
   },
   {
    "id": "nkechi-blessing-bathtub-fall-uk",
@@ -364,8 +431,7 @@
    "alt": "Young men tearing down and carrying away campaign posters by a roadside in Area 1, Abuja",
    "credit": "Photo: Trend Naija",
    "owner": true,
-   "at": "2026-11-14T10:02Z",
-   "hot": 6
+   "at": "2026-11-14T10:02Z"
   },
   {
    "id": "presidency-denies-tinubu-convoy-attacked-abuja",
@@ -392,8 +458,7 @@
    "alt": "Worshippers in kaftans walking outside a mosque in Abuja, with an inset portrait of President Bola Tinubu in blue agbada and cap",
    "credit": "Photo: Trend Naija",
    "owner": true,
-   "added": "2026-11-14",
-   "hot": 7
+   "added": "2026-11-14"
   },
   {
    "id": "portable-says-received-n100m-after-apc-campaign",
@@ -572,7 +637,7 @@
   {
    "id": "olympic-eagles-lose-2-0-dr-congo-u23",
    "c": "sport",
-   "n": 1,
+   "n": 2,
    "h": "Olympic Eagles lose 2-0 to DR Congo in U-23 AFCON qualifier first leg",
    "p": "Nigeria's U-23 team lost 2-0 to DR Congo in Lubumbashi in the first leg of their U-23 AFCON qualifier, with a controversial opening goal and an injury to Brighton forward Zadok Yohanna.",
    "body": [
@@ -582,7 +647,8 @@
     "## Who was in charge",
     "The team was led by Ikorodu City coach Bright Osehai Ozebagbe and former U-20 assistant coach Deniran Ortega, while Eric Chelle was with the Super Eagles, who beat Tanzania 3-1 on the same day.",
     "## What happens next",
-    "Nigeria will need to overturn the two-goal deficit in the return leg at home to reach the tournament."
+    "Nigeria will need to overturn the two-goal deficit in the return leg at home to reach the tournament.",
+    "Brighton forward Zadok Yohanna, who was making his first start for the U-23 side, has been ruled out of the return leg with the injury he picked up in Lubumbashi."
    ],
    "more": [
     "Nigeria lost 2-0 in Lubumbashi.",
@@ -594,7 +660,7 @@
   {
    "id": "super-eagles-beat-tanzania-3-1-arokodare",
    "c": "sport",
-   "n": 2,
+   "n": 1,
    "h": "Arokodare scores twice as Super Eagles beat Tanzania 3-1 in AFCON qualifier",
    "p": "Substitute Tolu Arokodare scored twice as Nigeria beat Tanzania 3-1 in Uyo on matchday three of the 2027 AFCON qualifiers, moving the Super Eagles to second in Group L, a point behind Guinea-Bissau.",
    "body": [
@@ -606,14 +672,16 @@
     "## Arokodare delivers",
     "Arokodare, who has been in strong form on loan at Ajax in the Netherlands, had promised to carry his club form into the national team in the absence of the injured Victor Osimhen. Chelle later sent him a message after his brace.",
     "## Lookman a doubt",
-    "After the match, Chelle said Ademola Lookman was a doubt for the return fixture against Tanzania. He said the Atletico Madrid forward had felt discomfort in his knee before a knock to the same area made it worse, and the coaching staff are not expected to rush him back. Tanzania are one of the co-hosts of AFCON 2027, along with Kenya and Uganda."
+    "After the match, Chelle said Ademola Lookman was a doubt for the return fixture against Tanzania. He said the Atletico Madrid forward had felt discomfort in his knee before a knock to the same area made it worse, and the coaching staff are not expected to rush him back. Tanzania are one of the co-hosts of AFCON 2027, along with Kenya and Uganda.",
+    "A scan later confirmed a knee ligament sprain, and the Super Eagles' medical team ruled Lookman out of the second leg in Zanzibar, where Nigeria will defend a two-goal advantage. Victor Osimhen is also missing the November games."
    ],
    "more": [
     "Arokodare scored twice off the bench.",
     "Nigeria are second in Group L.",
     "Lookman went off injured."
    ],
-   "at": "2026-11-13T20:42Z"
+   "at": "2026-11-13T20:42Z",
+   "hot": 2
   },
   {
    "id": "plateau-leaders-lalong-dariye-back-tinubu",
@@ -1695,109 +1763,6 @@
    "alt": "A man in a white agbada and patterned cap seated in an office chair",
    "credit": "Photo: Trend Naija",
    "owner": true
-  },
-  {
-   "id": "remi-tinubu-receives-flamingos-villa",
-   "c": "sport",
-   "n": 3,
-   "h": "Tinubu rewards each Flamingos player with ₦100m after U-17 World Cup win",
-   "p": "President Tinubu has rewarded each Flamingos player with a ₦100 million savings certificate, held in trust until they turn 18, after their FIFA U-17 Women's World Cup win. The head coach gets ₦100 million and each technical official ₦50 million. First Lady Remi Tinubu announced the rewards at the Villa.",
-   "body": [
-    "The Flamingos, Nigeria's under-17 women's football team, have been welcomed at the Presidential Villa in Abuja after winning the FIFA U-17 Women's World Cup.",
-    "## The reception",
-    "First Lady Oluremi Tinubu received the players and officials on Wednesday, 11 November 2026, on behalf of President Bola Tinubu, in what was described as a celebratory homecoming visit and the federal government's formal recognition of the team's achievement.",
-    "## ₦100 million each",
-    "During the visit, the First Lady announced that the President was giving each player a ₦100 million savings certificate. The money will be held in trust in designated bank accounts until each player turns 18, so the teenage champions will not have immediate access to it. The reward was extended to the coaching staff: the head coach will receive ₦100 million in cash and each member of the technical crew ₦50 million.",
-    "## The win",
-    "The Flamingos beat Japan 2–1 in the final in Morocco on Saturday, 7 November, with goals from Awawu Bashiru and Oluebube Umejiaku, becoming the first African side to win the tournament. After losing their opening game to Poland, they won five matches in a row, including victories over defending champions North Korea, Mexico, Venezuela and Brazil. The win means Nigeria has now won the FIFA U-17 World Cup in both the men's and women's competitions.",
-    "## Rewards",
-    "The Senate has also pledged ₦100 million to the team, and the players had earlier received $50,000 in cash. FIFA does not award prize money at this level, so rewards depend on governments and sponsors."
-   ],
-   "more": [
-    "Each player gets a ₦100m savings certificate.",
-    "The money is held in trust until they turn 18.",
-    "The head coach gets ₦100m; officials ₦50m each."
-   ],
-   "at": "2026-11-11T14:42Z",
-   "img": "img/flamingos-beat-japan-win-u17-world-cup.jpg",
-   "alt": "A Nigeria Flamingos player challenges a Japan player for the ball during the U-17 Women's World Cup final",
-   "credit": "Photo: Trend Naija"
-  },
-  {
-   "id": "pochettino-close-man-united-deal",
-   "c": "sport",
-   "n": 2,
-   "h": "Pochettino reportedly close to deal to become Manchester United coach",
-   "p": "Manchester United are reportedly close to agreeing a deal with Mauricio Pochettino to become their next head coach if they decide to sack Michael Carrick.",
-   "body": [
-    "Manchester United are reportedly close to agreeing terms with Mauricio Pochettino to take charge of the club.",
-    "## What is reported",
-    "According to reports on Wednesday, 11 November 2026, the deal would only go ahead if United decide to sack their current head coach, Michael Carrick. No decision has been publicly announced, and the club has not commented.",
-    "## Talks with US Soccer",
-    "According to further reports on Thursday, 12 November, United have contacted US Soccer about triggering a reported $10 million release clause in Pochettino's contract, and expect to spend about $2 million more to bring in his backroom staff. Senior executives reportedly met minority owner Sir Jim Ratcliffe in Monaco on Wednesday and scheduled a formal meeting with Carrick for Thursday, after which he is widely expected to leave. United are 18th in the Premier League with just one league win this season.",
-    "## Who is Pochettino",
-    "The Argentine has previously managed Tottenham Hotspur, Paris Saint-Germain and Chelsea, and was appointed head coach of the United States men's national team in September 2024.",
-    "## Background",
-    "Carrick has come under growing pressure after a run of poor results, and senior figures at the club are reported to have met to discuss his future. Several candidates have been linked with the job in recent days."
-   ],
-   "more": [
-    "The move depends on United sacking Carrick.",
-    "Pochettino has managed Spurs, PSG and Chelsea.",
-    "The club has not commented."
-   ],
-   "at": "2026-11-11T14:42Z"
-  },
-  {
-   "id": "tinubu-n52500-minimum-pension-retirees",
-   "c": "naija",
-   "n": 1,
-   "h": "Tinubu launches ₦52,500 minimum monthly pension for 173,209 retirees",
-   "p": "President Tinubu has activated a guaranteed minimum pension of ₦52,500 a month for 173,209 retirees under the Contributory Pension Scheme, a provision that has been in law since 2004 but was never enforced. He also launched free basic healthcare for low-income pensioners.",
-   "body": [
-    "Retirees under Nigeria's Contributory Pension Scheme will now receive at least ₦52,500 a month, after President Bola Tinubu activated a minimum pension guarantee in Abuja.",
-    "## What was announced",
-    "At the Presidential Pension Security Initiatives ceremony at the State House on Wednesday, 11 November 2026, the President, represented by Senate President Godswill Akpabio, declared the guarantee active for 173,209 qualifying retirees. He described it as a floor beneath Nigerian retirees and urged future governments to raise it but never remove it. The Director-General of the National Pension Commission (PenCom), Omolola Oloworaran, confirmed the figure and said more than 65 per cent of private-sector retirees currently earn less than the new minimum.",
-    "## Who benefits",
-    "According to PenCom, 54 per cent of the qualifying retirees come from the private sector, 34 per cent from federal service and 12 per cent from state employment. More than ₦400bn in the Pension Protection Fund will finance the guarantee.",
-    "## Healthcare and arrears",
-    "The President also launched PenCare, a healthcare plan that will give low-income pensioners free access to essential health services, with access cards to be distributed in the coming months. He said the government had issued a ₦758bn bond to clear pension arrears and approved a ₦32,000 monthly adjustment for affected federal pensioners.",
-    "## Background",
-    "The minimum pension was first written into the Pension Reform Act of 2004 and kept in the 2014 law, but no government had put it into effect until now."
-   ],
-   "more": [
-    "173,209 retirees qualify for the ₦52,500 minimum.",
-    "Free healthcare for low-income pensioners was also launched.",
-    "A ₦758bn bond will clear pension arrears."
-   ],
-   "img": "img/tinubu-n52500-minimum-pension-retirees-tn.jpg",
-   "credit": "Photo: Trend Naija",
-   "alt": "President Bola Tinubu in a green cap and glasses at a meeting",
-   "at": "2026-11-11T11:42Z"
-  },
-  {
-   "id": "dangote-cuts-petrol-price-n1250-new-pricing",
-   "c": "naija",
-   "n": 1,
-   "h": "Dangote refinery reportedly cuts petrol price to ₦1,250 and drops fixed pricing",
-   "p": "Dangote Petroleum Refinery has reportedly cut its petrol loading price to ₦1,250 per litre, down ₦50, after returning to a pricing system linked to international gasoline prices. That means pump prices could now rise or fall with global markets.",
-   "body": [
-    "Dangote Petroleum Refinery has reportedly reduced its petrol loading price to ₦1,250 per litre and changed how it sets prices.",
-    "## What changed",
-    "According to industry sources cited in reports on Wednesday, 11 November 2026, the new arrangement took effect on Saturday, 7 November. The refinery is said to have abandoned its fixed gantry price of ₦1,300 per litre and returned to pricing petrol against an international gasoline benchmark. The new price is about ₦50, or roughly 3.85 per cent, lower.",
-    "## What it means",
-    "Under the benchmark-linked system, the refinery's petrol prices can move up or down with global gasoline prices, rather than staying fixed. Diesel is reportedly still sold at a fixed gantry price. The refinery is also said to have restructured the group of marketers that distribute its products.",
-    "## Background",
-    "The change comes amid growing competition in Nigeria's fuel market between the refinery, importers and depot owners, with prices shifting frequently in recent weeks. How much of the cut reaches motorists at filling stations will depend on marketers."
-   ],
-   "more": [
-    "The loading price is reportedly ₦1,250 per litre.",
-    "Prices will now track global gasoline prices.",
-    "Diesel pricing is said to be unchanged."
-   ],
-   "img": "img/dangote-cuts-petrol-price-n1250-new-pricing.jpg",
-   "credit": "Photo: Saba Dubai / Wikimedia Commons (CC BY 3.0)",
-   "alt": "Aliko Dangote in a dark suit",
-   "at": "2026-11-11T11:42Z"
   }
  ]
 }
