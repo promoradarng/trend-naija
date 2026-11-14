@@ -15,6 +15,43 @@
  },
  "stories": [
   {
+   "id": "nasser-egypt-saved-lumumba-children-shazly",
+   "c": "world",
+   "n": 1,
+   "h": "When Congo turned on Lumumba, Egypt did not abandon his family: how Nasser sent a colonel to save his children",
+   "p": "As Patrice Lumumba's government collapsed and his life came under threat, Egypt's President Gamal Abdel Nasser ordered a secret mission led by Colonel Saad El-Din El-Shazly to get Lumumba's children out of Congo. They grew up in Cairo under Egypt's protection.",
+   "body": [
+    "It is one of the lesser-known chapters of Africa's liberation story, and a remarkable act of solidarity between two African nations.",
+    "## A leader in danger",
+    "Patrice Lumumba, Congo's first Prime Minister after independence from Belgium in 1960, was overthrown within months and placed under house arrest. In January 1961 he was handed over to his enemies and assassinated, one of the most shocking political killings in African history.",
+    "As Congo descended into chaos, Lumumba's family was in grave danger, and his wife Pauline and their children had nowhere safe to turn.",
+    "## Nasser's secret mission",
+    "Egypt did not look away. On the direct orders of President Gamal Abdel Nasser, Colonel Saad El-Din El-Shazly, who later became one of Egypt's most celebrated military commanders, took on the task of getting Lumumba's children safely out of the country.",
+    "El-Shazly knew Congo well. He had commanded the Egyptian battalion sent there in 1960 as part of the international force during the independence crisis, at a time when Egypt firmly backed Lumumba.",
+    "The operation was carried out in complete secrecy. Lumumba's children, including his eldest son François, were smuggled out of Congo and flown to Cairo, where they arrived safely while their father was still under arrest.",
+    "## A new home in Cairo",
+    "After Lumumba's death, Pauline joined the children in Egypt. Nasser offered the family protection and support, and the Egyptian government helped with their housing, schooling and other needs.",
+    "Lumumba's children grew up in Egypt, which became not just a place of refuge but a home that embraced their father's cause as a symbol of African liberation.",
+    "Pauline later spent time in Europe before returning to Congo in the late 1960s, after Lumumba began to be honoured as a national hero. She settled in Kinshasa.",
+    "## Africa looking out for its own",
+    "The story is a reminder that Egypt was not just a witness to Africa's independence struggles, but an active partner in them. When Lumumba's family was in danger, an African nation stepped in to protect them.",
+    "## Over to you",
+    "Did you know this part of Lumumba's story? What does it tell us about African solidarity then, and now?"
+   ],
+   "more": [
+    "Nasser ordered Lumumba's children to be secretly evacuated.",
+    "Colonel Saad El-Din El-Shazly led the mission.",
+    "The family lived in Cairo under Egypt's protection."
+   ],
+   "hot": 1,
+   "added": "2026-11-14",
+   "img": "img/nasser-egypt-saved-lumumba-children-shazly.jpg",
+   "alt": "Egyptian President Gamal Abdel Nasser seated with Pauline Lumumba and two of Patrice Lumumba's children",
+   "credit": "Photo: Trend Naija",
+   "owner": true,
+   "at": "2026-11-14T14:31Z"
+  },
+  {
    "id": "sinmi-asomuyide-ex-kokomo-officer-40-years-prison",
    "c": "world",
    "n": 4,
@@ -46,7 +83,7 @@
     "DNA found in his patrol car matched his own.",
     "He had resigned in Virginia over an earlier allegation involving a 15-year-old."
    ],
-   "hot": 1,
+   "hot": 2,
    "added": "2026-11-14",
    "img": "img/sinmi-asomuyide-ex-kokomo-officer-40-years-prison.jpg",
    "alt": "Sinmi Asomuyide in police uniform, his booking photo, and a Kokomo Police patrol car",
@@ -78,7 +115,7 @@
     "He vowed to move to Burkina Faso if Obi loses.",
     "Obi is the NDC presidential candidate."
    ],
-   "hot": 2,
+   "hot": 3,
    "added": "2026-11-14",
    "img": "img/gehgeh-obi-genuine-support-relocate-burkina-faso.jpg",
    "alt": "GehGeh dancing and speaking in his car, beside Peter Obi in an NDC cap",
@@ -107,7 +144,7 @@
     "Professor Joash Amupitan heads the commission.",
     "The 2027 general elections are approaching."
    ],
-   "hot": 3,
+   "hot": 4,
    "added": "2026-11-14",
    "img": "img/inec-denies-amupitan-planning-to-resign.jpg",
    "alt": "The logo of the Independent National Electoral Commission (INEC)",
@@ -135,7 +172,7 @@
     "The NCC can now seek to shut down entire sites.",
     "The platforms have not responded."
    ],
-   "hot": 6,
+   "hot": 7,
    "at": "2026-11-14T11:42Z"
   },
   {
@@ -187,7 +224,7 @@
    "credit": "Photo: Trend Naija",
    "owner": true,
    "at": "2026-11-14T10:02Z",
-   "hot": 4
+   "hot": 5
   },
   {
    "id": "presidency-denies-tinubu-convoy-attacked-abuja",
@@ -215,7 +252,7 @@
    "credit": "Photo: Trend Naija",
    "owner": true,
    "added": "2026-11-14",
-   "hot": 5
+   "hot": 6
   },
   {
    "id": "portable-says-received-n100m-after-apc-campaign",
@@ -238,7 +275,7 @@
     "Reactions online were largely critical."
    ],
    "at": "2026-11-14T09:41Z",
-   "hot": 7
+   "hot": 8
   },
   {
    "id": "south-african-presidency-fires-back-fani-kayode-livestream",
@@ -322,8 +359,7 @@
     "More than 2,000 flights were cancelled.",
     "Officials blamed a telecoms outage."
    ],
-   "at": "2026-11-14T06:42Z",
-   "hot": 9
+   "at": "2026-11-14T06:42Z"
   },
   {
    "id": "iran-targets-us-base-bahrain-drones",
@@ -438,7 +474,7 @@
     "Lookman went off injured."
    ],
    "at": "2026-11-13T20:42Z",
-   "hot": 8
+   "hot": 9
   },
   {
    "id": "plateau-leaders-lalong-dariye-back-tinubu",
