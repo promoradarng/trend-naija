@@ -1,5 +1,5 @@
 {
- "updated": "Updated 09:41 GMT",
+ "updated": "Updated 11:42 GMT",
  "date": "Saturday, 14 November 2026",
  "categories": {
   "all": "All gist",
@@ -14,6 +14,52 @@
   "sport": "Sport"
  },
  "stories": [
+  {
+   "id": "ncc-prosecution-netnaija-moviebox-piracy",
+   "c": "naija",
+   "n": 1,
+   "h": "Copyright Commission takes legal action against NetNaija, MovieBox over piracy",
+   "p": "The Nigerian Copyright Commission says it has begun legal action against operators of platforms including NetNaija and MovieBox over alleged copyright violations, warning that sites distributing protected content without permission could be shut down.",
+   "body": [
+    "The Nigerian Copyright Commission (NCC) says it has started legal action against the operators of several online platforms, including NetNaija and MovieBox, over alleged copyright infringement.",
+    "## What the commission said",
+    "Speaking on Thursday, 12 November 2026, at a copyright sensitisation programme at the University of Ibadan, Barrister Kunle Olatunji, deputy director of the commission's Regulatory and Compliance Department, said the action was part of efforts to protect authors, publishers, filmmakers and other creators whose work is used without permission. He said the Copyright Act 2022 had widened the commission's powers to tackle online piracy, allowing it to seek the closure of entire websites rather than just the removal of individual pirated items.",
+    "## Why it matters",
+    "Olatunji said the law protects the rights of creative professionals whose works are exploited without their consent.",
+    "## Background",
+    "The allegations against the platforms have not been tested in court, and their operators had not publicly responded at the time of writing."
+   ],
+   "more": [
+    "NetNaija and MovieBox face legal action.",
+    "The NCC can now seek to shut down entire sites.",
+    "The platforms have not responded."
+   ],
+   "hot": 3,
+   "at": "2026-11-14T11:42Z"
+  },
+  {
+   "id": "nkechi-blessing-bathtub-fall-uk",
+   "c": "celebs",
+   "n": 1,
+   "h": "Nkechi Blessing thanks God after nasty bathtub fall in the UK",
+   "p": "Actress Nkechi Blessing says she narrowly escaped serious injury after slipping in a bathtub while preparing for a photoshoot in the UK, and has thanked God for her recovery.",
+   "body": [
+    "Nollywood actress Nkechi Blessing has shared a frightening experience she had while in the United Kingdom.",
+    "## What happened",
+    "In a video posted on Instagram on Friday, 13 November 2026, the actress said she had slipped in her bathtub earlier that day while getting ready for a photoshoot. She said she lost her footing, tumbled out of the tub and landed on her back and bottom on the floor. She credited her physical strength for helping her recover quickly, saying the outcome could otherwise have been far worse.",
+    "## Her message",
+    "In the caption, she thanked God for protecting her and asked her followers to help her give thanks.",
+    "## How people reacted",
+    "Colleagues and fans flooded her comments with messages of relief and prayers. The actress has been in the news this week after publicly addressing speculation about her love life."
+   ],
+   "more": [
+    "Nkechi Blessing slipped in a bathtub in the UK.",
+    "She says the fall could have been far worse.",
+    "Fans sent messages of relief."
+   ],
+   "hot": 7,
+   "at": "2026-11-14T11:42Z"
+  },
   {
    "id": "area-1-abuja-residents-destroy-tinubu-wike-posters",
    "c": "elections",
@@ -35,13 +81,13 @@
     "The reason for the anger is not yet clear.",
     "The incident has sparked debate about public frustration."
    ],
-   "hot": 1,
    "added": "2026-11-14",
    "img": "img/area-1-abuja-residents-destroy-tinubu-wike-posters.jpg",
    "alt": "Young men tearing down and carrying away campaign posters by a roadside in Area 1, Abuja",
    "credit": "Photo: Trend Naija",
    "owner": true,
-   "at": "2026-11-14T10:02Z"
+   "at": "2026-11-14T10:02Z",
+   "hot": 1
   },
   {
    "id": "presidency-denies-tinubu-convoy-attacked-abuja",
@@ -63,13 +109,13 @@
     "The Presidency called it misleading.",
     "Tinubu's aide released his own footage."
    ],
-   "hot": 2,
    "at": "2026-11-14T09:41Z",
    "img": "img/presidency-denies-tinubu-convoy-attacked-abuja.jpg",
    "alt": "Worshippers in kaftans walking outside a mosque in Abuja, with an inset portrait of President Bola Tinubu in blue agbada and cap",
    "credit": "Photo: Trend Naija",
    "owner": true,
-   "added": "2026-11-14"
+   "added": "2026-11-14",
+   "hot": 2
   },
   {
    "id": "portable-says-received-n100m-after-apc-campaign",
@@ -91,8 +137,8 @@
     "He did not say who sent it.",
     "Reactions online were largely critical."
    ],
-   "hot": 4,
-   "at": "2026-11-14T09:41Z"
+   "at": "2026-11-14T09:41Z",
+   "hot": 4
   },
   {
    "id": "south-african-presidency-fires-back-fani-kayode-livestream",
@@ -125,7 +171,7 @@
    "credit": "Photo: Trend Naija",
    "owner": true,
    "at": "2026-11-14T09:27Z",
-   "hot": 9
+   "hot": 8
   },
   {
    "id": "2baba-birthday-message-annie-idibia",
@@ -154,7 +200,7 @@
    "owner": true,
    "added": "2026-11-14",
    "at": "2026-11-14T08:55Z",
-   "hot": 6
+   "hot": 9
   },
   {
    "id": "faa-grounds-all-us-departing-flights",
@@ -179,7 +225,7 @@
     "Officials blamed a telecoms outage."
    ],
    "at": "2026-11-14T06:42Z",
-   "hot": 3
+   "hot": 6
   },
   {
    "id": "iran-targets-us-base-bahrain-drones",
@@ -227,8 +273,7 @@
     "He says the Atiku–Obi rivalry helps Tinubu.",
     "He has ruled out supporting the President."
    ],
-   "at": "2026-11-14T06:42Z",
-   "hot": 7
+   "at": "2026-11-14T06:42Z"
   },
   {
    "id": "avril-lavigne-welcomes-first-baby",
@@ -275,7 +320,7 @@
   {
    "id": "super-eagles-beat-tanzania-3-1-arokodare",
    "c": "sport",
-   "n": 1,
+   "n": 2,
    "h": "Arokodare scores twice as Super Eagles beat Tanzania 3-1 in AFCON qualifier",
    "p": "Substitute Tolu Arokodare scored twice as Nigeria beat Tanzania 3-1 in Uyo on matchday three of the 2027 AFCON qualifiers, moving the Super Eagles to second in Group L, a point behind Guinea-Bissau.",
    "body": [
@@ -286,8 +331,8 @@
     "The win moved Nigeria to second in Group L, one point behind Guinea-Bissau, who were held 1-1 by Madagascar. Nigeria play Tanzania again in their next match, and a win there would take them to nine points, putting them in a strong position to qualify with two games left.",
     "## Arokodare delivers",
     "Arokodare, who has been in strong form on loan at Ajax in the Netherlands, had promised to carry his club form into the national team in the absence of the injured Victor Osimhen. Chelle later sent him a message after his brace.",
-    "## Background",
-    "Tanzania are one of the co-hosts of AFCON 2027, along with Kenya and Uganda."
+    "## Lookman a doubt",
+    "After the match, Chelle said Ademola Lookman was a doubt for the return fixture against Tanzania. He said the Atletico Madrid forward had felt discomfort in his knee before a knock to the same area made it worse, and the coaching staff are not expected to rush him back. Tanzania are one of the co-hosts of AFCON 2027, along with Kenya and Uganda."
    ],
    "more": [
     "Arokodare scored twice off the bench.",
@@ -479,8 +524,7 @@
     "Congressman Riley Moore urged close attention.",
     "The hearing focused on violence in Nigeria."
    ],
-   "at": "2026-11-13T15:50Z",
-   "hot": 8
+   "at": "2026-11-13T15:50Z"
   },
   {
    "id": "tems-children-of-blood-and-bone-soundtrack",
@@ -1716,84 +1760,6 @@
     "Police helped resolve a family dispute."
    ],
    "at": "2026-11-09T11:42Z"
-  },
-  {
-   "id": "tinubu-500m-world-bank-loan-infragrow",
-   "c": "politics",
-   "n": 2,
-   "h": "Nigeria seeks $500m World Bank loan for infrastructure financing platform",
-   "p": "The federal government has approached the World Bank for a $500 million loan to set up a platform to attract private investment into infrastructure, part of a wider $3.85 billion programme called INFRAGROW.",
-   "body": [
-    "The federal government has asked the World Bank for a $500 million loan to set up a platform to attract private investment into Nigerian infrastructure.",
-    "## The loan",
-    "According to a World Bank project document updated on 4 November 2026 and reported on Monday, 9 November, the facility is part of a broader $3.85 billion programme called the Nigeria Infrastructure Financing and De-Risking Platform for Growth and Jobs, or INFRAGROW. The Federal Ministry of Finance is listed as the borrower and the Nigeria Sovereign Investment Authority (NSIA) as the implementing agency. The aim is to reduce the risks that discourage private investors from funding infrastructure projects.",
-    "## Why the bank says it is needed",
-    "The World Bank estimates that Nigeria has an infrastructure financing gap of about $100 billion a year, which holds back growth, competitiveness and job creation. It says the problem is not only a lack of money but also weak project preparation and difficulty turning proposals into commercially viable investments.",
-    "## Atiku objects",
-    "ADC candidate Atiku Abubakar said on Tuesday, 10 November, that the government had no business taking on new debt on its way out. In a statement by his campaign spokesman, he said the World Bank was due to consider the loan on 25 May 2027, four days before the next presidential inauguration, and urged the bank not to approve it on that timetable and to publish its full terms, risks and repayment conditions first. The government has said the platform is needed to attract private investment into infrastructure.",
-    "## Background",
-    "The request comes as President Bola Tinubu also seeks Senate approval for about $7.7 billion in new external borrowing, and as government borrowing becomes a major campaign issue. NDC candidate Peter Obi has challenged the President to account for loans, while the Presidency says claims that it has borrowed ₦120 trillion are distorted. The World Bank reported last week that Nigeria's total external debt rose to about $145 billion in 2025."
-   ],
-   "more": [
-    "The $500m loan is part of a $3.85bn programme.",
-    "The NSIA would run the platform.",
-    "Borrowing is a major campaign issue."
-   ],
-   "at": "2026-11-09T09:43Z",
-   "img": "img/nigeria-external-debt-145bn-world-bank.jpg",
-   "alt": "A Nigerian 500 naira note",
-   "credit": "Photo: CBN / Wikimedia Commons (Public domain)"
-  },
-  {
-   "id": "hamzat-lagos-one-year-rent-limit-debate",
-   "c": "elections",
-   "n": 2,
-   "h": "Hamzat vows to enforce one-year rent limit as Lagos governorship candidates debate",
-   "p": "Lagos APC governorship candidate Obafemi Hamzat says the state will enforce the legal limit on advance rent to one year, warning landlords against demanding two or three years upfront. He spoke at a televised governorship debate.",
-   "body": [
-    "Lagos State Deputy Governor Obafemi Hamzat, the All Progressives Congress (APC) candidate for governor, says the state government will enforce the legal limit on advance rent payments.",
-    "## What he said",
-    "Speaking at a governorship debate organised by a coalition of media organisations on Sunday, 8 November 2026, Hamzat said the one-year cap on advance rent is already contained in the Lagos State Real Estate Registration Agency law passed in 2025, and that the focus now is making sure it is followed. He warned landlords against demanding two or three years' rent upfront, and said estate agents are required to register with the state and appear on an official database, urging residents to check it before dealing with agents.",
-    "## The law",
-    "The Lagos State Tenancy Law of 2011 already makes it unlawful for landlords or their agents to demand more than one year's rent in advance from a new tenant, and limits advance payments from sitting tenants. Despite this, demands for two or more years' rent have remained a widespread concern.",
-    "## Rhodes-Vivour's pitch",
-    "At the same debate, Gbadebo Rhodes-Vivour, the governorship candidate of the opposition ADC, said APC governments in Lagos had focused on policies that favoured the elite for more than 20 years, while residents of poorer and rural communities did not feel the benefit of the state's high revenue. He promised more than 100,000 housing units, a safer and cleaner state, and technology-driven measures to end flooding.",
-    "## Background",
-    "Hamzat is seeking to succeed Governor Babajide Sanwo-Olu in the 2027 governorship election. Former governor Akinwunmi Ambode recently pledged to mobilise support for him. Housing costs are one of the biggest concerns for Lagos residents."
-   ],
-   "more": [
-    "Hamzat says the one-year rent cap will be enforced.",
-    "Estate agents must register with the state.",
-    "He spoke at a televised governorship debate."
-   ],
-   "at": "2026-11-09T06:44Z"
-  },
-  {
-   "id": "cbn-stablecoin-crypto-capital-requirements",
-   "c": "naija",
-   "n": 2,
-   "h": "CBN sets ₦15bn capital rule for dollar-backed stablecoins in new crypto rules",
-   "p": "The Central Bank of Nigeria has set minimum capital of ₦10 billion for naira-backed stablecoin issuers and ₦15 billion for those offering dollar or other foreign-currency tokens, under new rules for crypto operators. Other crypto service providers will need ₦1 billion.",
-   "body": [
-    "The Central Bank of Nigeria (CBN) has introduced tougher rules for cryptocurrency and stablecoin businesses, including minimum capital requirements of up to ₦15 billion.",
-    "## The new requirements",
-    "Under the regulations, reported on Sunday, 8 November 2026, issuers of naira-backed stablecoins must have at least ₦10 billion in paid-up capital, while operators offering tokens backed by foreign currencies, such as dollar-pegged stablecoins, will need ₦15 billion. Other virtual asset service providers, including digital wallet, payment, transfer and custody businesses, must have at least ₦1 billion. The CBN said it may demand more capital from larger or riskier operators.",
-    "## Licensing and foreign firms",
-    "The rules make it illegal for individuals or companies to issue, exchange, distribute or facilitate regulated virtual assets in Nigeria without CBN approval. Foreign operators targeting Nigerian customers must incorporate and obtain licences locally, regardless of approvals elsewhere. Companies already licensed by the Securities and Exchange Commission (SEC) will face extra capital requirements if they offer services under the CBN's oversight, while digital assets classed as securities will remain under SEC supervision. The rules also set standards for reserve management and consumer protection.",
-    "## Deadlines and fines",
-    "The regulations, released on Friday, give existing operators 30 days to register with the CBN, 60 days to begin submitting supervisory reports and 180 days to complete licence applications. Operators can continue at their current scale during the transition, but those who miss the deadline must suspend operations until licensed. Firms operating without approval face fines starting at ₦100 million.",
-    "## Background",
-    "Nigeria has one of the world's largest communities of cryptocurrency users. The CBN banned banks from dealing with crypto firms in 2021 before lifting the restriction in 2023, and the SEC has since moved to register and regulate crypto exchanges. Stablecoins, which are designed to keep a steady value linked to a currency such as the dollar, are widely used by Nigerians for savings and payments."
-   ],
-   "more": [
-    "Dollar-backed stablecoin issuers need ₦15 billion in capital.",
-    "Naira-backed issuers need ₦10 billion.",
-    "Foreign operators must be licensed locally."
-   ],
-   "img": "img/cbn-stablecoin-crypto-capital-requirements.jpg",
-   "credit": "Photo: CBN / Wikimedia Commons (Public domain)",
-   "alt": "A Nigerian 500 naira note",
-   "at": "2026-11-08T11:42Z"
   }
  ]
 }
