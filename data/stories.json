@@ -1,6 +1,6 @@
 {
- "updated": "Updated 20:42 GMT",
- "date": "Saturday, 14 November 2026",
+ "updated": "Updated 06:43 GMT",
+ "date": "Sunday, 15 November 2026",
  "categories": {
   "all": "All gist",
   "elections": "2027 elections",
@@ -14,6 +14,122 @@
   "sport": "Sport"
  },
  "stories": [
+  {
+   "id": "ncdc-62-ebola-contacts-complete-monitoring",
+   "c": "naija",
+   "n": 1,
+   "h": "All 62 contacts of Nigeria's Ebola case complete monitoring with no spread, NCDC says",
+   "p": "The NCDC says all 62 people linked to Nigeria's single imported case of Bundibugyo virus disease, a type of Ebola, have completed 21 days of monitoring with no further transmission. It warns this is not yet a declaration that Nigeria is free of the disease.",
+   "body": [
+    "The Nigeria Centre for Disease Control and Prevention (NCDC) says all 62 contacts linked to the country's imported case of Bundibugyo virus disease, a species of Ebola, have completed their monitoring without any further spread.",
+    "## The update",
+    "Speaking at a news conference in Abuja on Friday, 13 November 2026, NCDC Director-General Dr Jide Idris said the last contact had been discharged after completing the mandatory 21-day monitoring period. He said 13 of the contacts developed fever or other symptoms during monitoring but tested negative for the disease. Seven other alerts reported over three weeks in Adamawa, Rivers, Borno, Lagos and Ekiti were investigated, and all suspected cases tested negative.",
+    "## Not yet Ebola-free",
+    "Idris cautioned that the end of contact monitoring was not a formal declaration that Nigeria was free of the disease, and said surveillance must continue. He said any such declaration would depend on public health criteria and ongoing surveillance, especially as transmission continues in the Democratic Republic of Congo.",
+    "## Background",
+    "Earlier this week, the NCDC said 28 contacts were still under watch. The United States has temporarily barred travellers who have been in the DRC in the past 21 days. Health authorities urge anyone with symptoms such as fever, weakness or unexplained bleeding after travel to report to a health facility."
+   ],
+   "more": [
+    "All 62 contacts have completed monitoring.",
+    "No further transmission was recorded.",
+    "Surveillance will continue."
+   ],
+   "img": "img/ncdc-62-ebola-contacts-complete-monitoring.jpg",
+   "credit": "Stock image: DFID - UK Department for International Development / Flickr, CC BY 2.0",
+   "alt": "Medics at work in an Ebola observation ward",
+   "hot": 1,
+   "at": "2026-11-15T06:43Z"
+  },
+  {
+   "id": "fg-ethiopia-travel-advisory-16-deaths-altitude",
+   "c": "naija",
+   "n": 1,
+   "h": "FG issues Ethiopia travel advisory after 16 Nigerians die transiting Addis Ababa",
+   "p": "The federal government has warned Nigerians with heart and lung conditions to seek medical clearance before travelling through Addis Ababa, after 16 Nigerians died in transit there in what officials link to the city's high altitude.",
+   "body": [
+    "The federal government has issued a travel advisory warning Nigerians about the health risks of Ethiopia's high altitude, after the deaths of 16 Nigerians transiting through Addis Ababa.",
+    "## The advisory",
+    "In a statement by Ministry of Foreign Affairs spokesperson Oluwafemi Adeniyi, reported on Saturday, 14 November 2026, the government urged travellers with existing medical conditions, especially heart and respiratory problems, to be cautious and to obtain medical clearance before taking journeys with stopovers in the Ethiopian capital.",
+    "## Why altitude matters",
+    "Addis Ababa sits about 2,355 metres above sea level, where lower air pressure reduces the oxygen available. The ministry noted that dry air, stronger sunlight and faster fluid loss can also cause problems, from headaches and breathlessness to serious conditions such as swelling of the brain. Healthy travellers usually adapt within a few days, but people with underlying illnesses face much higher risks.",
+    "## Background",
+    "Addis Ababa is a major transit hub for Nigerian travellers. The ministry did not give details of the individual deaths."
+   ],
+   "more": [
+    "16 Nigerians died while transiting Addis Ababa.",
+    "Travellers with heart or lung conditions should get clearance.",
+    "The city is about 2,355 metres above sea level."
+   ],
+   "hot": 2,
+   "at": "2026-11-15T06:43Z"
+  },
+  {
+   "id": "asuu-bars-officials-endorsing-candidates",
+   "c": "elections",
+   "n": 1,
+   "h": "ASUU warns officials against using union's name to endorse 2027 candidates",
+   "p": "The Academic Staff Union of Universities says it will sanction any official who uses the union's name to back a candidate or party in 2027, stressing that it remains apolitical though members are free to vote.",
+   "body": [
+    "The Academic Staff Union of Universities (ASUU) has warned its members and officials not to use the union's name to endorse political candidates or parties ahead of the 2027 elections.",
+    "## What ASUU said",
+    "Speaking at the union's 2026 Heroes' Day celebration in Abuja, reported on Saturday, 14 November 2026, ASUU National President Professor Christopher Piwuna said individual lecturers keep their constitutional right to vote and take part in politics, but must not present their personal choices as the union's position. He said no member had permission to use ASUU's name to support any candidate or party, that the union remained apolitical, and that any official found compromising that stance by associating with parties or politicians would face disciplinary action.",
+    "## Background",
+    "The presidential election is scheduled for 16 January 2027."
+   ],
+   "more": [
+    "ASUU says it is apolitical.",
+    "Officials who endorse candidates face sanctions.",
+    "Members remain free to vote."
+   ],
+   "hot": 7,
+   "at": "2026-11-15T06:43Z"
+  },
+  {
+   "id": "nafdac-raids-fake-cosmetics-trade-fair",
+   "c": "naija",
+   "n": 1,
+   "h": "NAFDAC uncovers suspected fake cosmetics operation at Lagos Trade Fair Complex",
+   "p": "NAFDAC says it has uncovered a suspected illegal cosmetics production and packaging operation at the Trade Fair Complex in Lagos, finding unlabelled creams, falsified medicines and banned soaps.",
+   "body": [
+    "The National Agency for Food and Drug Administration and Control (NAFDAC) has uncovered a suspected illegal cosmetics production and packaging operation in Lagos.",
+    "## What was found",
+    "In a video shared on the agency's X account on Saturday, 14 November 2026, NAFDAC enforcement officials were seen inspecting a two-storey building in the tools and hardware section of the Trade Fair Complex. They displayed unlabelled cosmetics, empty product containers, packaging materials and finished creams found on different floors. Some packaging bore product descriptions such as turmeric and vitamin C, alongside empty shampoo tubes and lotion containers. The agency also reported finding falsified medicines and banned soaps.",
+    "## Why it matters",
+    "The officials said the find raised concerns about cosmetics of unknown origin and regulatory status circulating in the market.",
+    "## Background",
+    "It was not immediately clear whether any arrests were made."
+   ],
+   "more": [
+    "Unlabelled creams and packaging were found.",
+    "Falsified medicines and banned soaps were also seized.",
+    "It is unclear if anyone was arrested."
+   ],
+   "hot": 9,
+   "at": "2026-11-15T06:43Z"
+  },
+  {
+   "id": "delta-man-wakes-up-in-mortuary",
+   "c": "viral",
+   "n": 2,
+   "h": "Delta man presumed dead after accident reportedly wakes up in mortuary",
+   "p": "A man presumed dead after a motorcycle accident near Evwreni in Delta State reportedly woke up in a mortuary, sparking celebrations by residents in a video that has gone viral.",
+   "body": [
+    "A man who was presumed dead after an accident in Delta State has reportedly woken up in a mortuary.",
+    "## What happened",
+    "According to reports on Saturday, 14 November 2026, the man was involved in a motorcycle accident near Evwreni and was taken to a mortuary after being presumed dead. He is said to have later woken up there. A video shared online shows residents celebrating his survival. Voices in the video say that when he woke up, the first thing he asked for was a cigarette and a lighter.",
+    "## Celebrations",
+    "Residents rubbed white powder on their faces and bodies, a traditional sign of celebration often used at a child's birth, and also applied it to the survivor. Others shared snacks with passers-by to mark the occasion, while some urged him to go for a proper medical check-up.",
+    "## Background",
+    "It is not clear who declared the man dead or whether he was examined by a doctor before being taken to the mortuary. The authorities had not commented on the incident at the time of writing."
+   ],
+   "more": [
+    "The man was presumed dead after a bike crash.",
+    "He reportedly woke up in the mortuary.",
+    "Residents celebrated with powder and snacks."
+   ],
+   "hot": 3,
+   "at": "2026-11-15T06:43Z"
+  },
   {
    "id": "court-judgment-details-why-adc-leadership-sacked",
    "c": "elections",
@@ -36,13 +152,13 @@
     "He ruled officers must be elected, not appointed.",
     "The ADC has appealed."
    ],
-   "hot": 5,
    "at": "2026-11-14T20:42Z",
    "img": "img/court-judgment-details-why-adc-leadership-sacked.jpg",
    "alt": "Atiku Abubakar smiling in a white cap and light blue agbada, above David Mark in a red cap speaking into a microphone beside the ADC logo",
    "credit": "Photo: Trend Naija",
    "owner": true,
-   "added": "2026-11-15"
+   "added": "2026-11-15",
+   "hot": 4
   },
   {
    "id": "amaechi-claims-atiku-leads-13-northern-states",
@@ -62,8 +178,8 @@
     "He says Tinubu will win five South-West states.",
     "The claims could not be verified."
    ],
-   "hot": 3,
-   "at": "2026-11-14T20:42Z"
+   "at": "2026-11-14T20:42Z",
+   "hot": 8
   },
   {
    "id": "vdm-questions-inec-chairman-apc-uk-photo",
@@ -83,7 +199,6 @@
     "He asked if other parties had similar access.",
     "INEC has not responded."
    ],
-   "hot": 2,
    "at": "2026-11-14T20:42Z"
   },
   {
@@ -104,7 +219,6 @@
     "It mixed a 2019 link with a new list.",
     "Nigerians were urged to ignore it."
    ],
-   "hot": 8,
    "at": "2026-11-14T20:42Z"
   },
   {
@@ -165,8 +279,7 @@
    "alt": "A young Tony Elumelu with a friend in NYSC uniform in Sokoto around 1985, above a recent photo of Elumelu in a suit and red tie",
    "credit": "Photo: Tony Elumelu",
    "owner": true,
-   "at": "2026-11-14T19:37Z",
-   "hot": 4
+   "at": "2026-11-14T19:37Z"
   },
   {
    "id": "kwankwaso-daughter-zainab-files-divorce-kano-governor-abba-yusuf",
@@ -203,7 +316,7 @@
    "credit": "Photo: Trend Naija",
    "owner": true,
    "at": "2026-11-14T17:44Z",
-   "hot": 1
+   "hot": 6
   },
   {
    "id": "ronaldinho-comeback-ravenna-aged-46",
@@ -225,8 +338,7 @@
     "It is his first competitive match since 2015.",
     "He joined Ravenna as an investor in August."
    ],
-   "at": "2026-11-14T17:42Z",
-   "hot": 7
+   "at": "2026-11-14T17:42Z"
   },
   {
    "id": "portugal-honours-ronaldo-number-7-shirt",
@@ -248,8 +360,7 @@
     "All players will wear 7 in the walk-out against Denmark.",
     "His international career ended after a dispute in September."
    ],
-   "at": "2026-11-14T17:42Z",
-   "hot": 6
+   "at": "2026-11-14T17:42Z"
   },
   {
    "id": "oriyomi-hamzat-backs-tinubu-2027",
@@ -269,8 +380,7 @@
     "He is the Accord Party's Oyo governorship candidate.",
     "Makinde is also running for president."
    ],
-   "at": "2026-11-14T17:42Z",
-   "hot": 9
+   "at": "2026-11-14T17:42Z"
   },
   {
    "id": "kano-drug-task-force-seals-pharma-company-pregabalin",
@@ -1147,7 +1257,7 @@
   {
    "id": "obi-recites-old-national-anthem-lagos-town-hall",
    "c": "elections",
-   "n": 2,
+   "n": 3,
    "h": "Obi and NDC supporters recite old national anthem instead of new one at Lagos town hall",
    "p": "A video from the NDC town hall in Lagos shows Peter Obi and Lagos governorship candidate Funso Doherty leading supporters in reciting the old national anthem, 'Arise O Compatriots', instead of the new one adopted in 2024.",
    "body": [
@@ -1160,6 +1270,8 @@
     "Neither Obi's campaign nor the APC had commented on the video at the time of writing.",
     "## Wike criticises Obi",
     "FCT Minister Nyesom Wike criticised Obi over the incident on Friday, 13 November, at a town hall meeting of the pro-Tinubu Rainbow Coalition in Ogu-Bolo, Rivers State. He accused the NDC candidate of lawlessness, saying a man who wants to be president should not refuse to stand for the national anthem while standing for one that is no longer in use, and argued that anyone who disregards national symbols cannot be trusted to lead the country. Obi's campaign had not responded to Wike's remarks at the time of writing.",
+    "## NDC hits back at Wike",
+    "The NDC responded in a statement by Chiogo Constance Ikokwu, spokesperson of its national campaign council, saying Wike lacked the moral standing to lecture Obi or other Nigerians on tolerance, leadership or national unity, and pointing to his role in political crises in Rivers State.",
     "## Background",
     "The same town hall meeting was disrupted earlier in the day by suspected thugs, before it went ahead. The presidential election is scheduled for 16 January 2027."
    ],
@@ -1171,7 +1283,8 @@
    "at": "2026-11-13T11:42Z",
    "img": "img/obi-recites-old-national-anthem-lagos-town-hall-tn.jpg",
    "alt": "Peter Obi in glasses and a black top in front of the Nigerian flag",
-   "credit": "Photo: Trend Naija"
+   "credit": "Photo: Trend Naija",
+   "hot": 5
   },
   {
    "id": "bruno-fernandes-rejects-second-man-utd-offer",
@@ -1637,127 +1750,6 @@
     "It says it will not interfere in domestic politics."
    ],
    "at": "2026-11-12T09:43Z"
-  },
-  {
-   "id": "igp-disu-warns-officers-not-to-be-used-politicians",
-   "c": "elections",
-   "n": 1,
-   "h": "IGP Disu warns officers: 'Do not be used' by politicians in 2027 elections",
-   "p": "Inspector-General of Police Tunji Disu has warned officers that anyone who colludes with politicians, facilitates thuggery or interferes with voters will be disciplined, and has ordered senior officers to stay in their commands until the elections are over.",
-   "body": [
-    "The Inspector-General of Police, Tunji Disu, has warned police officers against allowing politicians to use them to undermine the 2027 elections.",
-    "## What he said",
-    "Speaking on Wednesday, 11 November 2026, at a monthly meeting with senior officers in Abuja, Disu said the police would remain neutral and give equal protection to all candidates, parties, supporters and voters. He said he would not tolerate any officer using police authority to advance the interests of a party, candidate or sponsor, and that officers found colluding with politicians, aiding thuggery or interfering with voters' rights would be disciplined. He told officers that the force is not a tool for any politician and urged them not to allow themselves to be used.",
-    "## Officers to stay at posts",
-    "The IGP directed commissioners of police and other senior officers to remain in their commands throughout the electoral process.",
-    "## Background",
-    "The warning comes amid concern over political violence ahead of the elections and a recent controversy over a video showing police officers escorting businessman Blord, which the police said was unlawful. On the same day, the police said they had raided so-called phone farms used to spread election misinformation. The European Union has also raised concerns about violence and hate speech before the polls."
-   ],
-   "more": [
-    "Disu says the police will stay neutral.",
-    "Officers who collude with politicians face discipline.",
-    "Senior officers must stay in their commands."
-   ],
-   "img": "img/igp-disu-warns-officers-not-to-be-used-politicians.jpg",
-   "credit": "Stock image: theglobalpanorama / Flickr, CC BY-SA 2.0",
-   "alt": "A Nigeria Police armoured vehicle",
-   "at": "2026-11-12T09:43Z"
-  },
-  {
-   "id": "cooking-gas-price-n1800-kg-lagos-ogun-oyo",
-   "c": "naija",
-   "n": 1,
-   "h": "Cooking gas now up to ₦1,800 per kg in Lagos, Ogun and Oyo",
-   "p": "Retail cooking gas prices have reportedly jumped from about ₦1,200 to ₦1,800 per kilogramme in parts of Lagos, Ogun and Oyo within a month, after depot prices rose by nearly 32 per cent. Some households say they are turning to charcoal.",
-   "body": [
-    "Households in Lagos, Ogun and Oyo states are paying much more for cooking gas after a sharp rise in prices over the past month.",
-    "## The new prices",
-    "According to reports on Thursday, 12 November 2026, retail prices of liquefied petroleum gas (LPG) at several outlets rose from around ₦1,200 to ₦1,800 per kilogramme. In parts of Ogun State, including Magboro, Mowe and Ibafo, some residents said they were paying as much as ₦1,900 per kg. In Oyo State, prices reportedly range from about ₦1,450 per kg at direct outlets to between ₦1,500 and ₦1,650 at neighbourhood retailers.",
-    "## Why prices rose",
-    "The increase follows a reported 31.8 per cent rise in depot prices, from ₦1,100 to ₦1,450 per kg, which has pushed up costs along the supply chain.",
-    "## Impact on households",
-    "Some households say they are considering returning to charcoal because they can no longer afford gas.",
-    "## Background",
-    "The latest increase comes even as petrol prices have eased slightly, with Dangote Refinery reportedly cutting its petrol price this week."
-   ],
-   "more": [
-    "Retail prices reportedly hit ₦1,800 per kg.",
-    "Depot prices rose by about 32 per cent.",
-    "Some households are turning to charcoal."
-   ],
-   "img": "img/cooking-gas-price-n1800-kg-lagos-ogun-oyo.jpg",
-   "credit": "Stock image: Evil Monkey / Wikimedia Commons, CC BY 2.5",
-   "alt": "Two cooking gas cylinders against a wall",
-   "at": "2026-11-12T09:43Z"
-  },
-  {
-   "id": "journalist-daniel-ojukwu-remanded-cybercrime",
-   "c": "naija",
-   "n": 1,
-   "h": "Court remands journalist Daniel Ojukwu in Abuja prison over cybercrime charges",
-   "p": "Investigative journalist Daniel Ojukwu has been remanded in prison in Abuja on a 12-count cybercrime charge linked to his reports about a presidential aide, pending a bail hearing. The decision has renewed concerns about press freedom.",
-   "body": [
-    "A court in Abuja has ordered that investigative journalist Daniel Ojukwu be held in prison pending a hearing on his bail application.",
-    "## The charges",
-    "Ojukwu, who works for the Foundation for Investigative Journalism, was arraigned on a 12-count charge of allegedly breaching Nigeria's Cybercrimes Act, and the court ordered his remand on Tuesday, 10 November 2026. The charges relate to reports he published about Adejoke Orelope-Adefulire, who was senior special assistant on the Sustainable Development Goals under former President Muhammadu Buhari and now holds the same role under President Bola Tinubu. The charges have not been tested at trial.",
-    "## Press freedom concerns",
-    "The decision drew widespread criticism from media freedom advocates, who have long argued that the cybercrimes law is used to silence journalists. According to the Committee to Protect Journalists, at least 29 journalists have been prosecuted under the law since it was enacted in 2015. Nigeria is ranked 112th out of 180 countries in the 2026 World Press Freedom Index compiled by Reporters Without Borders.",
-    "## Background",
-    "Ojukwu was previously detained by police for several days in 2024 over a report on the same official, a case that also drew national and international criticism."
-   ],
-   "more": [
-    "Ojukwu faces a 12-count cybercrime charge.",
-    "He is held pending a bail hearing.",
-    "Press freedom groups have criticised the remand."
-   ],
-   "at": "2026-11-12T06:42Z"
-  },
-  {
-   "id": "apc-n200-recharge-cards-rivers-rally",
-   "c": "viral",
-   "n": 1,
-   "h": "APC-branded ₦200 recharge cards reportedly handed out at Tinubu's Rivers rally spark debate",
-   "p": "Photos of ₦200 recharge cards bearing APC branding, reportedly distributed at President Tinubu's campaign rally in Rivers State, have drawn mockery and debate online about campaign giveaways.",
-   "body": [
-    "Images of recharge cards bearing the logo of the All Progressives Congress (APC), reportedly handed out at President Bola Tinubu's campaign rally in Rivers State, have sparked debate on social media.",
-    "## What happened",
-    "A man who came across pictures of the ₦200 airtime cards questioned online what anyone could achieve with such a small amount, and his comment, shared on Thursday, 12 November 2026, quickly drew reactions. The cards were said to have circulated among people who attended the rally.",
-    "## How people reacted",
-    "Some users mocked the giveaway and said the money would be better spent on fixing the country, while others joked about how the airtime might be used. Some warned that small gifts like this could still influence some voters.",
-    "## Background",
-    "Campaign giveaways have become a talking point ahead of the 2027 elections. The African Democratic Congress (ADC) recently accused the APC of handing out cash and gifts at campaign events and called on the anti-graft agency and INEC to investigate. The APC had not publicly responded to the recharge card images at the time of writing. The presidential election is scheduled for 16 January 2027."
-   ],
-   "more": [
-    "The cards were reportedly worth ₦200 each.",
-    "They bore APC branding.",
-    "Reactions online were mostly mocking."
-   ],
-   "at": "2026-11-12T06:42Z",
-   "img": "img/apc-n200-recharge-cards-rivers-rally-tn.jpg",
-   "alt": "President Bola Tinubu in a green cap and glasses at a meeting",
-   "credit": "Photo: Trend Naija"
-  },
-  {
-   "id": "yunusa-tanko-leaves-obi-joins-sdp-campaign",
-   "c": "elections",
-   "n": 1,
-   "h": "Former Obidient coordinator Yunusa Tanko joins SDP, to lead Adebayo's campaign",
-   "p": "Yunusa Tanko, once Peter Obi's spokesman and national coordinator of the Obidient Movement, has been named national coordinator of the SDP presidential campaign council for candidate Adewole Adebayo. He says he informed Obi before accepting.",
-   "body": [
-    "Yunusa Tanko, a former spokesman for Peter Obi and ex-national coordinator of the Obidient Movement, has joined the Social Democratic Party (SDP) campaign for the 2027 presidential election.",
-    "## The new role",
-    "At the inauguration of the SDP Presidential Campaign Council in Abuja on Wednesday, 11 November 2026, Tanko was named its national coordinator. In his acceptance speech he thanked the party's leadership and pledged full commitment to its presidential candidate, Prince Adewole Adebayo. He said he had reached out to both Obi and Senator Seriake Dickson, national leader of the Nigeria Democratic Congress (NDC), before taking up the post, and described his relationship with Adebayo as dating back to the 2023 election cycle.",
-    "## How he left Obi's camp",
-    "Tanko was removed as national coordinator of the Obidient Movement in October 2026 and briefly served as Obi's political adviser for Northern Nigeria. He resigned from that role on 30 October, saying he was returning to the National Consultative Front, which he co-chairs with Professor Pat Utomi. He took on that position in October after the death of former House of Representatives Speaker Ghali Na'Abba, who had co-chaired the group.",
-    "## Background",
-    "Obi, the 2023 Labour Party candidate, is now the NDC presidential candidate with Rabiu Kwankwaso as his running mate. Adebayo was also the SDP's presidential candidate in 2023. The presidential election is scheduled for 16 January 2027. Obi's campaign had not publicly reacted to Tanko's new role at the time of writing."
-   ],
-   "more": [
-    "Tanko will coordinate the SDP presidential campaign.",
-    "He says he told Obi before accepting.",
-    "He was removed as Obidient coordinator in October."
-   ],
-   "at": "2026-11-11T20:42Z"
   }
  ]
 }
