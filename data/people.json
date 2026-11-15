@@ -249,6 +249,14 @@
     "ooni and naomi",
     "ooni and olori naomi"
    ]
+  },
+  "david mark": {
+   "img": "people/david-mark.jpg",
+   "alt": "David Mark in a red cap and glasses speaking into a microphone beside the ADC logo",
+   "aliases": [
+    "mark",
+    "senator david mark"
+   ]
   }
  },
  "pairs": {
@@ -307,6 +315,10 @@
   "destiny etiko + peter mbah": {
    "img": "people/destiny-etiko-and-peter-mbah.jpg",
    "alt": "Destiny Etiko and Governor Peter Mbah side by side"
+  },
+  "atiku abubakar + david mark": {
+   "img": "people/atiku-abubakar-and-david-mark.jpg",
+   "alt": "Atiku Abubakar above ADC chairman David Mark beside the party logo"
   }
  },
  "special": {
