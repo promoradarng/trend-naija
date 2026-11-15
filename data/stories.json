@@ -1,5 +1,5 @@
 {
- "updated": "Updated 14:42 GMT",
+ "updated": "Updated 17:41 GMT",
  "date": "Sunday, 15 November 2026",
  "categories": {
   "all": "All gist",
@@ -14,6 +14,96 @@
   "sport": "Sport"
  },
  "stories": [
+  {
+   "id": "state-police-bill-32-assemblies-approve",
+   "c": "politics",
+   "n": 1,
+   "h": "State police bill clears 32 state assemblies, heads for Tinubu's assent",
+   "p": "Senate Leader Opeyemi Bamidele says 32 state assemblies have approved the constitutional amendment to create state police, enough to send it to President Tinubu for assent. The remaining four states have until Tuesday to report.",
+   "body": [
+    "The constitutional amendment to create state police in Nigeria has cleared a major hurdle, with 32 state Houses of Assembly approving it.",
+    "## What the Senate said",
+    "Senate Leader Opeyemi Bamidele said in Abuja on Sunday, 15 November 2026, that 32 state assemblies had approved the State Police (Constitution Alteration) Bill, 2026, which is more than the two-thirds required under Section 9(2) of the 1999 Constitution. He gave the remaining four assemblies until Tuesday, 17 November, to submit their reports, but said the National Assembly now has a duty to send the bill to President Bola Tinubu for assent whether or not they meet the deadline.",
+    "## What the bill would do",
+    "The amendment would replace Nigeria's single, centralised police force with a Federal Police Service and State Police Services, allowing states to set up their own forces.",
+    "## Background",
+    "Calls for state police have grown stronger in recent years amid security threats including banditry and kidnapping. The senior civil servants' union this week also called for state police to be created."
+   ],
+   "more": [
+    "32 state assemblies have approved the bill.",
+    "The bill now goes to the President for assent.",
+    "It would create federal and state police services."
+   ],
+   "hot": 1,
+   "at": "2026-11-15T17:41Z"
+  },
+  {
+   "id": "nnpc-new-oredo-refinery-edo",
+   "c": "naija",
+   "n": 1,
+   "h": "NNPC gets land title for new Oredo refinery in Edo State",
+   "p": "NNPC has received a Certificate of Occupancy for its proposed Oredo Refinery and Petrochemical Company in Edo State, a step towards building a new refinery to boost local fuel production.",
+   "body": [
+    "The Nigerian National Petroleum Company Limited (NNPC) has taken a step towards building a new refinery in Edo State.",
+    "## The approval",
+    "NNPC's Executive Vice President for Downstream, Mumuni Dagazau, received the Certificate of Occupancy for the proposed Oredo Refinery and Petrochemical Company Limited during a courtesy visit to Governor Monday Okpebholo at the Edo State Government House in Benin City on Friday, 13 November 2026. He thanked the governor for providing the land and documents, and said the project would help increase local refining capacity, reduce dependence on imported fuel and strengthen energy security.",
+    "## Background",
+    "Nigeria's refining landscape has been transformed by the 650,000-barrel-per-day Dangote Refinery in Lagos, whose fuel exports to the United Kingdom have now overtaken crude oil sales, according to UK trade figures. No cost, capacity or timeline for the Oredo refinery was announced."
+   ],
+   "more": [
+    "NNPC received the land title for the Oredo refinery.",
+    "It aims to boost local refining.",
+    "No cost or timeline was announced."
+   ],
+   "hot": 8,
+   "at": "2026-11-15T17:41Z"
+  },
+  {
+   "id": "uk-buys-more-nigerian-refined-fuel-than-crude",
+   "c": "naija",
+   "n": 1,
+   "h": "UK now buys more refined fuel than crude oil from Nigeria, data shows",
+   "p": "UK trade figures show Britain bought £1.02 billion of refined petroleum products from Nigeria in the year to June 2026, more than double the year before, overtaking crude oil imports, as Dangote Refinery expands exports.",
+   "body": [
+    "Nigeria's petroleum trade with the United Kingdom has shifted sharply towards refined fuel, according to UK government figures.",
+    "## The figures",
+    "The UK's trade and investment factsheet, released on 6 November 2026 and reported this weekend, shows Britain bought £1.02 billion worth of refined petroleum products from Nigeria in the 12 months to June 2026. That was more than double the figure a year earlier and made up 53.5 per cent of all UK goods imports from Nigeria. Over the same period, UK purchases of Nigerian crude oil fell by 56.2 per cent to £550.3 million, meaning refined fuel exports exceeded crude shipments by about £467 million. Nigeria recorded a petroleum trade surplus of about £245 million with Britain.",
+    "## Why it matters",
+    "The change reflects the growth of the Dangote Petroleum Refinery in Lagos, which can process 650,000 barrels a day and has been expanding its exports.",
+    "## Background",
+    "The government has also announced plans for a new NNPC refinery in Edo State."
+   ],
+   "more": [
+    "UK bought £1.02bn of Nigerian refined fuel.",
+    "Crude oil purchases fell by 56%.",
+    "The shift reflects Dangote Refinery's exports."
+   ],
+   "hot": 4,
+   "at": "2026-11-15T17:41Z"
+  },
+  {
+   "id": "fg-24-hour-power-pilot-lagos-ogun-abuja",
+   "c": "naija",
+   "n": 1,
+   "h": "FG plans 24-hour electricity pilot for Lagos, Ogun and Abuja",
+   "p": "Power Minister Joseph Tegbe says the Lagos–Ogun axis and the Abuja distribution area have been chosen for a pilot scheme to provide 24-hour electricity, but no start date has been set.",
+   "body": [
+    "The federal government says it plans to pilot round-the-clock electricity supply in parts of Lagos, Ogun and Abuja.",
+    "## What the minister said",
+    "Speaking at a luncheon with senior media editors in Lagos on Friday, 13 November 2026, Minister of Power Joseph Tegbe said the Lagos–Ogun axis and the Abuja electricity distribution franchise area had been selected for the proposed 24-hour supply pilot. He said the areas account for more than half of Nigeria's electricity demand, and that the scheme would focus on economic centres where reliable power could boost industry and reduce dependence on costly generators.",
+    "## Conditions",
+    "The minister said implementation would depend on technical readiness and commercial viability, and no start date was announced.",
+    "## Background",
+    "NDC presidential candidate Peter Obi this week promised 10,000 megawatts within four years, while a cleric called on the minister to resign over the power situation. Another state has separately announced a target of 24-hour power by 2029."
+   ],
+   "more": [
+    "The pilot covers Lagos, Ogun and Abuja.",
+    "These areas are over half of national demand.",
+    "No start date has been announced."
+   ],
+   "hot": 5,
+   "at": "2026-11-15T17:41Z"
+  },
   {
    "id": "temi-otedola-mr-eazi-welcome-first-child",
    "c": "celebs",
@@ -34,8 +124,8 @@
     "Temi shared a photo of baby socks.",
     "They married in Iceland in 2025."
    ],
-   "hot": 1,
-   "at": "2026-11-15T14:42Z"
+   "at": "2026-11-15T14:42Z",
+   "hot": 2
   },
   {
    "id": "nnpc-cuts-petrol-prices-four-cities",
@@ -57,8 +147,8 @@
     "Cuts range from ₦52 to ₦66.",
     "Depot and Dangote prices have also fallen."
    ],
-   "hot": 3,
-   "at": "2026-11-15T14:42Z"
+   "at": "2026-11-15T14:42Z",
+   "hot": 6
   },
   {
    "id": "zamfara-governor-aide-killed-kaura-namoda",
@@ -80,8 +170,8 @@
     "Several worshippers were reportedly abducted.",
     "The attack happened during dawn prayers."
    ],
-   "hot": 4,
-   "at": "2026-11-15T14:42Z"
+   "at": "2026-11-15T14:42Z",
+   "hot": 7
   },
   {
    "id": "tinubu-aregbesola-met-three-times-adeyeye",
@@ -101,7 +191,6 @@
     "He says he has tried to reconcile them.",
     "Aregbesola has not commented."
    ],
-   "hot": 8,
    "at": "2026-11-15T14:42Z"
   },
   {
@@ -124,7 +213,6 @@
     "The gesture drew praise online.",
     "He recently warned officers against partisanship."
    ],
-   "hot": 9,
    "at": "2026-11-15T14:42Z"
   },
   {
@@ -147,8 +235,8 @@
     "The situation calmed down quickly.",
     "Agberos often demand money from film crews."
    ],
-   "hot": 6,
-   "at": "2026-11-15T14:42Z"
+   "at": "2026-11-15T14:42Z",
+   "hot": 9
   },
   {
    "id": "lagos-epe-international-airport-construction-2027",
@@ -201,7 +289,7 @@
    "alt": "Floyd Mayweather in green gloves sparring in a boxing ring as onlookers watch from ringside",
    "credit": "Photo: Trend Naija",
    "owner": true,
-   "hot": 2
+   "hot": 3
   },
   {
    "id": "tochi-wigwe-traditional-wedding-lagos",
@@ -227,8 +315,7 @@
    "img": "img/tochi-wigwe-traditional-wedding-lagos.jpg",
    "alt": "A couple in traditional wedding attire, the groom in an embroidered black robe and the bride in a red gown",
    "credit": "Photo: Trend Naija",
-   "owner": true,
-   "hot": 5
+   "owner": true
   },
   {
    "id": "atiku-makinde-camps-alliance-talks",
@@ -248,8 +335,7 @@
     "Sources say an alliance is increasingly likely.",
     "Neither man has confirmed a deal."
    ],
-   "at": "2026-11-15T09:42Z",
-   "hot": 7
+   "at": "2026-11-15T09:42Z"
   },
   {
    "id": "miss-universe-african-contestants-us-visa",
@@ -1639,102 +1725,6 @@
    "at": "2026-11-13T09:42Z",
    "img": "img/davido-face-of-pubg-mobile-africa-tn.jpg",
    "alt": "Davido in a dark beanie and grey jacket",
-   "credit": "Photo: Trend Naija"
-  },
-  {
-   "id": "carter-efe-peller-lose-streamer-award",
-   "c": "creators",
-   "n": 1,
-   "h": "Carter Efe and Peller miss out as India's Ashswag wins international streamer award",
-   "p": "Nigerian streamers Carter Efe and Peller lost out on the Best International Streamer prize at the 2026 Streamer Awards, which went to Indian streamer Ashswag.",
-   "body": [
-    "Nigerian content creators Carter Efe and Peller have missed out on an international award at the 2026 Streamer Awards.",
-    "## The result",
-    "The two were nominated for Best International Streamer after the organisers released the shortlist in October. At the ceremony, reported on Friday, 13 November 2026, the prize went to Indian streamer Ashswag, who beat the Nigerian pair and other nominees from around the world.",
-    "## Why it mattered",
-    "The nominations put the Nigerian duo among creators from around the world competing for the category.",
-    "## Peller and Phyna react",
-    "In a post on X on Thursday night, Peller thanked his fans, saying their loyalty meant more to him than any trophy and that the nomination itself was a blessing. He complained, however, that the result of his category was announced on the red carpet before the main ceremony began, which he called unfair. Reality star Phyna went further in a livestream, accusing the organisers of using the Nigerian nominees to attract Nigerian viewers and engagement with no real intention of giving them the award.",
-    "## Background",
-    "Peller rose to prominence as one of Nigeria's biggest TikTok live streamers, while Carter Efe, a skit maker and musician, has also built a large streaming following."
-   ],
-   "more": [
-    "They were nominated for Best International Streamer.",
-    "India's Ashswag won the award.",
-    "Neither has reacted publicly."
-   ],
-   "at": "2026-11-13T09:42Z",
-   "img": "img/carter-efe-peller-lose-streamer-award-tn.jpg",
-   "alt": "Peller in a red and white star top",
-   "credit": "Photo: Trend Naija"
-  },
-  {
-   "id": "reps-probe-attacks-political-rallies",
-   "c": "elections",
-   "n": 1,
-   "h": "Reps order probe into attacks on political rallies ahead of 2027 polls",
-   "p": "The House of Representatives has ordered an investigation into violence at political rallies and meetings across the country, citing deaths and injuries in Delta, Nasarawa, Katsina and Enugu. Committees are to report back within three weeks.",
-   "body": [
-    "The House of Representatives has resolved to investigate violence at political rallies, meetings and processions ahead of the 2027 general elections.",
-    "## The motion",
-    "On Thursday, 12 November 2026, the House adopted a motion of urgent public importance sponsored by Minority Leader Frederick Agbedi and 16 other lawmakers. It directed its committees on Police Affairs and on National Security and Intelligence to examine the causes of the violence and recommend ways to prevent further attacks. A principal officer of the House will lead the inquiry, and the committees are to report within three weeks.",
-    "## Incidents cited",
-    "Presenting the motion, Agbedi pointed to an attack during a political procession in Asaba, Delta State, on 7 November, which police said left one person dead and five injured; violence at an APC rally in Lafia, Nasarawa State, on 4 November; an attack on APC supporters travelling to a rally in Katsina State on 28 October, after which police reportedly arrested 14 suspects; and the disruption of political meetings in Enugu State in September.",
-    "## Background",
-    "The motion came on the same day suspected thugs stormed a Nigeria Democratic Congress town hall in Lagos. The APC presidential campaign council condemned that attack and other recent attacks on supporters across party lines, and urged security agencies to arrest those responsible. The Inspector-General of Police and the European Union have also raised concerns about rising political violence. The presidential election is scheduled for 16 January 2027."
-   ],
-   "more": [
-    "Two committees will investigate rally violence.",
-    "They must report within three weeks.",
-    "Attacks in four states were cited."
-   ],
-   "at": "2026-11-13T06:43Z"
-  },
-  {
-   "id": "inec-chairman-amupitan-heckled-london",
-   "c": "elections",
-   "n": 1,
-   "h": "Protesters heckle INEC chairman Amupitan in London; he denies running pro-APC X account",
-   "p": "Diaspora protesters surrounded INEC chairman Joash Amupitan's car outside Chatham House in London, accusing the commission of bias. Amupitan, who pledged to refuse any political appointment after his tenure, has again denied operating an X account that once backed the APC.",
-   "body": [
-    "Protesters confronted the chairman of the Independent National Electoral Commission (INEC), Professor Joash Amupitan, in London on Thursday, 12 November 2026.",
-    "## What happened",
-    "Amupitan was in London to speak at a panel on Nigeria's preparations for the 2027 elections, hosted by Chatham House and the Kimpact Development Initiative. Nigerian diaspora activists who had mobilised on social media gathered outside the venue and reportedly surrounded his vehicle, accusing the commission of favouring President Bola Tinubu and the ruling All Progressives Congress (APC) and demanding his resignation. They cited duplicate entries and AI-generated images in the preliminary voters' register and alleged fake polling units.",
-    "## Amupitan's response",
-    "At the panel, Amupitan pledged to turn down any political or diplomatic appointment after leaving INEC, saying he wanted to demonstrate his impartiality, and said the commission was introducing technical safeguards. INEC has said it removed 1.6 million invalid records from the register, including entries with manipulated images, and flagged officials in 10 states. Amupitan also again denied operating an X account that had allegedly posted support for the APC during the 2023 elections, saying he had never had an X account and that it was never linked to his email. INEC said in April that the claims were fabricated and that fake accounts had been created in his name.",
-    "## Background",
-    "At the same event, Amupitan said INEC would obey the final court ruling on Atiku Abubakar's candidacy. The presidential election is scheduled for 16 January 2027."
-   ],
-   "more": [
-    "Protesters demanded Amupitan's resignation.",
-    "He pledged to refuse post-tenure appointments.",
-    "He denies running a pro-APC X account."
-   ],
-   "at": "2026-11-13T06:43Z"
-  },
-  {
-   "id": "inec-will-obey-final-court-ruling-atiku-materials",
-   "c": "elections",
-   "n": 3,
-   "h": "INEC says it will obey final court ruling on Atiku, begins moving election materials",
-   "p": "INEC chairman Joash Amupitan says the commission will abide by the final court decision on Atiku Abubakar's candidacy. The commission has also started moving non-sensitive election materials to states and says PVC production is complete.",
-   "body": [
-    "The Independent National Electoral Commission (INEC) says it will be bound by the final court decision on whether Atiku Abubakar can contest the 2027 presidential election.",
-    "## What INEC said about Atiku",
-    "Speaking in London on Thursday, 12 November 2026, where he was briefing an audience at Chatham House on election preparations, INEC chairman Professor Joash Amupitan said the commission would follow whatever final ruling the courts give in the dispute over Atiku's nomination. A Federal High Court in Abuja on 5 November nullified the David Mark-led leadership of the African Democratic Congress (ADC) and reportedly voided the primary that produced Atiku as its candidate. The ADC has appealed, and its lawyer has argued that the judgment contained no express order invalidating Atiku's candidacy.",
-    "## Materials on the move",
-    "Separately, INEC National Commissioner Professor Rhoda Gumus said on Thursday that the commission had begun moving non-sensitive election materials to some geopolitical zones. Speaking while receiving a delegation from Kenya's electoral commission, she said INEC had completed nine of the 14 activities on its election timetable, finished producing Permanent Voter Cards (PVCs) and sent the first two batches to most states. She urged registered voters to collect their cards and said staff training was under way.",
-    "## Background",
-    "The presidential election is scheduled for 16 January 2027. Amupitan recently completed a tour of the six geopolitical zones to assess readiness. Separately, a Federal High Court in Kaduna on Thursday nullified an ADC primary in the state, adding to the party's legal troubles."
-   ],
-   "more": [
-    "INEC will follow the final court ruling on Atiku.",
-    "Non-sensitive materials are moving to the states.",
-    "PVC production is complete."
-   ],
-   "at": "2026-11-12T20:43Z",
-   "img": "img/inec-will-obey-final-court-ruling-atiku-materials-tn.jpg",
-   "alt": "Atiku Abubakar in a blue cap and agbada speaking into a microphone",
    "credit": "Photo: Trend Naija"
   }
  ]
