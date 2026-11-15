@@ -1,5 +1,5 @@
 {
- "updated": "Updated 09:42 GMT",
+ "updated": "Updated 11:41 GMT",
  "date": "Sunday, 15 November 2026",
  "categories": {
   "all": "All gist",
@@ -14,6 +14,29 @@
   "sport": "Sport"
  },
  "stories": [
+  {
+   "id": "lagos-epe-international-airport-construction-2027",
+   "c": "naija",
+   "n": 1,
+   "h": "Lagos says construction of Epe International Airport will start in 2027",
+   "p": "Lagos State says work on the proposed Epe International Airport will begin in 2027, with Governor Sanwo-Olu announcing the timeline at an APC campaign event in Epe and his deputy saying preliminary work is well advanced.",
+   "body": [
+    "The Lagos State Government plans to begin construction of the proposed Epe International Airport in 2027.",
+    "## The announcement",
+    "According to a statement by the Lagos chapter of the All Progressives Congress (APC), reported on Sunday, 15 November 2026, Governor Babajide Sanwo-Olu announced the timeline at an APC governorship campaign event in Epe. His deputy, Dr Obafemi Hamzat, said significant progress had been made on the documentation and groundwork needed for the project.",
+    "## What it could mean",
+    "Lagos APC spokesman Seye Oladejo described the airport as a major infrastructure investment that could turn Epe into an important aviation, industrial and commercial hub, and said it would create opportunities for residents and businesses along the Lekki–Epe corridor.",
+    "## Background",
+    "Lagos is currently served by Murtala Muhammed International Airport in Ikeja, which handles most of Nigeria's international air traffic. The Lekki–Epe corridor has seen rapid development in recent years, including the Dangote Refinery and the Lekki Deep Sea Port. No cost or funding details were given in the latest announcement."
+   ],
+   "more": [
+    "Construction is due to start in 2027.",
+    "The airport will be in Epe, on the Lekki corridor.",
+    "No cost details were given."
+   ],
+   "hot": 5,
+   "at": "2026-11-15T11:41Z"
+  },
   {
    "id": "floyd-mayweather-trains-abuja-boxing-series",
    "c": "sport",
@@ -34,13 +57,13 @@
     "Academies are planned in Lagos, Abuja and other cities.",
     "He fights an exhibition in Bangkok on 19 December."
    ],
-   "hot": 1,
-   "at": "2026-11-15T09:42Z"
+   "at": "2026-11-15T09:42Z",
+   "hot": 1
   },
   {
    "id": "tochi-wigwe-traditional-wedding-lagos",
    "c": "celebs",
-   "n": 1,
+   "n": 2,
    "h": "Late banker Herbert Wigwe's daughter Tochi weds in star-studded Lagos ceremony",
    "p": "Tochi Wigwe, eldest daughter of the late Access Holdings chief Herbert Wigwe, has married investment professional Wilson Aikhomu in a traditional ceremony in Lagos attended by Osinbajo, Sanwo-Olu, Dangote and the Emir of Kano, with performances by Davido and Flavour.",
    "body": [
@@ -57,8 +80,8 @@
     "Davido and Flavour performed.",
     "Her father died in a 2024 helicopter crash."
    ],
-   "hot": 2,
-   "at": "2026-11-15T09:42Z"
+   "at": "2026-11-15T09:42Z",
+   "hot": 2
   },
   {
    "id": "atiku-makinde-camps-alliance-talks",
@@ -78,8 +101,8 @@
     "Sources say an alliance is increasingly likely.",
     "Neither man has confirmed a deal."
    ],
-   "hot": 3,
-   "at": "2026-11-15T09:42Z"
+   "at": "2026-11-15T09:42Z",
+   "hot": 3
   },
   {
    "id": "miss-universe-african-contestants-us-visa",
@@ -101,13 +124,13 @@
     "Nigeria's Danielle Adewusi has arrived.",
     "The final is on 24 November."
    ],
-   "hot": 6,
-   "at": "2026-11-15T09:42Z"
+   "at": "2026-11-15T09:42Z",
+   "hot": 8
   },
   {
    "id": "umo-eno-gifts-car-orphanage-bride",
    "c": "naija",
-   "n": 1,
+   "n": 2,
    "h": "Governor Umo Eno stands as father, gifts car and ₦5m to bride raised in state orphanage",
    "p": "Akwa Ibom governor Umo Eno attended the traditional wedding of a young woman abandoned at birth and raised in a state-run children's home, standing in as her father and gifting the couple a car and ₦5 million.",
    "body": [
@@ -122,8 +145,8 @@
     "The couple received a car and ₦5m.",
     "The bride grew up in a state children's home."
    ],
-   "hot": 8,
-   "at": "2026-11-15T09:42Z"
+   "at": "2026-11-15T09:42Z",
+   "hot": 6
   },
   {
    "id": "ncdc-62-ebola-contacts-complete-monitoring",
@@ -149,7 +172,7 @@
    "credit": "Stock image: DFID - UK Department for International Development / Flickr, CC BY 2.0",
    "alt": "Medics at work in an Ebola observation ward",
    "at": "2026-11-15T06:43Z",
-   "hot": 4
+   "hot": 7
   },
   {
    "id": "fg-ethiopia-travel-advisory-16-deaths-altitude",
@@ -172,7 +195,7 @@
     "The city is about 2,355 metres above sea level."
    ],
    "at": "2026-11-15T06:43Z",
-   "hot": 5
+   "hot": 9
   },
   {
    "id": "asuu-bars-officials-endorsing-candidates",
@@ -236,8 +259,7 @@
     "He reportedly woke up in the mortuary.",
     "Residents celebrated with powder and snacks."
    ],
-   "at": "2026-11-15T06:43Z",
-   "hot": 7
+   "at": "2026-11-15T06:43Z"
   },
   {
    "id": "court-judgment-details-why-adc-leadership-sacked",
@@ -291,7 +313,7 @@
   {
    "id": "vdm-questions-inec-chairman-apc-uk-photo",
    "c": "creators",
-   "n": 1,
+   "n": 2,
    "h": "VeryDarkMan questions INEC chairman's photo with APC UK chapter chairman",
    "p": "Activist VeryDarkMan has questioned why INEC chairman Joash Amupitan was photographed with the APC's UK chapter chairman during his London trip, asking whether other parties' UK leaders were given similar access.",
    "body": [
@@ -299,14 +321,17 @@
     "## What he said",
     "In a post reported on Saturday, 14 November 2026, VDM clarified that the man wearing an APC-branded cap in the photo was not INEC chairman Professor Joash Amupitan, but Tunde Doherty, chairman of the APC's UK chapter. He asked what the APC official was doing with the INEC chairman and whether the UK leaders of other parties, including the NDC, Labour Party, PDP and ADC, had been given the same opportunity to meet him. He went on to claim that INEC was compromised.",
     "## Background",
-    "Amupitan was in London this week to speak at Chatham House about preparations for the 2027 elections. Protesters confronted him outside the venue, accusing the commission of bias, and he pledged to reject any political appointment after leaving office to show his independence. INEC has also denied reports that he plans to resign. INEC had not responded to VDM's post at the time of writing, and the circumstances of the photo are not clear."
+    "Amupitan was in London this week to speak at Chatham House about preparations for the 2027 elections. Protesters confronted him outside the venue, accusing the commission of bias, and he pledged to reject any political appointment after leaving office to show his independence. INEC has also denied reports that he plans to resign. INEC had not responded to VDM's post at the time of writing, and the circumstances of the photo are not clear.",
+    "## APC UK chairman responds",
+    "Tunde Doherty, chairman of the APC in the UK, later rejected claims that he was part of the INEC chairman's entourage at Chatham House. He said opposition figures had deliberately misrepresented a photo of him taken outside the venue, that he had never held any position or role in INEC and had no affiliation with it, and that as a party leader he had a right to attend public policy discussions there."
    ],
    "more": [
     "VDM questioned a photo of Amupitan with an APC official.",
     "He asked if other parties had similar access.",
     "INEC has not responded."
    ],
-   "at": "2026-11-14T20:42Z"
+   "at": "2026-11-14T20:42Z",
+   "hot": 4
   },
   {
    "id": "nuc-dismisses-viral-100-fake-professors-list",
@@ -422,8 +447,7 @@
    "alt": "Kano State Governor Abba Kabir Yusuf beside his wife, Zainab Musa Kwankwaso, in a red hijab",
    "credit": "Photo: Trend Naija",
    "owner": true,
-   "at": "2026-11-14T17:44Z",
-   "hot": 9
+   "at": "2026-11-14T17:44Z"
   },
   {
    "id": "ronaldinho-comeback-ravenna-aged-46",
@@ -535,7 +559,8 @@
     "## Bakers confirm",
     "The Premium Breadmakers Association of Nigeria itself said at an exhibition in Lagos that about 40 per cent of its members had shut down in the past two years because of rising energy costs, expensive loans and economic conditions. Its president, Emmanuel Onuorah, called on the federal government to provide grants and single-digit interest loans to businesses in the real sector, warning that more closures could threaten jobs.",
     "## Background",
-    "Atiku, the presidential candidate of the African Democratic Congress (ADC), has made the cost of living a central theme of his campaign. The government says its reforms, including the removal of fuel subsidy, were necessary to stabilise the economy and free up money for infrastructure. The Presidency had not responded to the statement at the time of writing. The presidential election is scheduled for 16 January 2027."
+    "Atiku, the presidential candidate of the African Democratic Congress (ADC), has made the cost of living a central theme of his campaign. The government says its reforms, including the removal of fuel subsidy, were necessary to stabilise the economy and free up money for infrastructure. The Presidency had not responded to the statement at the time of writing. The presidential election is scheduled for 16 January 2027.",
+    "Atiku launched the North-East leg of his campaign in Bauchi on 14 November, holding stakeholder meetings and a rally that his campaign said drew a large crowd, and promised to carry his message of affordable living across the country."
    ],
    "more": [
     "Atiku says nearly 40% of bakers have closed.",
@@ -1712,26 +1737,6 @@
     "Attackers came with cutlasses, cudgels and stones.",
     "NDC supporters reportedly drove them out.",
     "Police have not commented."
-   ],
-   "at": "2026-11-12T14:42Z"
-  },
-  {
-   "id": "ik-ogbonna-slams-okpebholo-edo-roads",
-   "c": "celebs",
-   "n": 3,
-   "h": "IK Ogbonna calls out Governor Okpebholo over 'dangerous' Edo roads",
-   "p": "Actor IK Ogbonna has criticised Edo State governor Monday Okpebholo over the poor state of roads he saw on a road trip through the state, saying Edo people deserve better.",
-   "body": [
-    "Nollywood actor IK Ogbonna has publicly criticised Edo State governor Monday Okpebholo over the condition of roads in the state.",
-    "## What he said",
-    "In posts on his Instagram Stories on Thursday, 12 November 2026, the actor said he had just travelled by road through Edo and was shocked by what he saw. He described the roads as dangerously bad and a real safety risk for travellers, and questioned how a state with such a proud cultural and historical identity could still have crumbling roads. He tagged the governor and said the people of Edo deserve better.",
-    "## Background",
-    "On the same day, comedian Sabinus criticised the Rivers State government over the state of roads in Rivers. Okpebholo, of the All Progressives Congress (APC), became Edo governor in November 2024. His government had not publicly responded to the actor's comments at the time of writing."
-   ],
-   "more": [
-    "IK Ogbonna says Edo roads are dangerous.",
-    "He tagged Governor Okpebholo.",
-    "The state government has not responded."
    ],
    "at": "2026-11-12T14:42Z"
   }
