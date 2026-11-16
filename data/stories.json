@@ -15,6 +15,39 @@
  },
  "stories": [
   {
+   "id": "fg-seeks-another-500m-world-bank-loan-renewable-energy",
+   "c": "naija",
+   "n": 1,
+   "h": "FG seeks another $500 million World Bank loan to expand renewable energy programme",
+   "p": "The Federal Government is reportedly seeking an additional $500 million loan from the World Bank to expand its existing $1.25 billion renewable energy programme. Many Nigerians are asking where the results of earlier spending can be seen.",
+   "body": [
+    "The Federal Government is reportedly seeking an additional $500 million loan from the World Bank to expand its existing $1.25 billion renewable energy programme.",
+    "## What the money is for",
+    "The programme is meant to expand access to electricity through renewable sources such as solar mini-grids and stand-alone solar systems, particularly for homes, businesses, schools and health centres in areas the national grid does not reach.",
+    "In 2023, the World Bank approved $750 million for Nigeria's Distributed Access through Renewable Energy Scale-up (DARES) project, which aims to bring clean electricity to millions of Nigerians. The new loan request would add to that effort.",
+    "## \"Where is the renewable energy?\"",
+    "The news has been met with frustration by many Nigerians, who say they are yet to see the impact of the money already borrowed.",
+    "Millions of households and small businesses still depend on generators, while frequent grid collapses and rising electricity tariffs continue to bite. For many people, the question is simple: where is the renewable energy?",
+    "## The debt question",
+    "The request also comes amid growing concern about Nigeria's rising debt. Critics argue that new loans should only be taken when there is clear evidence that earlier funds have been well spent and are delivering results.",
+    "Supporters of the programme argue that renewable energy is essential for closing Nigeria's huge electricity gap, and that such projects take time to deliver.",
+    "## Over to you",
+    "Should the government borrow more for renewable energy, or show results from the money already borrowed first?"
+   ],
+   "more": [
+    "The FG is reportedly seeking an extra $500m World Bank loan.",
+    "It would expand a $1.25bn renewable energy programme.",
+    "Many Nigerians say they are yet to see the impact."
+   ],
+   "hot": 1,
+   "added": "2026-11-16",
+   "img": "img/fg-seeks-another-500m-world-bank-loan-renewable-energy.jpg",
+   "alt": "President Bola Tinubu in a blue suit above the World Bank logo on a building",
+   "credit": "Photo: Trend Naija",
+   "owner": true,
+   "at": "2026-11-16T16:20Z"
+  },
+  {
    "id": "davido-tems-ayra-starr-grammy-2027-nominations",
    "c": "music",
    "n": 1,
@@ -34,7 +67,7 @@
     "Davido's album 'ORIADÉ' marks 15 years in music.",
     "The Grammys are on 7 February 2027."
    ],
-   "hot": 1,
+   "hot": 2,
    "at": "2026-11-16T14:43Z"
   },
   {
@@ -57,7 +90,7 @@
     "I Go Save questioned politicians' stage displays.",
     "Both urged candidates to focus on issues."
    ],
-   "hot": 4,
+   "hot": 5,
    "at": "2026-11-16T14:43Z"
   },
   {
@@ -80,7 +113,7 @@
     "He blamed tribalism and money.",
     "He says he has never taken government money."
    ],
-   "hot": 6,
+   "hot": 7,
    "at": "2026-11-16T14:43Z"
   },
   {
@@ -124,7 +157,7 @@
     "It is unclear if candidates will be discussed."
    ],
    "at": "2026-11-16T11:43Z",
-   "hot": 2
+   "hot": 3
   },
   {
    "id": "atiku-criticises-tinubu-plateau-visit",
@@ -147,7 +180,7 @@
     "The Presidency has not responded."
    ],
    "at": "2026-11-16T11:43Z",
-   "hot": 7
+   "hot": 8
   },
   {
    "id": "court-warns-agf-fagbemi-jail-okuama-leaders",
@@ -189,8 +222,7 @@
     "It is a ₦51 cut.",
     "Depots are also lowering prices."
    ],
-   "at": "2026-11-16T11:43Z",
-   "hot": 9
+   "at": "2026-11-16T11:43Z"
   },
   {
    "id": "nafdac-halves-registration-fees-small-businesses",
@@ -244,7 +276,7 @@
    "credit": "Photo: Trend Naija",
    "owner": true,
    "at": "2026-11-16T11:21Z",
-   "hot": 3
+   "hot": 4
   },
   {
    "id": "tinubu-five-year-defence-plan-recruitment",
@@ -311,7 +343,7 @@
     "The fee has not been confirmed."
    ],
    "at": "2026-11-16T09:42Z",
-   "hot": 5
+   "hot": 6
   },
   {
    "id": "peller-jarvis-expecting-baby-boy",
@@ -380,7 +412,7 @@
     "Police have not commented."
    ],
    "at": "2026-11-16T06:42Z",
-   "hot": 8
+   "hot": 9
   },
   {
    "id": "soludo-keep-politics-out-of-churches",
