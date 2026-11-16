@@ -257,6 +257,18 @@
     "mark",
     "senator david mark"
    ]
+  },
+  "tems": {
+   "img": "people/tems.jpg",
+   "alt": "Tems with curly hair and rimless glasses",
+   "aliases": []
+  },
+  "ayra starr": {
+   "img": "people/ayra-starr.jpg",
+   "alt": "Ayra Starr resting her chin on her hand, wearing a large ring",
+   "aliases": [
+    "ayra"
+   ]
   }
  },
  "pairs": {
@@ -319,6 +331,10 @@
   "atiku abubakar + david mark": {
    "img": "people/atiku-abubakar-and-david-mark.jpg",
    "alt": "Atiku Abubakar above ADC chairman David Mark beside the party logo"
+  },
+  "davido + tems + ayra starr": {
+   "img": "people/davido-tems-and-ayra-starr.jpg",
+   "alt": "Davido, Tems and Ayra Starr in a three-photo collage"
   }
  },
  "special": {
