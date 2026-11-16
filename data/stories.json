@@ -1,6 +1,6 @@
 {
- "updated": "Updated 20:43 GMT",
- "date": "Sunday, 15 November 2026",
+ "updated": "Updated 06:42 GMT",
+ "date": "Monday, 16 November 2026",
  "categories": {
   "all": "All gist",
   "elections": "2027 elections",
@@ -14,6 +14,96 @@
   "sport": "Sport"
  },
  "stories": [
+  {
+   "id": "kwankwaso-convoy-attacked-bichi-kano",
+   "c": "elections",
+   "n": 2,
+   "h": "Suspected thugs attack Kwankwaso's convoy in Kano, smash about seven vehicles",
+   "p": "Suspected thugs reportedly attacked the campaign convoy of NDC vice-presidential candidate Rabiu Kwankwaso and Kano governorship candidate Aminu Abdussalam Gwarzo in Bichi on Sunday evening, injuring team members and damaging about seven vehicles.",
+   "body": [
+    "The campaign convoy of Rabiu Musa Kwankwaso, the Nigeria Democratic Congress (NDC) vice-presidential candidate and former Kano governor, was reportedly attacked by suspected thugs in Kano State on Sunday evening, 15 November 2026.",
+    "## What happened",
+    "According to Ibrahim Garba Shu'aibu, spokesperson for the NDC's Kano governorship candidate, Aminu Abdussalam Gwarzo, the convoy had passed peacefully through Tofa, Rimin Gado, Kabo, Gwarzo, Shanono and Bagwai local government areas before reaching Bichi. He said the team was warned that its route into Bichi had been blocked by people opposed to the rally, and that stones were thrown when the delegation arrived. The meeting went ahead, but as the convoy left, a group of armed youths near the local government secretariat reportedly attacked it, injuring some members of the team and smashing about seven vehicles. A media aide to Kwankwaso also confirmed the incident on social media.",
+    "## Response",
+    "The police had not publicly commented on the incident at the time of writing, and it is not clear who was behind the attack.",
+    "## Background",
+    "The attack is the latest in a series of incidents of political violence ahead of the 2027 elections. Suspected thugs stormed an NDC town hall in Lagos last week, and supporters of other parties, including the APC, have also been attacked at rallies in several states. President Bola Tinubu has ordered security agencies to deal firmly with thuggery, and the House of Representatives is investigating attacks on political events. The presidential election is scheduled for 16 January 2027."
+   ],
+   "more": [
+    "About seven vehicles were reportedly damaged.",
+    "Some campaign members were injured.",
+    "Police have not commented."
+   ],
+   "hot": 1,
+   "at": "2026-11-16T06:42Z"
+  },
+  {
+   "id": "soludo-keep-politics-out-of-churches",
+   "c": "elections",
+   "n": 1,
+   "h": "Soludo tells politicians to keep campaigns out of churches",
+   "p": "Anambra governor Charles Soludo has urged politicians not to turn places of worship into campaign grounds, saying churches should be neutral spaces where people of all political views can worship in peace.",
+   "body": [
+    "Anambra State governor Charles Soludo has called on politicians to stop turning churches into campaign platforms.",
+    "## What he said",
+    "Speaking at the 30th ministry anniversary of Prophet Chukwuemeka Ohanaemere, popularly known as Odumeje, in Onitsha, reported on Monday, 16 November 2026, Soludo said places of worship should be holy places where people of all political persuasions can worship God in peace. He said politicians have their own venues for politics and urged them to keep the two clearly separate. The governor said he had personally followed a policy of not using religious venues for campaigning.",
+    "## Background",
+    "Earlier this month, a Catholic priest apologised for singing Peter Obi's campaign song in church, and Yoruba Muslim clerics said they would not endorse any candidate. Soludo, whose party APGA has endorsed President Bola Tinubu for 2027, has pledged to deliver half of Anambra's votes to the President."
+   ],
+   "more": [
+    "Soludo says churches are not for politics.",
+    "He spoke at an Onitsha church anniversary.",
+    "He says he avoids campaigning in churches."
+   ],
+   "hot": 4,
+   "at": "2026-11-16T06:42Z"
+  },
+  {
+   "id": "zamfara-police-rescue-19-women-children",
+   "c": "naija",
+   "n": 1,
+   "h": "Zamfara police rescue 19 women and children after 22 days with bandits",
+   "p": "Zamfara police say they have rescued 19 women and children who had been held by bandits for 22 days, after a joint operation with the DSS and local hunters near Gusau. All were found unharmed.",
+   "body": [
+    "Police in Zamfara State say they have rescued 19 women and children who had spent 22 days in the hands of bandits.",
+    "## The rescue",
+    "In a statement, police spokesperson DSP Yazid Abubakar said the victims had been abducted from Tungar Haki village in Gusau Local Government Area and taken to a bandits' hideout near Kungurmi village. They were rescued on Saturday, 14 November 2026, in a coordinated operation involving the police anti-kidnapping unit, officers attached to Government House, the Department of State Services and local hunters, following intelligence about their location.",
+    "## Reunited",
+    "The police said all 19 victims were found unharmed and have been reunited with their families.",
+    "## Background",
+    "Zamfara is one of the states worst affected by banditry and kidnapping for ransom. On Sunday, bandits killed a senior aide to the state governor during an attack in Kaura Namoda and reportedly abducted several worshippers."
+   ],
+   "more": [
+    "19 women and children were rescued.",
+    "They spent 22 days in captivity.",
+    "All were found unharmed."
+   ],
+   "hot": 7,
+   "at": "2026-11-16T06:42Z"
+  },
+  {
+   "id": "guinea-deports-1557-illegal-gold-miners",
+   "c": "world",
+   "n": 1,
+   "h": "Guinea deports 1,557 West Africans convicted of illegal gold mining",
+   "p": "Guinea has deported 1,557 West Africans, mostly from Burkina Faso and Mali, who had been jailed for illegal gold mining, as it steps up a crackdown on unauthorised mining.",
+   "body": [
+    "Guinea has expelled 1,557 West African nationals who were arrested and convicted for illegal gold mining.",
+    "## The deportation",
+    "According to judicial and security sources quoted in reports on Sunday, 15 November 2026, the deportees, mostly citizens of Burkina Faso and Mali, were arrested at mining sites during security operations. After serving prison sentences of 18 months to two years, they were taken in a convoy of 44 vehicles from the capital, Conakry, to the border town of Kouremale on the Mali border, arriving on Saturday.",
+    "## The crackdown",
+    "Guinean authorities stepped up operations against illegal mining in early November, particularly in Siguiri, a major gold-producing region in the north-east. The government says the aim is to stop illegal exploitation of mineral resources and limit environmental damage from unregulated mining.",
+    "## Background",
+    "The crackdown has also raised tensions between miners and the authorities."
+   ],
+   "more": [
+    "1,557 people were deported.",
+    "Most were from Burkina Faso and Mali.",
+    "They had served jail terms for illegal mining."
+   ],
+   "hot": 9,
+   "at": "2026-11-16T06:42Z"
+  },
   {
    "id": "goodluck-jonathan-calls-review-democracy",
    "c": "politics",
@@ -34,8 +124,8 @@
     "He spoke at an event honouring Herbert Macaulay.",
     "He urged honesty about national failures."
    ],
-   "hot": 3,
-   "at": "2026-11-15T20:43Z"
+   "at": "2026-11-15T20:43Z",
+   "hot": 5
   },
   {
    "id": "yul-edochie-judy-expecting-fourth-child-may-song",
@@ -57,8 +147,8 @@
     "May Edochie released a gospel song the same day.",
     "Reactions online were mixed."
    ],
-   "hot": 1,
-   "at": "2026-11-15T20:43Z"
+   "at": "2026-11-15T20:43Z",
+   "hot": 2
   },
   {
    "id": "yoruba-imams-league-wont-endorse-candidate",
@@ -78,7 +168,6 @@
     "It says clerics are not politicians.",
     "Its stance follows a donation by Makinde."
    ],
-   "hot": 6,
    "at": "2026-11-15T20:43Z"
   },
   {
@@ -101,7 +190,6 @@
     "Nine people died in the October attack.",
     "Christians are about 3% of Jordan's population."
    ],
-   "hot": 9,
    "at": "2026-11-15T20:43Z"
   },
   {
@@ -125,7 +213,7 @@
     "It would create federal and state police services."
    ],
    "at": "2026-11-15T17:41Z",
-   "hot": 2
+   "hot": 6
   },
   {
    "id": "nnpc-new-oredo-refinery-edo",
@@ -167,8 +255,7 @@
     "Crude oil purchases fell by 56%.",
     "The shift reflects Dangote Refinery's exports."
    ],
-   "at": "2026-11-15T17:41Z",
-   "hot": 7
+   "at": "2026-11-15T17:41Z"
   },
   {
    "id": "fg-24-hour-power-pilot-lagos-ogun-abuja",
@@ -190,8 +277,7 @@
     "These areas are over half of national demand.",
     "No start date has been announced."
    ],
-   "at": "2026-11-15T17:41Z",
-   "hot": 8
+   "at": "2026-11-15T17:41Z"
   },
   {
    "id": "temi-otedola-mr-eazi-welcome-first-child",
@@ -214,7 +300,7 @@
     "They married in Iceland in 2025."
    ],
    "at": "2026-11-15T14:42Z",
-   "hot": 4
+   "hot": 8
   },
   {
    "id": "nnpc-cuts-petrol-prices-four-cities",
@@ -374,8 +460,7 @@
    "img": "img/floyd-mayweather-trains-abuja-boxing-series.jpg",
    "alt": "Floyd Mayweather in green gloves sparring in a boxing ring as onlookers watch from ringside",
    "credit": "Photo: Trend Naija",
-   "owner": true,
-   "hot": 5
+   "owner": true
   },
   {
    "id": "tochi-wigwe-traditional-wedding-lagos",
@@ -778,8 +863,8 @@
   {
    "id": "ronaldinho-comeback-ravenna-aged-46",
    "c": "sport",
-   "n": 1,
-   "h": "Ronaldinho set for competitive comeback at 46 with Italian club Ravenna",
+   "n": 2,
+   "h": "Ronaldinho makes winning comeback at 46 as Ravenna beat Forli",
    "p": "Brazilian legend Ronaldinho is set to start for Serie C club Ravenna against Forli on Sunday, his first competitive match in more than a decade, the club's manager has confirmed.",
    "body": [
     "Former Barcelona, PSG and AC Milan star Ronaldinho is set to return to competitive football at the age of 46.",
@@ -788,14 +873,17 @@
     "## A long wait",
     "Ronaldinho joined Ravenna as an investor in August. His last competitive appearance was for Brazilian club Fluminense in September 2015, making Sunday's match his first in more than ten years.",
     "## Background",
-    "Ronaldinho won the Ballon d'Or in 2005 and the World Cup with Brazil in 2002, and is remembered as one of the most gifted and entertaining players of his generation."
+    "Ronaldinho won the Ballon d'Or in 2005 and the World Cup with Brazil in 2002, and is remembered as one of the most gifted and entertaining players of his generation.",
+    "## The comeback",
+    "Ronaldinho played the first half as Ravenna beat Forli 2-0 on Sunday, 15 November, in front of a packed crowd at the Stadio Bruno Benelli, where the club had installed a temporary 1,800-seat stand for the occasion. He walked out to flares and music, and although he played at a relaxed pace and mostly made simple passes, he was involved in the move that led to one of the goals."
    ],
    "more": [
     "Ronaldinho will start against Forli on Sunday.",
     "It is his first competitive match since 2015.",
     "He joined Ravenna as an investor in August."
    ],
-   "at": "2026-11-14T17:42Z"
+   "at": "2026-11-14T17:42Z",
+   "hot": 3
   },
   {
    "id": "portugal-honours-ronaldo-number-7-shirt",
@@ -1620,98 +1708,6 @@
     "The hearing focused on violence in Nigeria."
    ],
    "at": "2026-11-13T15:50Z"
-  },
-  {
-   "id": "tems-children-of-blood-and-bone-soundtrack",
-   "c": "music",
-   "n": 1,
-   "h": "Tems to lead soundtrack for Hollywood film Children of Blood and Bone",
-   "p": "Tems is executive music producer of the soundtrack for the Hollywood adaptation of Tomi Adeyemi's novel 'Children of Blood and Bone', featuring Burna Boy, Ayra Starr, Fireboy DML, BNXN and others. The album is out on 20 November.",
-   "body": [
-    "Grammy-winning singer Tems has been named executive music producer of the soundtrack for the Hollywood film 'Children of Blood and Bone'.",
-    "## The soundtrack",
-    "The announcement was made on Instagram on Thursday, 12 November 2026. The album brings together several of Africa's biggest stars, including Burna Boy, Ayra Starr, Fireboy DML, BNXN and Kold AF. Tems described the project as a profound honour and said she was excited for fans to hear what she had put together. The soundtrack is due for release on 20 November, ahead of the film's cinema debut.",
-    "## The film",
-    "'Children of Blood and Bone' is directed by Gina Prince-Bythewood and adapted from the bestselling fantasy novel by Nigerian-American author Tomi Adeyemi.",
-    "## Background",
-    "Tems has become one of the most successful Nigerian artists internationally, winning Grammy Awards and earning an Oscar nomination for co-writing 'Lift Me Up' for 'Black Panther: Wakanda Forever'."
-   ],
-   "more": [
-    "Tems is executive music producer of the soundtrack.",
-    "Burna Boy, Ayra Starr and Fireboy are featured.",
-    "The album is out on 20 November."
-   ],
-   "at": "2026-11-13T15:50Z"
-  },
-  {
-   "id": "tinubu-campaign-balloon-lagos-lagoon",
-   "c": "viral",
-   "n": 1,
-   "h": "Giant Tinubu campaign balloon spotted floating in Lagos lagoon",
-   "p": "A video of a large Tinubu 2027 campaign balloon drifting loose in the Lagos lagoon beneath the Third Mainland Bridge has gone viral, with comedian Carter Efe's reaction drawing laughs online.",
-   "body": [
-    "A large inflatable balloon promoting President Bola Tinubu's 2027 re-election campaign has been spotted floating loose in the Lagos lagoon.",
-    "## The video",
-    "A short clip shared on X on Friday, 13 November 2026, shows the oversized balloon, bearing Tinubu's image, the All Progressives Congress (APC) colours and campaign branding, drifting in the water beside the Third Mainland Bridge. Comedian and content creator Carter Efe, who filmed it from his car, reacted with surprise, and his response quickly became the highlight of the clip for many viewers.",
-    "## Background",
-    "Large inflatable balloons and outdoor displays have been part of the APC's early campaign push in Lagos and other cities ahead of the 2027 elections. It is not clear how the balloon ended up in the lagoon. The APC had not commented at the time of writing."
-   ],
-   "more": [
-    "The balloon was seen under the Third Mainland Bridge.",
-    "Carter Efe's reaction went viral.",
-    "It is unclear how it got into the lagoon."
-   ],
-   "at": "2026-11-13T15:50Z"
-  },
-  {
-   "id": "makinde-open-to-alliance-atiku-obi",
-   "c": "elections",
-   "n": 1,
-   "h": "Makinde says talks with Atiku and Obi are still open ahead of 2027",
-   "p": "Oyo governor and APM presidential candidate Seyi Makinde says discussions with Atiku Abubakar and Peter Obi are ongoing and could lead to different political arrangements before the election, but that any choice of partner must be based on evidence and public opinion.",
-   "body": [
-    "Oyo State governor Seyi Makinde, the presidential candidate of the Allied Peoples Movement (APM), says he is still open to working with Atiku Abubakar and Peter Obi before the 2027 elections.",
-    "## What he said",
-    "In a television interview aired on Friday, 13 November 2026, Makinde said discussions with both men were still active and that no option had been ruled out. He said the talks could lead to a range of political arrangements before the election, and that any decision would be guided by the goal of changing the country's direction. Asked whether he preferred Atiku or Obi as a partner, he said the choice should be based on evidence and public opinion rather than sentiment. He has also said he is willing to work with any Nigerian except President Bola Tinubu.",
-    "## Background",
-    "Atiku is the presidential candidate of the African Democratic Congress (ADC) and Obi of the Nigeria Democratic Congress (NDC). Efforts to agree a single opposition candidate have repeatedly stalled, with each insisting on running. Earlier this week, Makinde gave four reasons for challenging Tinubu, whom he supported in 2023, and PRP candidate Donald Duke said he was willing to step down for a consensus candidate. The presidential election is scheduled for 16 January 2027."
-   ],
-   "more": [
-    "Makinde says talks with Atiku and Obi continue.",
-    "He says any choice must rest on evidence.",
-    "He backed Tinubu in 2023."
-   ],
-   "at": "2026-11-13T15:50Z"
-  },
-  {
-   "id": "dr-mo-peter-obi-one-in-a-million-travel",
-   "c": "elections",
-   "n": 1,
-   "h": "\"Peter Obi is one in a million. Just imagine the kind of travelling we do together\": Dr. Mo",
-   "p": "Dr. Mo has described Peter Obi as \"one in a million\", marvelling at the NDC presidential candidate's punishing travel schedule, which he says can take them from Lagos to Abuja, London, several US cities and back again in one trip.",
-   "body": [
-    "Dr. Mo has expressed admiration for former Anambra State Governor Peter Obi, now the NDC presidential candidate, describing his travel schedule as one that is very hard to keep up with.",
-    "## \"Just visualise what I'm saying\"",
-    "According to Dr. Mo, travelling with Obi means moving from one city to another, sometimes across continents, with little time to settle before the next journey.",
-    "\"We move from Lagos to Abuja, then take off to London. From there, we spend eight hours flying to Houston, hold a meeting and move to Phoenix, then California. We return to Texas, go to Dallas, fly back to the UK and eventually return to Nigeria,\" he said.",
-    "\"Just imagine it. Just visualise what I'm saying.\"",
-    "## \"One in a million\"",
-    "Dr. Mo described Obi as \"one in a million\", expressing admiration for the amount of travelling and the number of engagements he handles.",
-    "For anyone who has done long-distance travel, moving through several cities, attending meetings and catching yet another flight can be exhausting. Doing it repeatedly, while running a national campaign, is another level entirely.",
-    "## Over to you",
-    "How does Peter Obi manage such a demanding schedule, and where does he get the energy to keep moving?"
-   ],
-   "more": [
-    "Dr. Mo called Peter Obi 'one in a million'.",
-    "He described trips from Lagos to London and several US cities.",
-    "Obi is the NDC presidential candidate."
-   ],
-   "added": "2026-11-13",
-   "img": "img/dr-mo-peter-obi-one-in-a-million-travel.jpg",
-   "alt": "Peter Obi beside a photo of Dr. Mo speaking into a microphone",
-   "credit": "Photo: Trend Naija",
-   "owner": true,
-   "at": "2026-11-13T12:29Z"
   }
  ]
 }
