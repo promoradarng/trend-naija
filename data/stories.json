@@ -1,5 +1,5 @@
 {
- "updated": "Updated 17:42 GMT",
+ "updated": "Updated 20:42 GMT",
  "date": "Tuesday, 17 November 2026",
  "categories": {
   "all": "All gist",
@@ -15,9 +15,110 @@
  },
  "stories": [
   {
-   "id": "super-eagles-draw-tanzania-afcon-2027-qualifier",
+   "id": "political-violence-2027-jonathan-senate-apc-adc",
+   "c": "politics",
+   "n": 2,
+   "added": "2026-11-17",
+   "h": "Political violence: Jonathan sounds alarm, Senate asks INEC to disqualify violent candidates as APC and ADC trade blame",
+   "p": "Former President Goodluck Jonathan warned that some campaigns are being run like cult groups, while the Senate urged police to probe recent attacks and INEC to disqualify candidates linked to violence. The APC accused the ADC and NDC of sponsoring violence, a claim the ADC rejected.",
+   "body": [
+    "Concern over violence ahead of the 2027 elections dominated political discussion on Tuesday, 17 November 2026, with a former president, the Senate and the main parties all weighing in.",
+    "## Jonathan's warning",
+    "Speaking at a peace and security conference organised by his foundation in Abuja, former President Goodluck Jonathan warned that rising political intolerance and violence could threaten the elections. He said some political groups were running their campaign teams like cult groups, and that Nigerians at home and abroad had expressed fears about possible crises after the polls. He also condemned thuggery and the use of young people as tools of violence.",
+    "## The Senate's resolution",
+    "The Senate, acting on a motion by Senator Abdul Ningi (ADC, Bauchi Central), condemned recent attacks on political figures. These included the stoning of President Bola Tinubu's motorcade after Friday prayers in Abuja, reported attacks on NDC candidate Peter Obi in Edo State, a disrupted NDC procession in Asaba on 7 November that left one person dead, and an attack on ADC candidate Atiku Abubakar's convoy in Sokoto.",
+    "Lawmakers asked the Inspector-General of Police to carry out impartial investigations and prosecute those responsible, and urged INEC to apply the law disqualifying candidates linked to electoral violence. The motion was seconded by Senator Ali Ndume (APC, Borno South).",
+    "## APC and ADC trade accusations",
+    "The APC presidential campaign council, through its spokesperson Dele Alake, accused the ADC and NDC of sponsoring violence, deepfakes and hired protests to damage President Tinubu's campaign, pointing to the convoy incident in Abuja.",
+    "The ADC campaign council, through Phrank Shaibu, dismissed the claim as a distraction from the government's economic record. It challenged the APC to provide evidence or withdraw the allegation, and asked why no one had been prosecuted if the ruling party had proof. The NDC's response was not included in the reports.",
+    "## What happens next",
+    "The presidential election is scheduled for 16 January 2027."
+   ],
+   "more": [
+    "Jonathan says some campaigns are run like cult groups.",
+    "The Senate wants INEC to disqualify candidates linked to violence.",
+    "The ADC rejects APC claims that it sponsors attacks."
+   ],
+   "hot": 1,
+   "at": "2026-11-17T20:42Z"
+  },
+  {
+   "id": "tinubu-bill-decriminalise-attempted-suicide",
+   "c": "naija",
+   "n": 1,
+   "added": "2026-11-17",
+   "h": "Tinubu asks Senate to decriminalise attempted suicide",
+   "p": "President Tinubu has sent a bill to the Senate that would remove criminal penalties for attempted suicide and replace them with medical and psychological support. The National Mental Health Amendment Bill was read during plenary.",
+   "body": [
+    "President Bola Tinubu has reportedly asked the Senate to decriminalise attempted suicide and put in place medical and psychological support for survivors instead of punishment.",
+    "## The bill",
+    "The proposal is contained in the National Mental Health Amendment Bill, 2026, which Senate President Godswill Akpabio read during plenary on Tuesday, 17 November 2026. It seeks to amend the National Mental Health Act of 2021 by removing criminal liability for attempted suicide, which currently attracts prison terms under Nigeria's Criminal and Penal Codes, and replacing it with a public health approach.",
+    "In his letter to the Senate, the President urged lawmakers to give the bill quick consideration, saying it was designed to decriminalise attempted suicide and support anyone who tries to take their own life.",
+    "## Why it matters",
+    "If passed, the law would treat attempted suicide as a health issue requiring care and treatment rather than a crime.",
+    "## Getting help",
+    "Anyone who is struggling or thinking about suicide is encouraged to speak to someone they trust or contact a health professional or local support service."
+   ],
+   "more": [
+    "The bill would remove prison terms for attempted suicide.",
+    "It replaces punishment with medical and psychological support.",
+    "Tinubu asked the Senate to act quickly."
+   ],
+   "hot": 4,
+   "at": "2026-11-17T20:42Z"
+  },
+  {
+   "id": "olympic-eagles-thrash-dr-congo-4-0",
    "c": "sport",
    "n": 1,
+   "added": "2026-11-17",
+   "h": "Olympic Eagles beat DR Congo 4-0 to overturn first-leg deficit",
+   "p": "Nigeria's U23 team beat DR Congo 4-0 in Ikenne to overturn a 2-0 first-leg loss and reach the final round of U23 qualifying. They will now face Zambia.",
+   "body": [
+    "Nigeria's under-23 team, the Olympic Eagles, beat the Democratic Republic of Congo 4-0 at the Remo Stars Stadium in Ikenne to reach the final round of qualifying for the U23 Africa Cup of Nations.",
+    "## The comeback",
+    "The win was all the more impressive because Nigeria had lost the first leg 2-0 in Lubumbashi four days earlier. Alex Oweilayefa opened the scoring in the eighth minute after the DR Congo goalkeeper spilled a powerful shot from Umar Abubakar.",
+    "The home side kept up the pressure, with Saleh Sadiq denied by a goal-line clearance before half-time and Abubakar missing a close-range chance, leaving the tie level on aggregate at the break. Nigeria pulled away in the second half to win 4-0 on the day.",
+    "## What happens next",
+    "The Olympic Eagles will face Zambia in the final round of qualifying.",
+    "## Bright spot",
+    "The result came on the same day the Super Eagles were held to a goalless draw by Tanzania in their AFCON 2027 qualifier."
+   ],
+   "more": [
+    "Nigeria had lost the first leg 2-0.",
+    "Oweilayefa scored in the eighth minute.",
+    "Zambia are next in the final round."
+   ],
+   "hot": 7,
+   "at": "2026-11-17T20:42Z"
+  },
+  {
+   "id": "us-loses-measles-elimination-status",
+   "c": "world",
+   "n": 1,
+   "added": "2026-11-17",
+   "h": "US loses measles elimination status after more than a year of spread",
+   "p": "The Pan American Health Organization says measles is no longer eliminated in the United States, after the virus spread continuously for over a year. More than 5,400 US cases have been recorded this year.",
+   "body": [
+    "The United States has lost the measles elimination status it held since 2000, after a commission of the Pan American Health Organization (PAHO) found that the virus had been spreading continuously in the country for more than a year.",
+    "## The decision",
+    "PAHO announced the decision on Tuesday, 17 November 2026. The commission also found that measles was no longer eliminated in Mexico and Bolivia. PAHO's director, Dr Jarbas Barbosa, said it means the virus has circulated for a long time, putting families at risk of a preventable illness, hospitalisation and death.",
+    "## The numbers",
+    "More than 5,400 measles cases have been recorded in the US this year, more than twice last year's total and the highest since 1991. State health departments have reported 10 deaths, including at least four babies too young for routine vaccination.",
+    "## Reaction",
+    "A US public health leader, Dr Richard Besser, described the loss of elimination status as a distressing setback."
+   ],
+   "more": [
+    "The US had held elimination status since 2000.",
+    "Over 5,400 cases recorded this year.",
+    "Mexico and Bolivia also lost their status."
+   ],
+   "at": "2026-11-17T20:42Z"
+  },
+  {
+   "id": "super-eagles-draw-tanzania-afcon-2027-qualifier",
+   "c": "sport",
+   "n": 2,
    "added": "2026-11-17",
    "h": "Super Eagles held 0-0 by Tanzania, AFCON 2027 hopes take a hit",
    "p": "Nigeria were held to a goalless draw by Tanzania in Zanzibar in their AFCON 2027 qualifier, missing the chance to move to nine points. Tolu Arokodare hit the post in the first half, and coach Eric Chelle admitted afterwards that the team is in trouble.",
@@ -36,8 +137,8 @@
     "Nigeria missed the chance to move above Guinea-Bissau.",
     "Chelle reportedly admitted the team is in trouble."
    ],
-   "hot": 1,
-   "at": "2026-11-17T17:42Z"
+   "at": "2026-11-17T17:42Z",
+   "hot": 3
   },
   {
    "id": "nigeria-south-africa-talks-fani-kayode-row",
@@ -59,8 +160,8 @@
     "The row began over a presidential livestream.",
     "Both sides say they want stronger ties."
    ],
-   "hot": 5,
-   "at": "2026-11-17T17:42Z"
+   "at": "2026-11-17T17:42Z",
+   "hot": 8
   },
   {
    "id": "monguno-escapes-boko-haram-attack-kukawa",
@@ -81,13 +182,12 @@
     "Troops reportedly repelled the insurgents.",
     "The senator was on a 2027 campaign tour."
    ],
-   "hot": 6,
    "at": "2026-11-17T17:42Z"
   },
   {
    "id": "gombe-apc-chairman-campaign-dg-road-accident",
    "c": "politics",
-   "n": 1,
+   "n": 2,
    "added": "2026-11-17",
    "h": "Gombe APC chairman and campaign DG injured in road accident on way to rally",
    "p": "Gombe APC chairman Mohammed Ndus and campaign director-general Sa'adu Hassan were reportedly injured in a road accident on their way to a rally in Balanga. Ndus is said to have suffered serious injuries.",
@@ -127,13 +227,12 @@
     "The ADC wants INEC stopped from acting on the ruling.",
     "Atiku is the party's presidential candidate."
    ],
-   "hot": 7,
    "at": "2026-11-17T17:42Z"
   },
   {
    "id": "enioluwa-apologises-youth-remarks-nelly",
    "c": "creators",
-   "n": 2,
+   "n": 3,
    "added": "2026-11-17",
    "h": "Enioluwa apologises after backlash over comments on young Nigerians and work",
    "p": "Influencer Enioluwa Adeoluwa has apologised after a clip from a youth conference, in which he appeared to suggest young people don't like to work, drew wide criticism. BBNaija's Nelly Mbonu was among those who pushed back.",
@@ -150,8 +249,8 @@
     "Nelly Mbonu was among his critics.",
     "He has acknowledged his privilege and apologised."
    ],
-   "hot": 4,
-   "at": "2026-11-17T17:42Z"
+   "at": "2026-11-17T17:42Z",
+   "hot": 6
   },
   {
    "id": "denrele-edun-father-dies",
@@ -198,7 +297,7 @@
     "Pension savings can cover up to 25% of the deposit."
    ],
    "at": "2026-11-17T14:42Z",
-   "hot": 3
+   "hot": 5
   },
   {
    "id": "us-satellite-intelligence-nigeria-military",
@@ -268,7 +367,7 @@
     "Reactions online were mixed."
    ],
    "at": "2026-11-17T14:42Z",
-   "hot": 8
+   "hot": 9
   },
   {
    "id": "declan-rice-new-arsenal-contract",
@@ -440,10 +539,10 @@
   {
    "id": "fountain-of-life-removes-jimmy-odukoya-senior-pastor",
    "c": "naija",
-   "n": 3,
+   "n": 4,
    "added": "2026-11-17",
-   "h": "Confusion at Fountain of Life as church rejects reported removal of Jimmy Odukoya",
-   "p": "A group of trustees announced that Jimmy Odukoya had been removed as senior pastor of The Fountain of Life Church, citing the late founder's succession wishes. The church and Odukoya have since rejected the announcement, saying it came from a faction acting outside the church's constitution.",
+   "h": "Fountain of Life trustees name interim leader, insist Jimmy Odukoya is out as senior pastor",
+   "p": "The Fountain of Life Church's board of trustees has named Pastor Rotimi Okpaise as interim leader and directed Jimmy Odukoya to vacate the senior pastor's office. A statement on the church's official page earlier rejected the removal as coming from a faction.",
    "body": [
     "There is confusion at The Fountain of Life Church in Ilupeju, Lagos, after an announcement that Jimmy Odukoya had been removed as senior pastor was quickly rejected by the church and by Odukoya himself.",
     "## The removal announcement",
@@ -454,15 +553,17 @@
     "## The founder's video",
     "Later on Tuesday, a video said to have been recorded by the late Taiwo Odukoya in December 2021 emerged, with a transcript released by the board of trustees. In it, he reportedly named Pastor Kunle Areogun as the person who should lead the church if he died or was unable to continue.",
     "He is said to have stated that Jimmy should serve as Areogun's immediate administrative assistant and lead the youth church. The video was reportedly recorded by Jimmy at his father's request and witnessed by his older brother, Pastor John Odukoya, and it has now become central to the dispute.",
+    "## Interim leader named",
+    "Later on Tuesday, the board of trustees appointed Pastor Rotimi Okpaise as interim spiritual and administrative leader of the church. It said its resolution of 16 November removing Jimmy Odukoya remained in force and directed him to vacate the office and all its responsibilities. The trustees said Jimmy was present when his father's 2021 video was recorded.",
     "## Background",
     "Jimmy Odukoya, an actor and pastor, took over leadership of the church after his father's death. On 1 November he remarried and presented his new wife to the congregation. A video of the late founder said to show the role he intended for his son has also been circulating online amid the dispute.",
     "## What happens next",
     "It is not yet clear how the leadership dispute will be resolved. The faction behind the removal announcement had not responded publicly to the church's statement in the reports."
    ],
    "more": [
-    "The church says the removal notice came from a faction.",
-    "A video of the founder reportedly names Kunle Areogun as successor.",
-    "It says Jimmy was meant to lead the youth church."
+    "Trustees named Pastor Rotimi Okpaise interim leader.",
+    "They told Jimmy Odukoya to vacate the office.",
+    "A statement on the church's page had called the removal invalid."
    ],
    "at": "2026-11-17T09:42Z",
    "hot": 2
@@ -831,8 +932,7 @@
     "Solomon Dalung says he should not have humiliated his wife publicly.",
     "Yusuf left Kwankwaso's camp and joined the APC."
    ],
-   "at": "2026-11-16T20:42Z",
-   "hot": 9
+   "at": "2026-11-16T20:42Z"
   },
   {
    "id": "wike-fct-campaign-council-25-percent-opposition",
@@ -1580,92 +1680,6 @@
     "All were found unharmed."
    ],
    "at": "2026-11-16T06:42Z"
-  },
-  {
-   "id": "guinea-deports-1557-illegal-gold-miners",
-   "c": "world",
-   "n": 1,
-   "h": "Guinea deports 1,557 West Africans convicted of illegal gold mining",
-   "p": "Guinea has deported 1,557 West Africans, mostly from Burkina Faso and Mali, who had been jailed for illegal gold mining, as it steps up a crackdown on unauthorised mining.",
-   "body": [
-    "Guinea has expelled 1,557 West African nationals who were arrested and convicted for illegal gold mining.",
-    "## The deportation",
-    "According to judicial and security sources quoted in reports on Sunday, 15 November 2026, the deportees, mostly citizens of Burkina Faso and Mali, were arrested at mining sites during security operations. After serving prison sentences of 18 months to two years, they were taken in a convoy of 44 vehicles from the capital, Conakry, to the border town of Kouremale on the Mali border, arriving on Saturday.",
-    "## The crackdown",
-    "Guinean authorities stepped up operations against illegal mining in early November, particularly in Siguiri, a major gold-producing region in the north-east. The government says the aim is to stop illegal exploitation of mineral resources and limit environmental damage from unregulated mining.",
-    "## Background",
-    "The crackdown has also raised tensions between miners and the authorities."
-   ],
-   "more": [
-    "1,557 people were deported.",
-    "Most were from Burkina Faso and Mali.",
-    "They had served jail terms for illegal mining."
-   ],
-   "at": "2026-11-16T06:42Z"
-  },
-  {
-   "id": "goodluck-jonathan-calls-review-democracy",
-   "c": "politics",
-   "n": 1,
-   "h": "Goodluck Jonathan calls for review of Nigeria's democracy and institutions",
-   "p": "Former President Goodluck Jonathan has called for a broad review of Nigeria's democratic structures, how politicians are recruited and the state of public institutions, saying the country owes a debt to its founding nationalists.",
-   "body": [
-    "Former President Goodluck Jonathan has called for a wide-ranging review of Nigeria's democratic structures, political recruitment and public institutions.",
-    "## What he said",
-    "Chairing a colloquium at the Nigerian Institute of International Affairs in Lagos to mark the 162nd birth anniversary of nationalist Herbert Macaulay, reported on Sunday, 15 November 2026, Jonathan said the country's founding nationalists did not merely fight to end colonial rule, but imagined a sovereign, united and prosperous Nigeria where every citizen would enjoy equal rights, dignity and opportunity. He said independence was also meant to bring economic freedom, industrialisation, quality education, healthcare and social justice.",
-    "## Honesty about failures",
-    "While acknowledging progress in some areas, Jonathan said true patriotism requires honesty about the country's failures. He pointed to leadership failures and weak institutions, and urged a review of how the country's democracy works and how leaders emerge.",
-    "## Background",
-    "Jonathan, who governed from 2010 to 2015, is widely remembered for conceding defeat to Muhammadu Buhari in the 2015 election, a first for a sitting Nigerian president. The presidential election is scheduled for 16 January 2027."
-   ],
-   "more": [
-    "Jonathan wants a review of Nigeria's democracy.",
-    "He spoke at an event honouring Herbert Macaulay.",
-    "He urged honesty about national failures."
-   ],
-   "at": "2026-11-15T20:43Z"
-  },
-  {
-   "id": "yul-edochie-judy-expecting-fourth-child-may-song",
-   "c": "celebs",
-   "n": 1,
-   "h": "Yul Edochie and Judy Austin announce fourth child as May Edochie releases gospel song",
-   "p": "Actor Yul Edochie and his second wife Judy Austin have revealed they are expecting their fourth child together, on the same day his first wife May Edochie released a gospel single, 'Sorom', about overcoming her enemies.",
-   "body": [
-    "Nollywood actor Yul Edochie and his second wife, Judy Austin, have announced that they are expecting their fourth child together.",
-    "## The announcement",
-    "The couple revealed the pregnancy in a new skit shared on Sunday, 15 November 2026, confirming rumours that had been circulating online. They already have three children together, and Judy has children from previous relationships. The news drew a flood of comments online, ranging from humour to disapproval.",
-    "## May's new song",
-    "On the same day, Yul's first wife, May Edochie, released a gospel single titled 'Sorom', recorded with an artist called Nwando, on major streaming platforms. Announcing it on Instagram, she said there was a good reason for releasing it that day and described God as always being with her and never letting her enemies triumph over her. The lyrics draw on biblical imagery about escaping a snare and finding joy.",
-    "## Background",
-    "Yul's public relationship with Judy Austin and his separation from May, with whom he has children, have been among the most talked-about celebrity stories in Nigeria in recent years. The couple's daughter was recently in the news for buying her first car."
-   ],
-   "more": [
-    "Yul and Judy are expecting their fourth child.",
-    "May Edochie released a gospel song the same day.",
-    "Reactions online were mixed."
-   ],
-   "at": "2026-11-15T20:43Z"
-  },
-  {
-   "id": "yoruba-imams-league-wont-endorse-candidate",
-   "c": "elections",
-   "n": 1,
-   "h": "Yoruba Muslim clerics' league says it will not endorse any 2027 candidate",
-   "p": "The League of Imams and Alfas in Yorubaland says it will not back any politician or party in the 2027 elections, insisting its role is to pray for Nigeria and guide the people, not to campaign.",
-   "body": [
-    "The League of Imams and Alfas in Yorubaland has declared that it will not endorse any politician or party ahead of the 2027 elections.",
-    "## What the clerics said",
-    "At a gathering in Ibadan on Saturday, 14 November 2026, the chairman of the league's board of trustees, Sheikh Muhammad Habibullah Adam-Abdullahi El-Ilory, said the league had neither the capacity nor the intention to name a preferred candidate for any office. He said Islamic clerics are not politicians and their duty does not include campaigning for any individual or party. League president Sheikh Jamiu Kewulere said imams must stay focused on religious guidance.",
-    "## Background",
-    "The statement came after Oyo governor and APM presidential candidate Seyi Makinde made a donation to the league. The lecturers' union ASUU also said this week that it would not endorse any candidate. The presidential election is scheduled for 16 January 2027."
-   ],
-   "more": [
-    "The league will not endorse any candidate.",
-    "It says clerics are not politicians.",
-    "Its stance follows a donation by Makinde."
-   ],
-   "at": "2026-11-15T20:43Z"
   },
   {
    "id": "court-judgment-details-why-adc-leadership-sacked",
