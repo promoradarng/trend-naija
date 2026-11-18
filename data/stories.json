@@ -1,5 +1,5 @@
 {
- "updated": "Updated 17:42 GMT",
+ "updated": "Updated 20:42 GMT",
  "date": "Wednesday, 18 November 2026",
  "categories": {
   "all": "All gist",
@@ -14,6 +14,102 @@
   "sport": "Sport"
  },
  "stories": [
+  {
+   "id": "us-praises-military-125-kidnap-victims-rescued",
+   "c": "naija",
+   "n": 1,
+   "added": "2026-11-18",
+   "h": "US praises Nigerian military for rescuing 125 kidnapping victims",
+   "p": "The United States has commended the Nigerian military for rescuing 125 kidnapping victims this month and dismantling terrorist camps. The statement drew mixed reactions from Nigerians online.",
+   "body": [
+    "The United States government has praised the Nigerian military for rescuing 125 kidnapping victims this month, describing the operations as a significant step towards ending violence in the country.",
+    "## What the US said",
+    "In a statement shared on Wednesday, 18 November 2026, by the US State Department's Bureau of African Affairs, Washington commended recent operations that led to the rescue of the victims, the dismantling of terrorist camps, the recovery of weapons and the clearing of explosive devices.",
+    "## Growing partnership",
+    "The statement comes days after Defence Minister Christopher Musa said the US was providing Nigeria with satellite imagery, intelligence and training to help track down militant leaders ahead of the 2027 elections.",
+    "## How Nigerians reacted",
+    "Many Nigerians on social media welcomed the commendation and praised the military's efforts, while some others were sceptical about the statement and the wider security situation."
+   ],
+   "more": [
+    "The US says 125 victims were rescued this month.",
+    "Terrorist camps were dismantled and weapons recovered.",
+    "Reactions online were mixed."
+   ],
+   "hot": 4,
+   "at": "2026-11-18T20:42Z"
+  },
+  {
+   "id": "cross-river-truck-crash-nine-dead",
+   "c": "naija",
+   "n": 1,
+   "added": "2026-11-18",
+   "h": "Nine dead, 46 injured as overloaded truck crashes in Cross River",
+   "p": "At least nine people died and 46 were injured when a truck carrying 85 people crashed near the Yahe Bridge in Cross River State. The FRSC blamed excessive speed.",
+   "body": [
+    "At least nine people have died and 46 others were injured after a truck crashed near the Yahe Bridge area of Cross River State on Wednesday, 18 November 2026.",
+    "## What happened",
+    "The Federal Road Safety Corps (FRSC) unit commander in Yahe, Pascal Anigbo, said the crash involved a DAF truck carrying 85 people as well as goods including palm oil, refrigerators and motorbikes.",
+    "He said the driver was speeding and lost control while trying to avoid a head-on collision with another truck coming from the opposite direction, causing the vehicle to veer off the road into the bush.",
+    "## Casualties",
+    "According to the FRSC, 46 people were injured and taken to hospital, while 30 others escaped unhurt. Three bodies were taken to the mortuary after being confirmed dead by a doctor, while six others were collected by their families after being identified."
+   ],
+   "more": [
+    "The truck was carrying 85 people.",
+    "The FRSC blamed excessive speed.",
+    "46 people were injured."
+   ],
+   "hot": 8,
+   "at": "2026-11-18T20:42Z"
+  },
+  {
+   "id": "nimc-whatsapp-nin-registration",
+   "c": "naija",
+   "n": 1,
+   "added": "2026-11-18",
+   "h": "NIMC to let Nigerians start NIN registration on WhatsApp",
+   "p": "The National Identity Management Commission plans a WhatsApp platform for NIN pre-enrolment and booking appointments. It comes as NIN becomes compulsory for domestic flights from January.",
+   "body": [
+    "Nigerians may soon be able to start their National Identification Number (NIN) registration through WhatsApp, as the National Identity Management Commission (NIMC) expands its digital services.",
+    "## How it will work",
+    "The planned platform will allow people to complete pre-enrolment and book appointments for biometric capture before visiting a registration centre.",
+    "NIMC's Director-General, Abisoye Coker-Odusote, disclosed the plan at the 2026 International Students' Day celebration in Abuja. She said the commission chose WhatsApp because of how widely it is used by Nigerians.",
+    "## Why it matters",
+    "The service is expected to reduce crowding at NIMC offices, cut waiting times and make registration easier, especially for students and young people.",
+    "## Timing",
+    "The plan comes as the federal government has announced that passengers without a valid NIN will not be allowed on domestic flights from 1 January 2027. No launch date for the WhatsApp service was given."
+   ],
+   "more": [
+    "Users will be able to pre-enrol and book appointments.",
+    "Biometric capture will still be done at centres.",
+    "No launch date has been announced."
+   ],
+   "at": "2026-11-18T20:42Z"
+  },
+  {
+   "id": "tinubu-approves-university-public-relations",
+   "c": "naija",
+   "n": 1,
+   "added": "2026-11-18",
+   "h": "Tinubu approves 'world's first' University of Public Relations and Leadership",
+   "p": "President Tinubu has reportedly approved the creation of a University of Public Relations and Leadership, announced by Vice President Shettima at the World Public Relations Forum in Abuja.",
+   "body": [
+    "President Bola Tinubu has reportedly approved the establishment of what he described as the world's first University of Public Relations and Leadership.",
+    "## The announcement",
+    "Vice President Kashim Shettima made the announcement on the President's behalf on Wednesday, 18 November 2026, at the 13th World Public Relations Forum in Abuja. Tinubu described the university as a lasting legacy of Nigeria's hosting of the global event.",
+    "## What it will do",
+    "The institution is expected to focus on specialised education, research and professional training in strategic communication and leadership.",
+    "## Who was recognised",
+    "The President acknowledged the roles of the Nigerian Institute of Public Relations and the Federal Ministry of Information and National Orientation in bringing the forum to Nigeria.",
+    "## What happens next",
+    "Details on where the university will be located and when it will open were not included in the reports."
+   ],
+   "more": [
+    "It was announced at the World PR Forum in Abuja.",
+    "Shettima spoke on Tinubu's behalf.",
+    "Location and opening date are yet to be announced."
+   ],
+   "at": "2026-11-18T20:42Z"
+  },
   {
    "id": "dangote-refinery-ipo-expand-2-1bn",
    "c": "naija",
@@ -34,8 +130,8 @@
     "The offer could grow to about $2.1 billion.",
     "Demand was nearly three times the shares on offer."
    ],
-   "hot": 3,
-   "at": "2026-11-18T17:42Z"
+   "at": "2026-11-18T17:42Z",
+   "hot": 7
   },
   {
    "id": "air-peace-n80000-fares-military",
@@ -57,13 +153,12 @@
     "It covers serving and retired personnel.",
     "It applies across all Air Peace domestic routes."
    ],
-   "hot": 8,
    "at": "2026-11-18T17:42Z"
   },
   {
    "id": "atiku-challenges-tinubu-villa-interview-lobbying",
    "c": "politics",
-   "n": 1,
+   "n": 2,
    "added": "2026-11-18",
    "h": "Atiku asks Tinubu to release full Villa interview, raises questions over $4.5m lobbying deal",
    "p": "ADC candidate Atiku Abubakar has challenged President Tinubu to release the unedited recording of a recent Villa interview. His campaign questioned whether it was linked to a $4.5 million US lobbying contract.",
@@ -75,15 +170,17 @@
     "## What Atiku wants",
     "The former vice president called for the unedited recording to be made public and for the government to explain the lobbying arrangement.",
     "## The other side",
-    "No response from the Presidency or the APC campaign was included in the reports."
+    "## Lobbyist deletes posts",
+    "US lobbyist Diana London has since deleted posts on X about her meeting with President Tinubu. She had shared photos on Tuesday showing her with the President at the Villa, with cameras and recording equipment visible, and praised the US-Nigeria security partnership. The posts were no longer available on Wednesday morning, and she had not publicly explained their removal.",
+    "No response from the Presidency or the APC campaign to Atiku's questions was included in the reports."
    ],
    "more": [
     "Atiku wants the unedited interview released.",
     "He questions a $4.5 million lobbying contract.",
     "The Presidency had not responded in the reports."
    ],
-   "hot": 5,
-   "at": "2026-11-18T17:42Z"
+   "at": "2026-11-18T17:42Z",
+   "hot": 3
   },
   {
    "id": "lookman-backlash-burna-boy-video",
@@ -107,8 +204,8 @@
     "The video reportedly shows him with Burna Boy in Lagos.",
     "Nigeria are three points behind Guinea-Bissau."
    ],
-   "hot": 4,
-   "at": "2026-11-18T17:42Z"
+   "at": "2026-11-18T17:42Z",
+   "hot": 6
   },
   {
    "id": "putin-trump-xi-apec-shenzhen",
@@ -131,7 +228,6 @@
     "A three-way meeting with Xi is planned.",
     "APEC is being held in Shenzhen, China."
    ],
-   "hot": 7,
    "at": "2026-11-18T17:42Z"
   },
   {
@@ -167,7 +263,7 @@
    "credit": "Photo: Trend Naija",
    "owner": true,
    "at": "2026-11-18T16:43Z",
-   "hot": 2
+   "hot": 5
   },
   {
    "id": "cbn-nnpc-sign-agreement-tighten-oil-revenue-oversight",
@@ -201,8 +297,7 @@
    "alt": "The NNPC logo on a building above a portrait of a man in a navy suit",
    "credit": "Photo: Trend Naija",
    "owner": true,
-   "at": "2026-11-18T14:54Z",
-   "hot": 6
+   "at": "2026-11-18T14:54Z"
   },
   {
    "id": "state-police-bill-moves-to-tinubu-for-assent",
@@ -386,16 +481,15 @@
     "VDM raised the alarm on 16 November.",
     "Payment came two days later."
    ],
-   "at": "2026-11-18T11:42Z",
-   "hot": 9
+   "at": "2026-11-18T11:42Z"
   },
   {
    "id": "ngx-loses-n2-27-trillion-one-day",
    "c": "naija",
    "n": 1,
    "added": "2026-11-18",
-   "h": "Nigerian stock market loses ₦2.27 trillion in one day",
-   "p": "Investors lost about ₦2.27 trillion on the Nigerian Exchange on Tuesday as the All-Share Index fell 1.38%. Trading volume and deals also dropped.",
+   "h": "Nigerian stock market loses nearly ₦2.9 trillion in two days",
+   "p": "Investors lost about ₦2.27 trillion on the Nigerian Exchange on Tuesday and another ₦642 billion on Wednesday. Oil and gas stocks led Wednesday's decline.",
    "body": [
     "The Nigerian stock market closed sharply lower on Tuesday, 17 November 2026, as sell-offs in major stocks wiped about ₦2.27 trillion off market value in a single trading session.",
     "## The numbers",
@@ -403,14 +497,17 @@
     "## Trading activity",
     "Activity also slowed. Investors traded 564.04 million shares, down 16.26% from 673.6 million in the previous session, while the number of deals fell by 18.91% to 30,992.",
     "## Bright spots",
-    "The losses were partly cushioned by buying interest in consumer goods and insurance stocks, with Cadbury Nigeria among the top gainers."
+    "The losses were partly cushioned by buying interest in consumer goods and insurance stocks, with Cadbury Nigeria among the top gainers.",
+    "## Losses continue",
+    "The slide continued on Wednesday, 18 November, when the market lost another ₦642.15 billion. Market capitalisation fell 0.40% to ₦161.23 trillion, while the All-Share Index dropped 989 points to 248,329.65. That took the two-day loss to about ₦2.91 trillion. Oil and gas stocks led the decline, with the sector's index falling 3.47%."
    ],
    "more": [
-    "The All-Share Index fell 1.38%.",
-    "Market value dropped to ₦161.88 trillion.",
-    "Consumer goods and insurance stocks held up."
+    "Investors lost ₦2.27 trillion on Tuesday.",
+    "Another ₦642 billion was lost on Wednesday.",
+    "Oil and gas stocks fell 3.47%."
    ],
-   "at": "2026-11-18T11:42Z"
+   "at": "2026-11-18T11:42Z",
+   "hot": 9
   },
   {
    "id": "mtn-one-tv-streaming-launch",
@@ -1034,14 +1131,17 @@
     "## The injunction request",
     "The ADC is also asking the Court of Appeal to stop the Independent National Electoral Commission (INEC) from changing its leadership records or its candidates' details while the appeal is pending.",
     "## Background",
-    "The ADC is fielding former Vice President Atiku Abubakar as its presidential candidate for 2027. The party also filed a separate brief against an earlier ruling made in July."
+    "The ADC is fielding former Vice President Atiku Abubakar as its presidential candidate for 2027. The party also filed a separate brief against an earlier ruling made in July.",
+    "## INEC keeps Atiku on list",
+    "INEC has kept Atiku Abubakar and his running mate, former Rivers governor Rotimi Amaechi, on its final list of presidential candidates for the 16 January 2027 election for now, despite the court ruling. The 5 November judgment was delivered in favour of Nafiu Bala Gombe, a former ADC deputy national chairman who challenged the leadership transition that brought the David Mark-led caretaker committee to power."
    ],
    "more": [
     "The appeal raises 17 grounds.",
-    "The ADC wants INEC stopped from acting on the ruling.",
-    "Atiku is the party's presidential candidate."
+    "INEC has kept Atiku on its final list for now.",
+    "Amaechi is Atiku's running mate."
    ],
-   "at": "2026-11-17T17:42Z"
+   "at": "2026-11-17T17:42Z",
+   "hot": 2
   },
   {
    "id": "enioluwa-apologises-youth-remarks-nelly",
@@ -1547,103 +1647,6 @@
     "Ahanotu was the Abure faction's presidential candidate.",
     "He says he will work with the City Boy Movement.",
     "He blamed the Labour Party's internal crisis."
-   ],
-   "at": "2026-11-17T06:42Z"
-  },
-  {
-   "id": "sanwo-olu-rewards-flamingos-n10m-iphones",
-   "c": "sport",
-   "n": 1,
-   "added": "2026-11-17",
-   "h": "Sanwo-Olu gives Flamingos ₦10m each and iPhones after U-17 World Cup win",
-   "p": "Lagos Governor Babajide Sanwo-Olu has reportedly rewarded the Flamingos with ₦10 million each, iPhone 18 Pro Max phones and other gifts. It follows earlier rewards from President Tinubu and Senate President Akpabio.",
-   "body": [
-    "Lagos State Governor Babajide Sanwo-Olu has reportedly rewarded the Flamingos, Nigeria's under-17 women's team, with ₦10 million each and other gifts after their historic win at the 2026 FIFA U-17 Women's World Cup in Morocco.",
-    "## The reward",
-    "The governor announced the package at a dinner held in honour of the players and technical crew at Lagos House, Marina, on Sunday. It is said to include a total cash reward of ₦300 million, iPhone 18 Pro Max phones, headphones and customised outfits.",
-    "## Other rewards",
-    "The gesture follows President Bola Tinubu's announcement of ₦100 million for each player and for head coach Akeem Busari, with other members of the technical crew promised ₦50 million each. The presidential reward was announced by First Lady Oluremi Tinubu when she hosted the team in Abuja. Senate President Godswill Akpabio also announced a ₦100 million donation to the team after their return.",
-    "## The historic win",
-    "The Flamingos made history on 7 November by beating Japan 2-1 in Rabat, becoming the first African team to win the FIFA U-17 Women's World Cup."
-   ],
-   "more": [
-    "Each player gets ₦10 million from Lagos.",
-    "Tinubu earlier promised ₦100 million per player.",
-    "The Flamingos beat Japan 2-1 in the final."
-   ],
-   "at": "2026-11-17T06:42Z"
-  },
-  {
-   "id": "pope-leo-hit-in-eye-rosary-peru",
-   "c": "world",
-   "n": 1,
-   "added": "2026-11-17",
-   "h": "Pope Leo hit in the eye by rosary thrown from crowd in Peru",
-   "p": "Pope Leo XIV was reportedly struck in the eye by a rosary thrown from the crowd as he rode through Lima in the Popemobile. He was on the last day of a 12-day South America tour.",
-   "body": [
-    "Pope Leo XIV was reportedly hit in the eye by a rosary thrown by a worshipper as he toured Lima, Peru, on Monday, 16 November 2026.",
-    "## What happened",
-    "The Pope was riding through the city in the Popemobile when the rosary, thrown from the crowd, struck him. Video of the moment shows him holding and rubbing his eye. There was no report of serious injury, and he continued to a farewell Mass at Las Palmas air base, which was said to have drawn around one million people.",
-    "## A special visit",
-    "The trip marked the final day of a 12-day tour of South America, six days of which he spent in Peru. The 71-year-old has deep ties to the country. Born in Chicago, he arrived in Peru in 1985 as a 29-year-old Augustinian missionary and spent many years there, including a decade in the northern city of Chiclayo, where he was known as Padre Roberto.",
-    "He is the first American pope and the first to hold Peruvian citizenship. Tens of thousands of Peruvians lined the streets on Monday, many carrying banners in his honour."
-   ],
-   "more": [
-    "The rosary was thrown as he rode in the Popemobile.",
-    "He went on to lead a farewell Mass.",
-    "Around one million people attended the Mass."
-   ],
-   "img": "img/pope-leo-hit-in-eye-rosary-peru.jpg",
-   "credit": "Photo: Edgar Beltrán / The Pillar / Wikimedia Commons, CC BY-SA 4.0",
-   "alt": "Pope Leo XIV",
-   "at": "2026-11-17T06:42Z"
-  },
-  {
-   "id": "raye-leads-2027-grammy-nominations-11",
-   "c": "music",
-   "n": 1,
-   "added": "2026-11-17",
-   "h": "Raye leads 2027 Grammy nominations with 11, Rosalía next with nine",
-   "p": "British singer Raye leads the 2027 Grammy nominations with 11, including Album, Song and Record of the Year. Rosalía has nine, and the ceremony holds in Los Angeles on 7 February.",
-   "body": [
-    "British singer-songwriter Raye has led the nominations for the 2027 Grammy Awards with 11 nods, while Spain's Rosalía is second with nine.",
-    "## The leaders",
-    "Raye is nominated in three of the top categories: Album of the Year, Song of the Year and Record of the Year, for her album This Music May Contain Hope, which mixes pop and R&B with jazz. She also earned a Songwriter of the Year nod for her work with other artists. Rosalía's nominations follow a strong showing at last week's Latin Grammys with her album Lux.",
-    "## Others on the list",
-    "Country singers Ella Langley, a first-time nominee, and Miranda Lambert have seven each, as do Olivia Rodrigo and Phoebe Bridgers. Leon Thomas, Bruno Mars and Olivia Dean have six each, while Taylor Swift has five. Rock band Geese also has five in its first appearance on the ballot. Women claimed many of the top spots this year, at a ceremony where they have historically been underrepresented.",
-    "## The Nigerian angle",
-    "Nigerian stars are also in the mix, with Tems, Davido and Ayra Starr among those nominated, and Beyoncé reaching a record 100 career nominations.",
-    "## When and where",
-    "The 69th Grammy Awards will be held in Los Angeles on 7 February 2027, with 100 competitive categories."
-   ],
-   "more": [
-    "Raye has 11 nominations, Rosalía nine.",
-    "Tems, Davido and Ayra Starr are also nominated.",
-    "The ceremony is on 7 February in Los Angeles."
-   ],
-   "at": "2026-11-17T06:42Z"
-  },
-  {
-   "id": "makinde-warns-nurtw-oyo-motor-parks",
-   "c": "politics",
-   "n": 1,
-   "added": "2026-11-17",
-   "h": "Makinde warns NURTW against taking over Oyo motor parks after seven-day ultimatum",
-   "p": "Oyo Governor Seyi Makinde has reportedly warned the NURTW not to forcibly take over motor parks. The union had given his government until 23 November to withdraw its Park Management System, citing court rulings.",
-   "body": [
-    "Oyo State Governor Seyi Makinde has reportedly warned the National Union of Road Transport Workers (NURTW) not to take over public motor parks by force, after the union issued an ultimatum to his government.",
-    "## The ultimatum",
-    "On Sunday, the Oyo NURTW reportedly gave the government until 23 November to withdraw its Park Management System from parks across the state's 33 local government areas. The union said it would otherwise begin enforcing court judgments it says recognise its right to run the parks.",
-    "Its leaders, Abideen Olajide and Lekan Alesinloye, accused the administration of ignoring several rulings in the union's favour and said members had been excluded for seven and a half years. They said they had informed the federal government, the army, the DSS, the police and the Nigeria Labour Congress of their plans.",
-    "## The governor's response",
-    "In a statement issued on Monday through his special adviser on media, Dr Sulaimon Olanrewaju, Makinde said his government remained committed to the rule of law and urged residents to stay calm. He insisted the union would not be allowed to take over the parks.",
-    "## Background",
-    "The Makinde administration previously banned the NURTW in Oyo State and set up the Park Management System to run motor parks, a move that has been the subject of legal and political disputes since."
-   ],
-   "more": [
-    "The union's deadline is 23 November.",
-    "Makinde says the government will uphold the rule of law.",
-    "Oyo previously banned the NURTW."
    ],
    "at": "2026-11-17T06:42Z"
   },
