@@ -1,0 +1,22 @@
+{
+ "id": "optimizely-cyberattack-178-websites",
+ "c": "world",
+ "n": 1,
+ "added": "2026-11-18",
+ "h": "Cyberattack hits 178 major websites, targeting crypto and older iPhones",
+ "p": "Hackers reportedly exploited a flaw in website platform Optimizely to plant malicious code on sites belonging to 178 organisations. The code tried to steal cryptocurrency and personal data.",
+ "body": [
+  "A cyberattack on the website optimisation platform Optimizely reportedly exposed visitors to websites run by 178 organisations to malicious code designed to steal cryptocurrency and personal information.",
+  "## What happened",
+  "Security researcher Scott Helme said he identified the attack on Monday, 16 November 2026. The attackers are said to have exploited a weakness in Optimizely, a service businesses use to test and improve their websites, to insert harmful JavaScript into customer projects. The code could then reach visitors without them clicking any suspicious link.",
+  "Helme reportedly found 188 infected scripts linked to 178 organisations. Websites linked to well-known names including CNN, the BBC, Zoom, HSBC, IKEA, Salesforce and Equifax were among those said to be affected.",
+  "## What the code did",
+  "Researchers said the code tried to swap cryptocurrency payment addresses for wallets controlled by the attackers, capture card details, steal browser cookies, take screenshots and target security weaknesses in older Apple devices."
+ ],
+ "more": [
+  "178 organisations' websites were affected.",
+  "The code targeted crypto payments and card details.",
+  "Older Apple devices were also targeted."
+ ],
+ "at": "2026-11-18T06:42Z"
+}

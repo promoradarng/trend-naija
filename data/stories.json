@@ -1,6 +1,6 @@
 {
- "updated": "Updated 20:42 GMT",
- "date": "Tuesday, 17 November 2026",
+ "updated": "Updated 06:42 GMT",
+ "date": "Wednesday, 18 November 2026",
  "categories": {
   "all": "All gist",
   "elections": "2027 elections",
@@ -15,9 +15,174 @@
  },
  "stories": [
   {
+   "id": "kwara-suspends-cmd-mothers-children-locked-out",
+   "c": "naija",
+   "n": 1,
+   "added": "2026-11-18",
+   "h": "Kwara suspends children's hospital chief after mothers and sick children were locked out",
+   "p": "The Kwara State Government has suspended the chief medical director of the Children's Specialist Hospital in Ilorin, after a viral video showed mothers and sick children allegedly locked out for arriving by 7am. The board says a shortage of doctors caused a backlog.",
+   "body": [
+    "The Kwara State Government has reportedly suspended the Chief Medical Director of the Children's Specialist Hospital, Centre Igboro, Ilorin, Dr Mosunmola Folorunsho, after mothers and their sick children were allegedly locked out of the hospital.",
+    "## What happened",
+    "A video that went viral showed mothers with sick children who said they had been shut out for arriving by 7am, reportedly because they had not arrived by 5:30am. Following the outrage, the Executive Secretary of the Kwara State Hospitals Management Board, Dr Abdulraheem Malik, and members of the management team made an emergency visit to the hospital.",
+    "## The government's action",
+    "In a statement on Tuesday, 17 November 2026, the board said the CMD had been suspended and given 48 hours to explain her role in the incident. She was directed to hand over to the most senior doctor at the hospital pending further directives.",
+    "## The board's explanation",
+    "The board said its findings showed the hospital had a temporary shortage of doctors, after one of the doctors scheduled for the morning shift was away at a malaria training programme. This created a backlog of patients waiting to be seen."
+   ],
+   "more": [
+    "The CMD has 48 hours to respond to a query.",
+    "The board blamed a temporary shortage of doctors.",
+    "A viral video triggered the investigation."
+   ],
+   "hot": 2,
+   "at": "2026-11-18T06:42Z"
+  },
+  {
+   "id": "ukraine-strike-crimean-bridge",
+   "c": "world",
+   "n": 1,
+   "added": "2026-11-18",
+   "h": "Ukraine strikes Crimean bridge, part of crossing collapses",
+   "p": "Ukraine has struck the bridge linking Russia to occupied Crimea, collapsing part of the road-and-rail crossing and halting road traffic. Russia also hit two major bridges in Kyiv.",
+   "body": [
+    "Ukraine has struck the bridge linking Russia to the annexed Crimean peninsula, destroying part of the road-and-rail crossing and halting road traffic, according to reports on Tuesday, 17 November 2026.",
+    "## The strike",
+    "Ukraine's SBU security service said one of the bridge's metal arches and the road span beneath it had been completely destroyed. The defence ministry said the central arch and spans had collapsed and the rail section had suffered critical damage. Images released by the SBU showed rubble and a gap several dozen metres wide between sections of the bridge.",
+    "## Zelensky's message",
+    "President Volodymyr Zelensky described the strike as unprecedented and said it was a response to Russian attacks on Ukraine's infrastructure. He said Ukraine had repeatedly offered steps towards de-escalation but had been rebuffed.",
+    "## Russia's attacks",
+    "Russia also attacked two major bridges in Kyiv, disrupting travel and damaging infrastructure in the Ukrainian capital. Road traffic on the Crimean bridge was suspended, and Russian-installed officials in Crimea urged residents not to panic."
+   ],
+   "more": [
+    "Part of the bridge has collapsed.",
+    "Russia also hit two bridges in Kyiv.",
+    "Road traffic across the bridge has been suspended."
+   ],
+   "hot": 1,
+   "at": "2026-11-18T06:42Z"
+  },
+  {
+   "id": "trcn-teachers-licence-deadline-2027",
+   "c": "naija",
+   "n": 1,
+   "added": "2026-11-18",
+   "h": "TRCN gives all teachers until end of 2027 to get licensed",
+   "p": "The Teachers Registration Council of Nigeria says every teacher must be certified and licensed by December 2027. Licences will have to be renewed every three years.",
+   "body": [
+    "The Teachers Registration Council of Nigeria (TRCN) has given teachers across the country until December 2027 to obtain professional certification and practising licences.",
+    "## What the council said",
+    "The council's Registrar, Dr Ronke Soyombo, announced the deadline while speaking to journalists in Abuja on Tuesday, 17 November 2026. She said the council will no longer tolerate people teaching without the required credentials and is strengthening registration, licensing and qualifying examinations.",
+    "## How it works",
+    "Soyombo explained that professional certification is obtained once, while practising licences must be renewed every three years, with evidence that the teacher has taken part in continuous professional development programmes.",
+    "Education students are now required to sit the TRCN examination before completing their training, while serving teachers must also meet the requirements.",
+    "## Help for non-education graduates",
+    "The council is introducing a faster route to professional status for teachers who do not hold education degrees, so they can get the training they need before the deadline."
+   ],
+   "more": [
+    "The deadline is December 2027.",
+    "Licences must be renewed every three years.",
+    "A fast-track route is planned for non-education graduates."
+   ],
+   "hot": 6,
+   "at": "2026-11-18T06:42Z"
+  },
+  {
+   "id": "tinubu-kebbi-rally-dry-port",
+   "c": "politics",
+   "n": 1,
+   "added": "2026-11-18",
+   "h": "Tinubu approves inland dry port for Kebbi at campaign rally",
+   "p": "President Tinubu has reportedly approved an inland dry port for Kebbi State, announcing it at an APC campaign rally in Birnin Kebbi. He also promised more road projects requested by Governor Nasir Idris.",
+   "body": [
+    "President Bola Tinubu has reportedly approved the creation of an inland dry port in Kebbi State, announcing the decision at an All Progressives Congress (APC) presidential campaign rally in Birnin Kebbi on Tuesday, 17 November 2026.",
+    "## The announcement",
+    "Speaking to thousands of supporters at the Birnin Kebbi Stadium, the President thanked the people of the state for their support and praised Governor Nasir Idris. He is said to have approved several projects the governor had requested, including the dry port, and promised further road infrastructure for the state.",
+    "## The campaign trail",
+    "The Kebbi rally is part of the APC's presidential campaign ahead of the 16 January 2027 election."
+   ],
+   "more": [
+    "The dry port was announced at the Birnin Kebbi rally.",
+    "Tinubu also promised more roads for Kebbi.",
+    "The election holds on 16 January 2027."
+   ],
+   "hot": 9,
+   "at": "2026-11-18T06:42Z"
+  },
+  {
+   "id": "ba-lagos-flight-veers-off-taxiway-heathrow",
+   "c": "world",
+   "n": 1,
+   "added": "2026-11-18",
+   "h": "Lagos-bound British Airways plane veers off taxiway at Heathrow",
+   "p": "A British Airways Boeing 787 bound for Lagos reportedly veered off a taxiway at Heathrow, leaving its nose wheel stuck in the grass. The airline apologised to passengers for the disruption.",
+   "body": [
+    "A British Airways Boeing 787 Dreamliner heading to Lagos reportedly veered off a taxiway at London's Heathrow Airport on Tuesday, 17 November 2026, leaving its nose wheel stuck in the grass.",
+    "## What happened",
+    "The incident happened at about 10:10am as the aircraft was preparing for departure. Photos from the scene showed the plane's front wheel lodged in the grass beside the paved surface. No injuries were reported.",
+    "## The airline's response",
+    "The incident disrupted the flight, and the airline had to make alternative arrangements for passengers. A British Airways spokesperson apologised to customers and said its teams were working to get them on their way as quickly as possible and were in touch with them.",
+    "## What happens next",
+    "It was not immediately clear what caused the aircraft to leave the taxiway."
+   ],
+   "more": [
+    "The nose wheel got stuck in the grass.",
+    "The flight was disrupted.",
+    "British Airways apologised to passengers."
+   ],
+   "hot": 8,
+   "at": "2026-11-18T06:42Z"
+  },
+  {
+   "id": "tiger-woods-return-hero-world-challenge",
+   "c": "sport",
+   "n": 1,
+   "added": "2026-11-18",
+   "h": "Tiger Woods to make competitive return at Hero World Challenge",
+   "p": "Tiger Woods will play the Hero World Challenge in the Bahamas next month, his first outdoor tournament since the 2024 Open. The 15-time major champion has been held back by injuries.",
+   "body": [
+    "Tiger Woods has announced that he will play at next month's Hero World Challenge in the Bahamas, his first competitive outdoor appearance since the 2024 Open Championship.",
+    "## The tournament",
+    "The 50-year-old will be part of a 20-player field for the event, which runs from 3 to 6 December. Scottie Scheffler, Justin Thomas, Xander Schauffele and Rickie Fowler are also due to play.",
+    "## Long road back",
+    "Woods, a 15-time major champion, missed the cut at the 2024 Open while dealing with serious injuries, and further problems kept him away from outdoor competition for more than two years. He returned to competition at an indoor TGL match in March.",
+    "Days later, he was involved in a car crash in Florida. He later reached a plea deal, pleading guilty to reckless driving and refusing to take a test, and lost his driving licence for five years.",
+    "## What happens next",
+    "It is not yet clear whether Woods plans to play a wider schedule of tournaments after the event."
+   ],
+   "more": [
+    "The event runs from 3 to 6 December.",
+    "It is his first outdoor event since the 2024 Open.",
+    "Scheffler and Thomas are also in the field."
+   ],
+   "at": "2026-11-18T06:42Z"
+  },
+  {
+   "id": "optimizely-cyberattack-178-websites",
+   "c": "world",
+   "n": 1,
+   "added": "2026-11-18",
+   "h": "Cyberattack hits 178 major websites, targeting crypto and older iPhones",
+   "p": "Hackers reportedly exploited a flaw in website platform Optimizely to plant malicious code on sites belonging to 178 organisations. The code tried to steal cryptocurrency and personal data.",
+   "body": [
+    "A cyberattack on the website optimisation platform Optimizely reportedly exposed visitors to websites run by 178 organisations to malicious code designed to steal cryptocurrency and personal information.",
+    "## What happened",
+    "Security researcher Scott Helme said he identified the attack on Monday, 16 November 2026. The attackers are said to have exploited a weakness in Optimizely, a service businesses use to test and improve their websites, to insert harmful JavaScript into customer projects. The code could then reach visitors without them clicking any suspicious link.",
+    "Helme reportedly found 188 infected scripts linked to 178 organisations. Websites linked to well-known names including CNN, the BBC, Zoom, HSBC, IKEA, Salesforce and Equifax were among those said to be affected.",
+    "## What the code did",
+    "Researchers said the code tried to swap cryptocurrency payment addresses for wallets controlled by the attackers, capture card details, steal browser cookies, take screenshots and target security weaknesses in older Apple devices."
+   ],
+   "more": [
+    "178 organisations' websites were affected.",
+    "The code targeted crypto payments and card details.",
+    "Older Apple devices were also targeted."
+   ],
+   "at": "2026-11-18T06:42Z"
+  },
+  {
    "id": "political-violence-2027-jonathan-senate-apc-adc",
    "c": "politics",
-   "n": 2,
+   "n": 3,
    "added": "2026-11-17",
    "h": "Political violence: Jonathan sounds alarm, Senate asks INEC to disqualify violent candidates as APC and ADC trade blame",
    "p": "Former President Goodluck Jonathan warned that some campaigns are being run like cult groups, while the Senate urged police to probe recent attacks and INEC to disqualify candidates linked to violence. The APC accused the ADC and NDC of sponsoring violence, a claim the ADC rejected.",
@@ -31,6 +196,8 @@
     "## APC and ADC trade accusations",
     "The APC presidential campaign council, through its spokesperson Dele Alake, accused the ADC and NDC of sponsoring violence, deepfakes and hired protests to damage President Tinubu's campaign, pointing to the convoy incident in Abuja.",
     "The ADC campaign council, through Phrank Shaibu, dismissed the claim as a distraction from the government's economic record. It challenged the APC to provide evidence or withdraw the allegation, and asked why no one had been prosecuted if the ruling party had proof. The NDC's response was not included in the reports.",
+    "## The chants",
+    "The APC statement also blamed the opposition for youths chanting \"Tinubu Must Go\" and the Hausa phrase \"Ba mayi\", meaning roughly \"we are not supporting you\", at some of the ruling party's rallies.",
     "## What happens next",
     "The presidential election is scheduled for 16 January 2027."
    ],
@@ -39,8 +206,8 @@
     "The Senate wants INEC to disqualify candidates linked to violence.",
     "The ADC rejects APC claims that it sponsors attacks."
    ],
-   "hot": 1,
-   "at": "2026-11-17T20:42Z"
+   "at": "2026-11-17T20:42Z",
+   "hot": 3
   },
   {
    "id": "tinubu-bill-decriminalise-attempted-suicide",
@@ -64,8 +231,8 @@
     "It replaces punishment with medical and psychological support.",
     "Tinubu asked the Senate to act quickly."
    ],
-   "hot": 4,
-   "at": "2026-11-17T20:42Z"
+   "at": "2026-11-17T20:42Z",
+   "hot": 7
   },
   {
    "id": "olympic-eagles-thrash-dr-congo-4-0",
@@ -89,7 +256,6 @@
     "Oweilayefa scored in the eighth minute.",
     "Zambia are next in the final round."
    ],
-   "hot": 7,
    "at": "2026-11-17T20:42Z"
   },
   {
@@ -138,7 +304,7 @@
     "Chelle reportedly admitted the team is in trouble."
    ],
    "at": "2026-11-17T17:42Z",
-   "hot": 3
+   "hot": 5
   },
   {
    "id": "nigeria-south-africa-talks-fani-kayode-row",
@@ -160,13 +326,12 @@
     "The row began over a presidential livestream.",
     "Both sides say they want stronger ties."
    ],
-   "at": "2026-11-17T17:42Z",
-   "hot": 8
+   "at": "2026-11-17T17:42Z"
   },
   {
    "id": "monguno-escapes-boko-haram-attack-kukawa",
    "c": "politics",
-   "n": 1,
+   "n": 2,
    "added": "2026-11-17",
    "h": "Senate Chief Whip Monguno and APC leaders reportedly escape Boko Haram attack in Borno",
    "p": "Senate Chief Whip Mohammed Tahir Monguno reportedly escaped a Boko Haram attack during a campaign tour of Kukawa, Borno State. Troops are said to have moved quickly to repel the attackers.",
@@ -209,7 +374,7 @@
   {
    "id": "adc-appeals-justice-lifu-judgment",
    "c": "politics",
-   "n": 1,
+   "n": 2,
    "added": "2026-11-17",
    "h": "ADC files 17-ground appeal against judgment that sacked its leadership",
    "p": "The ADC has appealed against Justice Peter Lifu's 5 November judgment on its leadership, raising 17 grounds. It wants the Court of Appeal to stop INEC from acting on the ruling while the appeal is pending.",
@@ -249,8 +414,7 @@
     "Nelly Mbonu was among his critics.",
     "He has acknowledged his privilege and apologised."
    ],
-   "at": "2026-11-17T17:42Z",
-   "hot": 6
+   "at": "2026-11-17T17:42Z"
   },
   {
    "id": "denrele-edun-father-dies",
@@ -296,8 +460,7 @@
     "Buyers need a 10% deposit.",
     "Pension savings can cover up to 25% of the deposit."
    ],
-   "at": "2026-11-17T14:42Z",
-   "hot": 5
+   "at": "2026-11-17T14:42Z"
   },
   {
    "id": "us-satellite-intelligence-nigeria-military",
@@ -366,8 +529,7 @@
     "Fans believe he was referring to the Big 3.",
     "Reactions online were mixed."
    ],
-   "at": "2026-11-17T14:42Z",
-   "hot": 9
+   "at": "2026-11-17T14:42Z"
   },
   {
    "id": "declan-rice-new-arsenal-contract",
@@ -566,7 +728,7 @@
     "A statement on the church's page had called the removal invalid."
    ],
    "at": "2026-11-17T09:42Z",
-   "hot": 2
+   "hot": 4
   },
   {
    "id": "fg-nin-required-domestic-flights-january-2027",
@@ -1548,167 +1710,6 @@
     "Obi is in the US for engagements."
    ],
    "at": "2026-11-16T09:42Z"
-  },
-  {
-   "id": "davido-short-performance-ghana-promoter-upset",
-   "c": "music",
-   "n": 2,
-   "h": "Ghanaian promoter upset after Davido reportedly performs under 30 minutes",
-   "p": "A Ghanaian hotel owner who hosted 'The Davido Experience' in Manso Akwasiso was filmed looking upset after the singer reportedly performed for less than 30 minutes, sparking debate about the booking.",
-   "body": [
-    "Davido is at the centre of a debate in Ghana after reportedly performing for less than half an hour at a show there.",
-    "## What happened",
-    "The singer was the headline act at 'The Davido Experience' on Sunday, 15 November 2026, an event marking the third anniversary of a hotel in Manso Akwasiso owned by businessman Great Osama, whose real name is Kwaku Abonee. A video shared online appeared to show the businessman visibly upset after the short set, and another clip showed him apparently urging that the gates be kept shut as Davido prepared to leave.",
-    "## The fee",
-    "Some reports claimed the booking fee was around $600,000, but neither Davido, his management nor the organiser has confirmed the figure, and the terms of the agreement, including the agreed performance time, have not been made public.",
-    "## How people reacted",
-    "Reactions online were mixed, with some questioning the deal and others defending the singer. Davido had not publicly commented at the time of writing. He was also filmed warmly greeting Flavour in Ghana, a moment that sparked its own online debate."
-   ],
-   "more": [
-    "Davido reportedly performed under 30 minutes.",
-    "The organiser appeared upset in a video.",
-    "The fee has not been confirmed."
-   ],
-   "at": "2026-11-16T09:42Z"
-  },
-  {
-   "id": "peller-jarvis-expecting-baby-boy",
-   "c": "creators",
-   "n": 1,
-   "h": "Peller and Jarvis reveal they are expecting a baby boy",
-   "p": "Streamers Peller and Jarvis have announced that they are expecting a baby boy, sharing an emotional gender-reveal video on Instagram in which they spoke of praying for the pregnancy.",
-   "body": [
-    "Popular streamers and content creators Peller and Jarvis have revealed that they are expecting a baby boy.",
-    "## The announcement",
-    "In a video posted on Instagram on Sunday, 15 November 2026, the couple shared the gender of their first child and spoke about the emotional journey that led to the pregnancy, saying they had spent a long time praying and hoping. They addressed their unborn son directly, telling him how much he is already loved. Peller confirmed the news in the comments with 'Team Boy'.",
-    "## How people reacted",
-    "Fellow content creators and celebrities flooded the comments with congratulations.",
-    "## Background",
-    "Peller, whose real name is Habeeb Adelaja, is one of Nigeria's biggest TikTok live streamers, and Jarvis is also a well-known content creator. Peller was also recently nominated for Best International Streamer at the 2026 Streamer Awards."
-   ],
-   "more": [
-    "Peller and Jarvis are expecting a boy.",
-    "They shared an emotional reveal video.",
-    "It will be their first child."
-   ],
-   "at": "2026-11-16T09:42Z"
-  },
-  {
-   "id": "aremu-afolayan-slaps-isbae-u-curiosity-made-me-ask",
-   "c": "creators",
-   "n": 1,
-   "h": "Aremu Afolayan reportedly slaps Isbae U on 'Curiosity Made Me Ask'",
-   "p": "Actor Aremu Afolayan reportedly slapped comedian Isbae U and tore his clothes during a tense episode of Isbae U's interview show 'Curiosity Made Me Ask', after the host mocked him in his opening remarks.",
-   "body": [
-    "A recent episode of comedian Isbae U's interview show 'Curiosity Made Me Ask' took a dramatic turn when actor Aremu Afolayan reportedly slapped the host and tore his clothes on camera.",
-    "## What happened",
-    "In the episode, reported on Monday, 16 November 2026, Isbae U opened with his usual provocative introduction, questioning whether Aremu could really be called an actor while acknowledging the greatness of his late father, filmmaker Adeyemi Afolayan. He also made jokes about the actor's physique and questioned his source of income. Aremu reportedly reacted angrily, slapping the host and tearing his clothes.",
-    "## How people reacted",
-    "The clip spread widely online. Neither man had publicly explained the incident at the time of writing.",
-    "## Background",
-    "'Curiosity Made Me Ask' is one of Nigeria's most popular celebrity interview shows, known for its sharp, teasing introductions. Aremu Afolayan is a member of the famous Afolayan film family."
-   ],
-   "more": [
-    "Aremu reportedly slapped Isbae U on camera.",
-    "The host had mocked him in his introduction.",
-    "Some viewers wondered if it was staged."
-   ],
-   "at": "2026-11-16T09:42Z"
-  },
-  {
-   "id": "kwankwaso-convoy-attacked-bichi-kano",
-   "c": "elections",
-   "n": 3,
-   "h": "Suspected thugs attack Kwankwaso's convoy in Kano, smash about seven vehicles",
-   "p": "Suspected thugs reportedly attacked the campaign convoy of NDC vice-presidential candidate Rabiu Kwankwaso and Kano governorship candidate Aminu Abdussalam Gwarzo in Bichi on Sunday evening, injuring team members and damaging about seven vehicles.",
-   "body": [
-    "The campaign convoy of Rabiu Musa Kwankwaso, the Nigeria Democratic Congress (NDC) vice-presidential candidate and former Kano governor, was reportedly attacked by suspected thugs in Kano State on Sunday evening, 15 November 2026.",
-    "## What happened",
-    "According to Ibrahim Garba Shu'aibu, spokesperson for the NDC's Kano governorship candidate, Aminu Abdussalam Gwarzo, the convoy had passed peacefully through Tofa, Rimin Gado, Kabo, Gwarzo, Shanono and Bagwai local government areas before reaching Bichi. He said the team was warned that its route into Bichi had been blocked by people opposed to the rally, and that stones were thrown when the delegation arrived. The meeting went ahead, but as the convoy left, a group of armed youths near the local government secretariat reportedly attacked it, injuring some members of the team and smashing about seven vehicles. A media aide to Kwankwaso also confirmed the incident on social media.",
-    "## Response",
-    "The police had not publicly commented on the incident at the time of writing, and it is not clear who was behind the attack.",
-    "## Obi demands arrests",
-    "NDC presidential candidate Peter Obi described the attack as unacceptable and called on the police and other security agencies to investigate immediately, identify those responsible and prosecute them, including anyone who funded or organised the assault. He said political disagreements are no excuse for violence and that every Nigerian has the right to take part in the democratic process without fear.",
-    "## Background",
-    "The attack is the latest in a series of incidents of political violence ahead of the 2027 elections. Suspected thugs stormed an NDC town hall in Lagos last week, and supporters of other parties, including the APC, have also been attacked at rallies in several states. President Bola Tinubu has ordered security agencies to deal firmly with thuggery, and the House of Representatives is investigating attacks on political events. The presidential election is scheduled for 16 January 2027."
-   ],
-   "more": [
-    "About seven vehicles were reportedly damaged.",
-    "Some campaign members were injured.",
-    "Police have not commented."
-   ],
-   "at": "2026-11-16T06:42Z"
-  },
-  {
-   "id": "soludo-keep-politics-out-of-churches",
-   "c": "elections",
-   "n": 1,
-   "h": "Soludo tells politicians to keep campaigns out of churches",
-   "p": "Anambra governor Charles Soludo has urged politicians not to turn places of worship into campaign grounds, saying churches should be neutral spaces where people of all political views can worship in peace.",
-   "body": [
-    "Anambra State governor Charles Soludo has called on politicians to stop turning churches into campaign platforms.",
-    "## What he said",
-    "Speaking at the 30th ministry anniversary of Prophet Chukwuemeka Ohanaemere, popularly known as Odumeje, in Onitsha, reported on Monday, 16 November 2026, Soludo said places of worship should be holy places where people of all political persuasions can worship God in peace. He said politicians have their own venues for politics and urged them to keep the two clearly separate. The governor said he had personally followed a policy of not using religious venues for campaigning.",
-    "## Background",
-    "Earlier this month, a Catholic priest apologised for singing Peter Obi's campaign song in church, and Yoruba Muslim clerics said they would not endorse any candidate. Soludo, whose party APGA has endorsed President Bola Tinubu for 2027, has pledged to deliver half of Anambra's votes to the President."
-   ],
-   "more": [
-    "Soludo says churches are not for politics.",
-    "He spoke at an Onitsha church anniversary.",
-    "He says he avoids campaigning in churches."
-   ],
-   "at": "2026-11-16T06:42Z"
-  },
-  {
-   "id": "zamfara-police-rescue-19-women-children",
-   "c": "naija",
-   "n": 1,
-   "h": "Zamfara police rescue 19 women and children after 22 days with bandits",
-   "p": "Zamfara police say they have rescued 19 women and children who had been held by bandits for 22 days, after a joint operation with the DSS and local hunters near Gusau. All were found unharmed.",
-   "body": [
-    "Police in Zamfara State say they have rescued 19 women and children who had spent 22 days in the hands of bandits.",
-    "## The rescue",
-    "In a statement, police spokesperson DSP Yazid Abubakar said the victims had been abducted from Tungar Haki village in Gusau Local Government Area and taken to a bandits' hideout near Kungurmi village. They were rescued on Saturday, 14 November 2026, in a coordinated operation involving the police anti-kidnapping unit, officers attached to Government House, the Department of State Services and local hunters, following intelligence about their location.",
-    "## Reunited",
-    "The police said all 19 victims were found unharmed and have been reunited with their families.",
-    "## Background",
-    "Zamfara is one of the states worst affected by banditry and kidnapping for ransom. On Sunday, bandits killed a senior aide to the state governor during an attack in Kaura Namoda and reportedly abducted several worshippers."
-   ],
-   "more": [
-    "19 women and children were rescued.",
-    "They spent 22 days in captivity.",
-    "All were found unharmed."
-   ],
-   "at": "2026-11-16T06:42Z"
-  },
-  {
-   "id": "court-judgment-details-why-adc-leadership-sacked",
-   "c": "elections",
-   "n": 1,
-   "h": "Judgment details: why the court sacked the Mark-led ADC leadership",
-   "p": "The certified copy of the judgment that voided the David Mark-led ADC leadership shows the judge found a key resignation letter was fabricated and ruled that the party's executive committee could not appoint national officers without an election.",
-   "body": [
-    "Details of the Federal High Court judgment that nullified the David Mark-led leadership of the African Democratic Congress (ADC) have emerged from the certified true copy of the ruling.",
-    "## The resignation letter",
-    "Justice Peter Lifu, who delivered the judgment on 5 November 2026, examined three main issues. The first was a letter said to show that the party's deputy national chairman, Nafiu Bala Gombe, had resigned in May 2025, before the meeting that installed the new leadership. After comparing signatures, the judge found clear differences, described the letter as fictitious or fabricated and rejected it as evidence.",
-    "## Powers of the executive committee",
-    "The ADC argued that its constitution allowed the National Executive Committee to dissolve the old leadership and appoint a new one. The judge accepted that parties may run their internal affairs, but held that this cannot override the Constitution and the Electoral Act, which require parties to elect their principal officers through periodic democratic elections. He ruled that the committee's administrative powers did not allow it to appoint national executives in place of an election.",
-    "## No proof of a vote",
-    "The judge also found that the party could not show that members or delegates had been given the chance to vote for candidates of their choice, and said notifying INEC of a meeting was not the same as complying with the law.",
-    "## Background",
-    "The judgment also voided the primary that produced Atiku Abubakar as the ADC's presidential candidate. The party has appealed, and INEC says it will obey the final court decision. Atiku and his running mate Rotimi Amaechi are continuing to campaign."
-   ],
-   "more": [
-    "The judge said a key resignation letter was fabricated.",
-    "He ruled officers must be elected, not appointed.",
-    "The ADC has appealed."
-   ],
-   "at": "2026-11-14T20:42Z",
-   "img": "img/court-judgment-details-why-adc-leadership-sacked.jpg",
-   "alt": "Atiku Abubakar smiling in a white cap and light blue agbada, above David Mark in a red cap speaking into a microphone beside the ADC logo",
-   "credit": "Photo: Trend Naija",
-   "owner": true,
-   "added": "2026-11-15"
   }
  ]
 }
