@@ -15,6 +15,41 @@
  },
  "stories": [
   {
+   "id": "peter-obi-corrects-claims-us-congress-endorsement",
+   "c": "elections",
+   "n": 1,
+   "h": "Peter Obi corrects claims that his Washington visit was an endorsement from the US Congress",
+   "p": "Peter Obi says his recent trip to Washington involved talks on Nigeria's development, citizens' welfare and democracy, and that he neither sought nor announced any endorsement, after social media posts claimed the US Congress had backed him.",
+   "body": [
+    "NDC presidential candidate Peter Obi has corrected claims that his recent visit to Washington amounted to an endorsement from the United States Congress.",
+    "## What Obi said",
+    "According to Obi, the trip involved discussions about Nigeria's development, the welfare of its citizens and the state of democracy. He said he neither sought nor announced any endorsement.",
+    "He said he met serving and former US lawmakers and other stakeholders during the visit.",
+    "## How the confusion started",
+    "The confusion followed a viral video in which retired US Army Colonel Albert Short praised Obi.",
+    "Some social media posts presented those personal remarks as if they were official backing from the US Congress, and the claim spread quickly online.",
+    "## What the facts show",
+    "There is no public evidence that the US Congress as an institution has endorsed Obi's 2027 presidential bid. Congress does not endorse candidates in other countries' elections.",
+    "A meeting with politicians, or kind words from an individual, is not the same as an endorsement from their institution.",
+    "## Why it matters",
+    "With the 2027 elections drawing closer, claims about foreign support for candidates are likely to keep spreading on social media. Obi's correction is a reminder for supporters on all sides to check claims before sharing them.",
+    "## Over to you",
+    "Do foreign visits and meetings with international leaders make a difference to how Nigerians vote?"
+   ],
+   "more": [
+    "Obi says he did not seek or announce any US endorsement.",
+    "Retired US Colonel Albert Short praised him in a viral video.",
+    "The US Congress has not endorsed any Nigerian candidate."
+   ],
+   "hot": 1,
+   "added": "2026-11-18",
+   "img": "img/peter-obi-corrects-claims-us-congress-endorsement.jpg",
+   "alt": "Peter Obi smiling with three American guests in front of a US flag during his visit to Washington",
+   "credit": "Photo: Trend Naija",
+   "owner": true,
+   "at": "2026-11-18T16:43Z"
+  },
+  {
    "id": "cbn-nnpc-sign-agreement-tighten-oil-revenue-oversight",
    "c": "naija",
    "n": 1,
@@ -41,7 +76,7 @@
     "It covers FX inflows, remittances and cybersecurity.",
     "The full agreement and targets have not been released."
    ],
-   "hot": 1,
+   "hot": 2,
    "added": "2026-11-18",
    "img": "img/cbn-nnpc-sign-agreement-tighten-oil-revenue-oversight.jpg",
    "alt": "The NNPC logo on a building above a portrait of a man in a navy suit",
@@ -77,7 +112,7 @@
     "All 36 state assemblies approved it.",
     "A separate National Policing Bill is still needed."
    ],
-   "hot": 2,
+   "hot": 3,
    "added": "2026-11-18",
    "img": "img/state-police-bill-moves-to-tinubu-for-assent.jpg",
    "alt": "A Nigeria Police patrol car above the National Assembly complex in Abuja",
@@ -110,7 +145,7 @@
     "Salvadoran troops are leading an offensive against Haiti's gangs.",
     "Many say Bukele is doing what the UN and US could not."
    ],
-   "hot": 3,
+   "hot": 4,
    "added": "2026-11-18",
    "img": "img/haitians-march-praise-bukele-salvadoran-troops-gangs.jpg",
    "alt": "Haitian marchers holding a photo of Nayib Bukele, waving flags and a 'Viv Bukele' banner in Port-au-Prince",
@@ -140,7 +175,7 @@
     "He says the talks focused on democracy and credible elections.",
     "Claims of a US endorsement had spread online."
    ],
-   "hot": 4,
+   "hot": 5,
    "at": "2026-11-18T14:42Z"
   },
   {
@@ -165,7 +200,6 @@
     "He won the Champions League with Chelsea.",
     "He made 285 appearances for Manchester United."
    ],
-   "hot": 9,
    "at": "2026-11-18T14:42Z"
   },
   {
@@ -259,7 +293,7 @@
     "Payment came two days later."
    ],
    "at": "2026-11-18T11:42Z",
-   "hot": 6
+   "hot": 7
   },
   {
    "id": "ngx-loses-n2-27-trillion-one-day",
@@ -396,7 +430,7 @@
     "Import costs have also dropped."
    ],
    "at": "2026-11-18T09:42Z",
-   "hot": 7
+   "hot": 8
   },
   {
    "id": "paul-okoye-solo-birthday-peter-new-date",
@@ -1252,7 +1286,7 @@
     "A statement on the church's page had called the removal invalid."
    ],
    "at": "2026-11-17T09:42Z",
-   "hot": 8
+   "hot": 9
   },
   {
    "id": "fg-nin-required-domestic-flights-january-2027",
@@ -1731,7 +1765,7 @@
    "credit": "Photo: Trend Naija",
    "alt": "Atiku Abubakar and President Bola Tinubu side by side",
    "at": "2026-11-16T17:45Z",
-   "hot": 5
+   "hot": 6
   },
   {
    "id": "davido-tems-ayra-starr-grammy-2027-nominations",
