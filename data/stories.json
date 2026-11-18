@@ -1,5 +1,5 @@
 {
- "updated": "Updated 11:42 GMT",
+ "updated": "Updated 14:42 GMT",
  "date": "Wednesday, 18 November 2026",
  "categories": {
   "all": "All gist",
@@ -14,6 +14,126 @@
   "sport": "Sport"
  },
  "stories": [
+  {
+   "id": "obi-us-visit-not-for-endorsement",
+   "c": "politics",
+   "n": 1,
+   "added": "2026-11-18",
+   "h": "Peter Obi says his US trip was not to seek American endorsement",
+   "p": "NDC presidential candidate Peter Obi has dismissed reports that he went to Washington to seek the backing of US lawmakers for 2027. He said his meetings focused on Nigeria's democracy and development.",
+   "body": [
+    "Nigeria Democratic Congress (NDC) presidential candidate Peter Obi has dismissed reports that his recent trip to Washington, DC, was aimed at winning the backing of United States lawmakers for his 2027 bid.",
+    "## What Obi said",
+    "In a statement on Wednesday, 18 November 2026, the former Anambra governor said media interpretations of his meetings with US lawmakers and policy figures had been inaccurate. He said he did not ask for an endorsement and did not present the meetings as formal support from the US Congress or any individual legislator.",
+    "He explained that the purpose of the visit was to exchange views with congressional leaders and other American stakeholders on Nigeria's development, the welfare of its citizens and, above all, the strengthening of its democracy. He said the talks focused on democratic institutions, accountability and making sure elections are free, fair and credible.",
+    "## His advice to others",
+    "Obi encouraged other Nigerian politicians to hold similar international discussions on governance, and urged that public debate on Nigeria's democratic future should not be reduced to claims of foreign endorsement.",
+    "## Background",
+    "Claims that the US Congress had endorsed Obi circulated online after the trip, and a US lobbyist also commented on the matter."
+   ],
+   "more": [
+    "Obi says he did not seek any endorsement.",
+    "He says the talks focused on democracy and credible elections.",
+    "Claims of a US endorsement had spread online."
+   ],
+   "hot": 1,
+   "at": "2026-11-18T14:42Z"
+  },
+  {
+   "id": "juan-mata-retires-aged-38",
+   "c": "sport",
+   "n": 1,
+   "added": "2026-11-18",
+   "h": "Juan Mata retires from football at 38",
+   "p": "Former Chelsea and Manchester United midfielder Juan Mata has announced his retirement at the age of 38. He won the World Cup and Euro 2012 with Spain and the Champions League with Chelsea.",
+   "body": [
+    "Former Spain, Chelsea and Manchester United midfielder Juan Mata has announced his retirement from professional football at the age of 38.",
+    "## The announcement",
+    "Mata confirmed the decision on Wednesday, 18 November 2026, with a farewell video on X in which he symbolically hung up his boots. He thanked the game, saying that sometimes loving something means letting it go.",
+    "## A decorated career",
+    "Mata was part of the Spain squads that won the 2010 World Cup and Euro 2012. After coming through Real Madrid's youth system and breaking through at Valencia, he joined Chelsea in 2011, where he won the Champions League and FA Cup in 2012 and the Europa League in 2013.",
+    "He moved to Manchester United in 2014 and made 285 appearances over eight seasons, winning the FA Cup in 2016 and the League Cup and Europa League in 2017.",
+    "## Later years",
+    "After leaving United in 2022, he won domestic titles with Galatasaray in Turkey and Vissel Kobe in Japan, before finishing his career in Australia with Western Sydney Wanderers and Melbourne Victory, where he also took an ownership stake in the club earlier this year."
+   ],
+   "more": [
+    "He won the World Cup and Euro 2012 with Spain.",
+    "He won the Champions League with Chelsea.",
+    "He made 285 appearances for Manchester United."
+   ],
+   "hot": 6,
+   "at": "2026-11-18T14:42Z"
+  },
+  {
+   "id": "lebron-james-sues-bron-ai-betting-app",
+   "c": "world",
+   "n": 1,
+   "added": "2026-11-18",
+   "h": "LeBron James sues AI betting app over alleged fake endorsement",
+   "p": "NBA star LeBron James has filed a lawsuit against AI sports betting app Bron AI, accusing it of using his identity to market a product he never endorsed.",
+   "body": [
+    "NBA star LeBron James has sued the AI-powered sports betting app Bron AI, accusing the company of using his identity to promote a product he never endorsed.",
+    "## The lawsuit",
+    "The suit, filed on Tuesday, 17 November 2026, in a New York federal court by James and his trademark company, targets PlayVision Inc., the app's parent company, and its two co-founders. It came 12 days after James sent the company a cease-and-desist letter over what he called the unauthorised use of his name, image and likeness.",
+    "The suit argues that his endorsement is uniquely valuable and accuses the company of deliberately exploiting it.",
+    "## The app",
+    "Bron AI describes itself as a tool that gathers data and odds from sportsbooks and prediction markets to help users find bets and place them on other apps. A promotional video, since removed, reportedly featured a character resembling James wearing a jersey with his nickname, Bron, and his number 23.",
+    "## What happens next",
+    "The app had removed the video after the cease-and-desist letter, but had not changed its name as of Tuesday evening. The company's response to the lawsuit was not included in the reports."
+   ],
+   "more": [
+    "The suit was filed in a New York federal court.",
+    "A promotional video reportedly showed a James lookalike.",
+    "The company has removed the video but kept its name."
+   ],
+   "hot": 7,
+   "at": "2026-11-18T14:42Z"
+  },
+  {
+   "id": "fg-direct-flights-ireland",
+   "c": "naija",
+   "n": 1,
+   "added": "2026-11-18",
+   "h": "FG moves to start direct flights between Nigeria and Ireland",
+   "p": "Aviation Minister Festus Keyamo says Nigeria is working towards direct flights to Ireland, which could open a new route for local airlines such as Air Peace and Enugu Air.",
+   "body": [
+    "Nigeria is taking steps to establish direct flights to Ireland, a move that could open a new international route for local airlines including Air Peace and Enugu Air.",
+    "## What was said",
+    "The Minister of Aviation and Aerospace Development, Festus Keyamo, disclosed the plan during a meeting with the Irish Ambassador to Nigeria, Lesley Ní Bhriain. He said Nigeria was ready to deepen aviation cooperation with Ireland, citing growing demand for travel between the two countries.",
+    "## Why it matters",
+    "The proposed arrangement is expected to strengthen trade, tourism, education and business ties between the two countries, and make travel easier for Nigerians living in Ireland.",
+    "## What happens next",
+    "Details such as the timeline for the first flights and which airlines will operate the route have not been announced."
+   ],
+   "more": [
+    "Keyamo met the Irish ambassador on the plan.",
+    "Air Peace and Enugu Air could benefit.",
+    "No date has been given for the first flights."
+   ],
+   "at": "2026-11-18T14:42Z"
+  },
+  {
+   "id": "saraki-mourns-longtime-driver",
+   "c": "politics",
+   "n": 1,
+   "added": "2026-11-18",
+   "h": "Saraki mourns driver who served him for almost 30 years",
+   "p": "Former Senate President Bukola Saraki has announced the death of Williams Odumosu, who was his driver for nearly three decades. He said losing him so soon after his retirement was painful.",
+   "body": [
+    "Former Senate President Bukola Saraki has announced the death of Williams Odumosu, who worked as his personal driver for almost 30 years.",
+    "## What Saraki said",
+    "In a social media post, Saraki said he received the news of Odumosu's death on Saturday, 14 November 2026. He said his former driver had only recently retired, and that he had hoped he would have many years ahead to rest and enjoy time with his family.",
+    "He described losing him so soon after retirement as deeply painful.",
+    "## Condolence visit",
+    "After returning to Abuja, Saraki personally visited Odumosu's family to offer his condolences."
+   ],
+   "more": [
+    "Odumosu drove Saraki for almost 30 years.",
+    "He had only recently retired.",
+    "Saraki visited the family in Abuja."
+   ],
+   "at": "2026-11-18T14:42Z"
+  },
   {
    "id": "vdm-oyo-corps-members-allowance-paid",
    "c": "creators",
@@ -35,8 +155,8 @@
     "VDM raised the alarm on 16 November.",
     "Payment came two days later."
    ],
-   "hot": 1,
-   "at": "2026-11-18T11:42Z"
+   "at": "2026-11-18T11:42Z",
+   "hot": 3
   },
   {
    "id": "ngx-loses-n2-27-trillion-one-day",
@@ -59,8 +179,8 @@
     "Market value dropped to ₦161.88 trillion.",
     "Consumer goods and insurance stocks held up."
    ],
-   "hot": 4,
-   "at": "2026-11-18T11:42Z"
+   "at": "2026-11-18T11:42Z",
+   "hot": 8
   },
   {
    "id": "mtn-one-tv-streaming-launch",
@@ -83,7 +203,6 @@
     "Its first original is 100 Ways to Stay Single in Lagos.",
     "It will compete with Netflix and Disney+."
    ],
-   "hot": 8,
    "at": "2026-11-18T11:42Z"
   },
   {
@@ -152,7 +271,6 @@
     "His agent has rejected the claim.",
     "Osimhen plays for Galatasaray."
    ],
-   "hot": 9,
    "at": "2026-11-18T11:42Z"
   },
   {
@@ -176,7 +294,7 @@
     "Import costs have also dropped."
    ],
    "at": "2026-11-18T09:42Z",
-   "hot": 2
+   "hot": 4
   },
   {
    "id": "paul-okoye-solo-birthday-peter-new-date",
@@ -200,7 +318,7 @@
     "Fans expressed sadness over the split."
    ],
    "at": "2026-11-18T09:42Z",
-   "hot": 6
+   "hot": 9
   },
   {
    "id": "moses-bliss-wife-video-amid-rumours",
@@ -323,8 +441,7 @@
    "alt": "Former Vice-President Atiku Abubakar speaking into a microphone in a white cap and kaftan",
    "credit": "Photo: Trend Naija",
    "owner": true,
-   "at": "2026-11-18T07:57Z",
-   "hot": 5
+   "at": "2026-11-18T07:57Z"
   },
   {
    "id": "kwara-suspends-cmd-mothers-children-locked-out",
@@ -1034,7 +1151,7 @@
     "A statement on the church's page had called the removal invalid."
    ],
    "at": "2026-11-17T09:42Z",
-   "hot": 3
+   "hot": 5
   },
   {
    "id": "fg-nin-required-domestic-flights-january-2027",
@@ -1402,8 +1519,7 @@
     "Solomon Dalung says he should not have humiliated his wife publicly.",
     "Yusuf left Kwankwaso's camp and joined the APC."
    ],
-   "at": "2026-11-16T20:42Z",
-   "hot": 7
+   "at": "2026-11-16T20:42Z"
   },
   {
    "id": "wike-fct-campaign-council-25-percent-opposition",
@@ -1486,112 +1602,9 @@
    "at": "2026-11-16T20:42Z"
   },
   {
-   "id": "eric-chelle-clashes-journalist-tanzania-afcon-qualifier",
-   "c": "sport",
-   "n": 1,
-   "added": "2026-11-16",
-   "h": "Eric Chelle reportedly snaps at journalist over tactics ahead of Tanzania return leg",
-   "p": "Super Eagles coach Eric Chelle reportedly pushed back sharply at a journalist who questioned his formation and team selection before Tuesday's AFCON 2027 qualifier in Tanzania. Nigeria lead 3-1 from the first leg.",
-   "body": [
-    "Super Eagles head coach Eric Chelle reportedly clashed with a journalist at a press conference in Tanzania on Monday, 16 November 2026, ahead of Nigeria's second-leg AFCON 2027 qualifier.",
-    "## What happened",
-    "The session is said to have become tense when a reporter questioned Chelle's formation and player selection. The coach reportedly responded firmly, drawing a line between his job and that of the media, and said his decisions are shaped by the players he has available and the opponents, not outside opinion. A video of the exchange was shared on X.",
-    "It is not the first time Chelle has had a heated exchange with Nigerian journalists over his choices.",
-    "## The match",
-    "Nigeria arrived in Tanzania on Sunday and held their final training session on Monday. The Super Eagles won the first leg 3-1 in Uyo, so a good result in the return leg in Zanzibar on Tuesday would put them firmly on course for the tournament.",
-    "## Injury worries",
-    "The team will be without Ademola Lookman, who has been ruled out for several weeks with an injury, while Victor Osimhen is also absent injured, leaving the attack short of two key players."
-   ],
-   "more": [
-    "Nigeria lead Tanzania 3-1 from the first leg.",
-    "The return leg is on Tuesday in Zanzibar.",
-    "Lookman and Osimhen are both out injured."
-   ],
-   "at": "2026-11-16T20:42Z"
-  },
-  {
-   "id": "fct-police-release-78-suspects-tinubu-convoy-attack",
-   "c": "naija",
-   "n": 1,
-   "added": "2026-11-16",
-   "h": "Police say 78 arrested over Tinubu convoy incident, now being released after presidential clemency",
-   "p": "The FCT Police Command says it arrested 78 people after the president's motorcade was reportedly pelted with stones in Garki, Abuja, on Friday. It says the suspects are now being warned and released after the Presidency extended clemency to them.",
-   "body": [
-    "The Federal Capital Territory Police Command has reportedly said that 78 people were arrested in connection with an incident involving President Bola Tinubu's motorcade in Abuja last Friday, and that all of them are now being released on the Presidency's directive.",
-    "## What the police said",
-    "In a statement on Monday, 16 November 2026, the command's spokesperson, CSP Josephine Adeh, said the incident happened on Friday, 13 November, shortly after the President observed Friday prayers at a mosque in the Garki District. According to the police account, some people threw stones and other objects at the departing convoy, damaging several vehicles and injuring some security personnel.",
-    "The police said a joint security team responded at the scene and that later intelligence-led raids in the area brought the total number of people arrested to 78.",
-    "## Clemency and release",
-    "The statement said the Presidency had extended clemency to those involved and directed that the suspects be warned and released. The command said they were going through the release process.",
-    "## Earlier denial",
-    "The Presidency had earlier dismissed reports that the convoy was attacked, while some opposition figures, including former senator Dino Melaye, insisted the incident happened and shared videos online. The police statement is the first official account to describe arrests in connection with it.",
-    "## Call for calm",
-    "The FCT Commissioner of Police, CP Ahmed Mohammed Sanusi, warned against violence and destruction of property as campaigns for the 2027 general elections intensify. He urged political parties, politicians and their supporters to avoid intimidation and inflammatory statements, and directed area commanders and tactical units to step up security operations across the territory."
-   ],
-   "more": [
-    "Police put the number of arrests at 78.",
-    "The Presidency directed that the suspects be warned and released.",
-    "The Presidency had earlier denied the convoy was attacked."
-   ],
-   "img": "img/fct-police-release-78-suspects-tinubu-convoy-attack.jpg",
-   "credit": "Stock image: theglobalpanorama / Flickr, CC BY-SA 2.0",
-   "alt": "A Nigeria Police armoured vehicle",
-   "at": "2026-11-16T17:45Z"
-  },
-  {
-   "id": "robert-pattinson-named-new-james-bond",
-   "c": "world",
-   "n": 2,
-   "added": "2026-11-16",
-   "h": "Robert Pattinson reportedly named the new James Bond",
-   "p": "Robert Pattinson has reportedly been confirmed as the next James Bond, ending years of speculation over who would follow Daniel Craig. He is said to star in the upcoming 007 film directed by Denis Villeneuve.",
-   "body": [
-    "British actor Robert Pattinson has reportedly been named the next James Bond, ending years of guessing over who would take over the role of the famous secret agent.",
-    "## The announcement",
-    "The franchise is said to have confirmed the casting on Monday, 16 November 2026, with a short video showing the 40-year-old actor in a black tuxedo, pointing a gun. Pattinson is best known for the Twilight films and for currently playing Bruce Wayne in DC's Batman films.",
-    "## The race for the role",
-    "Several actors, including Callum Turner, Nicholas Hoult, Jack Lowden and Josh O'Connor, were reportedly screen-tested before the casting was announced for the new film, which will be directed by Denis Villeneuve. In a recent magazine interview, Villeneuve spoke about the pressure of taking on the franchise and said casting was still in progress at the time.",
-    "## Background",
-    "Daniel Craig stepped down as 007 after five films over 15 years, ending with No Time to Die in October 2021. He was the sixth actor to play the character, after Sean Connery, George Lazenby, Roger Moore, Timothy Dalton and Pierce Brosnan. If confirmed, Pattinson would become the seventh actor to play Bond in the official film series.",
-    "## What happens next",
-    "No release date for the new Bond film was given in the reports."
-   ],
-   "more": [
-    "Pattinson is best known for Twilight and The Batman.",
-    "Denis Villeneuve is directing the new film.",
-    "Daniel Craig left the role after No Time to Die in 2021."
-   ],
-   "at": "2026-11-16T17:45Z"
-  },
-  {
-   "id": "beyonce-100-grammy-nominations-record",
-   "c": "music",
-   "n": 2,
-   "added": "2026-11-16",
-   "h": "Beyoncé reportedly becomes first artist with 100 Grammy nominations",
-   "p": "Beyoncé's nomination for Best R&B Solo Performance at the 2027 Grammys reportedly takes her career total to 100, the most in Grammy history. Tems is among the artists nominated in the same category.",
-   "body": [
-    "Beyoncé has reportedly become the first artist in history to receive 100 Grammy nominations, after picking up a new nod in the nominations for the 69th Annual Grammy Awards announced this week.",
-    "## The nomination",
-    "The singer is nominated for Best R&B Solo Performance for Morning Dew (Donk), a song she released as a surprise on 4 July 2026. A remix featuring her husband, Jay-Z, followed a month later. She faces Kehlani, Victoria Monét, Jill Scott and Nigeria's Tems in the category.",
-    "## A record career",
-    "Beyoncé was already the most-decorated artist in Grammy history, with 35 wins. Jay-Z is said to be close behind her on the all-time nominations list, now with 90.",
-    "## The Nigerian angle",
-    "Tems' place in the same category means Nigerian fans will be watching this race closely. She is one of several Nigerian stars recognised in this year's nominations, alongside Davido and Ayra Starr, who are nominated for Best Global Music Album.",
-    "## What happens next",
-    "Winners will be announced at the 2027 Grammy Awards ceremony early next year."
-   ],
-   "more": [
-    "Her nomination is for Morning Dew (Donk).",
-    "Tems is nominated in the same category.",
-    "Jay-Z is reported to be second with 90 nominations."
-   ],
-   "at": "2026-11-16T17:45Z"
-  },
-  {
    "id": "atiku-accuses-presidency-ai-rally-crowds",
    "c": "politics",
-   "n": 1,
+   "n": 2,
    "added": "2026-11-16",
    "h": "Atiku accuses Tinubu's camp of using AI to fake rally crowds, says Potiskum crowd was real",
    "p": "Atiku Abubakar has reportedly accused the presidency of using artificial intelligence to create images of large crowds at its events. He said the crowd that welcomed him in Potiskum, Yobe State, was genuine.",
@@ -1605,41 +1618,19 @@
     "## His promise",
     "He pledged to act quickly on the cost of living if elected at the presidential election scheduled for 16 January 2027.",
     "## The other side",
-    "The reports did not include a response from the presidency or the APC campaign to the AI claim."
+    "## Government responds",
+    "On Wednesday, 18 November, Information Minister Mohammed Idris rejected claims that the ruling party had used AI-doctored images to exaggerate crowds at its rallies. Speaking on the sidelines of the World Public Relations Forum in Abuja, he said misuse of AI was not the ruling party's style and accused the opposition of being the ones using it. He also warned that irresponsible use of AI could deepen divisions and mislead the public."
    ],
    "more": [
     "Atiku says the Potiskum crowd was real.",
     "He claims the presidency uses AI images of crowds.",
-    "No response from the presidency was included in reports."
+    "The government says it is the opposition using AI."
    ],
    "img": "img/atiku-accuses-presidency-ai-rally-crowds.jpg",
    "credit": "Photo: Trend Naija",
    "alt": "Atiku Abubakar and President Bola Tinubu side by side",
-   "at": "2026-11-16T17:45Z"
-  },
-  {
-   "id": "osun-adeleke-demotes-two-monarchs",
-   "c": "politics",
-   "n": 1,
-   "added": "2026-11-16",
-   "h": "Osun government demotes two traditional rulers; one monarch claims APC sympathy was the reason",
-   "p": "Governor Ademola Adeleke has reportedly approved the downgrading of two Osun traditional stools from Part II to Part III chieftaincies. One of the affected monarchs says no reason was given and alleges the move was political.",
-   "body": [
-    "The Osun State Government has reportedly stripped two traditional rulers of their Part II chieftaincy status, reducing their stools to minor chieftaincies in a decision approved by Governor Ademola Adeleke.",
-    "## What the government did",
-    "A letter from the state's Ministry of Local Government and Chieftaincy Affairs is said to show that the governor approved the de-recognition of the Alagunbelewo of Agunbelewo, Oba Maruf Lawal, and the Olu of Irepodun, Oba Adewale Adeniyi Sikiru, under the state's Chiefs Law. Both stools now revert to Part III, which means the rights, privileges and allowances attached to their former status have been withdrawn. The government reportedly said the approval would be published in the state gazette.",
-    "## The monarch's response",
-    "Oba Lawal reportedly said the affected rulers received letters without any official reason and questioned whether the decision had been ratified by the State Executive Council as the law requires. He alleged that the action may have been linked to perceived sympathy for the All Progressives Congress (APC).",
-    "He further claimed that the rulers had been expected to show loyalty to the governor's party in return for support they received. These claims have not been independently confirmed.",
-    "## What happens next",
-    "No response from the Osun government to the monarchs' allegations was included in the reports. The affected rulers say they want answers on the reasons for their demotion."
-   ],
-   "more": [
-    "The two stools were moved from Part II to Part III.",
-    "One monarch says no reason was given.",
-    "He alleges the move was linked to APC sympathy."
-   ],
-   "at": "2026-11-16T17:45Z"
+   "at": "2026-11-16T17:45Z",
+   "hot": 2
   },
   {
    "id": "davido-tems-ayra-starr-grammy-2027-nominations",
