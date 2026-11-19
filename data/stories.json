@@ -15,6 +15,41 @@
  },
  "stories": [
   {
+   "id": "verydarkman-hospitalised-china-severe-malaria",
+   "c": "creators",
+   "n": 1,
+   "h": "VeryDarkMan hospitalised in China with severe malaria, says it is his first hospital admission in 32 years",
+   "p": "Social media commentator VeryDarkMan says he is receiving treatment in a hospital in China after being diagnosed with severe malaria during a business trip. He said doctors told him he may stay for four to seven days.",
+   "body": [
+    "Nigerian social media commentator Martins Vincent Otse, popularly known as VeryDarkMan (VDM), has disclosed that he is receiving treatment in a hospital in China after being diagnosed with severe malaria.",
+    "## The hospital video",
+    "VDM shared a video from a hospital bed on Thursday, 19 November 2026, lying in a hospital gown beside medical equipment.",
+    "He said he fell ill while on a business trip to China, where he sources products for his RATEL brand, and at first tried to treat himself.",
+    "## \"First admission in 32 years\"",
+    "According to him, his condition got worse on Wednesday night, and he was taken to hospital the following morning. He said doctors told him he could remain under medical care for between four and seven days.",
+    "VDM added that this was the first time in 32 years that he had been admitted to hospital overnight.",
+    "## What we know",
+    "The video confirms that he was in a medical facility when it was recorded. However, no hospital document or statement from his doctors has been made public, so details of his diagnosis and treatment are based on his own account.",
+    "He did not name the hospital or the city where he is being treated.",
+    "## A reminder about self-medication",
+    "His experience is a reminder that malaria can become serious quickly, and that treating it at home without proper testing can be risky. Health experts advise anyone with symptoms to get tested and treated early.",
+    "## Over to you",
+    "Join us in wishing VDM a quick recovery. Have you ever tried to treat malaria yourself before going to hospital?"
+   ],
+   "more": [
+    "VDM says he has severe malaria and is in hospital in China.",
+    "Doctors told him he may stay four to seven days.",
+    "He says it is his first overnight admission in 32 years."
+   ],
+   "hot": 1,
+   "added": "2026-11-19",
+   "img": "img/verydarkman-hospitalised-china-severe-malaria.jpg",
+   "alt": "VeryDarkMan lying in a hospital bed in a hospital gown",
+   "credit": "Photo: Trend Naija",
+   "owner": true,
+   "at": "2026-11-19T16:43Z"
+  },
+  {
    "id": "pochettino-man-united-first-game-liverpool",
    "c": "sport",
    "n": 1,
@@ -38,7 +73,7 @@
     "Pochettino's first game is away at Liverpool.",
     "United are in the relegation zone."
    ],
-   "hot": 1,
+   "hot": 2,
    "at": "2026-11-19T14:42Z"
   },
   {
@@ -60,7 +95,7 @@
     "A 12.5kg refill can cost ₦22,500.",
     "Some households are switching fuels."
    ],
-   "hot": 4,
+   "hot": 5,
    "at": "2026-11-19T14:42Z"
   },
   {
@@ -85,7 +120,7 @@
     "Three million bags of fertiliser will be distributed.",
     "The aim is to bring down food prices."
    ],
-   "hot": 7,
+   "hot": 8,
    "at": "2026-11-19T14:42Z"
   },
   {
@@ -110,7 +145,7 @@
     "He pledges petrol at ₦200 a litre.",
     "He spoke at a rally in Yola."
    ],
-   "hot": 8,
+   "hot": 9,
    "at": "2026-11-19T14:42Z"
   },
   {
@@ -135,7 +170,7 @@
     "He did not name anyone in the clip.",
     "Many linked his remarks to Tinubu."
    ],
-   "hot": 3,
+   "hot": 4,
    "at": "2026-11-19T14:42Z"
   },
   {
@@ -184,7 +219,7 @@
     "It is his first time staying in hospital."
    ],
    "at": "2026-11-19T11:42Z",
-   "hot": 2
+   "hot": 3
   },
   {
    "id": "naira-falls-n1363-dollar",
@@ -231,8 +266,7 @@
     "Ali Baba was seen nearby.",
     "RMD has not commented."
    ],
-   "at": "2026-11-19T11:42Z",
-   "hot": 9
+   "at": "2026-11-19T11:42Z"
   },
   {
    "id": "biola-adebayo-salon-for-sale-sister-canada",
@@ -298,7 +332,7 @@
     "Burna Boy reportedly co-hosts the station."
    ],
    "at": "2026-11-19T09:42Z",
-   "hot": 5
+   "hot": 6
   },
   {
    "id": "fifa-names-nff-normalisation-committee",
@@ -1683,7 +1717,7 @@
     "A statement on the church's page had called the removal invalid."
    ],
    "at": "2026-11-17T09:42Z",
-   "hot": 6
+   "hot": 7
   },
   {
    "id": "fg-nin-required-domestic-flights-january-2027",
