@@ -15,6 +15,41 @@
  },
  "stories": [
   {
+   "id": "adamu-garba-denies-endorsing-peter-obi-2027",
+   "c": "elections",
+   "n": 2,
+   "h": "Adamu Garba denies endorsing Peter Obi for 2027, says he has quit partisan politics",
+   "p": "Former APC presidential aspirant Adamu Garba has dismissed reports that he endorsed Peter Obi for the 2027 presidential election, saying he has withdrawn from partisan politics to focus on his businesses and Africa's digital economy.",
+   "body": [
+    "Former All Progressives Congress (APC) presidential aspirant Adamu Garba has denied reports that he endorsed Peter Obi ahead of Nigeria's 2027 presidential election.",
+    "## \"The claim is false\"",
+    "In a public statement dated 18 November 2026, Garba described the claim circulating online as false.",
+    "He said he has withdrawn from partisan politics and is now focusing on his business ventures and on Africa's digital economy.",
+    "## His new focus",
+    "Garba named Crowwe, Tablars and Justitia SI among the projects currently receiving his attention.",
+    "He also urged the public to rely only on his official channels for accurate information about his activities.",
+    "## Where did the story come from?",
+    "The origin of the endorsement claim remains unclear. No post, interview or public statement showing Garba endorsing Obi has been found.",
+    "What is clear is that Garba has publicly disputed the claim.",
+    "## A familiar pattern",
+    "With the 2027 elections approaching, false claims about endorsements are spreading quickly on social media. It is the second time this week that a story about backing for Obi has been corrected, after Obi himself clarified that his Washington visit was not an endorsement from the US Congress.",
+    "## Over to you",
+    "Why do fake endorsement stories spread so fast during election season, and how can Nigerians tell what is real?"
+   ],
+   "more": [
+    "Adamu Garba says he did not endorse Peter Obi.",
+    "He says he has quit partisan politics.",
+    "The origin of the endorsement claim is unclear."
+   ],
+   "hot": 1,
+   "added": "2026-11-19",
+   "img": "img/adamu-garba-denies-endorsing-peter-obi-2027.jpg",
+   "alt": "Adamu Garba in a colourful cap and white robe beside a photo of Peter Obi",
+   "credit": "Photo: Trend Naija",
+   "owner": true,
+   "at": "2026-11-19T17:04Z"
+  },
+  {
    "id": "verydarkman-hospitalised-china-severe-malaria",
    "c": "creators",
    "n": 1,
@@ -41,7 +76,7 @@
     "Doctors told him he may stay four to seven days.",
     "He says it is his first overnight admission in 32 years."
    ],
-   "hot": 1,
+   "hot": 2,
    "added": "2026-11-19",
    "img": "img/verydarkman-hospitalised-china-severe-malaria.jpg",
    "alt": "VeryDarkMan lying in a hospital bed in a hospital gown",
@@ -73,7 +108,7 @@
     "Pochettino's first game is away at Liverpool.",
     "United are in the relegation zone."
    ],
-   "hot": 2,
+   "hot": 3,
    "at": "2026-11-19T14:42Z"
   },
   {
@@ -95,7 +130,7 @@
     "A 12.5kg refill can cost ₦22,500.",
     "Some households are switching fuels."
    ],
-   "hot": 5,
+   "hot": 6,
    "at": "2026-11-19T14:42Z"
   },
   {
@@ -120,7 +155,7 @@
     "Three million bags of fertiliser will be distributed.",
     "The aim is to bring down food prices."
    ],
-   "hot": 8,
+   "hot": 9,
    "at": "2026-11-19T14:42Z"
   },
   {
@@ -145,7 +180,6 @@
     "He pledges petrol at ₦200 a litre.",
     "He spoke at a rally in Yola."
    ],
-   "hot": 9,
    "at": "2026-11-19T14:42Z"
   },
   {
@@ -170,7 +204,7 @@
     "He did not name anyone in the clip.",
     "Many linked his remarks to Tinubu."
    ],
-   "hot": 4,
+   "hot": 5,
    "at": "2026-11-19T14:42Z"
   },
   {
@@ -219,7 +253,7 @@
     "It is his first time staying in hospital."
    ],
    "at": "2026-11-19T11:42Z",
-   "hot": 3
+   "hot": 4
   },
   {
    "id": "naira-falls-n1363-dollar",
@@ -332,7 +366,7 @@
     "Burna Boy reportedly co-hosts the station."
    ],
    "at": "2026-11-19T09:42Z",
-   "hot": 6
+   "hot": 7
   },
   {
    "id": "fifa-names-nff-normalisation-committee",
@@ -1717,7 +1751,7 @@
     "A statement on the church's page had called the removal invalid."
    ],
    "at": "2026-11-17T09:42Z",
-   "hot": 7
+   "hot": 8
   },
   {
    "id": "fg-nin-required-domestic-flights-january-2027",
