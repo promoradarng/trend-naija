@@ -15,6 +15,40 @@
  },
  "stories": [
   {
+   "id": "sule-lamido-tells-shettima-grow-up-office-too-big-for-jokes",
+   "c": "politics",
+   "n": 1,
+   "h": "\"Grow up, the office is too big for jokes\": Sule Lamido tells Shettima after VP claims he backs Tinubu",
+   "p": "Former Jigawa Governor Sule Lamido has told Vice-President Kashim Shettima to be more careful with his public comments, after Shettima claimed Lamido supports President Tinubu and the APC. Lamido firmly distanced himself from the ruling party.",
+   "body": [
+    "Former Jigawa State Governor Sule Lamido has told Vice-President Kashim Shettima to be more careful with his public comments, saying the office of the Vice-President is \"too big for jokes\".",
+    "## How it started",
+    "Lamido was reacting to a claim by Shettima that he now supports President Bola Tinubu and the All Progressives Congress (APC).",
+    "Lamido rejected the claim outright and distanced himself from the ruling party.",
+    "\"Ikon Allah! I didn't join the APC in 2014, only to join now in 2026?\" he said, using a Hausa expression of astonishment. \"Even though it was a Kanuri man who said it, I'm not surprised. But in your local dialect, the answer is 'Kattuwunum!'\"",
+    "## \"Grow up\"",
+    "Lamido described Shettima as intelligent and eloquent, but said the office of the Vice-President demands seriousness and restraint.",
+    "He also criticised some past remarks attributed to Shettima about former Vice-President Yemi Osinbajo, former Vice-President Atiku Abubakar and former Senate President Ahmad Lawan.",
+    "## Political background",
+    "Lamido, a veteran politician and two-term governor of Jigawa State, has long been a member of the opposition. His sharp response makes clear that, whatever claims are made, he is not switching sides ahead of 2027.",
+    "Shettima has not publicly responded to Lamido's remarks.",
+    "## Over to you",
+    "Was Lamido right to tell the Vice-President to \"grow up\", or was his response too harsh?"
+   ],
+   "more": [
+    "Shettima claimed Sule Lamido now backs Tinubu and the APC.",
+    "Lamido denied it and told Shettima to 'grow up'.",
+    "Lamido said the VP's office is 'too big for jokes'."
+   ],
+   "hot": 1,
+   "added": "2026-11-19",
+   "img": "img/sule-lamido-tells-shettima-grow-up-office-too-big-for-jokes.jpg",
+   "alt": "Former Jigawa Governor Sule Lamido speaking into a microphone, above Vice-President Kashim Shettima smiling",
+   "credit": "Photo: Trend Naija",
+   "owner": true,
+   "at": "2026-11-19T17:21Z"
+  },
+  {
    "id": "adamu-garba-denies-endorsing-peter-obi-2027",
    "c": "elections",
    "n": 2,
@@ -41,7 +75,7 @@
     "He says he has quit partisan politics.",
     "The origin of the endorsement claim is unclear."
    ],
-   "hot": 1,
+   "hot": 2,
    "added": "2026-11-19",
    "img": "img/adamu-garba-denies-endorsing-peter-obi-2027.jpg",
    "alt": "Adamu Garba in a colourful cap and white robe beside a photo of Peter Obi",
@@ -76,7 +110,7 @@
     "Doctors told him he may stay four to seven days.",
     "He says it is his first overnight admission in 32 years."
    ],
-   "hot": 2,
+   "hot": 3,
    "added": "2026-11-19",
    "img": "img/verydarkman-hospitalised-china-severe-malaria.jpg",
    "alt": "VeryDarkMan lying in a hospital bed in a hospital gown",
@@ -108,7 +142,7 @@
     "Pochettino's first game is away at Liverpool.",
     "United are in the relegation zone."
    ],
-   "hot": 3,
+   "hot": 4,
    "at": "2026-11-19T14:42Z"
   },
   {
@@ -130,7 +164,7 @@
     "A 12.5kg refill can cost ₦22,500.",
     "Some households are switching fuels."
    ],
-   "hot": 6,
+   "hot": 7,
    "at": "2026-11-19T14:42Z"
   },
   {
@@ -155,7 +189,6 @@
     "Three million bags of fertiliser will be distributed.",
     "The aim is to bring down food prices."
    ],
-   "hot": 9,
    "at": "2026-11-19T14:42Z"
   },
   {
@@ -204,7 +237,7 @@
     "He did not name anyone in the clip.",
     "Many linked his remarks to Tinubu."
    ],
-   "hot": 5,
+   "hot": 6,
    "at": "2026-11-19T14:42Z"
   },
   {
@@ -253,7 +286,7 @@
     "It is his first time staying in hospital."
    ],
    "at": "2026-11-19T11:42Z",
-   "hot": 4
+   "hot": 5
   },
   {
    "id": "naira-falls-n1363-dollar",
@@ -366,7 +399,7 @@
     "Burna Boy reportedly co-hosts the station."
    ],
    "at": "2026-11-19T09:42Z",
-   "hot": 7
+   "hot": 8
   },
   {
    "id": "fifa-names-nff-normalisation-committee",
@@ -1751,7 +1784,7 @@
     "A statement on the church's page had called the removal invalid."
    ],
    "at": "2026-11-17T09:42Z",
-   "hot": 8
+   "hot": 9
   },
   {
    "id": "fg-nin-required-domestic-flights-january-2027",
