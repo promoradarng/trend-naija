@@ -1,0 +1,25 @@
+{
+ "id": "jpmorgan-visa-mastercard-data-leak",
+ "c": "world",
+ "n": 1,
+ "added": "2026-11-20",
+ "h": "Hackers leak data of JPMorgan, Visa and Mastercard customers",
+ "p": "Hackers have published the email addresses and phone numbers of 16,000 wealthy JPMorgan Chase customers after targeting third-party vendors. It is the second major cyber incident hitting the financial sector in a week.",
+ "body": [
+  "Hackers have stolen and published personal information belonging to thousands of customers linked to JPMorgan Chase, Mastercard and Visa, in the second major cyber incident to hit the financial industry in a week.",
+  "## What was taken",
+  "JPMorgan Chase said the email addresses and phone numbers of about 16,000 of its wealthiest customers were published by a ransomware gang. The data appears to relate to the bank's invitation-only Reserve credit card, which usually requires customers to have more than $10 million in assets with the bank.",
+  "## How it happened",
+  "The bank said the hackers targeted third-party vendors that provide services to it. A Visa spokesperson said a service provider in the Asia-Pacific region was targeted, but that none of Visa's own systems were involved.",
+  "## What the bank is doing",
+  "JPMorgan said it would contact affected customers directly and offer support, including free credit monitoring.",
+  "## Wider trend",
+  "Earlier in the week, malicious code was planted on websites belonging to about 178 organisations after hackers exploited a flaw in a third-party web tool."
+ ],
+ "more": [
+  "16,000 JPMorgan customers' details were published.",
+  "Third-party vendors were targeted.",
+  "Affected customers will be offered credit monitoring."
+ ],
+ "at": "2026-11-20T06:43Z"
+}
