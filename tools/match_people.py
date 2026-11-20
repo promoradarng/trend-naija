@@ -14,7 +14,7 @@ REL=r"(?:'s|’s)\s+(?:late\s+|elder\s+|younger\s+|ex-)?(?:son|daughter|wife|hus
 names={}
 for k,v in P.items(): names[k]=[k]+v.get('aliases',[])
 for k,v in EXTRA.items(): names[k]=v
-BLOCK={'peter obi':[r'obi cubana',r'mikel obi',r'obi jackson',r'obi mikel'],'bola tinubu':[r'remi tinubu',r'oluremi tinubu',r'seyi tinubu',r'folasade tinubu',r'tinubu-ojo'],'peter mbah':[r'content creator peter mbah'],'davido':[r"davido's (?:elder )?sister"]}
+BLOCK={'peter obi':[r'obi cubana',r'mikel obi',r'obi jackson',r'obi mikel'],'bola tinubu':[r'remi tinubu',r'oluremi tinubu',r'seyi tinubu',r'folasade tinubu',r'tinubu-ojo'],'peter mbah':[r'content creator peter mbah'],'davido':[r"davido's (?:elder )?sister"],'chris brown':[r"benue chris brown"]}
 def find(text):
     t=text.lower().replace('’',"'")
     hits=[]
