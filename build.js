@@ -4,6 +4,13 @@ const fs = require("fs");
 const path = require("path");
 const ROOT = __dirname;
 const SITE = "https://trendnaija.com";
+// Owner's rule: every story naming someone in his photo register (data/people.json) gets that photo,
+// never a stock/Wikimedia one. Applied automatically on every build so no update can skip it.
+try {
+  const out = require("child_process").execSync("python3 tools/match_people.py", { cwd: ROOT, encoding: "utf8" });
+  const t = (out.match(/total (\d+)/) || [])[1];
+  if (t && t !== "0") console.log(`Photo register: matched ${t} stories`);
+} catch (e) { console.warn("Photo register matcher failed:", e.message); }
 const data = JSON.parse(fs.readFileSync(path.join(ROOT, "data/stories.json"), "utf8"));
 const CATS = data.categories;
 
