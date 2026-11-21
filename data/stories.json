@@ -1,6 +1,6 @@
 {
- "updated": "Updated 20:41 GMT",
- "date": "Friday, 20 November 2026",
+ "updated": "Updated 06:42 GMT",
+ "date": "Saturday, 21 November 2026",
  "categories": {
   "all": "All gist",
   "elections": "2027 elections",
@@ -15,9 +15,60 @@
  },
  "stories": [
   {
-   "id": "peter-obi-kwankwaso-anambra-feel-difference-day-one",
+   "id": "rarara-mobbed-abuja-national-mosque",
+   "c": "politics",
+   "n": 2,
+   "added": "2026-11-21",
+   "h": "Tinubu's praise singer Rarara mobbed at Abuja National Mosque",
+   "p": "Hausa praise singer Dauda Kahutu Rarara, a well-known supporter of President Tinubu, was attacked by an angry crowd at the Abuja National Mosque during Friday prayers. Security operatives struggled to hold the crowd back.",
+   "body": [
+    "Popular Hausa praise singer Dauda Kahutu, widely known as Rarara, was attacked by an angry crowd at the Abuja National Mosque during Friday prayers on 20 November 2026.",
+    "## What happened",
+    "Rarara, a prominent supporter of President Bola Tinubu, was entering the mosque with plain-clothed and uniformed security personnel when a group of people rushed at him. Security operatives tried to hold the crowd back but could not fully contain them. At one point, the singer removed his cap, which carried Tinubu's insignia.",
+    "A video of the incident has spread widely online.",
+    "## Context",
+    "The incident came a week after President Tinubu's convoy was pelted with stones after Friday prayers at a mosque in Garki, Abuja, an attack for which police arrested 78 people before the Presidency directed their release.",
+    "## Reactions",
+    "Paul Ibe, media adviser to ADC presidential candidate Atiku Abubakar, condemned the violence on X while also making a political point about the incident."
+   ],
+   "more": [
+    "The attack happened during Friday prayers.",
+    "Security operatives struggled to contain the crowd.",
+    "It came a week after the Tinubu convoy incident."
+   ],
+   "hot": 1,
+   "img": "img/rarara-mobbed-abuja-national-mosque-tn.jpg",
+   "alt": "President Bola Tinubu in a green cap and glasses at a meeting",
+   "credit": "Photo: Trend Naija",
+   "at": "2026-11-21T06:42Z"
+  },
+  {
+   "id": "yahaya-bello-natasha-kogi-central-2027",
    "c": "politics",
    "n": 1,
+   "added": "2026-11-21",
+   "h": "Yahaya Bello says he will beat Natasha Akpoti-Uduaghan 'overwhelmingly' in Kogi Central",
+   "p": "Former Kogi Governor Yahaya Bello, who plans to contest the Kogi Central senatorial seat in 2027, has claimed his political reach far exceeds that of the sitting senator, Natasha Akpoti-Uduaghan.",
+   "body": [
+    "Former Kogi State Governor Yahaya Bello has said he will win the Kogi Central senatorial seat in the 2027 elections overwhelmingly, describing the incumbent, Senator Natasha Akpoti-Uduaghan, as politically junior to him.",
+    "## What he said",
+    "In an interview published on Friday, 20 November 2026, Bello reportedly said his political influence in Kogi State is far greater than that of any other politician. Asked whether nearly four years out of elective office had reduced his standing, he said the break had actually added to his popularity.",
+    "He also claimed he would not need to spend his own money on the campaign, saying residents had started contributing to it.",
+    "## The contest",
+    "Akpoti-Uduaghan currently represents Kogi Central in the Senate. Her response to his remarks was not included in the reports."
+   ],
+   "more": [
+    "Bello is running for the Kogi Central Senate seat.",
+    "He says he will win overwhelmingly.",
+    "Natasha Akpoti-Uduaghan is the sitting senator."
+   ],
+   "hot": 7,
+   "at": "2026-11-21T06:42Z"
+  },
+  {
+   "id": "peter-obi-kwankwaso-anambra-feel-difference-day-one",
+   "c": "politics",
+   "n": 2,
    "added": "2026-11-20",
    "h": "Peter Obi says Nigerians will 'feel the difference from day one' if he and Kwankwaso win",
    "p": "NDC presidential candidate Peter Obi, speaking in Anambra alongside former Kano governor Rabiu Kwankwaso, has promised to fight corruption and use public money for the public good.",
@@ -26,6 +77,8 @@
     "## What he said",
     "Speaking in Anambra alongside the former Kano governor, Obi reportedly said their administration would prioritise accountability, transparency and the responsible management of public funds.",
     "He said the two of them would fight corruption and make sure public money is used for the public good, adding that Nigerians would know from day one that a new team was in charge.",
+    "## Defend your votes",
+    "At an NDC town hall and rally at All Saints Anglican Cathedral in Onitsha on Friday, Obi also urged Nigerians to turn out in large numbers on 16 January 2027, stay at polling units until results are counted and transmitted, and guard against rigging. He said Nigerians should accept the result of any genuinely free and fair contest.",
     "## The context",
     "Obi's comments came a day after Anambra Governor Charles Soludo hosted an APC rally in Awka for President Bola Tinubu and said the election was already decided. ADC chieftain Dele Momodu responded that Obi would win Anambra comfortably.",
     "## The race",
@@ -36,11 +89,11 @@
     "He promised to fight corruption.",
     "He says change will be felt from day one."
    ],
-   "hot": 2,
    "img": "img/peter-obi-kwankwaso-anambra-feel-difference-day-one-tn.jpg",
    "alt": "Peter Obi in glasses and a black top in front of the Nigerian flag",
    "credit": "Photo: Trend Naija",
-   "at": "2026-11-20T20:42Z"
+   "at": "2026-11-20T20:42Z",
+   "hot": 4
   },
   {
    "id": "edo-police-summon-lg-chair-ndc-secretariat-attack",
@@ -64,7 +117,6 @@
     "Police say investigations have begun.",
     "He has not been charged."
    ],
-   "hot": 6,
    "at": "2026-11-20T20:42Z"
   },
   {
@@ -88,11 +140,11 @@
     "It does not show a bandit attack.",
     "It was reshared with a false caption."
    ],
-   "hot": 4,
    "img": "img/fact-check-tinubu-bandits-attack-video-old-tn.jpg",
    "alt": "President Bola Tinubu in a green cap and glasses at a meeting",
    "credit": "Photo: Trend Naija",
-   "at": "2026-11-20T20:42Z"
+   "at": "2026-11-20T20:42Z",
+   "hot": 9
   },
   {
    "id": "tunji-razaq-aoa-taxmobile-founder-dies",
@@ -142,7 +194,7 @@
     "It was taking mourners to a burial in Ukubie."
    ],
    "at": "2026-11-20T17:42Z",
-   "hot": 1
+   "hot": 2
   },
   {
    "id": "segun-odegbami-survives-attack-abeokuta",
@@ -159,7 +211,9 @@
     "## Police response",
     "The Ogun State Police Command confirmed the attack and said the former international had been treated in hospital and discharged.",
     "## Who he is",
-    "Odegbami is a former captain of the Super Eagles and one of Nigeria's best-known football figures."
+    "Odegbami is a former captain of the Super Eagles and one of Nigeria's best-known football figures.",
+    "## Manhunt ordered",
+    "Ogun State Commissioner of Police Bode Ojajuni visited Odegbami at his home and ordered an immediate manhunt for the attackers, promising they would be prosecuted once caught."
    ],
    "more": [
     "He says three armed men broke in at 2:30am.",
@@ -167,7 +221,7 @@
     "Police say he has been discharged from hospital."
    ],
    "at": "2026-11-20T17:42Z",
-   "hot": 3
+   "hot": 6
   },
   {
    "id": "oyedepo-church-succession-not-family-business",
@@ -189,8 +243,7 @@
     "He cited Joshua succeeding Moses.",
     "The clip resurfaced amid the Odukoya dispute."
    ],
-   "at": "2026-11-20T17:42Z",
-   "hot": 7
+   "at": "2026-11-20T17:42Z"
   },
   {
    "id": "multichoice-dstv-gotv-n6000-package",
@@ -243,7 +296,7 @@
   {
    "id": "court-throws-out-atiku-bid-new-evidence-tinubu-suit",
    "c": "politics",
-   "n": 1,
+   "n": 2,
    "added": "2026-11-20",
    "h": "Court rejects Atiku's bid to add new evidence to suit against Tinubu's eligibility",
    "p": "A Federal High Court in Abuja has dismissed an application by Atiku Abubakar to introduce fresh evidence into his suit challenging President Tinubu's eligibility for 2027. The judge said the constitutional 14-day window had passed.",
@@ -251,6 +304,8 @@
     "A Federal High Court in Abuja has thrown out an application by ADC presidential candidate Atiku Abubakar to bring new evidence into his suit challenging President Bola Tinubu's eligibility to contest the 2027 election.",
     "## The ruling",
     "Justice Inyang Ekwo held that Section 285(9) of the Constitution allows only 14 days for evidence to be filed in a pre-election case. He found that Atiku's request to amend his originating summons would effectively bring in fresh evidence after that period had expired, which would breach the Constitution.",
+    "## The NYSC certificate",
+    "The suit challenges Tinubu's eligibility over the authenticity of his National Youth Service Corps (NYSC) discharge certificate. The judge upheld objections from President Tinubu, the APC and INEC, saying the proposed amendments went beyond clerical corrections and tried to bring in new facts, fresh claims of fraud and extra exhibits after the defendants had already responded.",
     "## What it means",
     "The ruling is a setback for Atiku's legal challenge, although the main suit itself was not decided in the reports. Atiku's camp had not responded publicly to the ruling in the reports.",
     "## Background",
@@ -264,7 +319,8 @@
    "img": "img/court-throws-out-atiku-bid-new-evidence-tinubu-suit-tn.jpg",
    "alt": "Atiku Abubakar and President Bola Tinubu side by side",
    "credit": "Photo: Trend Naija",
-   "at": "2026-11-20T14:42Z"
+   "at": "2026-11-20T14:42Z",
+   "hot": 3
   },
   {
    "id": "infantino-arrives-warri-stadium-commissioning",
@@ -765,8 +821,7 @@
    "at": "2026-11-19T20:42Z",
    "img": "img/vdm-slams-davido-seyi-tinubu-photo-tn.jpg",
    "alt": "VeryDarkMan and Davido together",
-   "credit": "Photo: Trend Naija",
-   "hot": 8
+   "credit": "Photo: Trend Naija"
   },
   {
    "id": "tems-opens-up-adhd",
@@ -1164,6 +1219,8 @@
     "A statistical model reportedly gives Liverpool a 57.3% chance of winning the game, with United at 20.5% and a draw at 22.2%.",
     "## His first interview",
     "In his first sit-down interview as head coach, the 54-year-old said changing the culture at the club is his top priority, stressing the need for a winning mentality and consistent daily habits. United are 18th with just eight points from their first 10 games, their worst top-flight start since 1984.",
+    "## Conte reacts",
+    "Antonio Conte, who had been linked with the job, rejected reports that United passed over him because of his demanding style, saying any club wary of his methods was afraid of winning. United reportedly paid a release clause to appoint Pochettino.",
     "## Transfer plans",
     "Reports have also linked Pochettino with transfer targets for January, with Nigeria defender Calvin Bassey said to be on his shopping list. Fulham are reportedly asking for around £50 million for the Super Eagles star.",
     "## Background",
@@ -1174,7 +1231,8 @@
     "Pochettino's first game is away at Liverpool.",
     "United are in the relegation zone."
    ],
-   "at": "2026-11-19T14:42Z"
+   "at": "2026-11-19T14:42Z",
+   "hot": 8
   },
   {
    "id": "cooking-gas-price-rise-n22500-12kg",
@@ -1753,81 +1811,6 @@
    "credit": "Photo: Trend Naija",
    "owner": true,
    "at": "2026-11-18T14:49Z"
-  },
-  {
-   "id": "dss-finds-no-evidence-plot-disrupt-adc-sokoto-asks-atiku-retract",
-   "c": "elections",
-   "n": 3,
-   "h": "DSS says it found no evidence it planned to disrupt ADC campaign in Sokoto, asks Atiku to retract or provide proof",
-   "p": "The Department of State Services says its internal investigation found no evidence that it planned to recruit protesters to disrupt the ADC's presidential campaign flag-off in Sokoto. It has asked Atiku Abubakar to retract or clarify his allegation, or provide evidence.",
-   "body": [
-    "The Department of State Services (DSS) says its investigation found no evidence that it planned to recruit protesters to disrupt the African Democratic Congress (ADC) presidential campaign in Sokoto.",
-    "## How it started",
-    "Earlier this month, former Vice-President Atiku Abubakar accused the leadership of the DSS of recruiting protesters to disrupt the ADC's presidential campaign flag-off rally in Sokoto.",
-    "The allegation drew wide attention, and the DSS responded by ordering an investigation into the claim.",
-    "## The DSS findings",
-    "The agency now says its investigation found nothing to support the allegation that it planned to recruit protesters or disrupt the ADC campaign.",
-    "It has asked Atiku to either retract or clarify his claim, or to provide evidence that could support further investigation.",
-    "## Not the final word",
-    "It is important to note that this is the DSS's own preliminary finding. It was not an independent investigation, which means the agency effectively investigated an allegation made against itself.",
-    "Atiku has not issued a fresh public response to the DSS findings.",
-    "## Why it matters",
-    "With the 2027 elections approaching, allegations that security agencies are being used against opposition parties are likely to keep coming up. Public trust depends on such claims being properly examined, whether they turn out to be true or not.",
-    "## Over to you",
-    "Should Atiku withdraw his allegation, provide evidence, or should an independent body investigate the claim?"
-   ],
-   "more": [
-    "Atiku accused the DSS of plotting to disrupt the ADC's Sokoto rally.",
-    "The DSS says its probe found no evidence.",
-    "The DSS investigation was not independent."
-   ],
-   "added": "2026-11-18",
-   "img": "img/dss-finds-no-evidence-plot-disrupt-adc-sokoto-asks-atiku-retract.jpg",
-   "alt": "Former Vice-President Atiku Abubakar speaking into a microphone in a white cap and kaftan",
-   "credit": "Photo: Trend Naija",
-   "owner": true,
-   "at": "2026-11-18T07:57Z"
-  },
-  {
-   "id": "fountain-of-life-removes-jimmy-odukoya-senior-pastor",
-   "c": "naija",
-   "n": 4,
-   "added": "2026-11-17",
-   "h": "Court bars Jimmy Odukoya from acting as Fountain of Life senior pastor",
-   "p": "A Lagos High Court has restrained Jimmy Odukoya from presenting himself as senior pastor of The Fountain of Life Church while the leadership dispute is in court. The trustees had named an interim leader, while Odukoya insists his removal was invalid.",
-   "body": [
-    "There is confusion at The Fountain of Life Church in Ilupeju, Lagos, after an announcement that Jimmy Odukoya had been removed as senior pastor was quickly rejected by the church and by Odukoya himself.",
-    "## The removal announcement",
-    "On Tuesday, 17 November 2026, a statement presented as coming from the church's board of trustees said Jimmy's tenure did not reflect the succession wishes of his late father and the church's founder, Taiwo Odukoya, who died in 2023. It said the board had reviewed the church's constitution and recordings of the founder's wishes, and that Jimmy was no longer recognised as senior pastor with immediate effect. The statement described the decision as a governance matter and not a personal judgement.",
-    "## The church's response",
-    "Within hours, a statement posted on the church's official Instagram page and on Jimmy Odukoya's page rejected the announcement as having no constitutional weight. It said the announcement did not come from a properly constituted meeting of the Board of Trustees, but from a faction calling itself \"Concerned Members of the Board\".",
-    "The church said the individuals behind the faction had been formally asked to step down from the board on 14 March 2026 over what it described as repeated violations of the church's constitution and founding principles, and that the letter had been delivered to and acknowledged by them.",
-    "## The founder's video",
-    "Later on Tuesday, a video said to have been recorded by the late Taiwo Odukoya in December 2021 emerged, with a transcript released by the board of trustees. In it, he reportedly named Pastor Kunle Areogun as the person who should lead the church if he died or was unable to continue.",
-    "He is said to have stated that Jimmy should serve as Areogun's immediate administrative assistant and lead the youth church. The video was reportedly recorded by Jimmy at his father's request and witnessed by his older brother, Pastor John Odukoya, and it has now become central to the dispute.",
-    "## Interim leader named",
-    "Later on Tuesday, the board of trustees appointed Pastor Rotimi Okpaise as interim spiritual and administrative leader of the church. It said its resolution of 16 November removing Jimmy Odukoya remained in force and directed him to vacate the office and all its responsibilities. The trustees said Jimmy was present when his father's 2021 video was recorded.",
-    "## Social media dispute",
-    "The trustees have also accused Jimmy Odukoya of taking control of the church's official social media accounts without approval and using them to share what they called misleading statements. They told members and the public to treat only statements signed on the board's behalf as authentic, and said they were taking steps to recover the accounts. Jimmy Odukoya had not responded to that claim in the reports.",
-    "## Jimmy Odukoya speaks",
-    "On the evening of Wednesday, 18 November, Jimmy Odukoya addressed about 300 church workers at the church premises, giving his own account of the crisis for the first time. He said he had stayed quiet because he believed the matter could be settled privately, but felt he had to speak after the board released his late father's video to the media.",
-    "## Court order",
-    "On Wednesday, 18 November, a Lagos State High Court presided over by Justice O.O. Adewunmi-Oshin granted an order barring Jimmy Odukoya from holding himself out as senior pastor while the case brought by the church's incorporated trustees is resolved. Further details of the suit were not immediately available.",
-    "In his address to church workers, Jimmy Odukoya reportedly rejected his removal as unconstitutional and accused some trustees and his sisters of working against his leadership, citing disagreements over church finances and his father's succession plans. The church has also postponed a planned thanksgiving service amid the crisis.",
-    "## Church reportedly sealed",
-    "On Thursday, 19 November, there were reports that police had sealed the church's headquarters in Ilupeju. On Friday, the church denied this in a post on its official Instagram page, saying it had not been sealed and inviting members to Sunday service in person or online.",
-    "## Background",
-    "Jimmy Odukoya, an actor and pastor, took over leadership of the church after his father's death. On 1 November he remarried and presented his new wife to the congregation. A video of the late founder said to show the role he intended for his son has also been circulating online amid the dispute.",
-    "## What happens next",
-    "It is not yet clear how the leadership dispute will be resolved. The faction behind the removal announcement had not responded publicly to the church's statement in the reports."
-   ],
-   "more": [
-    "A court has barred him from acting as senior pastor for now.",
-    "Trustees named Pastor Rotimi Okpaise interim leader.",
-    "Jimmy Odukoya says his removal was invalid."
-   ],
-   "at": "2026-11-17T09:42Z",
-   "hot": 9
   }
  ]
 }
