@@ -1,5 +1,5 @@
 {
- "updated": "Updated 17:41 GMT",
+ "updated": "Updated 20:41 GMT",
  "date": "Saturday, 21 November 2026",
  "categories": {
   "all": "All gist",
@@ -14,6 +14,56 @@
   "sport": "Sport"
  },
  "stories": [
+  {
+   "id": "leeds-thrash-chelsea-4-1-stamford-bridge",
+   "c": "sport",
+   "n": 1,
+   "added": "2026-11-21",
+   "h": "Leeds stun Chelsea 4-1 at Stamford Bridge",
+   "p": "Leeds United beat Chelsea 4-1 at Stamford Bridge in the Premier League. Chelsea manager Xabi Alonso admitted the loss was painful and that his side's confidence has taken a hit.",
+   "body": [
+    "Leeds United inflicted a heavy 4-1 defeat on Chelsea at Stamford Bridge on matchday 11 of the Premier League on Saturday, 21 November 2026.",
+    "## The match",
+    "Emmanuel Emegha gave Chelsea an early lead on his first start for the club since joining in the summer. Leeds hit back quickly through Noah Okafor, and the sides went into half-time level at 1-1.",
+    "After the break, Leeds were awarded a penalty when Morgan Rogers was judged to have handled the ball in the area, a decision that sparked debate, and went on to complete a convincing win.",
+    "## Alonso's reaction",
+    "Chelsea manager Xabi Alonso said the result was painful and reflected a team struggling to keep up its earlier form. He admitted his players' confidence had taken a hit at a difficult time."
+   ],
+   "more": [
+    "Leeds won 4-1 at Stamford Bridge.",
+    "Emegha scored Chelsea's only goal.",
+    "Alonso admitted his side's confidence is low."
+   ],
+   "hot": 4,
+   "at": "2026-11-21T20:41Z"
+  },
+  {
+   "id": "tinubu-lagos-family-prayer-session",
+   "c": "politics",
+   "n": 1,
+   "added": "2026-11-21",
+   "h": "Tinubu arrives in Lagos for family prayer session after Ibadan rally",
+   "p": "President Tinubu arrived in Lagos on Saturday after his campaign rally in Ibadan, ahead of a special prayer session his family has organised for him on Sunday. He was received by Governors Sanwo-Olu and Abiodun.",
+   "body": [
+    "President Bola Tinubu arrived in Lagos on Saturday, 21 November 2026, after addressing an APC presidential campaign rally in Ibadan, Oyo State.",
+    "## The arrival",
+    "His aircraft landed at the Presidential Wing of the Murtala Muhammed International Airport in Ikeja at about 3pm. He was received by Lagos Governor Babajide Sanwo-Olu, Ogun Governor Dapo Abiodun, his Chief of Staff Femi Gbajabiamila and former Ogun governor Segun Osoba, along with party leaders and supporters.",
+    "## Family prayer",
+    "The visit is centred on a special prayer session organised in his honour by members of his family, scheduled for Sunday, 22 November. The President is expected to return to Abuja afterwards.",
+    "## The campaign",
+    "The trip comes as the APC steps up its campaign across the South-West. At the Ibadan rally, Tinubu endorsed the party's governorship candidates in Oyo, Ogun and Lagos and promised improved electricity supply."
+   ],
+   "more": [
+    "Tinubu landed in Lagos at about 3pm.",
+    "Sanwo-Olu and Abiodun received him.",
+    "A family prayer session holds on Sunday."
+   ],
+   "hot": 7,
+   "img": "img/tinubu-lagos-family-prayer-session-tn.jpg",
+   "alt": "President Bola Tinubu in a green cap and glasses at a meeting",
+   "credit": "Photo: Trend Naija",
+   "at": "2026-11-21T20:41Z"
+  },
   {
    "id": "tinubu-ibadan-rally-endorses-southwest-candidates",
    "c": "politics",
@@ -37,11 +87,11 @@
     "He guaranteed improved electricity.",
     "He promised a factory in Ibadan."
    ],
-   "hot": 1,
    "img": "img/tinubu-ibadan-rally-endorses-southwest-candidates-tn.jpg",
    "alt": "President Bola Tinubu in a green cap and glasses at a meeting",
    "credit": "Photo: Trend Naija",
-   "at": "2026-11-21T17:42Z"
+   "at": "2026-11-21T17:42Z",
+   "hot": 1
   },
   {
    "id": "jimmy-odukoya-sues-sister-fountain-of-life-trustees",
@@ -65,8 +115,8 @@
     "It was filed at the Federal High Court in Lagos.",
     "A separate court order bars him from acting as senior pastor."
    ],
-   "hot": 2,
-   "at": "2026-11-21T17:42Z"
+   "at": "2026-11-21T17:42Z",
+   "hot": 2
   },
   {
    "id": "issakaba-returns-record-opening-weekend",
@@ -87,8 +137,8 @@
     "It is a record for a Nigerian action thriller.",
     "It was directed by Lancelot Oduwa Imasuen."
    ],
-   "hot": 6,
-   "at": "2026-11-21T17:42Z"
+   "at": "2026-11-21T17:42Z",
+   "hot": 8
   },
   {
    "id": "nelfund-reviewing-n20000-student-allowance",
@@ -110,7 +160,6 @@
     "NELFUND says it is under review.",
     "Any increase must be carefully considered."
    ],
-   "hot": 9,
    "at": "2026-11-21T17:42Z"
   },
   {
@@ -183,8 +232,7 @@
     "He says the crowd was not hired.",
     "He criticised the Niger Bridge partition."
    ],
-   "at": "2026-11-21T14:41Z",
-   "hot": 8
+   "at": "2026-11-21T14:41Z"
   },
   {
    "id": "femi-branch-on-set-accident-two-years",
@@ -257,7 +305,7 @@
    "alt": "Atiku Abubakar and President Bola Tinubu side by side",
    "credit": "Photo: Trend Naija",
    "at": "2026-11-21T09:42Z",
-   "hot": 7
+   "hot": 9
   },
   {
    "id": "2baba-natasha-osawaru-son-first-birthday",
@@ -607,7 +655,7 @@
    "alt": "Davido in a dark beanie and grey jacket",
    "credit": "Photo: Trend Naija",
    "at": "2026-11-20T14:42Z",
-   "hot": 5
+   "hot": 6
   },
   {
    "id": "court-throws-out-atiku-bid-new-evidence-tinubu-suit",
@@ -1723,49 +1771,6 @@
    "at": "2026-11-19T11:42Z"
   },
   {
-   "id": "biola-adebayo-salon-for-sale-sister-canada",
-   "c": "celebs",
-   "n": 1,
-   "added": "2026-11-19",
-   "h": "Biola Adebayo puts new salon up for sale weeks after opening it",
-   "p": "Actress Biola Adebayo says she is selling her newly opened salon because her sister, who was meant to run it, has been granted a Canadian visa. She said she cannot manage the business herself.",
-   "body": [
-    "Nollywood actress Biola Adebayo has announced that she is putting her newly opened salon up for sale, only weeks after unveiling it.",
-    "## The reason",
-    "In a video on her social media page, Biola explained that she set up the salon to give her sister, who had been going through a difficult time, a business of her own to run.",
-    "However, just days after the salon was unveiled, her sister received approval for a Canadian visa she had been waiting for for more than three years, and will now be relocating.",
-    "## Mixed feelings",
-    "The actress described the visa as good news, but admitted it left her with the challenge of managing the salon herself, which led to her decision to sell it."
-   ],
-   "more": [
-    "She opened the salon for her sister.",
-    "Her sister got a Canadian visa days later.",
-    "She says she cannot run it herself."
-   ],
-   "at": "2026-11-19T11:42Z"
-  },
-  {
-   "id": "idice-eight-startups-n1bn-funding",
-   "c": "naija",
-   "n": 1,
-   "added": "2026-11-19",
-   "h": "FG selects eight startups for over ₦1 billion iDICE funding",
-   "p": "The federal government has named eight Nigerian startups to receive about ₦134 million each in equity investment under the iDICE programme. They will also get mentorship and business support.",
-   "body": [
-    "The federal government has unveiled eight Nigerian startups selected to receive about ₦134 million each under the Investment in Digital and Creative Enterprises (iDICE) programme.",
-    "## The funding",
-    "The companies will share a combined investment of more than ₦1 billion through Growth Lab, the second phase of the iDICE Startup Bridge initiative. Each startup will receive $100,000 in equity investment, along with business development support, mentorship and access to industry experts.",
-    "## The aim",
-    "The programme is designed to help Nigerian entrepreneurs grow their businesses, create jobs and compete more effectively in the digital and creative economy, and to help the startups attract further investment."
-   ],
-   "more": [
-    "Each startup gets about ₦134 million.",
-    "The funding is $100,000 in equity each.",
-    "Mentorship and support are included."
-   ],
-   "at": "2026-11-19T11:42Z"
-  },
-  {
    "id": "burna-boy-asake-gta-6-afrobank-fm",
    "c": "music",
    "n": 2,
@@ -1791,7 +1796,7 @@
    "img": "img/burna-boy-asake-gta-6-afrobank-fm-tn.jpg",
    "alt": "Burna Boy in tinted glasses and a patterned cardigan",
    "credit": "Photo: Trend Naija",
-   "hot": 4
+   "hot": 5
   }
  ]
 }
