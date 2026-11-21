@@ -1,5 +1,5 @@
 {
- "updated": "Updated 11:41 GMT",
+ "updated": "Updated 14:41 GMT",
  "date": "Saturday, 21 November 2026",
  "categories": {
   "all": "All gist",
@@ -14,6 +14,102 @@
   "sport": "Sport"
  },
  "stories": [
+  {
+   "id": "kainji-jebba-transmission-lines-bombed",
+   "c": "naija",
+   "n": 1,
+   "added": "2026-11-21",
+   "h": "Suspected insurgents bomb power lines linking Kainji Dam to Jebba",
+   "p": "Suspected Boko Haram insurgents reportedly blew up two electricity transmission towers connecting the Kainji Dam power plant to Jebba in Niger State. No lives were lost, but the attack raised fears over the safety of power infrastructure.",
+   "body": [
+    "Suspected Boko Haram insurgents have reportedly bombed two electricity transmission towers connecting the Kainji Dam power station to Jebba in Niger State.",
+    "## What happened",
+    "The explosions reportedly happened at about 2pm on 17 November 2026, between Kanti community in Mashegu Local Government Area and Kanya community in Mokwa Local Government Area. The attackers are said to have targeted the transmission infrastructure, raising concerns that the Kainji Dam power plant itself could be at risk.",
+    "No lives were lost, according to the reports, but the blasts caused panic in nearby communities. Security monitoring has continued in the area.",
+    "## Why it matters",
+    "Kainji and Jebba are hydropower stations that feed the national grid.",
+    "## Background",
+    "The incident follows a series of attacks on and vandalism of electricity infrastructure across the country. This month, the House of Representatives resolved to investigate the destruction of 10 transmission towers within five months."
+   ],
+   "more": [
+    "The blasts happened on 17 November.",
+    "No lives were lost.",
+    "The House is probing attacks on transmission towers."
+   ],
+   "hot": 1,
+   "at": "2026-11-21T14:41Z"
+  },
+  {
+   "id": "nigeria-local-passport-factory-70m",
+   "c": "naija",
+   "n": 1,
+   "added": "2026-11-21",
+   "h": "Nigeria begins building $70m passport factory, local production from May 2027",
+   "p": "The federal government has started building a $70 million passport production plant in Abuja. Interior Minister Olubunmi Tunji-Ojo says it will start producing passport booklets locally from May 2027.",
+   "body": [
+    "Nigeria has started building a $70 million passport production plant in Abuja, as the federal government moves to end its reliance on foreign suppliers for passport booklets.",
+    "## The announcement",
+    "Minister of Interior Olubunmi Tunji-Ojo announced the project at a groundbreaking ceremony at the headquarters of the Nigeria Immigration Service. He described it as a major step towards a self-sufficient passport system and said local production should begin by May 2027.",
+    "## The plant",
+    "The facility is being built in partnership with IRIS Smart Technologies and will initially produce six million electronic passport booklets a year, with capacity that could later rise to 10 million.",
+    "## Why it matters",
+    "The plant is meant to end Nigeria's reliance on foreign suppliers for passport booklets."
+   ],
+   "more": [
+    "The plant will cost $70 million.",
+    "Production should start by May 2027.",
+    "It will make six million passports a year at first."
+   ],
+   "hot": 8,
+   "at": "2026-11-21T14:41Z"
+  },
+  {
+   "id": "sowore-surprise-onitsha-market-visit",
+   "c": "politics",
+   "n": 1,
+   "added": "2026-11-21",
+   "h": "Sowore makes surprise Onitsha market visit, says 'no rented crowds'",
+   "p": "AAC presidential candidate Omoyele Sowore says he received a spontaneous welcome at Onitsha's Ogbo Ogwu market, a day after Peter Obi campaigned in the city. He also criticised the partition on the Niger Bridge.",
+   "body": [
+    "African Action Congress (AAC) presidential candidate Omoyele Sowore has made a surprise visit to the Ogbo Ogwu medicine market in Onitsha, Anambra State, where he says traders gave him a warm welcome.",
+    "## The visit",
+    "Sowore shared details of the visit on X on Saturday, 21 November 2026. He said he walked across the First Niger Bridge and arrived at the market without any prior announcement.",
+    "He described the reception as spontaneous and genuine, insisting that no crowds had been hired or organised for his arrival, and promised to return.",
+    "## Bridge complaint",
+    "During the visit, Sowore criticised Works Minister David Umahi over a partition installed on the Niger Bridge, claiming it was disrupting traffic and causing hardship for commuters.",
+    "## Context",
+    "His visit came a day after NDC candidate Peter Obi held a campaign event in Onitsha."
+   ],
+   "more": [
+    "Sowore visited Ogbo Ogwu market unannounced.",
+    "He says the crowd was not hired.",
+    "He criticised the Niger Bridge partition."
+   ],
+   "hot": 5,
+   "at": "2026-11-21T14:41Z"
+  },
+  {
+   "id": "femi-branch-on-set-accident-two-years",
+   "c": "celebs",
+   "n": 1,
+   "added": "2026-11-21",
+   "h": "Femi Branch opens up on two years out of work after on-set accident",
+   "p": "Actor Femi Branch says a stunt that went wrong on a film set in Ikorodu left him unable to work for two years, forcing him to sell his late mother's car. He said some colleagues abandoned him.",
+   "body": [
+    "Nollywood actor Femi Branch has opened up about a difficult period in his life after a serious accident on a film set left him unable to work for two years.",
+    "## The accident",
+    "In an interview that surfaced online on Friday, 20 November 2026, Branch said he was injured while shooting a stunt in Ikorodu, Lagos. He said he had to jump from a storey building while dressed as a security guard, and the impact when he landed was so severe it sounded like an explosion.",
+    "## Hard times",
+    "He said the injury kept him out of work for two years, leaving him isolated and in financial difficulty. He revealed that he had to sell his mother's car during that period, and said some colleagues deserted him while he was recovering."
+   ],
+   "more": [
+    "The accident happened during a stunt in Ikorodu.",
+    "He was out of work for two years.",
+    "He sold his mother's car to get by."
+   ],
+   "hot": 9,
+   "at": "2026-11-21T14:41Z"
+  },
   {
    "id": "aishatu-binani-father-dies",
    "c": "politics",
@@ -35,7 +131,6 @@
     "The funeral prayer was fixed for Saturday.",
     "Binani is now a member of the NDC."
    ],
-   "hot": 8,
    "at": "2026-11-21T11:41Z"
   },
   {
@@ -65,7 +160,7 @@
    "alt": "Atiku Abubakar and President Bola Tinubu side by side",
    "credit": "Photo: Trend Naija",
    "at": "2026-11-21T09:42Z",
-   "hot": 1
+   "hot": 4
   },
   {
    "id": "2baba-natasha-osawaru-son-first-birthday",
@@ -88,8 +183,7 @@
     "She had promised to reveal his face at one.",
     "She called him a blessing."
    ],
-   "at": "2026-11-21T09:42Z",
-   "hot": 4
+   "at": "2026-11-21T09:42Z"
   },
   {
    "id": "soludo-n50000-december-bonus-anambra-workers",
@@ -112,8 +206,7 @@
     "It will be paid with December salaries.",
     "It was announced at Civil Service Day in Awka."
    ],
-   "at": "2026-11-21T09:42Z",
-   "hot": 7
+   "at": "2026-11-21T09:42Z"
   },
   {
    "id": "sanwo-olu-wizkid-davido-none",
@@ -168,7 +261,7 @@
    "alt": "President Bola Tinubu in a green cap and glasses at a meeting",
    "credit": "Photo: Trend Naija",
    "at": "2026-11-21T06:42Z",
-   "hot": 2
+   "hot": 6
   },
   {
    "id": "yahaya-bello-natasha-kogi-central-2027",
@@ -219,8 +312,7 @@
    "img": "img/peter-obi-kwankwaso-anambra-feel-difference-day-one-tn.jpg",
    "alt": "Peter Obi in glasses and a black top in front of the Nigerian flag",
    "credit": "Photo: Trend Naija",
-   "at": "2026-11-20T20:42Z",
-   "hot": 9
+   "at": "2026-11-20T20:42Z"
   },
   {
    "id": "edo-police-summon-lg-chair-ndc-secretariat-attack",
@@ -319,8 +411,7 @@
     "The boat was reportedly overloaded.",
     "It was taking mourners to a burial in Ukubie."
    ],
-   "at": "2026-11-20T17:42Z",
-   "hot": 5
+   "at": "2026-11-20T17:42Z"
   },
   {
    "id": "segun-odegbami-survives-attack-abeokuta",
@@ -407,7 +498,9 @@
     "## Background",
     "His birthday this year comes amid debate over his recent photo with Seyi Tinubu, which VeryDarkMan criticised.",
     "## Turning 34",
-    "On Saturday, 21 November, Davido turned 34. His wife Chioma marked the day by sharing a childhood photo of him on her Instagram story with a short, affectionate caption, which the singer reposted."
+    "On Saturday, 21 November, Davido turned 34. His wife Chioma marked the day by sharing a childhood photo of him on her Instagram story with a short, affectionate caption, which the singer reposted.",
+    "## Chioma's tribute",
+    "Later on his birthday, Chioma posted a longer tribute on Instagram calling Davido her forever home, alongside never-before-seen photos from her pregnancy and birthday wishes from their twins."
    ],
    "more": [
     "The party was held on his father's private jet.",
@@ -530,7 +623,7 @@
   {
    "id": "vdm-famakin-defend-enioluwa-apology",
    "c": "creators",
-   "n": 1,
+   "n": 2,
    "added": "2026-11-20",
    "h": "VeryDarkMan, Opeyemi Famakin and Peller defend Enioluwa after youth comments backlash",
    "p": "VeryDarkMan and food critic Opeyemi Famakin have spoken in defence of influencer Enioluwa, who apologised after his comments about young Nigerians drew criticism.",
@@ -542,7 +635,9 @@
     "## The defence",
     "VDM and Famakin both spoke up for Enioluwa following the apology, adding their voices to the debate over his comments.",
     "## Peller joins in",
-    "Streamer Peller has also appealed to Nigerians to forgive Enioluwa. He said the influencer was wrong, but argued that people make mistakes and should be given the chance to learn rather than be condemned indefinitely."
+    "Streamer Peller has also appealed to Nigerians to forgive Enioluwa. He said the influencer was wrong, but argued that people make mistakes and should be given the chance to learn rather than be condemned indefinitely.",
+    "## His mother speaks",
+    "Enioluwa's mother, Bola Adeoluwa, a university lecturer, has also addressed the backlash after some students on TikTok turned their criticism on her, alleging she was a harsh grader. She responded publicly to the claims and the criticism of her son."
    ],
    "more": [
     "Enioluwa apologised on 17 November.",
@@ -553,7 +648,7 @@
    "alt": "VeryDarkMan with braided hair and a cowrie-shell necklace",
    "credit": "Photo: Trend Naija",
    "at": "2026-11-20T11:42Z",
-   "hot": 6
+   "hot": 7
   },
   {
    "id": "speed-darlington-richest-musician-mansion",
@@ -1578,7 +1673,7 @@
   {
    "id": "burna-boy-asake-gta-6-afrobank-fm",
    "c": "music",
-   "n": 1,
+   "n": 2,
    "added": "2026-11-19",
    "h": "Burna Boy and Asake feature in GTA 6 on African radio station AfroBank FM",
    "p": "Songs by Burna Boy and Asake are reportedly featured in Grand Theft Auto VI, which launches on 19 November. They are part of AfroBank FM, an in-game station dedicated to African sounds, with Burna Boy also a co-host.",
@@ -1588,7 +1683,9 @@
     "The two artists are part of AfroBank FM, a dedicated in-game radio station showcasing African sounds including amapiano, highlife and 3-step. Burna Boy is also said to co-host the station.",
     "Tracks and previews of the station have been posted on Rockstar Games' official music pages, and clips have been circulating widely on social media.",
     "## Other Nigerian names",
-    "Other Nigerian artists, including Seyi Vibez and Ayra Starr, have also drawn attention in connection with the game's soundtrack."
+    "Other Nigerian artists, including Seyi Vibez and Ayra Starr, have also drawn attention in connection with the game's soundtrack.",
+    "## Record launch",
+    "Publisher Rockstar Games said GTA 6 generated an estimated $3.79 billion in worldwide sales on its first day, which it called the biggest launch in entertainment history. That is nearly five times what GTA 5 made in its first 24 hours in 2013. The company also said the game sold 32.5 million units before release."
    ],
    "more": [
     "GTA 6 launches on 19 November.",
@@ -1598,7 +1695,8 @@
    "at": "2026-11-19T09:42Z",
    "img": "img/burna-boy-asake-gta-6-afrobank-fm-tn.jpg",
    "alt": "Burna Boy in tinted glasses and a patterned cardigan",
-   "credit": "Photo: Trend Naija"
+   "credit": "Photo: Trend Naija",
+   "hot": 2
   },
   {
    "id": "fifa-names-nff-normalisation-committee",
@@ -1688,102 +1786,6 @@
     "Small builders are hardest hit."
    ],
    "at": "2026-11-19T09:42Z"
-  },
-  {
-   "id": "anthony-joshua-welcomes-baby-girl",
-   "c": "sport",
-   "n": 2,
-   "added": "2026-11-19",
-   "h": "Anthony Joshua welcomes baby girl, says he will give up video games",
-   "p": "Boxer Anthony Joshua has welcomed a baby daughter with his childhood sweetheart Nicole Osbourne. He said surviving last year's car crash in Nigeria made him want to bring new life into the world.",
-   "body": [
-    "British-Nigerian heavyweight boxer Anthony Joshua has welcomed a baby girl with his childhood sweetheart, Nicole Osbourne.",
-    "## What he said",
-    "Joshua said the baby arrived about three weeks earlier than expected. He explained that nearly losing his life last Christmas pushed him to make a deliberate choice to bring new life into the world.",
-    "The 35-year-old, who already has an 11-year-old son, JJ, said the couple did not find out the baby's sex during the pregnancy, so having a daughter was a surprise. He spoke warmly about becoming a girl dad.",
-    "## A new focus",
-    "The baby was born on 14 November 2026. Joshua described her birth as a big blessing and said he is ready to swap video games and motorcycles for tea parties and nail polish. He said he plans to be fully involved in her daily life, from choosing outfits to changing nappies, and that having a daughter has already made him reflect on how to be more understanding and supportive.",
-    "## Background",
-    "Joshua survived a car crash on the Lagos-Ibadan expressway in Nigeria late last year that killed two of his friends and trainers, Latif Ayodele and Sina Ghami.",
-    "## What's next",
-    "The birth comes ahead of his planned bout with Tyson Fury."
-   ],
-   "more": [
-    "The baby arrived three weeks early.",
-    "Joshua already has a son, JJ.",
-    "He is preparing to fight Tyson Fury."
-   ],
-   "at": "2026-11-19T09:42Z"
-  },
-  {
-   "id": "peller-ronaldo-messi-baby-name",
-   "c": "creators",
-   "n": 1,
-   "added": "2026-11-19",
-   "h": "Peller plans to name his son with Jarvis after Ronaldo and Messi",
-   "p": "Streamer Peller has reportedly said he wants to name his unborn son with Jarvis after football stars Cristiano Ronaldo and Lionel Messi. He shared the plan during a livestream.",
-   "body": [
-    "Popular streamer Peller has reportedly revealed an unusual plan for the name of his unborn son with his partner, fellow streamer Jarvis.",
-    "## The name",
-    "Peller said during a livestream that he intends to name the baby after two of football's greatest players, Cristiano Ronaldo and Lionel Messi. He made the announcement shortly after sharing a gender reveal video showing the couple are expecting a boy.",
-    "## Why it got people talking",
-    "The choice drew attention because of the long-running rivalry between Ronaldo and Messi."
-   ],
-   "more": [
-    "The couple are expecting a boy.",
-    "Peller wants to name him after Ronaldo and Messi.",
-    "He shared the plan on a livestream."
-   ],
-   "at": "2026-11-19T09:42Z",
-   "img": "img/peller-ronaldo-messi-baby-name-tn.jpg",
-   "alt": "Peller and Jarvis together",
-   "credit": "Photo: Trend Naija"
-  },
-  {
-   "id": "kano-tiktoker-jailed-insulting-hisbah",
-   "c": "creators",
-   "n": 1,
-   "added": "2026-11-19",
-   "h": "Kano court jails TikToker five months and orders 10 strokes for insulting Hisbah commander",
-   "p": "A Shariah court in Kano has reportedly sentenced a 19-year-old TikTok user to five months in prison and 10 strokes of the cane after she pleaded guilty to insulting the Hisbah Board and its commander. Two other defendants pleaded not guilty.",
-   "body": [
-    "A Shariah court in Kano State has reportedly sentenced a 19-year-old TikTok user, Zainab Abubakar, to five months in prison and 10 strokes of the cane for insulting the state Hisbah Board and its commander, Malam Aminu Ibrahim Daurawa.",
-    "## The judgment",
-    "The court, sitting at the Hisbah Board headquarters in Sharada, delivered the judgment on Wednesday, 18 November 2026, after she pleaded guilty to the charge under Section 312 of the Penal Code. She was sentenced without the option of a fine.",
-    "## The other defendants",
-    "She was arraigned alongside two young men who were also arrested by the Hisbah over allegations of using TikTok to insult the agency and its commander. Both pleaded not guilty to charges of conspiracy and insulting the board. The court remanded them in custody for two weeks while it considers their bail application and directed the prosecution to prepare its witnesses.",
-    "## Background",
-    "The Kano Hisbah is the state's religious police, which enforces Islamic moral codes. Earlier this week, TikTokers were reported to have been arrested over videos said to have insulted its commander."
-   ],
-   "more": [
-    "She pleaded guilty and was sentenced without an option of fine.",
-    "Two other defendants pleaded not guilty.",
-    "They were remanded for two weeks."
-   ],
-   "at": "2026-11-19T06:41Z"
-  },
-  {
-   "id": "mercy-aigbe-baby-bump-third-child",
-   "c": "celebs",
-   "n": 2,
-   "added": "2026-11-19",
-   "h": "Mercy Aigbe shows off baby bump, husband Kazim Adeoti confirms with sweet post",
-   "p": "Actress Mercy Aigbe has shared photos of her baby bump, and her husband Kazim Adeoti has reposted them with a warm message, putting speculation to rest. The 48-year-old is expecting her third child.",
-   "body": [
-    "Nollywood actress Mercy Aigbe is expecting a baby, after sharing photos of her growing baby bump on Instagram.",
-    "## The announcement",
-    "The 48-year-old mother of two posted the photos with a caption about a journey beginning with a little heartbeat and changing the course of a lifetime. It will be her third child, and her first with her husband, film producer Kazim Adeoti.",
-    "## Husband confirms",
-    "Some fans had initially suspected the post was a prank or stunt. However, Kazim Adeoti shared the same photos on his own Instagram page on Wednesday, 18 November 2026, with a heartfelt message about motherhood, which many took as confirmation.",
-    "## How fans reacted",
-    "Fans and colleagues flooded both posts with congratulations, with some adding humorous comments about the surprise announcement."
-   ],
-   "more": [
-    "She is expecting her third child.",
-    "Her husband Kazim Adeoti shared the photos too.",
-    "Some fans first thought it was a prank."
-   ],
-   "at": "2026-11-19T06:41Z"
   }
  ]
 }
