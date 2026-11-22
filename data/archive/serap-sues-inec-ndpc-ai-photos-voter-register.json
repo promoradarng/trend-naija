@@ -1,0 +1,34 @@
+{
+ "id": "serap-sues-inec-ndpc-ai-photos-voter-register",
+ "c": "elections",
+ "n": 1,
+ "h": "SERAP sues INEC and data commission over suspected AI-generated photos in voter register",
+ "p": "SERAP has filed a Federal High Court lawsuit asking for an independent investigation into suspected AI-generated photographs and other questionable records in INEC's preliminary voter register, and into whether voters' personal data was unlawfully accessed or altered.",
+ "body": [
+  "The Socio-Economic Rights and Accountability Project (SERAP) has filed a lawsuit at the Federal High Court seeking an independent investigation into suspected artificial intelligence-generated photographs and other questionable records in INEC's preliminary Register of Voters.",
+  "## The lawsuit",
+  "The suit, numbered FHC/ABJ/CS/2863/2026, names the Nigeria Data Protection Commission (NDPC) and the Independent National Electoral Commission (INEC) as defendants.",
+  "SERAP is asking the court to compel the data protection commission to examine the relevant records and electronic data held by INEC.",
+  "It also wants investigators to establish whether voters' personal information was unlawfully accessed or altered, and whether the Nigeria Data Protection Act was breached.",
+  "## What INEC has said",
+  "INEC has already acknowledged that suspected AI-generated photographs appeared in the preliminary register. The commission said its Automated Biometric Identification System flagged 268 records involving suspected AI images or other irregularities.",
+  "INEC insists the published register is not final, and says verification and data-cleaning will be completed before the register is certified on 15 December.",
+  "## What the court has not decided",
+  "No court has found INEC responsible for manipulating the register, and the case has not yet been given a public hearing date.",
+  "## Why it matters",
+  "The voter register is the foundation of any credible election. With the 2027 general elections approaching, questions about its accuracy, and about how voters' personal data is protected, go to the heart of public trust in the process.",
+  "## Over to you",
+  "Do you trust INEC to clean up the voter register before certification, or is an independent investigation needed?"
+ ],
+ "more": [
+  "SERAP's suit is FHC/ABJ/CS/2863/2026.",
+  "INEC says 268 records were flagged for suspected AI images or irregularities.",
+  "INEC plans to certify the register on 15 December."
+ ],
+ "added": "2026-11-22",
+ "img": "img/serap-sues-inec-ndpc-ai-photos-voter-register.jpg",
+ "alt": "The INEC logo above Nigerians checking names on a voter register pasted on a wall",
+ "credit": "Photo: Trend Naija",
+ "owner": true,
+ "at": "2026-11-22T11:58Z"
+}
