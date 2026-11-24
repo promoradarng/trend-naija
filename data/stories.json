@@ -1,5 +1,5 @@
 {
- "updated": "Updated 09:41 GMT",
+ "updated": "Updated 11:41 GMT",
  "date": "Tuesday, 24 November 2026",
  "categories": {
   "all": "All gist",
@@ -14,6 +14,66 @@
   "sport": "Sport"
  },
  "stories": [
+  {
+   "id": "vdm-warns-tinubu-delta-ndc-shooting",
+   "c": "creators",
+   "n": 2,
+   "added": "2026-11-24",
+   "h": "VeryDarkMan warns Tinubu over deadly attack on NDC campaign in Delta",
+   "p": "Activist VeryDarkMan has issued a strong warning to President Tinubu after gunmen killed four people, including NDC youth leader Efemena Umukoro, at Omo-Agege's campaign event in Delta. He said political violence could spiral out of control.",
+   "body": [
+    "Social media activist VeryDarkMan (VDM) has issued a fierce public warning to President Bola Tinubu following the deadly attack on an NDC campaign event in Uduere, Ughelli North, Delta State.",
+    "## What he said",
+    "In a video posted on Instagram, VDM told the president that he would burn Nigeria down, arguing that targeting opposition figures with gunfire is a dangerous political strategy that could spiral far beyond anyone's control. He warned that even people close to the president would not be safe if the cycle of violence continued, and drew attention to the fact that the attack happened in Delta State.",
+    "## The attack",
+    "Gunmen opened fire on former Deputy Senate President Ovie Omo-Agege's campaign team on Monday, 23 November 2026, while he was addressing supporters. Four people were killed, according to his campaign, including Efemena Umukoro, an Urhobo youth leader popularly known as General Akima. Omo-Agege was unhurt.",
+    "## Other reactions",
+    "Other social media commentators also condemned the killings, and Delta State Governor Sheriff Oborevwori called for everyone involved to be arrested regardless of their party. The Inspector-General of Police has ordered an investigation.",
+    "## The other side",
+    "No response from the presidency or the APC to VDM's remarks was included in the reports."
+   ],
+   "more": [
+    "VDM said Tinubu would burn Nigeria down.",
+    "Four people died in the attack in Uduere.",
+    "The presidency has not responded."
+   ],
+   "hot": 3,
+   "imgs": [
+    "img/vdm-warns-tinubu-delta-ndc-shooting-tn.jpg",
+    "img/vdm-warns-tinubu-delta-ndc-shooting-tn2.jpg"
+   ],
+   "alts": [
+    "VeryDarkMan with braided hair and a cowrie-shell necklace",
+    "President Bola Tinubu in a green cap and glasses at a meeting"
+   ],
+   "alt": "VeryDarkMan with braided hair and a cowrie-shell necklace and President Bola Tinubu in a green cap and glasses at a meeting",
+   "credit": "Photo: Trend Naija",
+   "at": "2026-11-24T11:42Z"
+  },
+  {
+   "id": "iran-flogs-singer-parastoo-ahmadi-hijab",
+   "c": "world",
+   "n": 1,
+   "added": "2026-11-24",
+   "h": "Iran reportedly gives singer Parastoo Ahmadi 74 lashes for performing without hijab",
+   "p": "Iranian authorities have reportedly flogged singer Parastoo Ahmadi and four members of her team over an online concert she performed without a headscarf. Rights groups say they also received two-year bans on artistic work.",
+   "body": [
+    "Iranian authorities have reportedly administered 74 lashes to the singer Parastoo Ahmadi and four members of her production team over a concert she performed without wearing the mandatory Islamic headscarf.",
+    "## What happened",
+    "According to a human rights lawyer and monitoring groups, the punishment was carried out on Monday, 23 November 2026, at the prosecutor's office in the city of Qom.",
+    "## The concert",
+    "The case stems from a virtual concert Ahmadi recorded in December 2024 at a historic caravanserai in Qom and streamed on YouTube. In the video, which was widely viewed, she performed traditional Persian music with male musicians while wearing a sleeveless dress with her hair uncovered, defying rules that ban women from singing solo in public and appearing without a hijab.",
+    "## The sentence",
+    "A court found Ahmadi and four male musicians and crew members guilty of offending public decency by publishing what it called immoral content online. As well as the lashes, each of the five was reportedly given a two-year ban on artistic activity."
+   ],
+   "more": [
+    "The lashes were reportedly given in Qom on Monday.",
+    "The concert was streamed online in December 2024.",
+    "Five people also got two-year bans on artistic work."
+   ],
+   "hot": 8,
+   "at": "2026-11-24T11:42Z"
+  },
   {
    "id": "christmas-airfares-double-n822000",
    "c": "naija",
@@ -36,13 +96,13 @@
     "Some return tickets cost ₦822,000.",
     "Airlines are adding extra flights for the festive rush."
    ],
-   "hot": 3,
-   "at": "2026-11-24T09:42Z"
+   "at": "2026-11-24T09:42Z",
+   "hot": 5
   },
   {
    "id": "davido-buys-brabus-g66-birthday",
    "c": "music",
-   "n": 2,
+   "n": 3,
    "added": "2026-11-24",
    "h": "Davido buys $2.1m Brabus Mercedes G-Wagon as birthday gift to himself",
    "p": "Davido has reportedly bought a Brabus XLP 800 Adventure Mercedes G 66, said to be worth $2.1 million, to mark his 34th birthday. A video of him driving it surfaced on Tuesday.",
@@ -60,11 +120,11 @@
     "Davido turned 34 on 21 November.",
     "He says he will keep helping people despite betrayal."
    ],
-   "hot": 4,
    "img": "img/davido-buys-brabus-g66-birthday-tn.jpg",
    "alt": "Davido in a dark beanie and grey jacket",
    "credit": "Photo: Trend Naija",
-   "at": "2026-11-24T09:42Z"
+   "at": "2026-11-24T09:42Z",
+   "hot": 6
   },
   {
    "id": "dangote-refinery-ipo-sec-approval",
@@ -87,7 +147,6 @@
     "The IPO was about three times oversubscribed.",
     "The refinery is moving towards its stock market debut."
    ],
-   "hot": 8,
    "at": "2026-11-24T09:42Z"
   },
   {
@@ -183,8 +242,7 @@
     "Several others were injured.",
     "A campaign rally has been suspended."
    ],
-   "at": "2026-11-24T06:43Z",
-   "hot": 7
+   "at": "2026-11-24T06:43Z"
   },
   {
    "id": "inec-warns-rig-and-die-slogan",
@@ -242,7 +300,7 @@
    "alt": "President Bola Tinubu in a green cap and glasses at a meeting and Governor Alex Otti speaking at a podium",
    "credit": "Photo: Trend Naija",
    "at": "2026-11-24T06:43Z",
-   "hot": 6
+   "hot": 7
   },
   {
    "id": "wike-dances-obi-kererenke-video",
@@ -348,7 +406,7 @@
   {
    "id": "omo-agege-campaign-attacked-delta-four-killed",
    "c": "elections",
-   "n": 2,
+   "n": 3,
    "added": "2026-11-23",
    "h": "Four killed as gunmen attack Omo-Agege's NDC campaign in Delta",
    "p": "Gunmen opened fire on former Deputy Senate President Ovie Omo-Agege and his campaign team in Uduere, Ughelli North, Delta State, on Monday. His campaign says four people were killed and four others critically injured, and that the senator escaped unhurt.",
@@ -367,7 +425,11 @@
     "## Reactions",
     "NDC chieftain Pat Utomi condemned the attack, saying violence would not cow Delta residents, and accused the ruling party of being behind political violence in the state. No response from the APC to that claim was included in the reports.",
     "## IGP orders probe",
-    "On Tuesday, the Inspector-General of Police, Olatunji Disu, ordered the Delta State Police Command to begin an impartial investigation. Preliminary police reports put the death toll at six. The police said the probe would also examine the conduct of officers deployed to the venue, and that anyone found culpable would be prosecuted."
+    "On Tuesday, the Inspector-General of Police, Olatunji Disu, ordered the Delta State Police Command to begin an impartial investigation. Preliminary police reports put the death toll at six. The police said the probe would also examine the conduct of officers deployed to the venue, and that anyone found culpable would be prosecuted.",
+    "## Governor demands arrests",
+    "Delta State Governor Sheriff Oborevwori described the attack as tragic and said everyone involved must be arrested, whatever party they belong to.",
+    "## Who was killed",
+    "Among the dead was Efemena Umukoro, popularly known as General Akima, an Urhobo youth leader and one of the campaign's aides."
    ],
    "more": [
     "Four people were killed and four critically injured.",
@@ -773,7 +835,9 @@
     "## Title stripped",
     "On 17 March, CAF's Appeal Board overturned the result, ruling that Senegal had forfeited the match by leaving the pitch, and awarded the title to Morocco. The Senegalese Football Federation rejected the decision and took the case to CAS, naming CAF and the Royal Moroccan Football Federation as respondents.",
     "## What happens next",
-    "Tuesday's decision is final at the sporting level and will either restore Senegal's title or confirm Morocco as champions."
+    "Tuesday's decision is final at the sporting level and will either restore Senegal's title or confirm Morocco as champions.",
+    "## CAF will accept ruling",
+    "Speaking a day before the verdict, CAF President Patrice Motsepe said the body would accept and follow whatever CAS decides, stressing that the credibility of the sport must be protected either way."
    ],
    "more": [
     "The ruling is due on Tuesday, 24 November.",
@@ -781,7 +845,7 @@
     "CAF later awarded the title to Morocco."
    ],
    "at": "2026-11-23T11:42Z",
-   "hot": 5
+   "hot": 4
   },
   {
    "id": "ukraine-drones-sink-russian-warship-libya",
@@ -1679,59 +1743,6 @@
     "Troops are patrolling the area."
    ],
    "at": "2026-11-22T11:42Z"
-  },
-  {
-   "id": "aisha-buhari-tinubu-logo-outfit-video",
-   "c": "politics",
-   "n": 1,
-   "added": "2026-11-22",
-   "h": "Aisha Buhari seen in Tinubu-branded outfit, days after claim she backed Atiku",
-   "p": "A video of former First Lady Aisha Buhari wearing attire printed with President Tinubu's campaign logo has sparked debate. It came days after ADC chieftain Solomon Dalung claimed she had told Atiku that Buhari's supporters would back him.",
-   "body": [
-    "A video of former First Lady Aisha Buhari, widow of the late President Muhammadu Buhari, wearing clothing printed with President Bola Tinubu's campaign logo has stirred political debate ahead of the 2027 elections.",
-    "## The video",
-    "The clip was posted on Saturday, 21 November 2026, by former presidential aide Bashir Ahmad, with a caption describing it as a message from Daura, Buhari's hometown.",
-    "## Why it matters",
-    "The video came days after Solomon Dalung, a chieftain of the African Democratic Congress (ADC), claimed in a television interview that Aisha Buhari had visited ADC candidate Atiku Abubakar and told him that the late President's large voter base would be backing him in 2027.",
-    "Many social media users took the new video as a response to that claim, suggesting the former First Lady is supporting Tinubu.",
-    "## No statement",
-    "Aisha Buhari herself had not made a public statement on her political preference at the time of the reports."
-   ],
-   "more": [
-    "The video was shared by former aide Bashir Ahmad.",
-    "Dalung had claimed she backed Atiku.",
-    "She has not made a public statement."
-   ],
-   "img": "img/aisha-buhari-tinubu-logo-outfit-video-tn.jpg",
-   "alt": "Atiku Abubakar in a blue cap and agbada speaking into a microphone",
-   "credit": "Photo: Trend Naija",
-   "at": "2026-11-22T09:42Z"
-  },
-  {
-   "id": "kwam-1-backs-tinubu-subsidy-removal",
-   "c": "music",
-   "n": 1,
-   "added": "2026-11-22",
-   "h": "KWAM 1 backs Tinubu's fuel subsidy removal at APC campaign event",
-   "p": "Fuji star Wasiu Ayinde, KWAM 1, has defended President Tinubu's removal of the petrol subsidy, saying it mainly benefited a small group rather than ordinary Nigerians.",
-   "body": [
-    "Veteran Fuji musician Wasiu Ayinde, popularly known as KWAM 1, has thrown his support behind President Bola Tinubu's removal of the petrol subsidy.",
-    "## What he said",
-    "Speaking at an APC campaign event in Oyo State on Saturday, 21 November 2026, KWAM 1 argued that the policy was necessary to secure Nigeria's future. He questioned who had really benefited from the subsidy, saying a small group of people had gained from it while ordinary Nigerians saw little benefit.",
-    "## Background",
-    "The petrol subsidy was removed when Tinubu took office in 2023, leading to a sharp rise in fuel prices.",
-    "## The campaign",
-    "His comments came during the APC's campaign tour of the South-West, which included a presidential rally in Ibadan."
-   ],
-   "more": [
-    "KWAM 1 says the subsidy benefited a few people.",
-    "He spoke at an APC event in Oyo State.",
-    "The subsidy was removed in 2023."
-   ],
-   "img": "img/kwam-1-backs-tinubu-subsidy-removal-tn.jpg",
-   "alt": "President Bola Tinubu in a green cap and glasses at a meeting",
-   "credit": "Photo: Trend Naija",
-   "at": "2026-11-22T09:42Z"
   },
   {
    "id": "jimmy-odukoya-sues-sister-fountain-of-life-trustees",
