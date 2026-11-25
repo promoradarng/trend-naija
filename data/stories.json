@@ -1,5 +1,5 @@
 {
- "updated": "Updated 06:42 GMT",
+ "updated": "Updated 09:42 GMT",
  "date": "Wednesday, 25 November 2026",
  "categories": {
   "all": "All gist",
@@ -15,9 +15,128 @@
  },
  "stories": [
   {
+   "id": "adc-demands-tinubu-resign-or-face-impeachment",
+   "c": "elections",
+   "n": 1,
+   "added": "2026-11-25",
+   "h": "ADC tells Tinubu to resign or face impeachment over Kano governor's interview",
+   "p": "The African Democratic Congress has reportedly demanded that President Tinubu resign or face impeachment, citing Kano Governor Abba Yusuf's recent interview about the 2023 Supreme Court ruling. The ADC says it points to possible gross misconduct.",
+   "body": [
+    "The African Democratic Congress (ADC) has reportedly issued an ultimatum to President Bola Tinubu, demanding that he either resign or face impeachment proceedings in the National Assembly.",
+    "## Why the ADC made the demand",
+    "The demand follows Kano State Governor Abba Kabir Yusuf's recent Hausa-language interview, in which he spoke about a promise to rejoin the APC if the president did not interfere in his Supreme Court case over the 2023 governorship election. The ADC argued that the governor's remarks suggested a link between the court case and a political deal, and that this could amount to gross misconduct, a constitutional ground for removing a president.",
+    "## Background",
+    "Yusuf defected from the NNPP to the APC in January 2026. In his interview, he claimed that his former mentor, Rabiu Kwankwaso, sent him to make the promise to Tinubu. The Kwankwasiyya Movement has rejected the claim as false and said the governor offered no evidence.",
+    "## The other side",
+    "No response from the presidency or the APC to the ADC's demand was included in the reports."
+   ],
+   "more": [
+    "The ADC cites the Kano governor's interview.",
+    "It says the remarks point to gross misconduct.",
+    "The presidency had not responded."
+   ],
+   "hot": 2,
+   "img": "img/adc-demands-tinubu-resign-or-face-impeachment-tn.jpg",
+   "alt": "President Bola Tinubu in a green cap and glasses at a meeting",
+   "credit": "Photo: Trend Naija",
+   "at": "2026-11-25T09:42Z"
+  },
+  {
+   "id": "nnpc-says-204bn-crude-proceeds-accounted",
+   "c": "naija",
+   "n": 1,
+   "added": "2026-11-25",
+   "h": "NNPC says $2.04bn in crude oil proceeds is not missing",
+   "p": "NNPC has dismissed reports that $2.04 billion in crude oil proceeds linked to its former trading arm Duke Oil is missing. It says the figure is the gross value of 29 cargoes and that all transactions were properly accounted for.",
+   "body": [
+    "The Nigerian National Petroleum Company Limited (NNPC) has dismissed reports that $2.04 billion in crude oil proceeds involving its trading subsidiary, formerly known as Duke Oil, is missing.",
+    "## What NNPC said",
+    "In a statement on Tuesday, 24 November 2026, NNPC's chief corporate communications officer said the $2.04 billion represented the gross value of 29 crude oil cargoes, not missing or unpaid revenue. The statement was titled 'Duke Oil cargoes are fully accounted for'.",
+    "The company maintained that all transactions under the Direct Sale Direct Purchase (DSDP) programme were properly documented. It said the apparent gaps in dollar receipts were due to the way the programme's settlements were structured.",
+    "## Background",
+    "Reports suggesting the money could not be traced had sparked concern online."
+   ],
+   "more": [
+    "NNPC says the figure was the gross value of 29 cargoes.",
+    "It says the DSDP structure explains the gaps.",
+    "Reports of missing funds had sparked concern."
+   ],
+   "hot": 4,
+   "at": "2026-11-25T09:42Z"
+  },
+  {
+   "id": "air-peace-london-owerri-flights-december",
+   "c": "naija",
+   "n": 1,
+   "added": "2026-11-25",
+   "h": "Air Peace to start London–Owerri flights on 15 December",
+   "p": "Air Peace says it will begin direct flights between London and Owerri on 15 December, from both Heathrow and Gatwick. The route is expected to ease travel for South-East Nigerians coming home for Christmas.",
+   "body": [
+    "Air Peace has announced that it will begin flights between London and Owerri on 15 December 2026, in a move expected to make it easier for many Nigerians, especially those from the South-East, to travel home.",
+    "## The route",
+    "The airline said in a statement on Monday that the new service would operate from both London Heathrow and London Gatwick airports, giving passengers more flexibility when planning their journeys.",
+    "## Why it matters",
+    "The launch comes ahead of Christmas and the New Year, when many Nigerians living abroad return home to spend time with their families. A direct route to Owerri, the Imo State capital, is expected to spare travellers the long road journeys from Lagos or Abuja to the South-East.",
+    "## Background",
+    "The announcement comes as domestic fares have surged ahead of the festive season, with some return tickets within Nigeria reported to have doubled in recent weeks."
+   ],
+   "more": [
+    "Flights start on 15 December.",
+    "They will run from Heathrow and Gatwick.",
+    "The route serves South-East travellers."
+   ],
+   "hot": 7,
+   "at": "2026-11-25T09:42Z"
+  },
+  {
+   "id": "petrol-depot-price-n1055-mrs-cuts-pump",
+   "c": "naija",
+   "n": 1,
+   "added": "2026-11-25",
+   "h": "Petrol falls to ₦1,055 at Lagos depots as MRS cuts pump price",
+   "p": "Five Lagos depots cut their petrol price to ₦1,055 per litre on Tuesday, the lowest among surveyed terminals. MRS stations in Abuja have reduced their pump price by ₦70 to ₦1,295.",
+   "body": [
+    "Petrol prices have fallen further in Nigeria's wholesale market as competition among depot operators intensifies.",
+    "## Depot prices",
+    "Five Lagos-based depots cut their ex-depot price of petrol to ₦1,055 per litre on Tuesday, 24 November 2026, the lowest rate among the terminals surveyed by a market tracker.",
+    "## At the pump",
+    "The cuts are slowly reaching filling stations. MRS stations in Abuja reduced their pump price by ₦70 to ₦1,295 per litre, although that is still well above the depot rate.",
+    "## Background",
+    "Prices have been falling for several weeks amid competition between Dangote Refinery and fuel importers, though motorists have complained that pump prices are slow to reflect lower wholesale rates."
+   ],
+   "more": [
+    "Five Lagos depots now sell at ₦1,055.",
+    "MRS cut its Abuja pump price to ₦1,295.",
+    "Pump prices are still well above depot rates."
+   ],
+   "hot": 8,
+   "at": "2026-11-25T09:42Z"
+  },
+  {
+   "id": "porsha-williams-engaged-sway-mckinney",
+   "c": "world",
+   "n": 1,
+   "added": "2026-11-25",
+   "h": "Porsha Williams engaged a year after divorce from Simon Guobadia",
+   "p": "Reality TV star Porsha Williams has announced her engagement to her girlfriend, hairstylist Patrice 'Sway' McKinney. It comes about a year after her divorce from Nigerian businessman Simon Guobadia.",
+   "body": [
+    "American reality TV star Porsha Williams has announced her engagement to her girlfriend, hairstylist Patrice 'Sway' McKinney.",
+    "## The proposal",
+    "The Real Housewives of Atlanta star shared the news on Instagram with a black-tie video of the romantic moment. She said the proposal took place on 21 November 2026, after the couple had been together for about a year.",
+    "## Background",
+    "The engagement comes about a year after her highly publicised divorce from Nigerian businessman Simon Guobadia, whose marriage to the reality star drew wide attention in Nigeria."
+   ],
+   "more": [
+    "The proposal happened on 21 November.",
+    "The couple have been together about a year.",
+    "She divorced Simon Guobadia last year."
+   ],
+   "at": "2026-11-25T09:42Z"
+  },
+  {
    "id": "pete-edochie-dies-79",
    "c": "celebs",
-   "n": 3,
+   "n": 4,
    "added": "2026-11-25",
    "h": "Nollywood legend Pete Edochie dies at 79",
    "p": "Veteran actor Pete Edochie, famous for playing Okonkwo in Things Fall Apart, has died at the age of 79. His family says he died in Enugu early on Wednesday after a long battle with prostate cancer.",
@@ -32,15 +151,17 @@
     "## His final weeks",
     "In October, during a visit to Ghana, he spoke openly about his declining health, saying walking had become difficult, and prayed that he would not become a burden to those around him. Just this week, actress Toyin Abraham and her crew knelt to welcome him on her film set, and he had spoken publicly about his son Yul days earlier.",
     "## Tributes",
-    "News of his death has drawn an outpouring of grief from fans, many of whom described it as the end of an era for Nigerian film."
+    "News of his death has drawn an outpouring of grief from fans, many of whom described it as the end of an era for Nigerian film.",
+    "## Governor and colleagues pay tribute",
+    "Enugu State Governor Peter Mbah described Edochie as an institution and said his death was a personal loss for the state, which the actor considered his birthplace and first port of call. Actress Funke Akindele, who worked with him in the film Egg of Life, recalled growing up watching him play Okonkwo and said his words of encouragement had stayed with her."
    ],
    "more": [
     "He died in Enugu early on Wednesday.",
     "He was best known as Okonkwo in Things Fall Apart.",
     "Funeral arrangements will be announced later."
    ],
-   "hot": 1,
-   "at": "2026-11-25T06:42Z"
+   "at": "2026-11-25T06:42Z",
+   "hot": 1
   },
   {
    "id": "judy-austin-rejects-husband-snatcher-label-court",
@@ -64,8 +185,8 @@
     "She refused to discuss her marriages in court.",
     "Yul Edochie accompanied her to court."
    ],
-   "hot": 5,
-   "at": "2026-11-25T06:42Z"
+   "at": "2026-11-25T06:42Z",
+   "hot": 5
   },
   {
    "id": "obi-defends-kwankwasiyya-sticks-rallies",
@@ -87,7 +208,6 @@
     "He spoke in Jalingo after a town hall meeting.",
     "Political violence is a growing concern."
    ],
-   "hot": 8,
    "img": "img/obi-defends-kwankwasiyya-sticks-rallies-tn.jpg",
    "alt": "Peter Obi in glasses and a black top in front of the Nigerian flag",
    "credit": "Photo: Trend Naija",
@@ -116,7 +236,7 @@
     "The APC and police had not responded."
    ],
    "at": "2026-11-24T20:42Z",
-   "hot": 4
+   "hot": 9
   },
   {
    "id": "court-sacks-apc-bayelsa-west-candidate",
@@ -166,8 +286,7 @@
    "img": "img/shettima-will-keep-attacking-atiku-tn.jpg",
    "alt": "Atiku Abubakar and President Bola Tinubu side by side",
    "credit": "Photo: Trend Naija",
-   "at": "2026-11-24T17:42Z",
-   "hot": 7
+   "at": "2026-11-24T17:42Z"
   },
   {
    "id": "lagos-ounje-eko-20-percent-food-discount",
@@ -266,7 +385,7 @@
     "CAF had promised to accept the verdict."
    ],
    "at": "2026-11-24T14:42Z",
-   "hot": 2
+   "hot": 3
   },
   {
    "id": "court-sacks-omo-agege-ndc-candidate",
@@ -291,8 +410,7 @@
     "It said the NDC did not submit its membership register.",
     "The ruling came a day after his campaign was attacked."
    ],
-   "at": "2026-11-24T14:42Z",
-   "hot": 6
+   "at": "2026-11-24T14:42Z"
   },
   {
    "id": "cbn-holds-interest-rate-23-percent",
@@ -808,7 +926,7 @@
     "The campaign calls it an assassination attempt."
    ],
    "at": "2026-11-23T20:42Z",
-   "hot": 3
+   "hot": 6
   },
   {
    "id": "tinubu-tells-igbo-leaders-lagos-vote-2027",
@@ -1629,144 +1747,6 @@
     "Fans are urging people to help him."
    ],
    "at": "2026-11-23T06:42Z"
-  },
-  {
-   "id": "liverpool-thrash-man-utd-pochettino-debut",
-   "c": "sport",
-   "n": 1,
-   "added": "2026-11-22",
-   "h": "Pochettino's Man United reign starts with 4-0 thrashing at Liverpool",
-   "p": "Mauricio Pochettino's first game as Manchester United manager ended in a 4-0 defeat at Anfield after Lenny Yoro was sent off in the eighth minute. United are 19th in the Premier League.",
-   "body": [
-    "Mauricio Pochettino's time in charge of Manchester United got off to a painful start on Sunday, 22 November 2026, as Liverpool beat his side 4-0 at Anfield.",
-    "## How the game went",
-    "United's plans fell apart early when defender Lenny Yoro was shown a red card in the eighth minute, leaving them with ten men for more than 80 minutes. Liverpool quickly took advantage. Dominik Szoboszlai opened the scoring in the 10th minute, and Florian Wirtz doubled the lead three minutes later.",
-    "Liverpool kept their two-goal lead until half-time and added two more after the break through Rio Ngumoha and Victor Munoz.",
-    "## Where it leaves the clubs",
-    "The result left United in 19th place, inside the Premier League relegation zone, while Liverpool moved into the top four.",
-    "## Pochettino's reaction",
-    "Speaking after the match, Pochettino reportedly admitted that the early red card shaped the game, but urged his players to turn their frustration into better performances in the coming matches.",
-    "## Background",
-    "Pochettino took over at Old Trafford only recently. The club has been linked with several players ahead of the January window, including Super Eagles defender Calvin Bassey.",
-    "## Yoro's red card overturned",
-    "The FA has since lifted Lenny Yoro's one-match ban after Manchester United successfully appealed against his dismissal, meaning he is available for Saturday's game against Brentford."
-   ],
-   "more": [
-    "Lenny Yoro was sent off after eight minutes.",
-    "Szoboszlai, Wirtz, Ngumoha and Munoz scored.",
-    "United are 19th in the table."
-   ],
-   "at": "2026-11-22T20:41Z"
-  },
-  {
-   "id": "anike-sinleke-dies-ovarian-cancer",
-   "c": "celebs",
-   "n": 1,
-   "added": "2026-11-22",
-   "h": "Nollywood actress Anike Sinleke dies after battle with ovarian cancer",
-   "p": "Nollywood actress Adenike Abike Babajide, known as Anike Sinleke, has reportedly died after battling ovarian cancer. Her death was announced on Sunday by an Instagram show host she was due to appear with that day.",
-   "body": [
-    "Nollywood is mourning the death of actress Adenike Abike Babajide, popularly known as Anike Sinleke, who has reportedly died after a battle with ovarian cancer.",
-    "## How the news broke",
-    "The news emerged on Sunday, 22 November 2026, in a post by Bukola Fagbuyi, host of the Instagram live show Rubbin Minds With Bukky. Fagbuyi said the actress had been scheduled to appear as a guest on the programme that same day.",
-    "## Her career",
-    "Anike Sinleke learned her craft under the mentorship of veteran actor Remmy Shitta and worked on film sets with filmmaker Deji Adenuga. At one point she stepped away from acting to complete her Higher National Diploma.",
-    "Beyond the screen, she was known in Lagos entertainment and cultural circles for her role with the Sisi Eko beauty pageant, which started around 2011.",
-    "## Tributes",
-    "Fans and colleagues have taken to social media to mourn her, with many expressing shock at the news."
-   ],
-   "more": [
-    "She had been due to appear on an Instagram show that day.",
-    "She was mentored by veteran actor Remmy Shitta.",
-    "She was linked with the Sisi Eko beauty pageant."
-   ],
-   "at": "2026-11-22T20:41Z"
-  },
-  {
-   "id": "goodluck-jonathan-dishonest-leaders-laughing-stock",
-   "c": "politics",
-   "n": 1,
-   "added": "2026-11-22",
-   "h": "Goodluck Jonathan says dishonest leaders have made Nigeria a laughing stock",
-   "p": "Former President Goodluck Jonathan has reportedly said broken promises by politicians have damaged Nigeria's global image. He called for credible elections and a political culture that rewards competence over money.",
-   "body": [
-    "Former President Goodluck Jonathan has reportedly criticised Nigeria's political class, saying dishonest leadership and unkept campaign promises have hurt the country's standing in the world.",
-    "## Where he spoke",
-    "Jonathan gave the keynote address on Saturday, 21 November 2026, at the third Paul Alaje Colloquium, themed The Brand: Nigeria, at the NAF Conference Centre in Kado, Abuja.",
-    "## What he said",
-    "He is said to have lamented that Nigeria has lost much of the respect it once enjoyed internationally, and accused office holders of misleading citizens and acting against their public promises. He warned that continued dishonesty in public life would hold back the country's progress.",
-    "Jonathan reportedly called for reforms to how leaders are chosen, credible elections and real democracy within parties. He said the country needs a political culture that rewards ideas, character and competence rather than money, patronage and sectional interests.",
-    "## Background",
-    "Jonathan was president from 2010 to 2015. His remarks come as campaigns for the January 2027 elections get under way."
-   ],
-   "more": [
-    "He spoke at a colloquium in Abuja on Saturday.",
-    "He called for credible elections.",
-    "He urged leaders to reward competence over money."
-   ],
-   "at": "2026-11-22T20:41Z"
-  },
-  {
-   "id": "calvin-bassey-fulham-contract-talks",
-   "c": "sport",
-   "n": 1,
-   "added": "2026-11-22",
-   "h": "Calvin Bassey confirms new contract talks with Fulham amid Man United links",
-   "p": "Super Eagles defender Calvin Bassey has reportedly confirmed he is negotiating a new deal with Fulham. Manchester United and Inter Milan have been linked with him.",
-   "body": [
-    "Super Eagles defender Calvin Bassey has reportedly confirmed that he is in talks with Fulham over a new long-term contract.",
-    "## What he said",
-    "Speaking after Fulham's 1-1 draw with Manchester City at the Etihad Stadium on Saturday, the 26-year-old said negotiations were ongoing and that he would like a deal done quickly. He described Fulham as an amazing place to be and said the manager had shown great faith in him.",
-    "## Transfer interest",
-    "His comments come amid reports linking him with a January move to Manchester United under new head coach Mauricio Pochettino, as well as interest from Italian side Inter Milan.",
-    "## His contract",
-    "Bassey's current deal runs until next summer, although Fulham hold an option to extend it by a year. He captains the club under manager Álvaro Arbeloa.",
-    "## The result",
-    "Saturday's draw ended Fulham's run of 17 straight defeats against Manchester City."
-   ],
-   "more": [
-    "Bassey says talks with Fulham are ongoing.",
-    "Man United and Inter Milan have been linked with him.",
-    "Fulham drew 1-1 at Man City."
-   ],
-   "at": "2026-11-22T20:41Z"
-  },
-  {
-   "id": "jimmy-odukoya-sues-sister-fountain-of-life-trustees",
-   "c": "naija",
-   "n": 2,
-   "added": "2026-11-21",
-   "h": "Jimmy Odukoya sues sister and Fountain of Life trustees over his removal",
-   "p": "Pastor Jimmy Odukoya has filed a lawsuit at the Federal High Court in Lagos against his sister, Tolu Odukoya, and members of the Fountain of Life Church board over his removal as senior pastor.",
-   "body": [
-    "Pastor Jimmy Odukoya has gone to court over his removal as senior pastor of The Fountain of Life Church, filing a suit against his sister and several members of the church's board of trustees.",
-    "## The suit",
-    "The suit was filed at the Federal High Court in Lagos on Friday, 20 November 2026. Eight people are named as respondents, including his sister Tolu Odukoya, interim leader Pastor Rotimi Okpaise and other trustees.",
-    "The filing marks a significant escalation in the leadership dispute at the Ilupeju church founded by his late father, Taiwo Odukoya.",
-    "## Background",
-    "Earlier this week, the trustees announced that Jimmy had been removed because his appointment did not reflect his father's succession wishes, and released a 2021 video in which the late founder reportedly named Pastor Kunle Areogun as his successor. Jimmy has insisted his removal is invalid. A Lagos State High Court had already granted the trustees an order barring him from acting as senior pastor while their own suit is heard.",
-    "## What happens next",
-    "The court is expected to fix a date to hear the case. The trustees had not responded publicly to the new suit in the reports.",
-    "## Rousing welcome",
-    "At Sunday service on 22 November, Jimmy Odukoya received loud cheers and applause from the congregation as he arrived, despite the court order barring him from presenting himself as senior pastor. There was an unusually heavy security presence around the church.",
-    "## 'I have not been served'",
-    "Speaking to the congregation on Sunday, Jimmy said he had heard about the injunction against him but had not seen it or been formally served, so legally it had not reached him. He pledged to carry on with his ministry. The Lagos State High Court order was granted on 18 November, and the matter was adjourned to 1 December.",
-    "## Bishop Mike Okonkwo visits",
-    "Bishop Mike Okonkwo, who helped found the church, also attended a service and told worshippers the church had been battered on social media in recent weeks. He said he could not be separated from the Fountain of Life Church.",
-    "## Wife breaks silence",
-    "Jimmy's wife, Mo Jasmine Daniel, ended her silence on social media by resharing her husband's post after his Sunday welcome, a move widely seen as a show of support.",
-    "## 'Church is not a political party'",
-    "In a sermon clip posted on Sunday, Bishop Mike Okonkwo told worshippers not to take sides with Tolu, Jimmy or the board, reminding them that none of them died for them and that the church is not a political party.",
-    "## Court summons",
-    "On Monday, 23 November, the Lagos State High Court ordered Jimmy to appear on Thursday, 26 November, to answer contempt proceedings brought by the trustees. The judge allowed the trustees to serve him by substituted means, including newspaper publication, pasting at his last known address and electronic delivery, after normal service proved difficult. The notice warns of the consequences of disobeying the court's 18 November order, but it is not a finding of guilt."
-   ],
-   "more": [
-    "The suit names eight respondents, including his sister.",
-    "It was filed at the Federal High Court in Lagos.",
-    "A separate court order bars him from acting as senior pastor."
-   ],
-   "at": "2026-11-21T17:42Z",
-   "hot": 9
   }
  ]
 }
