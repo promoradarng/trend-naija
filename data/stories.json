@@ -1,6 +1,6 @@
 {
- "updated": "Updated 20:42 GMT",
- "date": "Tuesday, 24 November 2026",
+ "updated": "Updated 06:42 GMT",
+ "date": "Wednesday, 25 November 2026",
  "categories": {
   "all": "All gist",
   "elections": "2027 elections",
@@ -14,6 +14,85 @@
   "sport": "Sport"
  },
  "stories": [
+  {
+   "id": "pete-edochie-dies-79",
+   "c": "celebs",
+   "n": 3,
+   "added": "2026-11-25",
+   "h": "Nollywood legend Pete Edochie dies at 79",
+   "p": "Veteran actor Pete Edochie, famous for playing Okonkwo in Things Fall Apart, has died at the age of 79. His family says he died in Enugu early on Wednesday after a long battle with prostate cancer.",
+   "body": [
+    "Veteran Nollywood actor Pete Edochie has died at the age of 79, his family has announced.",
+    "## The announcement",
+    "In a statement shared on Instagram by his son, Leo Pete Edochie, on behalf of the family, the family said the actor died at 12:30am on Wednesday, 25 November 2026, in Enugu, after a prolonged battle with prostate cancer. The statement, titled 'An Iroko Has Fallen', described him as a beloved husband, father, brother and kinsman.",
+    "He is survived by his wife, Josephine Edochie, his children, including actors Yul and Linc Edochie, his siblings and other relatives. The family said funeral arrangements would be announced in due course.",
+    "## His life and career",
+    "Pete Edochie hailed from Akamnato, Ifite Nteje, in Anambra State. He began his career in broadcasting in 1967 before becoming one of Nigeria's best-known actors. His major breakthrough came in 1987, when he played Okonkwo in the Nigerian Television Authority's adaptation of Chinua Achebe's Things Fall Apart, a role that brought him recognition far beyond Nigeria.",
+    "Known for his commanding voice and powerful screen presence, he became famous for portraying traditional patriarchs and kings in countless Nollywood films. He was honoured with the national award of Member of the Order of the Niger (MON).",
+    "## His final weeks",
+    "In October, during a visit to Ghana, he spoke openly about his declining health, saying walking had become difficult, and prayed that he would not become a burden to those around him. Just this week, actress Toyin Abraham and her crew knelt to welcome him on her film set, and he had spoken publicly about his son Yul days earlier.",
+    "## Tributes",
+    "News of his death has drawn an outpouring of grief from fans, many of whom described it as the end of an era for Nigerian film."
+   ],
+   "more": [
+    "He died in Enugu early on Wednesday.",
+    "He was best known as Okonkwo in Things Fall Apart.",
+    "Funeral arrangements will be announced later."
+   ],
+   "hot": 1,
+   "at": "2026-11-25T06:42Z"
+  },
+  {
+   "id": "judy-austin-rejects-husband-snatcher-label-court",
+   "c": "celebs",
+   "n": 2,
+   "added": "2026-11-25",
+   "h": "Judy Austin tells court she is not a 'husband snatcher'",
+   "p": "Actress Judy Austin has denied being a husband snatcher while giving evidence in her defamation cases against Rita Edochie at an Abuja High Court. She declined to answer questions about her marriages.",
+   "body": [
+    "Nollywood actress Judy Austin has rejected the 'husband snatcher' label that has followed her relationship with actor Yul Edochie, while giving evidence at an Abuja High Court.",
+    "## In court",
+    "Austin appeared on Tuesday, 24 November 2026, in proceedings in her defamation cases against veteran actress Rita Edochie, Yul's aunt. Under cross-examination by Rita's lawyer, she denied snatching Yul from anyone and said she did not belong to any group of husband snatchers.",
+    "She refused to answer questions about her former marriage to Emmanuel Obasi or her current marriage to Yul, insisting that her marital affairs are private.",
+    "## Background",
+    "Austin is suing Rita Edochie over comments she says were defamatory. Yul Edochie, who took Austin as his second wife, accompanied her to court. A video also showed Rita Edochie confronting people she believed were filming her at the court premises.",
+    "## Sad timing",
+    "The court appearance came a day before the family of Yul's father, Nollywood legend Pete Edochie, announced his death at the age of 79."
+   ],
+   "more": [
+    "Judy Austin denied being a husband snatcher.",
+    "She refused to discuss her marriages in court.",
+    "Yul Edochie accompanied her to court."
+   ],
+   "hot": 5,
+   "at": "2026-11-25T06:42Z"
+  },
+  {
+   "id": "obi-defends-kwankwasiyya-sticks-rallies",
+   "c": "elections",
+   "n": 1,
+   "added": "2026-11-25",
+   "h": "Obi defends Kwankwasiyya supporters who carry sticks to rallies",
+   "p": "NDC presidential candidate Peter Obi has reportedly defended Kwankwasiyya members who bring sticks to political events, saying the items have never been used to hurt anyone. He spoke in Jalingo, Taraba State.",
+   "body": [
+    "Peter Obi, the Nigeria Democratic Congress (NDC) presidential candidate, has reportedly defended members of the Kwankwasiyya movement who carry sticks to political gatherings.",
+    "## What he said",
+    "Speaking in a television interview in Jalingo, Taraba State, on Tuesday evening, 24 November 2026, after a town hall meeting, Obi is said to have explained that the movement, led by his running mate Rabiu Kwankwaso, has a long tradition of supporters attending political events with sticks. He said there was no record of the sticks being used to harm anyone.",
+    "He also said that calls against electoral malpractice were being misread as opposition to campaigning.",
+    "## Background",
+    "Political violence has become a major concern ahead of the January 2027 elections, following Monday's deadly attack on an NDC campaign event in Delta State. At the Taraba town hall, Obi led a minute of silence for the party members killed."
+   ],
+   "more": [
+    "Obi says the sticks have never been used to hurt anyone.",
+    "He spoke in Jalingo after a town hall meeting.",
+    "Political violence is a growing concern."
+   ],
+   "hot": 8,
+   "img": "img/obi-defends-kwankwasiyya-sticks-rallies-tn.jpg",
+   "alt": "Peter Obi in glasses and a black top in front of the Nigerian flag",
+   "credit": "Photo: Trend Naija",
+   "at": "2026-11-25T06:42Z"
+  },
   {
    "id": "ndc-boycotts-igp-security-meeting",
    "c": "elections",
@@ -36,8 +115,8 @@
     "It cited incidents in five states.",
     "The APC and police had not responded."
    ],
-   "hot": 3,
-   "at": "2026-11-24T20:42Z"
+   "at": "2026-11-24T20:42Z",
+   "hot": 4
   },
   {
    "id": "court-sacks-apc-bayelsa-west-candidate",
@@ -60,13 +139,12 @@
     "He was also said not to have resigned an appointment in time.",
     "The ruling can be appealed."
    ],
-   "hot": 8,
    "at": "2026-11-24T20:42Z"
   },
   {
    "id": "shettima-will-keep-attacking-atiku",
    "c": "elections",
-   "n": 1,
+   "n": 2,
    "added": "2026-11-24",
    "h": "Shettima says he will keep firing back at Atiku as long as he attacks Tinubu",
    "p": "Vice President Kashim Shettima has reportedly said he will not stop his verbal exchanges with ADC candidate Atiku Abubakar while Atiku keeps targeting President Tinubu. He said he has never insulted Obi, Makinde, Kwankwaso or Amaechi.",
@@ -89,7 +167,7 @@
    "alt": "Atiku Abubakar and President Bola Tinubu side by side",
    "credit": "Photo: Trend Naija",
    "at": "2026-11-24T17:42Z",
-   "hot": 5
+   "hot": 7
   },
   {
    "id": "lagos-ounje-eko-20-percent-food-discount",
@@ -110,8 +188,7 @@
     "Markets open on 29 Nov, 6 Dec and 20 Dec.",
     "All 57 LGAs and LCDAs are covered."
    ],
-   "at": "2026-11-24T17:42Z",
-   "hot": 7
+   "at": "2026-11-24T17:42Z"
   },
   {
    "id": "davido-rep-says-osama-owes-money-ghana",
@@ -189,7 +266,7 @@
     "CAF had promised to accept the verdict."
    ],
    "at": "2026-11-24T14:42Z",
-   "hot": 1
+   "hot": 2
   },
   {
    "id": "court-sacks-omo-agege-ndc-candidate",
@@ -215,7 +292,7 @@
     "The ruling came a day after his campaign was attacked."
    ],
    "at": "2026-11-24T14:42Z",
-   "hot": 4
+   "hot": 6
   },
   {
    "id": "cbn-holds-interest-rate-23-percent",
@@ -342,8 +419,7 @@
    ],
    "alt": "VeryDarkMan with braided hair and a cowrie-shell necklace and President Bola Tinubu in a green cap and glasses at a meeting",
    "credit": "Photo: Trend Naija",
-   "at": "2026-11-24T11:42Z",
-   "hot": 6
+   "at": "2026-11-24T11:42Z"
   },
   {
    "id": "iran-flogs-singer-parastoo-ahmadi-hijab",
@@ -732,7 +808,7 @@
     "The campaign calls it an assassination attempt."
    ],
    "at": "2026-11-23T20:42Z",
-   "hot": 2
+   "hot": 3
   },
   {
    "id": "tinubu-tells-igbo-leaders-lagos-vote-2027",
@@ -1654,88 +1730,6 @@
     "Fulham drew 1-1 at Man City."
    ],
    "at": "2026-11-22T20:41Z"
-  },
-  {
-   "id": "paolo-bulgari-dies-89",
-   "c": "world",
-   "n": 1,
-   "added": "2026-11-22",
-   "h": "Paolo Bulgari, jeweller to royals and film stars, dies at 89",
-   "p": "Paolo Bulgari, the longtime chairman of the Bvlgari luxury group, has died in Rome at the age of 89. His family called him the greatest jeweller of our times.",
-   "body": [
-    "Italian jeweller Paolo Bulgari, who helped turn his family's Roman workshop into a global luxury brand, has died in Rome at the age of 89.",
-    "## The announcement",
-    "His family announced his death on Saturday, 21 November 2026, describing him as an extraordinary entrepreneur who promoted Italian craftsmanship around the world. The cause of death was not disclosed. The Bvlgari brand also paid tribute to its former chairman.",
-    "## His life and work",
-    "Born in Rome in 1937, Bulgari joined the family firm in 1960 and became known as one of the leading experts on precious gemstones. He became chairman in 1984. The house was founded in 1884 by his grandfather, a Greek silversmith who settled in Rome.",
-    "Under Paolo and his brothers, the brand became known for bold designs, colourful gems and yellow gold, opened shops in Paris, New York and Geneva, and expanded into watches, perfumes, leather goods and hotels.",
-    "## Famous clients",
-    "During Rome's glamorous era of the 1950s and 1960s, the brand's flagship store became a favourite of royalty and film stars, including Sophia Loren and Audrey Hepburn."
-   ],
-   "more": [
-    "He died in Rome at 89.",
-    "He became Bvlgari chairman in 1984.",
-    "Sophia Loren and Audrey Hepburn were clients."
-   ],
-   "at": "2026-11-22T20:41Z"
-  },
-  {
-   "id": "bokkos-gunmen-set-school-on-fire",
-   "c": "naija",
-   "n": 1,
-   "added": "2026-11-22",
-   "h": "Gunmen reportedly set secondary school on fire in Plateau's Bokkos",
-   "p": "Suspected gunmen reportedly set fire to Government Secondary School, Masharkut, in Bokkos, Plateau State, on Sunday afternoon. No casualties were reported, and local officials said the attackers had not been identified.",
-   "body": [
-    "Suspected gunmen reportedly set fire to Government Secondary School, Masharkut, in the Butura District of Bokkos Local Government Area, Plateau State, on Sunday, 22 November 2026, causing panic among residents.",
-    "## What happened",
-    "According to a community member, the attack began at about 1pm. Residents noticed smoke rising from the school shortly after returning from church, and realised about 30 minutes later that the building was on fire.",
-    "## Official response",
-    "The chairman of Bokkos Local Government Area confirmed that the council had received reports of the fire. He said the circumstances and the identity of those responsible had not yet been established, and that the damage to the school building was the authorities' immediate concern.",
-    "Security agencies had not commented at the time of the reports, and no casualties were mentioned.",
-    "## Background",
-    "Bokkos and other parts of Plateau State have suffered repeated attacks on rural communities in recent years."
-   ],
-   "more": [
-    "The fire started at about 1pm on Sunday.",
-    "The attackers have not been identified.",
-    "No casualties were reported."
-   ],
-   "at": "2026-11-22T20:41Z"
-  },
-  {
-   "id": "serap-sues-inec-ndpc-ai-photos-voter-register",
-   "c": "elections",
-   "n": 1,
-   "h": "SERAP sues INEC and data commission over suspected AI-generated photos in voter register",
-   "p": "SERAP has filed a Federal High Court lawsuit asking for an independent investigation into suspected AI-generated photographs and other questionable records in INEC's preliminary voter register, and into whether voters' personal data was unlawfully accessed or altered.",
-   "body": [
-    "The Socio-Economic Rights and Accountability Project (SERAP) has filed a lawsuit at the Federal High Court seeking an independent investigation into suspected artificial intelligence-generated photographs and other questionable records in INEC's preliminary Register of Voters.",
-    "## The lawsuit",
-    "The suit, numbered FHC/ABJ/CS/2863/2026, names the Nigeria Data Protection Commission (NDPC) and the Independent National Electoral Commission (INEC) as defendants.",
-    "SERAP is asking the court to compel the data protection commission to examine the relevant records and electronic data held by INEC.",
-    "It also wants investigators to establish whether voters' personal information was unlawfully accessed or altered, and whether the Nigeria Data Protection Act was breached.",
-    "## What INEC has said",
-    "INEC has already acknowledged that suspected AI-generated photographs appeared in the preliminary register. The commission said its Automated Biometric Identification System flagged 268 records involving suspected AI images or other irregularities.",
-    "INEC insists the published register is not final, and says verification and data-cleaning will be completed before the register is certified on 15 December.",
-    "## What the court has not decided",
-    "No court has found INEC responsible for manipulating the register, and the case has not yet been given a public hearing date.",
-    "## Why it matters",
-    "The voter register is the foundation of any credible election. With the 2027 general elections approaching, questions about its accuracy, and about how voters' personal data is protected, go to the heart of public trust in the process.",
-    "## Over to you",
-    "Do you trust INEC to clean up the voter register before certification, or is an independent investigation needed?"
-   ],
-   "more": [
-    "SERAP's suit is FHC/ABJ/CS/2863/2026.",
-    "INEC says 268 records were flagged for suspected AI images or irregularities.",
-    "INEC plans to certify the register on 15 December."
-   ],
-   "added": "2026-11-22",
-   "img": "img/serap-sues-inec-ndpc-ai-photos-voter-register.jpg",
-   "alt": "The INEC logo above Nigerians checking names on a voter register pasted on a wall",
-   "credit": "Photo: Trend Naija",
-   "owner": true,
-   "at": "2026-11-22T11:58Z"
   },
   {
    "id": "jimmy-odukoya-sues-sister-fountain-of-life-trustees",
