@@ -1,5 +1,5 @@
 {
- "updated": "Updated 06:41 GMT",
+ "updated": "Updated 09:41 GMT",
  "date": "Thursday, 26 November 2026",
  "categories": {
   "all": "All gist",
@@ -14,6 +14,109 @@
   "sport": "Sport"
  },
  "stories": [
+  {
+   "id": "report-124-electoral-violence-cases-22-deaths",
+   "c": "elections",
+   "n": 1,
+   "added": "2026-11-26",
+   "h": "Report records 124 cases of electoral violence and 22 deaths in four months",
+   "p": "A civic group says it has documented 124 incidents of election-related violence and 22 deaths across Nigeria since July. It warned the trend could worsen as the January 2027 elections approach.",
+   "body": [
+    "A non-partisan civic organisation has warned of rising political violence in Nigeria, saying it recorded 124 cases of electoral violence and 22 deaths in the past four months.",
+    "## The figures",
+    "In a statement in Abuja on Wednesday, 25 November 2026, the Kimpact Development Initiative (KDI) said the incidents were documented between 1 July and 23 November 2026 through its election violence monitoring project. Incidents rose from three in July to 48 in October, with another 40 recorded in the first half of November alone.",
+    "## The warning",
+    "The group warned that the trend could worsen as the 16 January 2027 elections draw closer unless political parties, security agencies and other stakeholders take urgent action. It pointed to growing political intolerance and inflammatory rhetoric among politicians and their supporters as key triggers.",
+    "KDI stressed that the problem cuts across parties and should not be blamed on any single group, and urged candidates to restrain their supporters.",
+    "## Background",
+    "The report comes days after deadly attacks on NDC campaign events in Delta and Edo states, and after INEC warned that the popular 'rig and die' slogan could endanger polling staff and voters. The House of Representatives has also warned that a state of emergency may be needed in Delta if violence continues."
+   ],
+   "more": [
+    "124 incidents and 22 deaths since July.",
+    "Incidents rose sharply in October and November.",
+    "The group says the problem cuts across all parties."
+   ],
+   "hot": 2,
+   "at": "2026-11-26T09:41Z"
+  },
+  {
+   "id": "makinde-open-to-arrangement-with-atiku-obi",
+   "c": "elections",
+   "n": 1,
+   "added": "2026-11-26",
+   "h": "Makinde says he is open to working with Atiku and Obi to unseat Tinubu",
+   "p": "Oyo Governor and APM presidential candidate Seyi Makinde has reportedly said he remains open to an arrangement with Atiku Abubakar and Peter Obi to stop President Tinubu winning a second term. He ruled out a formal merger of parties.",
+   "body": [
+    "Oyo State Governor Seyi Makinde, the presidential candidate of the Allied Peoples Movement (APM), has reportedly spoken about a possible political arrangement involving himself, the ADC's Atiku Abubakar and the NDC's Peter Obi, aimed at stopping President Bola Tinubu from winning a second term in 2027.",
+    "## No merger",
+    "Makinde is said to have made clear that what he has in mind would not be a formal coalition or merger of political parties, but he said he remains open to working with the two opposition candidates.",
+    "## Background",
+    "Earlier this week, Makinde said he believed Tinubu had only a 30% chance of re-election, citing economic hardship and insecurity.",
+    "## The other side",
+    "No response from the APC, Atiku or Obi to Makinde's comments was included in the reports."
+   ],
+   "more": [
+    "Makinde rules out a formal party merger.",
+    "He says he is open to working with Atiku and Obi.",
+    "The APC had not responded."
+   ],
+   "hot": 3,
+   "imgs": [
+    "img/makinde-open-to-arrangement-with-atiku-obi-tn.jpg",
+    "img/makinde-open-to-arrangement-with-atiku-obi-tn2.jpg"
+   ],
+   "alts": [
+    "Atiku Abubakar in a blue cap and agbada speaking into a microphone",
+    "Peter Obi in glasses and a black top in front of the Nigerian flag"
+   ],
+   "alt": "Atiku Abubakar in a blue cap and agbada speaking into a microphone and Peter Obi in glasses and a black top in front of the Nigerian flag",
+   "credit": "Photo: Trend Naija",
+   "at": "2026-11-26T09:41Z"
+  },
+  {
+   "id": "spectranet-exits-ibadan-port-harcourt",
+   "c": "naija",
+   "n": 1,
+   "added": "2026-11-26",
+   "h": "Spectranet to shut down services in Ibadan and Port Harcourt",
+   "p": "Internet provider Spectranet says it will end its broadband services in Ibadan and Port Harcourt after a six-month notice period, citing rising operating costs. It will focus on Lagos and Abuja.",
+   "body": [
+    "Internet service provider Spectranet Limited has announced that it will discontinue its broadband services in Ibadan and Port Harcourt after a six-month notice period.",
+    "## What it means for users",
+    "The company said it would keep its network running and continue to provide customer support in both cities until the notice period ends, giving subscribers time to arrange alternative connections.",
+    "## Why",
+    "Spectranet said higher operating costs had made it increasingly difficult to maintain its service standards in the two cities. It plans to concentrate its resources in Lagos and Abuja, where it says it will work on improving network performance."
+   ],
+   "more": [
+    "Services end after a six-month notice.",
+    "The company cites rising operating costs.",
+    "It will focus on Lagos and Abuja."
+   ],
+   "hot": 7,
+   "at": "2026-11-26T09:41Z"
+  },
+  {
+   "id": "mr-latin-hands-over-tampan-ajala-jalingo",
+   "c": "celebs",
+   "n": 1,
+   "added": "2026-11-26",
+   "h": "Mr Latin hands over TAMPAN leadership to Ajala Jalingo after eight years",
+   "p": "Actor Bolaji Amusan, known as Mr Latin, has stepped down as president of the theatre and film practitioners' association TAMPAN. Veteran actor Akeem Alimi, popularly called Ajala Jalingo, is the new national president.",
+   "body": [
+    "Nollywood actor Bolaji Amusan, popularly known as Mr Latin, has handed over leadership of the Theatre Arts and Motion Pictures Practitioners Association of Nigeria (TAMPAN) after eight years.",
+    "## The handover",
+    "The transition took place at the association's election, award and swearing-in ceremony, where veteran actor and filmmaker Akeem Alimi, popularly called Ajala Jalingo, was unveiled as the new national president.",
+    "In a video shared on his Instagram page on Wednesday, 25 November 2026, Mr Latin was seen bowing as he passed the TAMPAN flag to his successor, formally ending his eight-year run as president.",
+    "## Background",
+    "TAMPAN is one of the main associations of Nigerian theatre and film practitioners."
+   ],
+   "more": [
+    "Mr Latin led TAMPAN for eight years.",
+    "Ajala Jalingo is the new president.",
+    "He passed the TAMPAN flag at the ceremony."
+   ],
+   "at": "2026-11-26T09:41Z"
+  },
   {
    "id": "cairo-fuel-tanker-fire-30-dead",
    "c": "world",
@@ -35,8 +138,8 @@
     "The fire spread to 27 vehicles.",
     "The tanker hit a road divider before overturning."
    ],
-   "hot": 2,
-   "at": "2026-11-26T06:42Z"
+   "at": "2026-11-26T06:42Z",
+   "hot": 4
   },
   {
    "id": "iyabo-ojo-addresses-oba-handshake-snub",
@@ -59,13 +162,13 @@
     "The Olu of Orile Kemta did not take her hand.",
     "Iyabo Ojo offered context and an apology."
    ],
-   "hot": 4,
-   "at": "2026-11-26T06:42Z"
+   "at": "2026-11-26T06:42Z",
+   "hot": 5
   },
   {
    "id": "asisat-oshoala-masters-degree",
    "c": "sport",
-   "n": 1,
+   "n": 2,
    "added": "2026-11-26",
    "h": "Asisat Oshoala earns master's degree in international sports management",
    "p": "Super Falcons striker Asisat Oshoala has graduated with a Master of Science in International Sports Management. She shared congratulatory messages from friends on Instagram.",
@@ -104,7 +207,6 @@
     "It happened at Omega Fire Ministries in Benin.",
     "The conference runs until 29 November."
    ],
-   "hot": 7,
    "at": "2026-11-26T06:42Z"
   },
   {
@@ -133,7 +235,7 @@
    "alt": "President Bola Tinubu in a green cap and glasses at a meeting",
    "credit": "Photo: Trend Naija",
    "at": "2026-11-25T20:42Z",
-   "hot": 3
+   "hot": 6
   },
   {
    "id": "atiku-challenges-tinubu-oil-revenue-drop",
@@ -160,8 +262,7 @@
    "img": "img/atiku-challenges-tinubu-oil-revenue-drop-tn.jpg",
    "alt": "Atiku Abubakar and President Bola Tinubu side by side",
    "credit": "Photo: Trend Naija",
-   "at": "2026-11-25T20:42Z",
-   "hot": 6
+   "at": "2026-11-25T20:42Z"
   },
   {
    "id": "adeleke-dissolves-osun-executive-council",
@@ -257,8 +358,7 @@
    "img": "img/ndc-supporters-attacked-benin-obi-visit-tn.jpg",
    "alt": "Peter Obi in glasses and a black top in front of the Nigerian flag",
    "credit": "Photo: Trend Naija",
-   "at": "2026-11-25T17:42Z",
-   "hot": 5
+   "at": "2026-11-25T17:42Z"
   },
   {
    "id": "tinubu-maiduguri-rally-orders-offensive",
@@ -339,8 +439,7 @@
    ],
    "alt": "Nyesom Wike in a dark cap, glasses and black outfit speaking at a desk in front of the Nigerian flag and President Bola Tinubu in a green cap and glasses at a meeting",
    "credit": "Photo: Trend Naija",
-   "at": "2026-11-25T17:42Z",
-   "hot": 8
+   "at": "2026-11-25T17:42Z"
   },
   {
    "id": "miss-universe-2026-puerto-rico-first-mother",
@@ -536,7 +635,7 @@
   {
    "id": "seyi-law-finances-better-before-tinubu",
    "c": "celebs",
-   "n": 1,
+   "n": 2,
    "added": "2026-11-25",
    "h": "Seyi Law admits his finances were better before Tinubu, but backs reforms",
    "p": "Comedian Seyi Law has reportedly admitted that living standards have dropped under President Tinubu and that his own finances were better before 2023. He still defended the government's reforms, saying good policies take years to stabilise.",
@@ -557,7 +656,8 @@
    "img": "img/seyi-law-finances-better-before-tinubu-tn.jpg",
    "alt": "President Bola Tinubu in a green cap and glasses at a meeting",
    "credit": "Photo: Trend Naija",
-   "at": "2026-11-25T11:41Z"
+   "at": "2026-11-25T11:41Z",
+   "hot": 8
   },
   {
    "id": "veekee-james-revokes-n4m-scholarship",
@@ -753,7 +853,9 @@
     "## Genevieve Nnaji",
     "Genevieve Nnaji, who worked with Edochie on her directorial debut Lionheart, shared a photo of the two of them and an emotional tribute, describing him with the Igbo term of endearment 'nnanyi', meaning 'our father'.",
     "## 'Irreplaceable'",
-    "Veteran actress Patience Ozokwo described his death as an irreplaceable loss, saying he was deeply committed to authenticity and always made sure cultural details were portrayed correctly on set."
+    "Veteran actress Patience Ozokwo described his death as an irreplaceable loss, saying he was deeply committed to authenticity and always made sure cultural details were portrayed correctly on set.",
+    "## Obi and family",
+    "NDC presidential candidate Peter Obi described Edochie as an irreplaceable figure in Nigerian and African culture and a distinguished son of Anambra State. His sister-in-law, actress Rita Edochie, said she was struck by how swiftly he was taken, referring to an illness of barely five weeks."
    ],
    "more": [
     "He died in Enugu early on Wednesday.",
@@ -1645,99 +1747,6 @@
    "img": "img/apc-says-letter-to-inec-on-tinubu-win-fake-tn.jpg",
    "alt": "President Bola Tinubu in a green cap and glasses at a meeting",
    "credit": "Photo: Trend Naija",
-   "at": "2026-11-23T17:42Z"
-  },
-  {
-   "id": "tinubu-asks-sunday-igboho-help-secure-southwest",
-   "c": "politics",
-   "n": 1,
-   "added": "2026-11-23",
-   "h": "Tinubu asks Sunday Igboho to deploy his security network in the South-West",
-   "p": "President Tinubu reportedly asked activist Sunday Igboho to use his Iru Ekun Security Network to help protect lives and property in the South-West. The two met briefly in the president's car after the Ibadan rally.",
-   "body": [
-    "President Bola Tinubu has reportedly asked Yoruba nation activist Sunday Adeyemo, popularly known as Sunday Igboho, to deploy his Iru Ekun Security Network to help protect lives and property across South-West Nigeria.",
-    "## The meeting",
-    "According to a statement released on Monday, 23 November 2026, by Igboho's media office in Ibadan, the two met briefly inside the president's official car after the APC presidential campaign rally at Mapo Hall, Ibadan, on Saturday.",
-    "## What was discussed",
-    "The meeting is said to have focused on the work of Iru Ekun, a community security outfit founded by Igboho, and how its members could help reduce insecurity in rural and urban areas of the region.",
-    "## Background",
-    "Igboho is a well-known campaigner for Yoruba self-determination. The meeting took place on the day of Tinubu's campaign rally in Ibadan, where the president also met traditional rulers."
-   ],
-   "more": [
-    "They met in the president's car in Ibadan.",
-    "Iru Ekun is Igboho's community security outfit.",
-    "The statement came from Igboho's media office."
-   ],
-   "img": "img/tinubu-asks-sunday-igboho-help-secure-southwest-tn.jpg",
-   "alt": "President Bola Tinubu in a green cap and glasses at a meeting",
-   "credit": "Photo: Trend Naija",
-   "at": "2026-11-23T17:42Z"
-  },
-  {
-   "id": "fani-kayode-denies-recall-south-africa",
-   "c": "politics",
-   "n": 1,
-   "added": "2026-11-23",
-   "h": "Fani-Kayode denies being recalled as Nigeria's envoy to South Africa",
-   "p": "Nigeria's High Commissioner to South Africa, Femi Fani-Kayode, has rejected social media claims that he was recalled or reprimanded. He said he was in Abuja for routine consultations.",
-   "body": [
-    "Nigeria's High Commissioner to South Africa, Femi Fani-Kayode, has dismissed reports on social media that the federal government had recalled or reprimanded him, describing them as completely unfounded.",
-    "## What he said",
-    "Fani-Kayode made the clarification during a visit to Abuja, where he said he had been meeting officials at the Ministry of Foreign Affairs as part of routine diplomatic consultations. He said the talks focused on recent developments in South Africa and the direction of Nigeria's foreign policy on the continent.",
-    "He insisted that his presence in the capital had nothing to do with any disciplinary action.",
-    "## Background",
-    "Fani-Kayode, a former aviation minister, is a vocal supporter of President Bola Tinubu."
-   ],
-   "more": [
-    "He says recall reports are untrue.",
-    "He was in Abuja for routine consultations.",
-    "He met officials at the Foreign Affairs ministry."
-   ],
-   "at": "2026-11-23T17:42Z"
-  },
-  {
-   "id": "chadwick-boseman-father-leroy-dies",
-   "c": "world",
-   "n": 1,
-   "added": "2026-11-23",
-   "h": "Chadwick Boseman's father, Leroy, dies six years after the Black Panther star",
-   "p": "Leroy Boseman, father of the late Black Panther actor Chadwick Boseman, has reportedly died after a brief illness. His family described him as a beloved husband and father.",
-   "body": [
-    "Leroy Boseman, the father of the late Hollywood actor Chadwick Boseman, has died after a brief illness, according to reports.",
-    "## The family's tribute",
-    "The family announced his death in a statement, describing him as a beloved husband and father whose impact went far beyond his connection to a famous son. They noted that many people would remember him mainly as the father of Derrick, Kevin and Chadwick Boseman, but stressed that he meant much more to those who knew and loved him.",
-    "## Background",
-    "Chadwick Boseman, best known for playing T'Challa in Marvel's Black Panther, died six years ago."
-   ],
-   "more": [
-    "Leroy Boseman died after a brief illness.",
-    "His son Chadwick died in 2020.",
-    "The family paid tribute to him as a husband and father."
-   ],
-   "at": "2026-11-23T17:42Z"
-  },
-  {
-   "id": "nvidia-reinstates-jensen-huang-ceo",
-   "c": "world",
-   "n": 2,
-   "added": "2026-11-23",
-   "h": "Nvidia board reinstates Jensen Huang as chief executive",
-   "p": "Nvidia's board has unanimously voted to bring back Jensen Huang as president, chief executive and board member, weeks after he stepped down amid a controversy. The board said US government input assured it his return posed no national security risk.",
-   "body": [
-    "Nvidia's board of directors has reinstated Jensen Huang as president, chief executive and a member of the board with immediate effect, the company announced on Monday, 23 November 2026.",
-    "## The decision",
-    "The board said it voted unanimously after a series of discussions with Huang. It said it had received input from senior levels of the United States government and, based on that, was confident that his return posed no national security risk.",
-    "The board chair said Huang was the right person to lead the company and that his return was in the best interests of shareholders, employees, partners and customers.",
-    "## Background",
-    "Huang co-founded Nvidia and built it into one of the world's most valuable companies on the back of demand for its AI chips. He stepped down earlier this month amid a controversy over his personal conduct.",
-    "## Shares surge",
-    "Nvidia's shares jumped 33% after the announcement. President Donald Trump backed the decision, saying he had been in contact with the board and had spoken with Huang."
-   ],
-   "more": [
-    "The board vote was unanimous.",
-    "US government input was sought on security concerns.",
-    "Huang co-founded Nvidia in 1993."
-   ],
    "at": "2026-11-23T17:42Z"
   },
   {
