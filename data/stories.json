@@ -188,8 +188,7 @@
     "The claim came from his wife in the film.",
     "He fights Anthony Joshua on 11 December."
    ],
-   "at": "2026-11-27T11:42Z",
-   "hot": 9
+   "at": "2026-11-27T11:42Z"
   },
   {
    "id": "fashola-condemns-rig-and-die-slogan",
@@ -1681,32 +1680,6 @@
    "at": "2026-11-25T11:41Z"
   },
   {
-   "id": "adc-demands-tinubu-resign-or-face-impeachment",
-   "c": "elections",
-   "n": 1,
-   "added": "2026-11-25",
-   "h": "ADC tells Tinubu to resign or face impeachment over Kano governor's interview",
-   "p": "The African Democratic Congress has reportedly demanded that President Tinubu resign or face impeachment, citing Kano Governor Abba Yusuf's recent interview about the 2023 Supreme Court ruling. The ADC says it points to possible gross misconduct.",
-   "body": [
-    "The African Democratic Congress (ADC) has reportedly issued an ultimatum to President Bola Tinubu, demanding that he either resign or face impeachment proceedings in the National Assembly.",
-    "## Why the ADC made the demand",
-    "The demand follows Kano State Governor Abba Kabir Yusuf's recent Hausa-language interview, in which he spoke about a promise to rejoin the APC if the president did not interfere in his Supreme Court case over the 2023 governorship election. The ADC argued that the governor's remarks suggested a link between the court case and a political deal, and that this could amount to gross misconduct, a constitutional ground for removing a president.",
-    "## Background",
-    "Yusuf defected from the NNPP to the APC in January 2026. In his interview, he claimed that his former mentor, Rabiu Kwankwaso, sent him to make the promise to Tinubu. The Kwankwasiyya Movement has rejected the claim as false and said the governor offered no evidence.",
-    "## The other side",
-    "No response from the presidency or the APC to the ADC's demand was included in the reports."
-   ],
-   "more": [
-    "The ADC cites the Kano governor's interview.",
-    "It says the remarks point to gross misconduct.",
-    "The presidency had not responded."
-   ],
-   "img": "img/adc-demands-tinubu-resign-or-face-impeachment-tn.jpg",
-   "alt": "President Bola Tinubu in a green cap and glasses at a meeting",
-   "credit": "Photo: Trend Naija",
-   "at": "2026-11-25T09:42Z"
-  },
-  {
    "id": "pete-edochie-dies-79",
    "c": "celebs",
    "n": 5,
@@ -1753,6 +1726,47 @@
    ],
    "at": "2026-11-25T06:42Z",
    "hot": 5
+  },
+  {
+   "id": "jimmy-odukoya-sues-sister-fountain-of-life-trustees",
+   "c": "naija",
+   "n": 2,
+   "added": "2026-11-21",
+   "h": "Court orders arrest of Jimmy Odukoya in Fountain of Life church dispute",
+   "p": "A Lagos High Court has issued a bench warrant for Pastor Jimmy Odukoya after he failed to appear in the contempt case brought by Fountain of Life Church's trustees. He had also sued his sister and the trustees over his removal as senior pastor.",
+   "body": [
+    "Pastor Jimmy Odukoya has gone to court over his removal as senior pastor of The Fountain of Life Church, filing a suit against his sister and several members of the church's board of trustees.",
+    "## The suit",
+    "The suit was filed at the Federal High Court in Lagos on Friday, 20 November 2026. Eight people are named as respondents, including his sister Tolu Odukoya, interim leader Pastor Rotimi Okpaise and other trustees.",
+    "The filing marks a significant escalation in the leadership dispute at the Ilupeju church founded by his late father, Taiwo Odukoya.",
+    "## Background",
+    "Earlier this week, the trustees announced that Jimmy had been removed because his appointment did not reflect his father's succession wishes, and released a 2021 video in which the late founder reportedly named Pastor Kunle Areogun as his successor. Jimmy has insisted his removal is invalid. A Lagos State High Court had already granted the trustees an order barring him from acting as senior pastor while their own suit is heard.",
+    "## What happens next",
+    "The court is expected to fix a date to hear the case. The trustees had not responded publicly to the new suit in the reports.",
+    "## Rousing welcome",
+    "At Sunday service on 22 November, Jimmy Odukoya received loud cheers and applause from the congregation as he arrived, despite the court order barring him from presenting himself as senior pastor. There was an unusually heavy security presence around the church.",
+    "## 'I have not been served'",
+    "Speaking to the congregation on Sunday, Jimmy said he had heard about the injunction against him but had not seen it or been formally served, so legally it had not reached him. He pledged to carry on with his ministry. The Lagos State High Court order was granted on 18 November, and the matter was adjourned to 1 December.",
+    "## Bishop Mike Okonkwo visits",
+    "Bishop Mike Okonkwo, who helped found the church, also attended a service and told worshippers the church had been battered on social media in recent weeks. He said he could not be separated from the Fountain of Life Church.",
+    "## Wife breaks silence",
+    "Jimmy's wife, Mo Jasmine Daniel, ended her silence on social media by resharing her husband's post after his Sunday welcome, a move widely seen as a show of support.",
+    "## 'Church is not a political party'",
+    "In a sermon clip posted on Sunday, Bishop Mike Okonkwo told worshippers not to take sides with Tolu, Jimmy or the board, reminding them that none of them died for them and that the church is not a political party.",
+    "## Court summons",
+    "On Monday, 23 November, the Lagos State High Court ordered Jimmy to appear on Thursday, 26 November, to answer contempt proceedings brought by the trustees. The judge allowed the trustees to serve him by substituted means, including newspaper publication, pasting at his last known address and electronic delivery, after normal service proved difficult. The notice warns of the consequences of disobeying the court's 18 November order, but it is not a finding of guilt.",
+    "## Bench warrant issued",
+    "On Thursday, 26 November, Justice O. Adewunmi-Oshin issued a bench warrant for Jimmy's arrest after he failed to appear in court for the contempt proceedings brought by the church's trustees. The judge also sent the case back to the administrative judge for reassignment. Jimmy had earlier said he had not been served with the court's order.",
+    "## Church faults warrant",
+    "In a statement on Thursday, the Fountain of Life Church, speaking for Jimmy as senior pastor, challenged the bench warrant, saying due process was not followed. It raised five objections, including how court documents from the 18 November orders were served on him."
+   ],
+   "more": [
+    "A bench warrant has been issued for Jimmy Odukoya.",
+    "He failed to appear in the contempt case.",
+    "The case has been sent for reassignment."
+   ],
+   "at": "2026-11-21T17:42Z",
+   "hot": 9
   }
  ]
 }
