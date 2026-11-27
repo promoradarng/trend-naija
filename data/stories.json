@@ -1,6 +1,6 @@
 {
- "updated": "Updated 20:41 GMT",
- "date": "Thursday, 26 November 2026",
+ "updated": "Updated 06:42 GMT",
+ "date": "Friday, 27 November 2026",
  "categories": {
   "all": "All gist",
   "elections": "2027 elections",
@@ -14,6 +14,80 @@
   "sport": "Sport"
  },
  "stories": [
+  {
+   "id": "2baba-backs-tough-punishment-election-riggers",
+   "c": "music",
+   "n": 2,
+   "added": "2026-11-27",
+   "h": "2Baba says election riggers deserve severe punishment amid 'rig and die' debate",
+   "p": "Singer 2Baba has said he supports tough punishment for anyone who manipulates election results, as debate continues over the 'rig and die' slogan. He said the slogan reflects Nigerians' frustration.",
+   "body": [
+    "Music star Innocent Idibia, popularly known as 2Baba, has weighed in on the controversial 'rig and die' slogan ahead of the 2027 elections.",
+    "## What he said",
+    "Speaking in a radio interview on Thursday, 26 November 2026, the African Queen singer said he supported severe punishment for anyone who tries to manipulate election results, arguing that serious consequences would discourage others from electoral malpractice.",
+    "He described the national mood as tense, and said the slogan reflected the desperation and frustration many Nigerians feel. He also said he did not see anything wrong with the slogan itself.",
+    "## Background",
+    "The phrase 'rig and die' has spread widely online and at rallies. Earlier this week, INEC warned that it was dangerous, saying a slogan linking an electoral offence to death could incite mob attacks at polling units and put voters and election staff at risk. A civic group has also recorded 124 cases of electoral violence since July."
+   ],
+   "more": [
+    "2Baba backs tough penalties for riggers.",
+    "He says the slogan reflects public frustration.",
+    "INEC has warned the slogan is dangerous."
+   ],
+   "hot": 3,
+   "at": "2026-11-27T06:42Z"
+  },
+  {
+   "id": "ebuka-obi-n2bn-church-renovation-appeal",
+   "c": "viral",
+   "n": 1,
+   "added": "2026-11-27",
+   "h": "Ebuka Obi sparks debate with ₦2bn appeal to renovate Zion Ministry",
+   "p": "Cleric Ebuka Obi has drawn reactions after appealing for ₦2 billion to renovate his church in Lagos and hitting back at critics of members who donate to the ministry.",
+   "body": [
+    "Cleric Ebuka Obi has sparked reactions online after appealing for ₦2 billion in donations to renovate his church, Zion Ministry, in Lagos.",
+    "## What he said",
+    "In a sermon clip that has circulated online, the cleric defended church members who donate to the ministry, and criticised people who mock them online. He accused critics of being jealous of those who choose to give, saying they were not the ones providing the money and had no business worrying about how others spend theirs.",
+    "## How people reacted",
+    "His comments, and the size of the fundraising appeal, have drawn wide attention, with many people debating church donations amid the country's economic hardship.",
+    "## How people reacted",
+    "His comments, and the size of the fundraising appeal, have drawn wide reactions online."
+   ],
+   "more": [
+    "Ebuka Obi wants ₦2bn to renovate his church.",
+    "He criticised people who mock donors.",
+    "The appeal has sparked debate."
+   ],
+   "hot": 5,
+   "img": "img/ebuka-obi-n2bn-church-renovation-appeal-tn.jpg",
+   "alt": "Peter Obi in glasses and a black top in front of the Nigerian flag",
+   "credit": "Photo: Trend Naija",
+   "at": "2026-11-27T06:42Z"
+  },
+  {
+   "id": "trump-demands-probe-gdp-revision",
+   "c": "world",
+   "n": 1,
+   "added": "2026-11-27",
+   "h": "Trump calls for probe after US growth figure is revised upward",
+   "p": "President Donald Trump has demanded an investigation after official figures revised US third-quarter growth up to 4.3%, claiming without evidence that the earlier figure was deliberately understated before the midterms.",
+   "body": [
+    "US President Donald Trump has called for an immediate investigation into an upward revision of US economic growth figures.",
+    "## The revision",
+    "On Wednesday, the US Commerce Department's Bureau of Economic Analysis revised annualised growth for the third quarter to 4.3%, up from its earlier estimate of 3.4% released on 29 October. Such revisions are a standard part of the process as more complete data becomes available.",
+    "## Trump's claim",
+    "In a post on Truth Social on Thursday, 26 November 2026, Trump branded the earlier, pre-election figure fake and asked why the correct number was not released before the 3 November midterm elections. He claimed, without evidence, that the earlier figure had been deliberately understated.",
+    "## Background",
+    "Trump's Republican Party suffered heavy losses in the midterms, with Democrats winning control of both the House and the Senate."
+   ],
+   "more": [
+    "Q3 growth was revised up to 4.3% from 3.4%.",
+    "Trump called the earlier figure fake.",
+    "He offered no evidence."
+   ],
+   "hot": 8,
+   "at": "2026-11-27T06:42Z"
+  },
   {
    "id": "makinde-camp-denies-stepping-down-for-atiku",
    "c": "elections",
@@ -35,11 +109,11 @@
     "It accused the APC of spreading lies.",
     "The opposition summit holds on 30 November."
    ],
-   "hot": 3,
    "img": "img/makinde-camp-denies-stepping-down-for-atiku-tn.jpg",
    "alt": "Atiku Abubakar in a blue cap and agbada speaking into a microphone",
    "credit": "Photo: Trend Naija",
-   "at": "2026-11-26T20:42Z"
+   "at": "2026-11-26T20:42Z",
+   "hot": 4
   },
   {
    "id": "babangida-backs-tinubu-delegation-minna",
@@ -62,11 +136,11 @@
     "Babangida reportedly praised Tinubu's administration.",
     "Abdulsalami Abubakar was also visited."
    ],
-   "hot": 5,
    "img": "img/babangida-backs-tinubu-delegation-minna-tn.jpg",
    "alt": "President Bola Tinubu in a green cap and glasses at a meeting",
    "credit": "Photo: Trend Naija",
-   "at": "2026-11-26T20:42Z"
+   "at": "2026-11-26T20:42Z",
+   "hot": 9
   },
   {
    "id": "ebonyi-ndc-deputy-candidate-joins-apc",
@@ -89,7 +163,6 @@
     "He pledged loyalty to Tinubu and Nwifuru.",
     "The NDC had not responded."
    ],
-   "hot": 6,
    "at": "2026-11-26T20:42Z"
   },
   {
@@ -113,7 +186,6 @@
     "It is for his staff and musicians.",
     "He hopes they move in before Christmas."
    ],
-   "hot": 7,
    "at": "2026-11-26T20:42Z"
   },
   {
@@ -159,8 +231,7 @@
    "img": "img/tinubu-n100m-houses-naf-crash-families-tn.jpg",
    "alt": "President Bola Tinubu in a green cap and glasses at a meeting",
    "credit": "Photo: Trend Naija",
-   "at": "2026-11-26T17:42Z",
-   "hot": 4
+   "at": "2026-11-26T17:42Z"
   },
   {
    "id": "opposition-summit-abuja-november-30",
@@ -184,7 +255,7 @@
     "It focuses on unity and electoral integrity."
    ],
    "at": "2026-11-26T17:42Z",
-   "hot": 8
+   "hot": 7
   },
   {
    "id": "atiku-slams-tinubu-manufacturers-energy-costs",
@@ -965,7 +1036,9 @@
     "Wike made the request at a town hall meeting with residents and members of his Rainbow Coalition in Gokana Local Government Area of Rivers State. He is said to have argued that his work in Rivers State and the Federal Capital Territory was complete, and that he was ready to step in where the APC was struggling.",
     "He reportedly said he had received reports of difficulties for the party in Imo and of divisions within APC ranks in Kwara.",
     "## Background",
-    "Wike, a former PDP governor of Rivers State, leads a coalition of PDP members backing Tinubu. No response from the APC campaign was included in the reports."
+    "Wike, a former PDP governor of Rivers State, leads a coalition of PDP members backing Tinubu. No response from the APC campaign was included in the reports.",
+    "## Imo APC hits back",
+    "The APC in Imo State rejected Wike's offer outright. In a statement on Thursday, the party's state publicity secretary dismissed the minister in strong terms, in what was widely seen as a defence of Governor Hope Uzodimma's leadership of the party in the state."
    ],
    "more": [
     "Wike wants to lead the APC campaign in Imo and Kwara.",
@@ -982,7 +1055,8 @@
    ],
    "alt": "Nyesom Wike in a dark cap, glasses and black outfit speaking at a desk in front of the Nigerian flag and President Bola Tinubu in a green cap and glasses at a meeting",
    "credit": "Photo: Trend Naija",
-   "at": "2026-11-25T17:42Z"
+   "at": "2026-11-25T17:42Z",
+   "hot": 6
   },
   {
    "id": "miss-universe-2026-puerto-rico-first-mother",
@@ -1225,8 +1299,7 @@
     "It happened at a fashion school graduation.",
     "Opinion online is divided."
    ],
-   "at": "2026-11-25T11:41Z",
-   "hot": 9
+   "at": "2026-11-25T11:41Z"
   },
   {
    "id": "benny-hinn-edo-roads",
@@ -1634,77 +1707,6 @@
     "CAS overturned CAF's ruling in full.",
     "Senegal beat Morocco 1-0 in Rabat in January.",
     "CAF had promised to accept the verdict."
-   ],
-   "at": "2026-11-24T14:42Z"
-  },
-  {
-   "id": "court-sacks-omo-agege-ndc-candidate",
-   "c": "elections",
-   "n": 2,
-   "added": "2026-11-24",
-   "h": "Court sacks Omo-Agege as NDC senatorial candidate for Delta Central",
-   "p": "A Federal High Court in Warri has voided Ovie Omo-Agege's nomination as the NDC candidate for Delta Central and ordered INEC to remove his name. The judgment came a day after gunmen attacked his campaign.",
-   "body": [
-    "A Federal High Court in Warri, Delta State, has nullified the nomination of former Deputy Senate President Ovie Omo-Agege as the Nigeria Democratic Congress (NDC) candidate for Delta Central Senatorial District in the 2027 elections.",
-    "## The judgment",
-    "Delivering judgment on Tuesday, 24 November 2026, Justice Hyeladzira Ajiya Nganjiwa ruled that the NDC failed to comply with mandatory provisions of the Electoral Act in nominating Omo-Agege. The court directed INEC to remove his name from the list of senatorial candidates and barred him from presenting himself as the party's candidate.",
-    "## Why the court ruled against him",
-    "The suit was filed by Professor Alexander Osondu Akpodiete, who challenged Omo-Agege's nomination, his resignation from the APC and his eligibility to take part in the NDC primary. The court held that the NDC did not submit its membership register to INEC as required, and that Omo-Agege was still an APC member when he took part in the party's senatorial primary on 18 May 2026. The judge first dismissed five preliminary objections raised by Omo-Agege, the NDC and INEC.",
-    "## Background",
-    "The ruling came a day after gunmen attacked Omo-Agege's campaign event in Uduere, Ughelli North, killing several people. The senator escaped unhurt.",
-    "## Omo-Agege to appeal",
-    "Omo-Agege rejected the judgment and said he had directed his lawyers to file an appeal immediately. He disputed the finding that his name was missing from the NDC membership register submitted to INEC before the primaries."
-   ],
-   "more": [
-    "The court ordered INEC to remove his name.",
-    "It said the NDC did not submit its membership register.",
-    "The ruling came a day after his campaign was attacked."
-   ],
-   "at": "2026-11-24T14:42Z"
-  },
-  {
-   "id": "cbn-holds-interest-rate-23-percent",
-   "c": "naija",
-   "n": 1,
-   "added": "2026-11-24",
-   "h": "CBN keeps interest rate at 23% despite slowing inflation",
-   "p": "The Central Bank of Nigeria has held its benchmark interest rate at 23% at the last policy meeting of the year. Analysts had warned that election-year spending could put fresh pressure on prices.",
-   "body": [
-    "The Central Bank of Nigeria (CBN) has kept its benchmark interest rate unchanged at 23%, maintaining a tight policy stance even though inflation has continued to slow.",
-    "## The decision",
-    "Announcing the outcome in Abuja on Tuesday, 24 November 2026, after the Monetary Policy Committee's final two-day meeting of the year, CBN Governor Olayemi Cardoso said members voted unanimously to hold the Monetary Policy Rate at 23%.",
-    "The committee also left the corridor around the rate unchanged, and kept the cash reserve requirement for commercial banks at 45% and for merchant banks at 16%.",
-    "## Why it held",
-    "The decision reflects caution amid renewed pressure on the naira and uncertainty at home and abroad. Analysts had said the recent drop in inflation might not be enough to justify a cut, warning that spending ahead of the 2027 elections could increase money in circulation and push prices up again.",
-    "## What it means",
-    "Borrowing costs for businesses and households are expected to remain high for now."
-   ],
-   "more": [
-    "The rate stays at 23%.",
-    "The decision was unanimous.",
-    "Analysts warned of election-year spending pressure."
-   ],
-   "at": "2026-11-24T14:42Z"
-  },
-  {
-   "id": "fg-disowns-n100000-nfsp-grant-portal",
-   "c": "naija",
-   "n": 1,
-   "added": "2026-11-24",
-   "h": "FG disowns ₦100,000 family grant portal, warns Nigerians not to share personal details",
-   "p": "The Federal Ministry of Youth Development has said the widely shared NFSP ₦100,000 family grant website is fraudulent. It warned people not to submit bank details, passwords, PINs or OTPs.",
-   "body": [
-    "The federal government has disowned a widely publicised ₦100,000 family support grant, warning Nigerians not to register on the website promoting it.",
-    "## The warning",
-    "In a disclaimer on its official X account, the Federal Ministry of Youth Development said the website for the so-called Nigeria Family Strengthening and Development Programme (NFSP) was fraudulent and was neither authorised nor run by the ministry.",
-    "The ministry urged people to stop using the platform immediately and not to upload personal documents. It specifically warned against sharing bank details, passwords, PINs and one-time passwords (OTPs).",
-    "## Why it matters",
-    "The purported grant had drawn wide attention online in recent weeks, with many Nigerians rushing to apply. There are now concerns that some applicants may have already submitted sensitive personal information."
-   ],
-   "more": [
-    "The ministry says the NFSP website is fake.",
-    "Do not share bank details, PINs or OTPs.",
-    "Many people had already applied."
    ],
    "at": "2026-11-24T14:42Z"
   },
