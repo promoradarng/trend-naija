@@ -1,5 +1,5 @@
 {
- "updated": "Updated 17:42 GMT",
+ "updated": "Updated 20:41 GMT",
  "date": "Friday, 27 November 2026",
  "categories": {
   "all": "All gist",
@@ -14,6 +14,76 @@
   "sport": "Sport"
  },
  "stories": [
+  {
+   "id": "nafdac-shuts-zuba-market-fake-products",
+   "c": "naija",
+   "n": 1,
+   "added": "2026-11-27",
+   "h": "NAFDAC shuts Abuja's Zuba International Market over fake products worth ₦300m",
+   "p": "NAFDAC has shut Zuba International Market in Abuja after a joint operation with police and the DSS reportedly uncovered counterfeit and unwholesome goods worth more than ₦300 million. Over 160 shops were inspected.",
+   "body": [
+    "The National Agency for Food and Drug Administration and Control (NAFDAC) has shut down Zuba International Market in the Federal Capital Territory, Abuja.",
+    "## The operation",
+    "The closure followed a joint enforcement operation with the Nigeria Police Force and the Department of State Services, which reportedly uncovered counterfeit and unwholesome products worth more than ₦300 million. The exercise covered more than 160 shops in the market.",
+    "## Why now",
+    "NAFDAC said the closure was part of a wider crackdown on substandard and fake goods ahead of the festive season."
+   ],
+   "more": [
+    "Over 160 shops were inspected.",
+    "Fake goods worth over ₦300m were reportedly found.",
+    "The crackdown comes ahead of Christmas."
+   ],
+   "hot": 4,
+   "at": "2026-11-27T20:41Z"
+  },
+  {
+   "id": "rmrdc-dg-urges-obi-drop-bid-back-tinubu",
+   "c": "elections",
+   "n": 1,
+   "added": "2026-11-27",
+   "h": "RMRDC chief urges Peter Obi to drop presidential bid and back Tinubu",
+   "p": "The Director-General of the Raw Materials Research and Development Council, Nnanyelugo Ike-Muonso, has reportedly called on Peter Obi to abandon his 2027 bid and support President Tinubu. He defended the removal of petrol subsidy.",
+   "body": [
+    "Professor Nnanyelugo Ike-Muonso, Director-General of the Raw Materials Research and Development Council (RMRDC), has reportedly called on Peter Obi, the Nigeria Democratic Congress (NDC) presidential candidate, to abandon his 2027 ambition and support President Bola Tinubu's re-election.",
+    "## What he said",
+    "Speaking to journalists in Abuja on Friday, 27 November 2026, Ike-Muonso is said to have defended the removal of the petrol subsidy, and argued that another four years would allow the president to build on his economic policies.",
+    "## Background",
+    "Obi is due to attend an opposition summit in Abuja on Monday with Atiku Abubakar and Seyi Makinde, where a cooperation pact is expected to be signed.",
+    "## The other side",
+    "No response from Obi or the NDC was included in the reports."
+   ],
+   "more": [
+    "The RMRDC DG wants Obi to back Tinubu.",
+    "He defended subsidy removal.",
+    "Obi's camp had not responded."
+   ],
+   "img": "img/rmrdc-dg-urges-obi-drop-bid-back-tinubu-tn.jpg",
+   "alt": "Peter Obi and President Bola Tinubu side by side",
+   "credit": "Photo: Trend Naija",
+   "at": "2026-11-27T20:41Z"
+  },
+  {
+   "id": "nicole-scherzinger-thom-evans-split",
+   "c": "world",
+   "n": 1,
+   "added": "2026-11-27",
+   "h": "Nicole Scherzinger and fiancé Thom Evans split after seven years",
+   "p": "Former Pussycat Dolls singer Nicole Scherzinger and former rugby player Thom Evans have ended their relationship. Evans said the decision was Scherzinger's and that he respects it.",
+   "body": [
+    "Former Pussycat Dolls singer Nicole Scherzinger and her fiancé, former rugby player Thom Evans, have ended their relationship after seven years together.",
+    "## The announcement",
+    "Evans, 41, announced the split in a statement on his Instagram Stories on Friday, 27 November 2026. He said that after seven years of love and commitment it was an incredibly difficult time, that the decision was made by Scherzinger, 48, and that he respected it and wished her happiness.",
+    "Scherzinger had not publicly commented on the breakup at the time of the reports.",
+    "## How they met",
+    "The couple met in 2019 on The X Factor: Celebrity, where Scherzinger was a judge and Evans competed as part of a singing group. They later became engaged."
+   ],
+   "more": [
+    "Evans announced the split on Instagram.",
+    "He said the decision was Scherzinger's.",
+    "They met on The X Factor in 2019."
+   ],
+   "at": "2026-11-27T20:41Z"
+  },
   {
    "id": "ok-movement-pulls-support-from-obi-ndc",
    "c": "elections",
@@ -37,11 +107,11 @@
     "It says Obi's camp cut ties with it.",
     "The NDC had not responded."
    ],
-   "hot": 2,
    "img": "img/ok-movement-pulls-support-from-obi-ndc-tn.jpg",
    "alt": "Peter Obi in glasses and a black top in front of the Nigerian flag",
    "credit": "Photo: Trend Naija",
-   "at": "2026-11-27T17:43Z"
+   "at": "2026-11-27T17:43Z",
+   "hot": 2
   },
   {
    "id": "adeleke-second-term-inauguration-davido",
@@ -63,11 +133,11 @@
     "Davido wore matching white outfits with his cousins.",
     "Adeleke dissolved his cabinet earlier this week."
    ],
-   "hot": 5,
    "img": "img/adeleke-second-term-inauguration-davido-tn.jpg",
    "alt": "Davido in a dark beanie and grey jacket",
    "credit": "Photo: Trend Naija",
-   "at": "2026-11-27T17:43Z"
+   "at": "2026-11-27T17:43Z",
+   "hot": 6
   },
   {
    "id": "vdm-urges-obi-atiku-makinde-unite",
@@ -88,7 +158,6 @@
     "They are due at an opposition summit on Monday.",
     "The summit is not expected to produce a merger."
    ],
-   "hot": 6,
    "imgs": [
     "img/vdm-urges-obi-atiku-makinde-unite-tn.jpg",
     "img/vdm-urges-obi-atiku-makinde-unite-tn2.jpg"
@@ -121,7 +190,6 @@
     "Their combined value is put at over ₦500m.",
     "The dealer says all three are brand-new."
    ],
-   "hot": 7,
    "at": "2026-11-27T17:43Z"
   },
   {
@@ -295,7 +363,7 @@
     "The governor had not responded."
    ],
    "at": "2026-11-27T11:42Z",
-   "hot": 4
+   "hot": 5
   },
   {
    "id": "netflix-removes-tyson-fury-schizophrenia-claim",
@@ -325,7 +393,7 @@
   {
    "id": "fashola-condemns-rig-and-die-slogan",
    "c": "elections",
-   "n": 1,
+   "n": 2,
    "added": "2026-11-27",
    "h": "Fashola says no one should die for rigging elections",
    "p": "Former Lagos Governor Babatunde Fashola has condemned the 'rig and die' slogan, saying death is not the penalty for electoral offences. He backed tougher prison terms instead.",
@@ -880,7 +948,7 @@
   {
    "id": "plateau-bassa-attack-16-killed",
    "c": "naija",
-   "n": 1,
+   "n": 2,
    "added": "2026-11-26",
    "h": "At least 16 killed in gunmen attack on Plateau community",
    "p": "Gunmen have killed at least 16 people, including women and children, in an attack on a community in Bassa Local Government Area of Plateau State, according to a local association. Four others were injured.",
@@ -891,14 +959,17 @@
     "## Background",
     "The attack is the latest in a series of deadly incidents in Plateau State, including in Bokkos, where gunmen set a secondary school on fire earlier this week.",
     "## Response",
-    "No statement from the police or the state government on the attack was included in the initial reports."
+    "No statement from the police or the state government on the attack was included in the initial reports.",
+    "## More details",
+    "Residents said the attack on Tafi-Gana in Jebbu Miango continued into the early hours of Thursday. One resident said 16 bodies were recovered at the scene and that three more victims later died. Community leaders urged residents to stay calm as security agencies investigate."
    ],
    "more": [
     "At least 16 people were killed.",
     "The attack happened late on Wednesday.",
     "Four others were injured."
    ],
-   "at": "2026-11-26T14:41Z"
+   "at": "2026-11-26T14:41Z",
+   "hot": 7
   },
   {
    "id": "dangote-cuts-diesel-price-n125",
@@ -1614,71 +1685,6 @@
    "img": "img/tinubu-congratulates-atiku-80th-birthday-tn.jpg",
    "alt": "Atiku Abubakar and President Bola Tinubu side by side",
    "credit": "Photo: Trend Naija",
-   "at": "2026-11-25T14:42Z"
-  },
-  {
-   "id": "cbn-raises-bdc-dollar-limit-1m",
-   "c": "naija",
-   "n": 2,
-   "added": "2026-11-25",
-   "h": "CBN raises weekly dollar limit for BDCs from $150,000 to $1m",
-   "p": "The Central Bank of Nigeria has reportedly raised the weekly dollar purchase limit for Bureau De Change operators to $1 million to ease festive pressure on the naira. Banks have begun implementing the change.",
-   "body": [
-    "The Central Bank of Nigeria (CBN) has reportedly raised the weekly dollar cash purchase limit for Bureau De Change (BDC) operators from $150,000 to $1 million, in a move aimed at easing seasonal pressure on the foreign exchange market.",
-    "## How it will work",
-    "Sources said commercial banks had started contacting BDC operators to set up arrangements for the new limit. Banks will act only as intermediaries between BDCs and the official Nigerian Foreign Exchange Market, using a purchase tracking platform.",
-    "## Background",
-    "The change is a major relaxation of restrictions the CBN introduced in February. It comes as the naira has weakened against the dollar in recent days and the country's external reserves have fallen. The CBN this week kept its benchmark interest rate at 23%."
-   ],
-   "more": [
-    "The limit rises from $150,000 to $1 million a week.",
-    "Banks will act as intermediaries.",
-    "The naira has weakened in recent days."
-   ],
-   "at": "2026-11-25T14:42Z"
-  },
-  {
-   "id": "raheem-sterling-suspended-sentence",
-   "c": "sport",
-   "n": 1,
-   "added": "2026-11-25",
-   "h": "Raheem Sterling given suspended jail term for dangerous driving",
-   "p": "Former England winger Raheem Sterling has been handed a 12-month prison sentence, suspended for 18 months, after pleading guilty to dangerous driving. The court heard he was inhaling from a balloon while driving his Lamborghini.",
-   "body": [
-    "Former England winger Raheem Sterling has avoided an immediate prison term after a court handed him a 12-month sentence, suspended for 18 months, for dangerous driving.",
-    "## The sentence",
-    "The sentence was handed down on Wednesday, 25 November 2026, at Basingstoke Magistrates' Court. The judge said the 31-year-old had shown a conscious disregard for the safety of other road users.",
-    "## What happened",
-    "The court heard that Sterling drove his Lamborghini on the M25 and M3 motorways during the morning rush hour on 28 May. Witnesses told police they saw him weaving between lanes while inhaling from a balloon. Officers who attended his later crash found him in the passenger seat with two canisters of nitrous oxide.",
-    "## Background",
-    "Sterling, who most recently played for Dutch club Feyenoord, pleaded guilty to dangerous driving in September."
-   ],
-   "more": [
-    "The 12-month sentence is suspended for 18 months.",
-    "He drove his Lamborghini on the M25 and M3.",
-    "He pleaded guilty in September."
-   ],
-   "at": "2026-11-25T14:42Z"
-  },
-  {
-   "id": "lagos-seals-four-churches-noise",
-   "c": "naija",
-   "n": 1,
-   "added": "2026-11-25",
-   "h": "Lagos seals four churches over noise pollution",
-   "p": "The Lagos State Environmental Protection Agency has sealed four churches in Ajah and Ipaja-Ayobo for persistent noise pollution. The agency said the enforcement was carried out on Tuesday.",
-   "body": [
-    "The Lagos State Environmental Protection Agency (LASEPA) has sealed four churches over persistent noise pollution.",
-    "## The churches",
-    "The agency said on its X account on Wednesday, 25 November 2026, that the enforcement was carried out on Tuesday. The affected churches are a Celestial Church of Christ parish in Lambada, Ajah; a branch of The Lord's Chosen Charismatic Revival Movement in Ipaja-Ayobo; God's Word Faith Ministries in Ipaja-Ayobo; and His Presence Redemptions Ministry International, also in Ipaja-Ayobo.",
-    "## Why",
-    "LASEPA said the churches were sealed for persistent noise pollution, in line with the state's environmental laws."
-   ],
-   "more": [
-    "Four churches were sealed on Tuesday.",
-    "Three are in Ipaja-Ayobo and one in Ajah.",
-    "LASEPA cited persistent noise pollution."
-   ],
    "at": "2026-11-25T14:42Z"
   },
   {
