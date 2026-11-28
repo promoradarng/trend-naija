@@ -1,5 +1,5 @@
 {
- "updated": "Updated 06:42 GMT",
+ "updated": "Updated 09:42 GMT",
  "date": "Saturday, 28 November 2026",
  "categories": {
   "all": "All gist",
@@ -14,6 +14,105 @@
   "sport": "Sport"
  },
  "stories": [
+  {
+   "id": "wwe-bronson-reed-dies-38",
+   "c": "sport",
+   "n": 2,
+   "added": "2026-11-28",
+   "h": "WWE star Bronson Reed dies at 38",
+   "p": "WWE has announced the death of wrestler Bronson Reed, real name Jermaine Haley, at the age of 38 from medical complications. He had been seriously injured at a WWE event in Saudi Arabia three weeks earlier.",
+   "body": [
+    "WWE has announced the death of wrestler Bronson Reed, whose real name was Jermaine Haley, at the age of 38.",
+    "## The announcement",
+    "In a statement on its website on Friday, 27 November 2026, WWE said Reed had died earlier that day from medical complications, but did not give further details. The company described him as a larger-than-life figure, a devoted family man and a beloved colleague, and sent its condolences to his pregnant wife, Paige, and their daughter.",
+    "## Earlier injury",
+    "His death came about three weeks after he was seriously injured at WWE's Crown Jewel event in Riyadh, Saudi Arabia, on 7 November. During a tag team title match, Nigerian-born wrestler Oba Femi threw him off the stage through a stack of tables. Reed reportedly suffered broken ribs and a lacerated kidney and spent more than a week in hospital in Saudi Arabia. WWE has not said whether his death was linked to the injury.",
+    "## His career",
+    "Born in Adelaide, Australia, Reed joined WWE in 2019. He won the NXT North American Championship and the 2024 André the Giant Memorial Battle Royal. Wrestlers and fans around the world have paid tribute."
+   ],
+   "more": [
+    "WWE says he died of medical complications.",
+    "He was injured at Crown Jewel on 7 November.",
+    "He leaves a pregnant wife and a daughter."
+   ],
+   "hot": 1,
+   "at": "2026-11-28T09:42Z"
+  },
+  {
+   "id": "inec-mock-accreditation-17656-polling-units",
+   "c": "elections",
+   "n": 1,
+   "added": "2026-11-28",
+   "h": "INEC holds nationwide mock accreditation in 17,656 polling units",
+   "p": "INEC is conducting a mock voter accreditation and result transmission exercise across 17,656 polling units in all 36 states and the FCT on Saturday. It is testing its upgraded BVAS machines and security arrangements.",
+   "body": [
+    "The Independent National Electoral Commission (INEC) is conducting a nationwide mock voter accreditation and result transmission exercise on Saturday, 28 November 2026.",
+    "## The exercise",
+    "The test is taking place at 17,656 polling units across the 36 states and the Federal Capital Territory. It is designed to test INEC's upgraded Bimodal Voter Accreditation System (BVAS), the result transmission process and election security arrangements under simulated election-day conditions. Sample ballot papers are being used.",
+    "## Why it matters",
+    "The exercise comes ahead of the presidential and National Assembly elections on 16 January 2027. INEC has faced criticism in past elections over delays in uploading results, and this week the commission named nine states as hotspots for campaign violence.",
+    "## Lagos adjusts",
+    "Lagos State cancelled its monthly environmental sanitation exercise, which had been scheduled for the same morning, so that residents could take part."
+   ],
+   "more": [
+    "The test covers 17,656 polling units.",
+    "It checks BVAS and result transmission.",
+    "Lagos cancelled its sanitation exercise for it."
+   ],
+   "hot": 3,
+   "at": "2026-11-28T09:42Z"
+  },
+  {
+   "id": "vdm-plans-ratel-political-party",
+   "c": "creators",
+   "n": 1,
+   "added": "2026-11-28",
+   "h": "VeryDarkMan says he will register his own Ratel party and fund it himself",
+   "p": "Activist VeryDarkMan has announced plans to register the Ratel Political Party before 2032, saying he will pay the registration costs from his business earnings. He said the movement will start with grassroots offices.",
+   "body": [
+    "Social media activist Martins Vincent Otse, popularly known as VeryDarkMan (VDM), has announced plans to register his own political party, the Ratel Political Party, before 2032.",
+    "## Paying his own way",
+    "In a video, VDM said he would fund the project with his own earnings from his businesses, rather than relying on supporters. He said he had heard the registration fee was over ₦50 million and that he would raise it. INEC's party registration guidelines set a non-refundable administrative fee of ₦50 million, and payment does not guarantee approval.",
+    "## Grassroots first",
+    "VDM said the Ratel movement would begin by focusing on grassroots positions, such as local government chairmen and councillors, rather than seats in the National Assembly.",
+    "## Background",
+    "'Ratel' is the name VDM uses for his followers. This week he also urged opposition leaders Peter Obi, Atiku Abubakar and Seyi Makinde to unite under one party against President Tinubu."
+   ],
+   "more": [
+    "VDM wants to register the party before 2032.",
+    "He says he will pay the ₦50m fee himself.",
+    "He plans to start with local government seats."
+   ],
+   "hot": 4,
+   "img": "img/vdm-plans-ratel-political-party-tn.jpg",
+   "alt": "VeryDarkMan with braided hair and a cowrie-shell necklace",
+   "credit": "Photo: Trend Naija",
+   "at": "2026-11-28T09:42Z"
+  },
+  {
+   "id": "remi-tinubu-efcc-can-investigate-funds",
+   "c": "elections",
+   "n": 1,
+   "added": "2026-11-28",
+   "h": "Remi Tinubu says EFCC can investigate her empowerment funds",
+   "p": "First Lady Remi Tinubu has said she does not use government money for her empowerment programmes and invited the EFCC to investigate. She spoke at an APC women's rally in Warri.",
+   "body": [
+    "First Lady Oluremi Tinubu has challenged the Economic and Financial Crimes Commission (EFCC) to investigate the funds she uses for her empowerment programmes, insisting she does not use government money.",
+    "## What she said",
+    "Speaking on Friday, 27 November 2026, at the South-South APC women's presidential campaign rally in Warri, Delta State, the First Lady said wealthy Nigerians willingly donate to her charitable work because they trust her not to misuse their money. She said she had been involved in charity for years, had served three terms as a senator, and did not need to beg anyone for money.",
+    "## Peace message",
+    "She also urged APC supporters not to fight anyone during the campaign, saying the party was confident of victory.",
+    "## Background",
+    "The rally took place in Delta State days after a deadly attack on an NDC campaign event in Ughelli North, and amid growing concern about political violence ahead of the 2027 elections."
+   ],
+   "more": [
+    "She says she does not use government money.",
+    "She invited the EFCC to check her funds.",
+    "She told supporters not to fight anyone."
+   ],
+   "hot": 6,
+   "at": "2026-11-28T09:42Z"
+  },
   {
    "id": "nigeria-voter-turnout-decline-since-2003",
    "c": "elections",
@@ -35,8 +134,8 @@
     "It fell to 26.71% in 2023.",
     "The 2027 election holds on 16 January."
    ],
-   "hot": 3,
-   "at": "2026-11-28T06:42Z"
+   "at": "2026-11-28T06:42Z",
+   "hot": 8
   },
   {
    "id": "chelsea-lose-third-straight-nottingham-forest",
@@ -59,7 +158,6 @@
     "Emegha scored twice for Chelsea.",
     "It is Chelsea's third league defeat in a row."
    ],
-   "hot": 6,
    "at": "2026-11-28T06:42Z"
   },
   {
@@ -81,8 +179,7 @@
     "Fake goods worth over ₦300m were reportedly found.",
     "The crackdown comes ahead of Christmas."
    ],
-   "at": "2026-11-27T20:41Z",
-   "hot": 7
+   "at": "2026-11-27T20:41Z"
   },
   {
    "id": "rmrdc-dg-urges-obi-drop-bid-back-tinubu",
@@ -161,7 +258,7 @@
    "alt": "Peter Obi in glasses and a black top in front of the Nigerian flag",
    "credit": "Photo: Trend Naija",
    "at": "2026-11-27T17:43Z",
-   "hot": 2
+   "hot": 5
   },
   {
    "id": "adeleke-second-term-inauguration-davido",
@@ -285,7 +382,7 @@
     "She says there is more to her story."
    ],
    "at": "2026-11-27T14:42Z",
-   "hot": 4
+   "hot": 7
   },
   {
    "id": "2baba-oldest-young-man-album-annie-reacts",
@@ -415,8 +512,7 @@
     "He alleges protests were staged at the EFCC.",
     "The governor had not responded."
    ],
-   "at": "2026-11-27T11:42Z",
-   "hot": 5
+   "at": "2026-11-27T11:42Z"
   },
   {
    "id": "netflix-removes-tyson-fury-schizophrenia-claim",
@@ -855,7 +951,7 @@
    ],
    "alt": "Atiku Abubakar in a blue cap and agbada speaking into a microphone and Peter Obi in glasses and a black top in front of the Nigerian flag",
    "credit": "Photo: Trend Naija",
-   "hot": 1
+   "hot": 2
   },
   {
    "id": "atiku-slams-tinubu-manufacturers-energy-costs",
@@ -1607,136 +1703,6 @@
    "at": "2026-11-25T17:42Z"
   },
   {
-   "id": "supreme-court-ogundipe-adc-ogun-candidate",
-   "c": "elections",
-   "n": 1,
-   "added": "2026-11-25",
-   "h": "Supreme Court affirms Ogundipe as ADC governorship candidate in Ogun",
-   "p": "The Supreme Court has recognised Dr Biodun Collins Ogundipe as the ADC's governorship candidate in Ogun State, overturning lower court rulings in favour of Jimi Lawal. It held that the party's own primary guidelines decide the outcome.",
-   "body": [
-    "The Supreme Court has affirmed Dr Biodun Collins Ogundipe as the African Democratic Congress (ADC) governorship candidate in Ogun State for the 2027 elections.",
-    "## The ruling",
-    "The apex court set aside earlier judgments of the Federal High Court and the Court of Appeal, which had recognised Jimi Lawal as the party's rightful candidate. A key issue was which body had the authority to collate and declare results in the ADC's primary. The court upheld the party's three-tier primary guidelines, set by its National Working Committee, as the binding framework.",
-    "## Reaction",
-    "Ogundipe welcomed the judgment with humility and gratitude, saying it was consistent with the Supreme Court's long-held position that political parties have the power to run their own primaries without outside interference.",
-    "## Background",
-    "This week, lower courts also voided the candidacies of the NDC's Ovie Omo-Agege in Delta Central and the APC's candidate for Bayelsa West."
-   ],
-   "more": [
-    "The Supreme Court overturned two lower court rulings.",
-    "It upheld the ADC's primary guidelines.",
-    "Ogundipe called the ruling a victory for party autonomy."
-   ],
-   "at": "2026-11-25T17:42Z"
-  },
-  {
-   "id": "wike-asks-lead-apc-campaign-imo-kwara",
-   "c": "elections",
-   "n": 3,
-   "added": "2026-11-25",
-   "h": "Wike asks to lead Tinubu's campaign in Imo and Kwara",
-   "p": "FCT Minister Nyesom Wike has reportedly asked President Tinubu and campaign DG Abdul'aziz Yari to put him in charge of the APC's campaign in Imo and Kwara states. He said he had already secured Rivers and the FCT.",
-   "body": [
-    "FCT Minister Nyesom Wike has reportedly asked President Bola Tinubu and the Director-General of the APC presidential campaign council, Abdul'aziz Yari, to assign him to lead the party's re-election campaign in Imo and Kwara states.",
-    "## What he said",
-    "Wike made the request at a town hall meeting with residents and members of his Rainbow Coalition in Gokana Local Government Area of Rivers State. He is said to have argued that his work in Rivers State and the Federal Capital Territory was complete, and that he was ready to step in where the APC was struggling.",
-    "He reportedly said he had received reports of difficulties for the party in Imo and of divisions within APC ranks in Kwara.",
-    "## Background",
-    "Wike, a former PDP governor of Rivers State, leads a coalition of PDP members backing Tinubu. No response from the APC campaign was included in the reports.",
-    "## Imo APC hits back",
-    "The APC in Imo State rejected Wike's offer outright. In a statement on Thursday, the party's state publicity secretary dismissed the minister in strong terms, in what was widely seen as a defence of Governor Hope Uzodimma's leadership of the party in the state."
-   ],
-   "more": [
-    "Wike wants to lead the APC campaign in Imo and Kwara.",
-    "He says Rivers and the FCT are secured.",
-    "The APC campaign had not responded."
-   ],
-   "imgs": [
-    "img/wike-asks-lead-apc-campaign-imo-kwara-tn.jpg",
-    "img/wike-asks-lead-apc-campaign-imo-kwara-tn2.jpg"
-   ],
-   "alts": [
-    "Nyesom Wike in a dark cap, glasses and black outfit speaking at a desk in front of the Nigerian flag",
-    "President Bola Tinubu in a green cap and glasses at a meeting"
-   ],
-   "alt": "Nyesom Wike in a dark cap, glasses and black outfit speaking at a desk in front of the Nigerian flag and President Bola Tinubu in a green cap and glasses at a meeting",
-   "credit": "Photo: Trend Naija",
-   "at": "2026-11-25T17:42Z"
-  },
-  {
-   "id": "miss-universe-2026-puerto-rico-first-mother",
-   "c": "world",
-   "n": 1,
-   "added": "2026-11-25",
-   "h": "Puerto Rico's Jennifer Barreto becomes first mother to win Miss Universe",
-   "p": "Jennifer Barreto of Puerto Rico has won Miss Universe 2026, becoming the first mother and first married woman to take the crown. The final was held in San Juan.",
-   "body": [
-    "Puerto Rico's Jennifer Barreto has made history as the first mother to win the Miss Universe crown.",
-    "## The final",
-    "The 27-year-old was crowned Miss Universe 2026 on Tuesday, 24 November, at the grand finale of the pageant's 75th edition, held at the José Miguel Agrelot Coliseum in San Juan, Puerto Rico. She beat contestants from 115 other countries.",
-    "## A historic win",
-    "Barreto is married and has a seven-year-old daughter, making her the first mother and the first married woman to win the title. Her victory also gives Puerto Rico its sixth Miss Universe crown, ending a 20-year wait.",
-    "## The winning answer",
-    "In the final question round, she was asked what human value should never be lost as artificial intelligence grows. She stressed using AI responsibly and keeping human values alive through consistent actions."
-   ],
-   "more": [
-    "She is the first mother to win Miss Universe.",
-    "It is Puerto Rico's sixth crown.",
-    "The final was held in San Juan."
-   ],
-   "at": "2026-11-25T17:42Z"
-  },
-  {
-   "id": "pete-edochie-dies-79",
-   "c": "celebs",
-   "n": 5,
-   "added": "2026-11-25",
-   "h": "Nollywood legend Pete Edochie dies at 79",
-   "p": "Veteran actor Pete Edochie, famous for playing Okonkwo in Things Fall Apart, has died at the age of 79. His family says he died in Enugu early on Wednesday after a long battle with prostate cancer.",
-   "body": [
-    "Veteran Nollywood actor Pete Edochie has died at the age of 79, his family has announced.",
-    "## The announcement",
-    "In a statement shared on Instagram by his son, Leo Pete Edochie, on behalf of the family, the family said the actor died at 12:30am on Wednesday, 25 November 2026, in Enugu, after a prolonged battle with prostate cancer. The statement, titled 'An Iroko Has Fallen', described him as a beloved husband, father, brother and kinsman.",
-    "He is survived by his wife, Josephine Edochie, his children, including actors Yul and Linc Edochie, his siblings and other relatives. The family said funeral arrangements would be announced in due course.",
-    "## His life and career",
-    "Pete Edochie hailed from Akamnato, Ifite Nteje, in Anambra State. He began his career in broadcasting in 1967 before becoming one of Nigeria's best-known actors. His major breakthrough came in 1987, when he played Okonkwo in the Nigerian Television Authority's adaptation of Chinua Achebe's Things Fall Apart, a role that brought him recognition far beyond Nigeria.",
-    "Known for his commanding voice and powerful screen presence, he became famous for portraying traditional patriarchs and kings in countless Nollywood films. He was honoured with the national award of Member of the Order of the Niger (MON).",
-    "## His final weeks",
-    "In October, during a visit to Ghana, he spoke openly about his declining health, saying walking had become difficult, and prayed that he would not become a burden to those around him. Just this week, actress Toyin Abraham and her crew knelt to welcome him on her film set, and he had spoken publicly about his son Yul days earlier.",
-    "## Tributes",
-    "News of his death has drawn an outpouring of grief from fans, many of whom described it as the end of an era for Nigerian film.",
-    "## Governor and colleagues pay tribute",
-    "Enugu State Governor Peter Mbah described Edochie as an institution and said his death was a personal loss for the state, which the actor considered his birthplace and first port of call. Actress Funke Akindele, who worked with him in the film Egg of Life, recalled growing up watching him play Okonkwo and said his words of encouragement had stayed with her.",
-    "## Tinubu: 'larger than life'",
-    "President Bola Tinubu, in a condolence statement from the State House, described Edochie as one of Nigeria's greatest actors and a founding figure of Nollywood, graceful and larger than life both on screen and in person. Joke Silva, whose husband Olu Jacobs died earlier this year, Toyin Abraham, Omoni Oboli and his daughter-in-law May Edochie were among those who also paid tribute, while his son Uche shared the last photo he took with his father.",
-    "## More tributes",
-    "Content creator Peller also mourned the actor, sharing a moment from their last meeting and expressing gratitude for the time they spent together.",
-    "## Genevieve Nnaji",
-    "Genevieve Nnaji, who worked with Edochie on her directorial debut Lionheart, shared a photo of the two of them and an emotional tribute, describing him with the Igbo term of endearment 'nnanyi', meaning 'our father'.",
-    "## 'Irreplaceable'",
-    "Veteran actress Patience Ozokwo described his death as an irreplaceable loss, saying he was deeply committed to authenticity and always made sure cultural details were portrayed correctly on set.",
-    "## Obi and family",
-    "NDC presidential candidate Peter Obi described Edochie as an irreplaceable figure in Nigerian and African culture and a distinguished son of Anambra State. His sister-in-law, actress Rita Edochie, said she was struck by how swiftly he was taken, referring to an illness of barely five weeks.",
-    "## Yul Edochie speaks",
-    "On Thursday, his son Yul Edochie posted a personal tribute on Instagram, saying words had failed him. Many fans set aside past controversies to console him. Ghanaian actress Jackie Appiah also mourned Edochie, sharing their last conversation weeks before his death.",
-    "## Judy Austin",
-    "Judy Austin, Yul Edochie's second wife, later posted her own tribute after some fans criticised her silence.",
-    "## On set",
-    "Veteran actor Nkem Owoh also paid an emotional tribute, recalling their friendship, while actor Frederick Leonard led cast and crew in a minute's silence for Edochie on a film set.",
-    "## Final moments",
-    "In a long tribute on Friday, Yul Edochie said he would never forget his father asking him to hold his hand in hospital, and that his father always urged him to call every day. His brother Leo also shared what he described as their father's final wish.",
-    "## Minister visits family",
-    "A federal minister representing President Tinubu visited Edochie's widow and family members at their residence in Enugu to condole with them."
-   ],
-   "more": [
-    "He died in Enugu early on Wednesday.",
-    "He was best known as Okonkwo in Things Fall Apart.",
-    "Funeral arrangements will be announced later."
-   ],
-   "at": "2026-11-25T06:42Z",
-   "hot": 8
-  },
-  {
    "id": "jimmy-odukoya-sues-sister-fountain-of-life-trustees",
    "c": "naija",
    "n": 2,
@@ -1767,7 +1733,9 @@
     "## Bench warrant issued",
     "On Thursday, 26 November, Justice O. Adewunmi-Oshin issued a bench warrant for Jimmy's arrest after he failed to appear in court for the contempt proceedings brought by the church's trustees. The judge also sent the case back to the administrative judge for reassignment. Jimmy had earlier said he had not been served with the court's order.",
     "## Church faults warrant",
-    "In a statement on Thursday, the Fountain of Life Church, speaking for Jimmy as senior pastor, challenged the bench warrant, saying due process was not followed. It raised five objections, including how court documents from the 18 November orders were served on him."
+    "In a statement on Thursday, the Fountain of Life Church, speaking for Jimmy as senior pastor, challenged the bench warrant, saying due process was not followed. It raised five objections, including how court documents from the 18 November orders were served on him.",
+    "## Police 'making enquiries'",
+    "The Lagos State Police Command said it was still checking with its legal department whether it had received the bench warrant."
    ],
    "more": [
     "A bench warrant has been issued for Jimmy Odukoya.",
