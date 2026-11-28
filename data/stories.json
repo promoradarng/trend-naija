@@ -1,5 +1,5 @@
 {
- "updated": "Updated 09:42 GMT",
+ "updated": "Updated 11:42 GMT",
  "date": "Saturday, 28 November 2026",
  "categories": {
   "all": "All gist",
@@ -15,9 +15,83 @@
  },
  "stories": [
   {
+   "id": "omotola-opens-up-mother-nollywood-blacklist",
+   "c": "celebs",
+   "n": 2,
+   "added": "2026-11-28",
+   "h": "Omotola Jalade opens up on difficult bond with late mother and Nollywood blacklist",
+   "p": "Veteran actress Omotola Jalade-Ekeinde has spoken about her strained relationship with her late mother and her regrets since her death. She also said she was once blacklisted in Nollywood for demanding better standards.",
+   "body": [
+    "Veteran Nollywood actress Omotola Jalade-Ekeinde has spoken openly about her complicated relationship with her late mother and about being blacklisted in the film industry early in her career.",
+    "## A difficult bond",
+    "In an interview released on Friday, 27 November 2026, Omotola said she and her mother did not always get along. Her mother worried that the film industry would expose her daughter to immorality, and the tension grew when Omotola began dating her husband, Captain Matthew Ekeinde. When he visited to formally ask for her hand, her mother reportedly questioned whether her daughter was ready for marriage.",
+    "Omotola said the relationship later improved and the two became much closer. She admitted that she still has regrets about the care and support she never got to show her mother, and said she now finds herself giving that care to other people's mothers. She added that the experience shaped her decision to make her directorial debut.",
+    "## 'Troublesome Eight'",
+    "Turning to her career, the actress said she was blacklisted after pushing for better standards and professionalism in Nollywood. She said she was one of a group of actors labelled the 'Troublesome Eight' because they demanded improvements. She also said she had a manager as far back as the 1990s, when professional management was not widely understood in the industry.",
+    "## Motherhood",
+    "The mother of four also spoke about her approach to parenting and the lessons motherhood has taught her."
+   ],
+   "more": [
+    "She says her mother doubted her readiness to marry.",
+    "She regrets the care she never got to show her.",
+    "She says she was blacklisted for demanding better standards."
+   ],
+   "hot": 3,
+   "at": "2026-11-28T11:42Z"
+  },
+  {
+   "id": "obi-makinde-melaye-dunamis-prayer-night",
+   "c": "elections",
+   "n": 1,
+   "added": "2026-11-28",
+   "h": "Obi, Makinde and Melaye join hands at Dunamis prayer night for 2027 polls",
+   "p": "Peter Obi, Seyi Makinde and Dino Melaye reportedly attended an all-night service at Dunamis church in Abuja, where Pastor Paul Enenche led prayers for the 2027 elections. Representatives of the APC and PDP were also called to the altar.",
+   "body": [
+    "NDC presidential candidate Peter Obi, Oyo State governor and APM candidate Seyi Makinde, and ADC chieftain Dino Melaye were reportedly among politicians at an all-night service at the Dunamis International Gospel Centre in Abuja on Friday, 27 November 2026.",
+    "## Prayers at the altar",
+    "The service was part of the church's 30th anniversary celebrations. At about 1am on Saturday, founder Paul Enenche reportedly invited the three politicians to the altar for a prayer session focused on Nigeria and the 2027 general election. They were joined by an aide representing Delta State governor Sheriff Oborevwori, who stood in for the APC, and a church member affiliated with the PDP.",
+    "With representatives of five parties at the altar, Enenche asked them to hold hands as he led the congregation in prayer. The prayers reportedly asked for God's will to prevail in Nigeria and included calls directed at INEC ahead of the polls.",
+    "## Background",
+    "The presidential and National Assembly elections are scheduled for 16 January 2027. The service came as opposition figures prepare for a summit in Abuja on 30 November."
+   ],
+   "more": [
+    "Five parties were represented at the altar.",
+    "Pastor Enenche asked them to hold hands.",
+    "The prayers focused on the 2027 election."
+   ],
+   "hot": 5,
+   "img": "img/obi-makinde-melaye-dunamis-prayer-night-tn.jpg",
+   "alt": "Peter Obi in glasses and a black top in front of the Nigerian flag",
+   "credit": "Photo: Trend Naija",
+   "at": "2026-11-28T11:42Z"
+  },
+  {
+   "id": "rita-edochie-tony-grief-pete-death",
+   "c": "celebs",
+   "n": 1,
+   "added": "2026-11-28",
+   "h": "Rita Edochie says husband Tony is struggling after brother Pete's death",
+   "p": "Actress Rita Edochie has reportedly said her husband, Tony Edochie, is finding the death of his elder brother Pete Edochie hard to bear. She said the family had been looking forward to Pete's 80th birthday.",
+   "body": [
+    "Nollywood actress Rita Edochie has reportedly opened up about the toll that veteran actor Pete Edochie's death has taken on her family, especially her husband, Tony Edochie.",
+    "## What she said",
+    "In an Instagram post, Rita thanked fans and well-wishers for their support, but said the period had been very difficult behind closed doors. She said Tony, Pete's younger brother, who was very close to him, is not finding it easy, but has chosen to accept the loss as the will of God.",
+    "She also revealed that the family had been looking forward to celebrating Pete's 80th birthday, a milestone they had hoped to mark in style.",
+    "## Background",
+    "Pete Edochie, one of Nigeria's best-known actors and broadcasters, died on 25 November 2026 at the age of 79 in Enugu. Tributes have poured in from across Nollywood, including from his son Yul Edochie and actress Patience Ozokwo."
+   ],
+   "more": [
+    "She says Tony is taking it as God's will.",
+    "The family had planned Pete's 80th birthday.",
+    "She thanked fans for their support."
+   ],
+   "hot": 7,
+   "at": "2026-11-28T11:42Z"
+  },
+  {
    "id": "wwe-bronson-reed-dies-38",
    "c": "sport",
-   "n": 2,
+   "n": 3,
    "added": "2026-11-28",
    "h": "WWE star Bronson Reed dies at 38",
    "p": "WWE has announced the death of wrestler Bronson Reed, real name Jermaine Haley, at the age of 38 from medical complications. He had been seriously injured at a WWE event in Saudi Arabia three weeks earlier.",
@@ -28,15 +102,18 @@
     "## Earlier injury",
     "His death came about three weeks after he was seriously injured at WWE's Crown Jewel event in Riyadh, Saudi Arabia, on 7 November. During a tag team title match, Nigerian-born wrestler Oba Femi threw him off the stage through a stack of tables. Reed reportedly suffered broken ribs and a lacerated kidney and spent more than a week in hospital in Saudi Arabia. WWE has not said whether his death was linked to the injury.",
     "## His career",
-    "Born in Adelaide, Australia, Reed joined WWE in 2019. He won the NXT North American Championship and the 2024 André the Giant Memorial Battle Royal. Wrestlers and fans around the world have paid tribute."
+    "Born in Adelaide, Australia, Reed joined WWE in 2019. He won the NXT North American Championship and the 2024 André the Giant Memorial Battle Royal. Wrestlers and fans around the world have paid tribute.",
+    "Reed began wrestling in 2007 on Australia's independent circuit under the name Jonah Rock, and had two spells with WWE, from 2019 to 2021 and from 2022 to 2026. He reportedly returned to the United States around 18 November to continue his recovery.",
+    "## Fans defend Oba Femi",
+    "After his death, some social media users directed personal attacks at Oba Femi over the Crown Jewel segment. Many WWE fans pushed back, saying the stage spot was a planned, scripted performance and that the Nigerian wrestler was not to blame. No official cause of death has been given, and WWE has not linked the incident to his death."
    ],
    "more": [
     "WWE says he died of medical complications.",
-    "He was injured at Crown Jewel on 7 November.",
+    "Fans have defended Oba Femi against online attacks.",
     "He leaves a pregnant wife and a daughter."
    ],
-   "hot": 1,
-   "at": "2026-11-28T09:42Z"
+   "at": "2026-11-28T09:42Z",
+   "hot": 1
   },
   {
    "id": "inec-mock-accreditation-17656-polling-units",
@@ -59,8 +136,8 @@
     "It checks BVAS and result transmission.",
     "Lagos cancelled its sanitation exercise for it."
    ],
-   "hot": 3,
-   "at": "2026-11-28T09:42Z"
+   "at": "2026-11-28T09:42Z",
+   "hot": 4
   },
   {
    "id": "vdm-plans-ratel-political-party",
@@ -83,11 +160,11 @@
     "He says he will pay the ₦50m fee himself.",
     "He plans to start with local government seats."
    ],
-   "hot": 4,
    "img": "img/vdm-plans-ratel-political-party-tn.jpg",
    "alt": "VeryDarkMan with braided hair and a cowrie-shell necklace",
    "credit": "Photo: Trend Naija",
-   "at": "2026-11-28T09:42Z"
+   "at": "2026-11-28T09:42Z",
+   "hot": 6
   },
   {
    "id": "remi-tinubu-efcc-can-investigate-funds",
@@ -110,8 +187,8 @@
     "She invited the EFCC to check her funds.",
     "She told supporters not to fight anyone."
    ],
-   "hot": 6,
-   "at": "2026-11-28T09:42Z"
+   "at": "2026-11-28T09:42Z",
+   "hot": 8
   },
   {
    "id": "nigeria-voter-turnout-decline-since-2003",
@@ -134,8 +211,7 @@
     "It fell to 26.71% in 2023.",
     "The 2027 election holds on 16 January."
    ],
-   "at": "2026-11-28T06:42Z",
-   "hot": 8
+   "at": "2026-11-28T06:42Z"
   },
   {
    "id": "chelsea-lose-third-straight-nottingham-forest",
@@ -257,8 +333,7 @@
    "img": "img/ok-movement-pulls-support-from-obi-ndc-tn.jpg",
    "alt": "Peter Obi in glasses and a black top in front of the Nigerian flag",
    "credit": "Photo: Trend Naija",
-   "at": "2026-11-27T17:43Z",
-   "hot": 5
+   "at": "2026-11-27T17:43Z"
   },
   {
    "id": "adeleke-second-term-inauguration-davido",
@@ -381,8 +456,7 @@
     "Her family celebrated her test results on video.",
     "She says there is more to her story."
    ],
-   "at": "2026-11-27T14:42Z",
-   "hot": 7
+   "at": "2026-11-27T14:42Z"
   },
   {
    "id": "2baba-oldest-young-man-album-annie-reacts",
@@ -1622,85 +1696,6 @@
     "No police statement was reported."
    ],
    "at": "2026-11-25T20:42Z"
-  },
-  {
-   "id": "kaduna-millennium-city-abduction",
-   "c": "naija",
-   "n": 1,
-   "added": "2026-11-25",
-   "h": "Bandits abduct six residents in Kaduna's Millennium City",
-   "p": "Suspected bandits reportedly abducted nine people from two houses in Millennium City, Chikun, Kaduna State, late on Tuesday, later releasing three. Six remain in captivity.",
-   "body": [
-    "Suspected bandits have reportedly abducted six residents in the Millennium City area of Chikun Local Government Area, Kaduna State.",
-    "## What happened",
-    "The attackers stormed two houses at around midnight on Tuesday, 24 November 2026, shooting and breaking in before taking nine people away. Residents said they began hearing gunshots at about 11:30pm.",
-    "Three of those abducted, including an elderly woman and a mother with her toddler, were later released, leaving six people in captivity.",
-    "## Residents' fears",
-    "A man whose wife is among those still held said he feared for her safety because she has difficulty walking, and appealed for help to rescue her.",
-    "## Background",
-    "Kaduna has seen several kidnapping incidents in recent weeks, including a foiled attempt at a school in Zangon Kataf and the abduction of Boys' and Girls' Brigade members in Kachia/Kajuru, most of whom troops rescued."
-   ],
-   "more": [
-    "Nine people were taken; three were released.",
-    "Six remain in captivity.",
-    "Residents are appealing for help."
-   ],
-   "at": "2026-11-25T20:42Z"
-  },
-  {
-   "id": "ndc-supporters-attacked-benin-obi-visit",
-   "c": "elections",
-   "n": 1,
-   "added": "2026-11-25",
-   "h": "NDC says supporters were attacked in Benin as Obi arrived for campaign",
-   "p": "The Nigeria Democratic Congress has alleged that gunmen attacked its supporters and campaign vehicles on Airport Road, Benin City, as Peter Obi arrived in Edo State on Wednesday. It said one supporter was critically wounded.",
-   "body": [
-    "The Nigeria Democratic Congress (NDC) has alleged that its supporters were attacked in Benin City, Edo State, on Wednesday, 25 November 2026, as its presidential candidate Peter Obi arrived for a town hall meeting and other campaign events.",
-    "## What the party says",
-    "According to the party, attackers who arrived in a pickup van opened fire on its campaign vehicles parked along Airport Road while supporters waited for Obi. A party spokesperson posted videos online showing damaged vehicles and bloodstains, and said one supporter was critically wounded and receiving hospital treatment.",
-    "In a statement, the NDC's National Publicity Secretary said the attackers also assaulted people in the crowd and destroyed buses, and described the attack as unprovoked. The party blamed thugs it said were linked to the ruling All Progressives Congress (APC).",
-    "## The other side",
-    "No response from the APC or the police to the allegation was included in the reports.",
-    "## Background",
-    "The incident comes two days after gunmen attacked an NDC campaign event in Delta State, killing several people, and on the same day the House of Representatives warned that a state of emergency might be needed in Delta if violence continues. The NDC has also boycotted a security meeting called by the police chief.",
-    "## Police and governor respond",
-    "The Edo State Police Command confirmed the shooting, saying three gunmen in a pickup van opened fire after sighting police officers, and that one supporter was wounded. Governor Monday Okpebholo denied that he or the APC were involved, and claimed at a rally that the NDC staged the attack to damage his reputation. The NDC has not responded to his claim in reports."
-   ],
-   "more": [
-    "The NDC says one supporter was critically wounded.",
-    "It blames thugs it links to the APC.",
-    "The APC and police had not responded."
-   ],
-   "img": "img/ndc-supporters-attacked-benin-obi-visit-tn.jpg",
-   "alt": "Peter Obi in glasses and a black top in front of the Nigerian flag",
-   "credit": "Photo: Trend Naija",
-   "at": "2026-11-25T17:42Z"
-  },
-  {
-   "id": "tinubu-maiduguri-rally-orders-offensive",
-   "c": "elections",
-   "n": 1,
-   "added": "2026-11-25",
-   "h": "Tinubu holds rally in Maiduguri, orders fresh push against insurgents",
-   "p": "President Tinubu visited Maiduguri on Wednesday, where he commissioned projects, held a campaign rally and directed security agencies to step up operations against insurgents. He promised to turn security gains in the North-East into economic recovery.",
-   "body": [
-    "President Bola Tinubu visited Maiduguri, the Borno State capital, on Wednesday, 25 November 2026, where he held a campaign rally ahead of the January 2027 election.",
-    "## Projects commissioned",
-    "On arrival, the president commissioned two projects: a female lodge for National Youth Service Corps members and the Borno International Conference Centre.",
-    "## Security push",
-    "Addressing the crowd, Tinubu directed security agencies to intensify operations against retreating insurgents and promised support for the families of troops. He pledged that the peace gains recorded in the North-East would be turned into full economic recovery.",
-    "## Background",
-    "Borno has been at the centre of the insurgency in the North-East for more than a decade. Earlier this week, state officials revealed that eight soldiers and 13 construction workers were killed during the rebuilding of the Mayanti community, which Governor Babagana Zulum has now reopened."
-   ],
-   "more": [
-    "Tinubu commissioned two projects in Maiduguri.",
-    "He ordered security agencies to step up operations.",
-    "He promised economic recovery for the North-East."
-   ],
-   "img": "img/tinubu-maiduguri-rally-orders-offensive-tn.jpg",
-   "alt": "President Bola Tinubu in a green cap and glasses at a meeting",
-   "credit": "Photo: Trend Naija",
-   "at": "2026-11-25T17:42Z"
   },
   {
    "id": "jimmy-odukoya-sues-sister-fountain-of-life-trustees",
